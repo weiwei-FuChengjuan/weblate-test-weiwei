@@ -11,7 +11,7 @@ msgstr ""
 
 
 msgid "aggregate.exceed.limit"
-msgstr "La longueur de la formule dépasse la limite"
+msgstr ""
 
 msgid "aggregate.field.not.support.op.not.aggregate.field"
 msgstr "Impossible de calculer les champs agrégés et non agrégés"
