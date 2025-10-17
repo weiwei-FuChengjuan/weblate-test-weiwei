@@ -9,10 +9,10 @@ msgstr ""
 "PO-Revision-Date: 2025-10-17T01:45:31.830Z\n"
 
 msgid "activity.fileName"
-msgstr "活跃数据"
+msgstr ""
 
 msgid "activity_stats.export.dismission"
-msgstr "（已离职）"
+msgstr ""
 
 msgid "activity_stats.export.removed"
 msgstr "（已删除）"
