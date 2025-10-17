@@ -17,14 +17,6 @@ msgstr "（已离职）"
 msgid "activity_stats.export.removed"
 msgstr "（已删除）"
 
-msgid "activity_stats.export.removedAppName"
-msgstr "已删除应用"
-
-msgid "activity_stats.export.removedEntryName"
-msgstr "已删除表单"
-
-msgid "aggregate.compatMetricName"
-msgstr "升级适配指标"
 
 msgid "aggregate.exceed.limit"
 msgstr "公式长度超出限制"
@@ -37,6 +29,27 @@ msgstr "聚合字段不可再次用于聚合"
 
 msgid "aggregate.main.subform.error"
 msgstr "主表字段不允许与子表字段互相计算"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "已删除应用"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "已删除表单"
+
+msgid "bpa.presetWidget.title0"
+msgstr "已创建（个）"
+
+msgid "bpa.presetWidget.title1"
+msgstr "进行中（个）"
+
+msgid "bpa.presetWidget.title10"
+msgstr "单条流程平均处理时间趋势图"
+
+msgid "bpa.presetWidget.title11"
+msgstr "流程节点平均处理时间趋势图"
+
+msgid "aggregate.compatMetricName"
+msgstr "升级适配指标"
 
 msgid "aggregate.param.be.number"
 msgstr "{{ name }}聚合函数的参数必须为数值类型"
@@ -56,17 +69,7 @@ msgstr "结束节点"
 msgid "automation.node.start"
 msgstr "触发节点"
 
-msgid "bpa.presetWidget.title0"
-msgstr "已创建（个）"
 
-msgid "bpa.presetWidget.title1"
-msgstr "进行中（个）"
-
-msgid "bpa.presetWidget.title10"
-msgstr "单条流程平均处理时间趋势图"
-
-msgid "bpa.presetWidget.title11"
-msgstr "流程节点平均处理时间趋势图"
 
 msgid "bpa.presetWidget.title2"
 msgstr "已完成（个）"
