@@ -8,23 +8,7 @@ msgstr ""
 "POT-Creation-Date: 2025-10-17T01:45:31.891Z\n"
 "PO-Revision-Date: 2025-10-17T01:45:31.891Z\n"
 
-msgid "activity.fileName"
-msgstr "Données d'activité"
 
-msgid "activity_stats.export.dismission"
-msgstr "(Inactif)"
-
-msgid "activity_stats.export.removed"
-msgstr "(Supprimé)"
-
-msgid "activity_stats.export.removedAppName"
-msgstr "Application supprimée"
-
-msgid "activity_stats.export.removedEntryName"
-msgstr "Formulaire supprimé"
-
-msgid "aggregate.compatMetricName"
-msgstr "Indicateurs d'adaptation à la mise à niveau"
 
 msgid "aggregate.exceed.limit"
 msgstr "La longueur de la formule dépasse la limite"
