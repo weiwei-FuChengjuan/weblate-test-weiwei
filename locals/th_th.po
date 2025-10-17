@@ -1,0 +1,4556 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.857Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.857Z\n"
+
+msgid "activity.fileName"
+msgstr "ข้อมูลกิจกรรม"
+
+msgid "activity_stats.export.dismission"
+msgstr "(ไม่ได้ใช้งาน)"
+
+msgid "activity_stats.export.removed"
+msgstr "(ลบไปแล้ว)"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "แอปที่ถูกลบ"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "แบบฟอร์มที่ถูกลบ"
+
+msgid "aggregate.compatMetricName"
+msgstr "ตัวบ่งชี้การปรับตัวอัพเกรด"
+
+msgid "aggregate.exceed.limit"
+msgstr "ความยาวของสูตรเกินขีดจำกัด"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "ไม่สามารถคำนวณฟิลด์รวมและฟิลด์ไม่รวมได้"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "ไม่สามารถใช้ฟิลด์รวมเพื่อรวมข้อมูลได้อีกต่อไป"
+
+msgid "aggregate.main.subform.error"
+msgstr "ไม่สามารถคำนวณฟิลด์ฟอร์มหลักและฟอร์มย่อยได้"
+
+msgid "aggregate.param.be.number"
+msgstr "พารามิเตอร์ของฟังก์ชันการรวม {{ name }} จะต้องเป็นชนิดตัวเลข"
+
+msgid "aggregate.param.be.one"
+msgstr "จำนวนพารามิเตอร์สำหรับฟังก์ชันการรวมควรเป็น 1"
+
+msgid "aggregate.return.number"
+msgstr "ชนิดของการคืนสูตรควรเป็นตัวเลข"
+
+msgid "aggregate.support.same.form.op"
+msgstr "สามารถคำนวณได้เฉพาะฟิลด์จาก SubForm เดียวกันเท่านั้น"
+
+msgid "automation.node.end"
+msgstr "โหนดสิ้นสุด"
+
+msgid "automation.node.start"
+msgstr "การกระตุ้นโหนด"
+
+msgid "bpa.presetWidget.title0"
+msgstr "สร้าง"
+
+msgid "bpa.presetWidget.title1"
+msgstr "อยู่ระหว่างดำเนินการ"
+
+msgid "bpa.presetWidget.title10"
+msgstr "แผนภูมิแนวโน้มของเวลาการประมวลผลเฉลี่ยของกระบวนการหนึ่งๆ"
+
+msgid "bpa.presetWidget.title11"
+msgstr "แผนภูมิแนวโน้มของเวลาการประมวลผลเฉลี่ยของโหนดงาน"
+
+msgid "bpa.presetWidget.title2"
+msgstr "สมบูรณ์"
+
+msgid "bpa.presetWidget.title3"
+msgstr "จบด้วยมือ"
+
+msgid "bpa.presetWidget.title4"
+msgstr "แผนภูมิแนวโน้มเวลาการประมวลผลเฉลี่ยของกระบวนการเดียว (ชั่วโมง)"
+
+msgid "bpa.presetWidget.title5"
+msgstr "สถิติเกี่ยวกับโหนดงานที่รอดำเนินการ"
+
+msgid "bpa.presetWidget.title6"
+msgstr "เวลาการประมวลผลเฉลี่ยของโหนดงาน"
+
+msgid "bpa.presetWidget.title7"
+msgstr "สถิติงานของสมาชิก"
+
+msgid "bpa.presetWidget.title8"
+msgstr "สถิติงานสมาชิกบนโหนดงาน"
+
+msgid "bpa.presetWidget.title9"
+msgstr "เวลาการประมวลผลสมาชิกโดยเฉลี่ยของโหนดงาน"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "เวลาที่ใช้ (ชั่วโมง)"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "ภารกิจ"
+
+msgid "compare.not.support"
+msgstr "ป้ายเปรียบเทียบผิดกฎหมาย {{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr "เครื่องหมายเปรียบเทียบผิดกฎหมาย {{ op }} กรุณาใช้ \"==\" แทน"
+
+msgid "compare.param.boolean"
+msgstr "บูลีน"
+
+msgid "compare.param.datetime"
+msgstr "วันที่"
+
+msgid "compare.param.not.support"
+msgstr ""
+"ประเภทพารามิเตอร์ทั้งสองด้านของ {{ op }} ไม่สามารถเป็น {{ type1 }} หรือ {{ "
+"type2 }} ได้"
+
+msgid "compare.param.number"
+msgstr "ตัวเลข"
+
+msgid "compare.param.string"
+msgstr "สตริง"
+
+msgid "concatenate.param.error"
+msgstr "ฟอร์มต้นฉบับไม่มีอยู่"
+
+msgid "corp.currentDepartment"
+msgstr "แผนกผู้ใช้งานปัจจุบัน"
+
+msgid "corp.currentUser"
+msgstr "ผู้ใช้ปัจจุบัน"
+
+msgid "corp.joinCorpSuccess"
+msgstr "เข้าร่วมทีมได้สำเร็จ"
+
+msgid "corp.log.agentDisable"
+msgstr "ปิดใช้งานปลั๊กอิน"
+
+msgid "corp.log.agentEnable"
+msgstr "เปิดใช้งานปลั๊กอิน"
+
+msgid "corp.log.agentUninstall"
+msgstr "ลบปลั๊กอิน"
+
+msgid "corp.log.aggregateCreate"
+msgstr "สร้างตารางรวม"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "ย้ายตารางรวม"
+
+msgid "corp.log.aggregateRemove"
+msgstr "ลบตารางรวม"
+
+msgid "corp.log.aggregateRename"
+msgstr "เปลี่ยนชื่อตารางรวม"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "อัปเดตการออกแบบตารางรวม"
+
+msgid "corp.log.aiLabDisable"
+msgstr "การปิดห้องปฏิบัติการ AI"
+
+msgid "corp.log.aiLabEnable"
+msgstr "การเปิด AI Lab"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "สร้างรหัส API"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "ลบรหัส API"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "ปิดใช้งาน API Key"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "เปิดใช้งานคีย์ API"
+
+msgid "corp.log.apiKeyName"
+msgstr "ชื่อคีย์ API"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "อัปเดตคีย์"
+
+msgid "corp.log.apiName"
+msgstr "ชื่อ API"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "ปิดการควบคุมการแนบแอป"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "เปิดใช้งานการควบคุมการแนบแอป"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "ปรับเปลี่ยนการควบคุมการแนบแอปพลิเคชัน"
+
+msgid "corp.log.appCreate"
+msgstr "สร้างแอป"
+
+msgid "corp.log.appEtlLog"
+msgstr "{{ etlName }}- อัปเดตบันทึก"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "ปรับหน้าแรกแอป"
+
+msgid "corp.log.appLog"
+msgstr "บันทึกแอป"
+
+msgid "corp.log.appLogExport"
+msgstr "ส่งออกบันทึกแอป"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "เพิ่มการจัดการกลุ่มแอป"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "ปิดใช้งานกลุ่มผู้ดูแลแอป"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "เปิดใช้งานกลุ่มผู้ดูแลแอป"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "ลบกลุ่มจัดการแอป"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "เปลี่ยนชื่อแอปจัดการกลุ่ม"
+
+msgid "corp.log.appManagerAdd"
+msgstr "เพิ่มผู้จัดการ"
+
+msgid "corp.log.appManagerRemove"
+msgstr "ลบผู้จัดการ"
+
+msgid "corp.log.appRecover"
+msgstr "กู้คืนแอป"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "แก้ไขการตั้งค่าข้ามแอป"
+
+msgid "corp.log.appRemove"
+msgstr "ลบแอป"
+
+msgid "corp.log.appRename"
+msgstr "เปลี่ยนชื่อแอป"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "แก้ไข URL แอป"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "ปิดใช้งานลายน้ำแอป"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "เปิดใช้งานลายน้ำแอป"
+
+msgid "corp.log.application"
+msgstr "จากแอป"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "ปิดการควบคุมการแนบทั่วโลก"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "เปิดใช้งานการควบคุมการแนบทั่วโลก"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "การเริ่มต้นการมอบหมายถูกปิดใช้งาน"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "เปิดใช้งานการเริ่มการมอบหมาย"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr ""
+"การมอบหมายถูกยกเลิก: การมอบหมายจาก {{ principal }} ถึง {{ agent }} "
+"ในระหว่าง {{ timeRange }}"
+
+msgid "corp.log.businessContent"
+msgstr "ข้อมูลธุรกิจ"
+
+msgid "corp.log.businessCount"
+msgstr "การใช้งาน OCR"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "การจดทะเบียนธุรกิจ"
+
+msgid "corp.log.businessTime"
+msgstr "เวลาของการตรวจสอบ"
+
+msgid "corp.log.callTime"
+msgstr "เวลาโทร"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "แก้ไขการตั้งค่าการชำระเงิน"
+
+msgid "corp.log.coinUsageApp"
+msgstr "แอป"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "รายการ"
+
+msgid "corp.log.coinUsageLog"
+msgstr "บันทึกการใช้งานเหรียญ"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "ทุ่งนา"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "เพิ่มลิงก์เชิญสำหรับธุรกิจภายนอก"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "ลบลิงก์เชิญสำหรับธุรกิจภายนอก"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "แก้ไขลิงก์คำเชิญสำหรับธุรกิจภายนอก"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "เพิ่มบทบาทผู้ติดต่อภายนอก"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "ลบบทบาทผู้ติดต่อภายนอก"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "เปลี่ยนชื่อบทบาทผู้ติดต่อภายนอก"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "เปลี่ยนแปลงสมาชิกภายใต้บทบาทผู้ติดต่อภายนอก"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "อัพเดทบล็อคแจ้งเตือน"
+
+msgid "corp.log.corpRename"
+msgstr "เปลี่ยนชื่อธุรกิจ"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "ปิดใช้งานรูปแบบธุรกิจ"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "เปิดใช้งานรูปแบบธุรกิจ"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "แก้ไขรูปแบบธุรกิจ"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "แก้ไข URL พอร์ทัลธุรกิจ"
+
+msgid "corp.log.customLoginDisable"
+msgstr "ปิดใช้งานหน้าเข้าสู่ระบบแบบกำหนดเอง"
+
+msgid "corp.log.customLoginEnable"
+msgstr "เปิดใช้งานหน้าเข้าสู่ระบบแบบกำหนดเอง"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "แก้ไขพื้นที่ทำงานทางธุรกิจ"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "แก้ไขการอนุญาตแผงควบคุม"
+
+msgid "corp.log.dashCreate"
+msgstr "สร้างแดชบอร์ด"
+
+msgid "corp.log.dashPublicLink"
+msgstr "แก้ไขลิงค์สาธารณะของแดชบอร์ด"
+
+msgid "corp.log.dashRecover"
+msgstr "คืนค่าแดชบอร์ด"
+
+msgid "corp.log.dashRemove"
+msgstr "ลบแดชบอร์ด"
+
+msgid "corp.log.dashRename"
+msgstr "เปลี่ยนชื่อแดชบอร์ด"
+
+msgid "corp.log.dashUpdate"
+msgstr "แก้ไข"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "บันทึกการพิมพ์แบบแบตช์"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "กู้คืนข้อมูลเป็นชุด"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "ลบข้อมูลในชุด"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "แก้ไขข้อมูลในชุด"
+
+msgid "corp.log.dataCreate"
+msgstr "เพิ่มข้อมูล"
+
+msgid "corp.log.dataExport"
+msgstr "การส่งออกข้อมูล"
+
+msgid "corp.log.dataImport"
+msgstr "นำเข้า-เพิ่มข้อมูล"
+
+msgid "corp.log.dataImportFile"
+msgstr "การนำเข้าสิ่งที่แนบมา"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "นำเข้า-อัปเดตข้อมูล"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "นำเข้า - เพิ่มและอัปเดตข้อมูล"
+
+msgid "corp.log.dataPrint"
+msgstr "พิมพ์บันทึก"
+
+msgid "corp.log.dataPrintQr"
+msgstr "พิมพ์รหัส QR/บาร์โค้ด"
+
+msgid "corp.log.dataRecover"
+msgstr "กู้ข้อมูล"
+
+msgid "corp.log.dataRemove"
+msgstr "ลบข้อมูล"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "สร้างการทำงานอัตโนมัติ"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "ลบการทำงานอัตโนมัติ"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "เปิดใช้งานระบบอัตโนมัติ"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "ปิดการใช้งานระบบอัตโนมัติ"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "อัปเดตระบบอัตโนมัติ"
+
+msgid "corp.log.dataUpdate"
+msgstr "อัปเดตข้อมูล"
+
+msgid "corp.log.deptCreate"
+msgstr "เพิ่มแผนก"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "เพิ่มแท็กธุรกิจ"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "ลบแท็กธุรกิจ"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "ปรับบริษัทภายใต้แท็กธุรกิจ"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "แก้ไขชื่อแท็กธุรกิจ"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "อัพเดทหัวหน้าแผนก"
+
+msgid "corp.log.deptRemove"
+msgstr "ลบแผนก"
+
+msgid "corp.log.deptRename"
+msgstr "เปลี่ยนชื่อแผนก"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "อัพเดทอัตโนมัติ"
+
+msgid "corp.log.etlCreate"
+msgstr "สร้างสตรีมข้อมูล"
+
+msgid "corp.log.etlCronExecute"
+msgstr "อัปเดต Cron"
+
+msgid "corp.log.etlDuration"
+msgstr "ระยะเวลาการอัปเดต"
+
+msgid "corp.log.etlEndTime"
+msgstr "เวลาสิ้นสุด"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "อัพเดทผลการ"
+
+msgid "corp.log.etlExecuteType"
+msgstr "วิธีการอัพเดต"
+
+msgid "corp.log.etlJust"
+msgstr "น้อยกว่า 1 นาที"
+
+msgid "corp.log.etlManualExecute"
+msgstr "การอัพเดตด้วยตนเอง"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }} นาที"
+
+msgid "corp.log.etlRemove"
+msgstr "ลบข้อมูลสตรีม"
+
+msgid "corp.log.etlRename"
+msgstr "เปลี่ยนชื่อสตรีมข้อมูล"
+
+msgid "corp.log.etlStartTime"
+msgstr "เวลาเริ่มต้น"
+
+msgid "corp.log.etlTime"
+msgstr "วันที่อัปเดต"
+
+msgid "corp.log.etlUpdate"
+msgstr "อัปเดตการออกแบบสตรีมข้อมูล"
+
+msgid "corp.log.fail"
+msgstr "ล้มเหลว"
+
+msgid "corp.log.fileDownload"
+msgstr "ดาวน์โหลดไฟล์"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "ปิดการใช้งาน BPA"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "เปิดใช้งาน BPA"
+
+msgid "corp.log.flowUpdate"
+msgstr "อัปเดตการออกแบบเวิร์กโฟลว์"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "แบบฟอร์มปรับชุด/การอนุญาตแดชบอร์ด"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "อัพเดทแบบฟอร์มอนุญาต"
+
+msgid "corp.log.formCreate"
+msgstr "สร้างแบบฟอร์ม"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "ลบหน้ารายละเอียดข้อมูล"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "สลับหน้ารายละเอียดข้อมูล"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "แก้ไขหน้ารายละเอียดข้อมูล"
+
+msgid "corp.log.formOnlinePay"
+msgstr "จัดการการตั้งค่าการชำระเงิน"
+
+msgid "corp.log.formPublicLink"
+msgstr "อัปเดตลิงค์สาธารณะของแบบฟอร์ม"
+
+msgid "corp.log.formPublicQuery"
+msgstr "อัปเดตลิงก์แบบสอบถามสาธารณะของแบบฟอร์ม"
+
+msgid "corp.log.formRecover"
+msgstr "กู้คืนแบบฟอร์ม"
+
+msgid "corp.log.formRemove"
+msgstr "การลบแบบฟอร์ม"
+
+msgid "corp.log.formRename"
+msgstr "แบบฟอร์มการเปลี่ยนชื่อ"
+
+msgid "corp.log.formUpdate"
+msgstr "อัปเดตแบบฟอร์มการออกแบบ"
+
+msgid "corp.log.guestConnect"
+msgstr "เชิญธุรกิจภายนอก"
+
+msgid "corp.log.guestDockerExport"
+msgstr "ส่งออกข้อมูลติดต่อภายนอก"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "แก้ไขข้อมูลการติดต่อภายนอก"
+
+msgid "corp.log.guestUpdate"
+msgstr "แก้ไขข้อมูลธุรกิจภายนอก"
+
+msgid "corp.log.hostDisconnect"
+msgstr "ตัดการเชื่อมต่อกับธุรกิจ"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "เพิ่มข้อมูลการติดต่อของเรา"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "ลบการติดต่อของเรา"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "แก้ไขข้อมูลการติดต่อของเรา"
+
+msgid "corp.log.integrateUpdate"
+msgstr "แก้ไขข้อมูลการผูกมัด"
+
+msgid "corp.log.ip"
+msgstr "ที่อยู่ IP"
+
+msgid "corp.log.kmsDisable"
+msgstr "ปิดใช้งานฐานความรู้"
+
+msgid "corp.log.kmsEnable"
+msgstr "เปิดใช้งานฐานความรู้"
+
+msgid "corp.log.loginLocation"
+msgstr "ตำแหน่งการเข้าสู่ระบบ"
+
+msgid "corp.log.loginLog"
+msgstr "ประวัติการเข้าสู่ระบบ"
+
+msgid "corp.log.loginLogExport"
+msgstr "ส่งออกประวัติการเข้าสู่ระบบ"
+
+msgid "corp.log.loginPlatform"
+msgstr "แพลตฟอร์มการเข้าสู่ระบบ"
+
+msgid "corp.log.loginTime"
+msgstr "เวลาเข้าระบบ"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "เพิ่มกลุ่มผู้ดูแลระบบ"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "ลบกลุ่มผู้ดูแลระบบ"
+
+msgid "corp.log.manageGroupRename"
+msgstr "เปลี่ยนชื่อกลุ่มผู้ดูแลระบบ"
+
+msgid "corp.log.managersAdd"
+msgstr "เพิ่มผู้ดูแลระบบ"
+
+msgid "corp.log.managersRemove"
+msgstr "ลบผู้ดูแลระบบ"
+
+msgid "corp.log.memberExit"
+msgstr "ลาออกจากองค์กรโดยสมัครใจ"
+
+msgid "corp.log.memberExport"
+msgstr "ส่งออกรายชื่อผู้ติดต่อ"
+
+msgid "corp.log.memberFreeze"
+msgstr "ปิดการใช้งานสมาชิก"
+
+msgid "corp.log.memberHardDelete"
+msgstr "ลบสมาชิก"
+
+msgid "corp.log.memberInvite"
+msgstr "เชิญ"
+
+msgid "corp.log.memberRecover"
+msgstr "เปิดใช้งานสมาชิก"
+
+msgid "corp.log.memberRemove"
+msgstr "ปิดการใช้งาน"
+
+msgid "corp.log.memberUpdate"
+msgstr "อัพเดทข้อมูลสมาชิก"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "บทบาทการส่งออก"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "บทบาทการนำเข้า"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "ปิดใช้งาน Webhook (ข้อความ)"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "เปิดใช้งาน Webhook (ข้อความ)"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "แก้ไขเว็บฮุก (ข้อความ)"
+
+msgid "corp.log.oauthCreate"
+msgstr "เพิ่มการอนุญาต"
+
+msgid "corp.log.oauthDelete"
+msgstr "ปิดใช้งานการอนุญาต"
+
+msgid "corp.log.ocrBankCard"
+msgstr "บัตรธนาคาร"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "ใบอนุญาตประกอบธุรกิจ"
+
+msgid "corp.log.ocrContent"
+msgstr "เนื้อหา OCR"
+
+msgid "corp.log.ocrCount"
+msgstr "การใช้งาน OCR"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "ใบอนุญาตขับขี่"
+
+msgid "corp.log.ocrGeneral"
+msgstr "ข้อความทั่วไป"
+
+msgid "corp.log.ocrIdCard"
+msgstr "บัตรประชาชน"
+
+msgid "corp.log.ocrLog"
+msgstr "โอซีอาร์"
+
+msgid "corp.log.ocrResult"
+msgstr "ผลลัพธ์ OCR"
+
+msgid "corp.log.ocrTime"
+msgstr "เวลา OCR"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "ตั๋วรถไฟ"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "ใบกำกับภาษีมูลค่าเพิ่ม"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "การจดทะเบียนรถยนต์"
+
+msgid "corp.log.openApiLog"
+msgstr "บันทึกการเรียก API"
+
+msgid "corp.log.openApiLogExport"
+msgstr "ส่งออกบันทึก API แบบเปิด"
+
+msgid "corp.log.operateDetails"
+msgstr "รายละเอียด"
+
+msgid "corp.log.operateLog"
+msgstr "บันทึกแพลตฟอร์ม"
+
+msgid "corp.log.operateLogExport"
+msgstr "ส่งออกบันทึกแพลตฟอร์ม"
+
+msgid "corp.log.operateObject"
+msgstr "วัตถุ"
+
+msgid "corp.log.operateTime"
+msgstr "เวลา"
+
+msgid "corp.log.operateType"
+msgstr "พิมพ์"
+
+msgid "corp.log.operator"
+msgstr "ผู้ดำเนินการ"
+
+msgid "corp.log.orderCancel"
+msgstr "ยกเลิกคำสั่งซื้อ"
+
+msgid "corp.log.orderCreate"
+msgstr "สร้างคำสั่งซื้อ"
+
+msgid "corp.log.orderDelete"
+msgstr "ลบคำสั่งซื้อ"
+
+msgid "corp.log.orderPay"
+msgstr "สั่งชำระเงิน"
+
+msgid "corp.log.orderReceipt"
+msgstr "ใบสั่งซื้อใบแจ้งหนี้"
+
+msgid "corp.log.payUpdate"
+msgstr "ตั้งค่าบริการชำระเงิน"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "ปิดใช้งานการจัดการสิทธิ์"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "เปิดใช้งานการจัดการสิทธิ์"
+
+msgid "corp.log.pluginCount"
+msgstr "การใช้งานปลั๊กอิน"
+
+msgid "corp.log.pluginCreate"
+msgstr "สร้างปลั๊กอิน"
+
+msgid "corp.log.pluginExport"
+msgstr "ปลั๊กอินการส่งออก"
+
+msgid "corp.log.pluginImport"
+msgstr "ปลั๊กอินนำเข้า"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "การนำเข้าและอัปเดตปลั๊กอิน"
+
+msgid "corp.log.pluginInstall"
+msgstr "ติดตั้งปลั๊กอิน"
+
+msgid "corp.log.pluginName"
+msgstr "ชื่อปลั๊กอิน"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "ปลั๊กอินเผยแพร่"
+
+msgid "corp.log.pluginUpdate"
+msgstr "แก้ไขปลั๊กอิน"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "การใช้งานปลั๊กอิน"
+
+msgid "corp.log.registrant"
+msgstr "สมาชิก"
+
+msgid "corp.log.returnStatus"
+msgstr "สถานะการคืนสินค้า"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "จัดกลุ่มบทบาทใหม่"
+
+msgid "corp.log.roleCreate"
+msgstr "สร้างบทบาท"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "สร้างกลุ่มบทบาท"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "ลบกลุ่มบทบาท"
+
+msgid "corp.log.roleGroupRename"
+msgstr "เปลี่ยนชื่อกลุ่มบทบาท"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "อัพเดทสมาชิกในบทบาท"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "ปรับปรุงแผนกที่ได้รับมอบหมาย"
+
+msgid "corp.log.roleRemove"
+msgstr "ลบบทบาท"
+
+msgid "corp.log.roleRename"
+msgstr "เปลี่ยนชื่อบทบาท"
+
+msgid "corp.log.running"
+msgstr "วิ่ง"
+
+msgid "corp.log.smsContent"
+msgstr "รายละเอียด"
+
+msgid "corp.log.smsCount"
+msgstr "ใช้แล้ว"
+
+msgid "corp.log.smsSendFailed"
+msgstr "การส่งล้มเหลว"
+
+msgid "corp.log.smsSendPhone"
+msgstr "เบอร์มือถือ"
+
+msgid "corp.log.smsSendResult"
+msgstr "สถานะการส่ง"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "ส่งเรียบร้อยแล้ว"
+
+msgid "corp.log.smsSendingLog"
+msgstr "การส่ง SMS"
+
+msgid "corp.log.smsTime"
+msgstr "วันที่"
+
+msgid "corp.log.spaceCreate"
+msgstr "สร้างฐานความรู้"
+
+msgid "corp.log.spaceDelete"
+msgstr "ลบฐานความรู้"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "สร้างชุดการอนุญาตสำหรับฐานความรู้"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "ลบชุดการอนุญาตสำหรับฐานความรู้"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "แก้ไขชุดการอนุญาตสำหรับฐานความรู้"
+
+msgid "corp.log.spaceUpdate"
+msgstr "แก้ไขข้อมูลฐานความรู้"
+
+msgid "corp.log.success"
+msgstr "ความสำเร็จ"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "ตั้งค่าการอนุญาตสิทธิ์ผลิตภัณฑ์"
+
+msgid "corp.log.suiteDisable"
+msgstr "ปิดการใช้งาน"
+
+msgid "corp.log.suiteEnable"
+msgstr "เปิดใช้งาน"
+
+msgid "corp.log.systemRobot"
+msgstr "ระบบหุ่นยนต์"
+
+msgid "corp.log.tenantVerify"
+msgstr "ยืนยันตัวตน"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "แก้ไขเขตเวลา"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "สมัครรับข้อมูลการจัดการผู้ติดต่อภายนอก"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "การโอนสิทธิ์การจัดการผู้ติดต่อ"
+
+msgid "corp.log.waiting"
+msgstr "ซึ่งรอคอย"
+
+msgid "corp.log.watermarkDisable"
+msgstr "ปิดใช้งานลายน้ำทั่วโลก"
+
+msgid "corp.log.watermarkEnable"
+msgstr "เปิดใช้งานลายน้ำทั่วโลก"
+
+msgid "corp.log.wxDisable"
+msgstr "ปิดใช้งานการรวมบัญชีบริการ WeChat"
+
+msgid "corp.log.wxEnable"
+msgstr "เปิดใช้งานการรวมบัญชีบริการ WeChat"
+
+msgid "corp.syncFailed"
+msgstr "การซิงค์อัตโนมัติล้มเหลว"
+
+msgid "corp.syncFailedContent"
+msgstr "การซิงโครไนซ์ข้อมูลติดต่อทางธุรกิจล้มเหลว"
+
+msgid "corp.syncFailedSubject"
+msgstr "ไม่สามารถซิงค์สมาชิกได้"
+
+msgid "corp.syncSuccessContent"
+msgstr "ข้อมูลติดต่อทางธุรกิจได้รับการซิงค์แล้ว"
+
+msgid "corp.syncSuccessSubject"
+msgstr "สมาชิกซิงค์สำเร็จแล้ว"
+
+msgid "corp.systemManageGroup"
+msgstr "กลุ่มผู้ดูแลระบบระดับสูง"
+
+msgid "corp.unGrouped"
+msgstr "ไม่จัดกลุ่ม"
+
+msgid "corpCoop.department"
+msgstr "องค์กรภายนอก"
+
+msgid "corpUsage.accessTime"
+msgstr "เข้าถึงล่าสุด"
+
+msgid "corpUsage.aggregate"
+msgstr "ตารางรวม"
+
+msgid "corpUsage.app"
+msgstr "แอปพลิเคชั่น"
+
+msgid "corpUsage.app.cardName"
+msgstr "ดูตามภาพรวมแอป"
+
+msgid "corpUsage.app.metricListName"
+msgstr "ดูรายละเอียดการใช้งานตามแอป"
+
+msgid "corpUsage.appId"
+msgstr "รหัสแอป"
+
+msgid "corpUsage.appName"
+msgstr "ชื่อแอป"
+
+msgid "corpUsage.attachment"
+msgstr "อัพโหลดไฟล์แนบ"
+
+msgid "corpUsage.automation"
+msgstr "ออโตเมชั่น โปร"
+
+msgid "corpUsage.bpa"
+msgstr "BPA คืออะไร"
+
+msgid "corpUsage.createTime"
+msgstr "สร้างเมื่อ"
+
+msgid "corpUsage.creator"
+msgstr "เจ้าของ"
+
+msgid "corpUsage.creator.username"
+msgstr "รหัสเจ้าของ"
+
+msgid "corpUsage.dash"
+msgstr "แผงหน้าปัด"
+
+msgid "corpUsage.dash.type"
+msgstr "แผงหน้าปัด"
+
+msgid "corpUsage.data"
+msgstr "ข้อมูลรวม"
+
+msgid "corpUsage.data_trigger"
+msgstr "ระบบอัตโนมัติ"
+
+msgid "corpUsage.date"
+msgstr "วันที่"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "รายละเอียดข้อมูล"
+
+msgid "corpUsage.etl"
+msgstr "โรงงานข้อมูล"
+
+msgid "corpUsage.fileName"
+msgstr "การใช้ทรัพยากร"
+
+msgid "corpUsage.form_coop"
+msgstr "แบบฟอร์มทั่วไป"
+
+msgid "corpUsage.form_coop.type"
+msgstr "แบบฟอร์มปกติ"
+
+msgid "corpUsage.form_workflow"
+msgstr "แบบฟอร์มเวิร์กโฟลว์"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "รหัสฟอร์มเวิร์กโฟลว์"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "ชื่อฟอร์มเวิร์กโฟลว์"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "แบบฟอร์มเวิร์กโฟลว์"
+
+msgid "corpUsage.member.cardName"
+msgstr "ดูตามภาพรวมสมาชิก"
+
+msgid "corpUsage.member.metricListName"
+msgstr "ดูตามสมาชิก - รายละเอียดการใช้งาน"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "ไม่มีข้อมูล"
+
+msgid "corpUsage.public_link"
+msgstr "เปิดใช้งานลิงก์สาธารณะ"
+
+msgid "corpUsage.public_link.type"
+msgstr "ประเภทวัตถุ"
+
+msgid "corpUsage.updateTime"
+msgstr "แก้ไขล่าสุด"
+
+msgid "corp_coop.operate.create"
+msgstr "เพิ่ม"
+
+msgid "corp_coop.operate.delete"
+msgstr "ลบแล้ว"
+
+msgid "corp_coop.side.other"
+msgstr "ของมัน"
+
+msgid "corp_coop.side.our"
+msgstr "ของคุณ"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "ปิดใช้งานการควบคุมการแนบแอปสำหรับแอป \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "เปิดใช้งานการควบคุมการแนบแอปพลิเคชันสำหรับแอปพลิเคชัน \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "แก้ไขการควบคุมการแนบแอปพลิเคชันของแอปพลิเคชัน \"{{ app_name }}\""
+
+msgid "corp_log.content.app_home_update"
+msgstr "ปรับปรุงหน้าแรกของแอป \"{{ app_name }}\""
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "เพิ่มกลุ่มจัดการแอป {{ name }} ใน {{ appName }}"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "ลบกลุ่มจัดการแอป {{ name }} ใน {{ appName }}"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr "เปลี่ยนชื่อกลุ่มจัดการแอปจาก {{ oriName }} เป็น {{ name }} ใน {{ appName }}"
+
+msgid "corp_log.content.app_manager_add"
+msgstr "เพิ่มผู้จัดการแอป {{ members }} ใน {{ name }} ของ {{ appName }}"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "ลบ App Manager {{ members }} ใน {{ name }} ของ {{ appName }}"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "แก้ไขการตั้งค่าข้ามแอปสำหรับแอป \"{{ app_name }}\""
+
+msgid "corp_log.content.app_url_update"
+msgstr "แก้ไข URL ของแอป \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "ปิดใช้งานลายน้ำแอปสำหรับแอป \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "เปิดใช้งานลายน้ำแอปสำหรับแอป \"{{ app_name }}\""
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "การเริ่มต้นการมอบหมายถูกปิดใช้งาน"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "เปิดใช้งานการมอบหมายการเริ่มต้นแล้ว"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr ""
+"การมอบหมายถูกยกเลิก: การมอบหมายจาก {{ principal }} ถึง {{ agent }} "
+"ในระหว่าง {{ timeRange }}"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "อัพเดทสมาชิกในรายการบล็อค"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr "อัปเดตสมาชิกและการแจ้งเตือนแอปสำหรับรายการบล็อค"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "อัปเดตช่วงการแจ้งเตือนแอปสำหรับรายการบล็อค"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "ปิดใช้งาน BPA สำหรับแบบฟอร์ม {{ count }}"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "เปิดใช้งาน BPA สำหรับแบบฟอร์ม {{ count }}"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "ปิดใช้งาน BPA สำหรับแบบฟอร์ม \"{{ flow_name }}\""
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "เปิดใช้งาน BPA สำหรับแบบฟอร์ม \"{{ flow_name }}\""
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "ปรับเปลี่ยนการอนุญาตแบบฟอร์ม/แดชบอร์ดเป็นชุดๆ"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "นำเข้าข้อมูลของบทบาท"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "นำเข้าสมาชิกสู่ \"{{ fullRoleNames }}\""
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "แผนกที่ได้รับมอบหมายสำหรับสมาชิกใน {{ role }} ได้รับการอัปเดตแล้ว"
+
+msgid "corp_log.content.role_rel_update"
+msgstr "แผนกที่ได้รับมอบหมายสำหรับ {{ nickname }} ใน {{ role }} ได้รับการอัปเดตแล้ว"
+
+msgid "corp_log.content.space_create"
+msgstr "สร้างฐานความรู้ \"{{ space_name }}\""
+
+msgid "corp_log.content.space_delete"
+msgstr "ลบฐานความรู้ \"{{ space_name }}\""
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "สร้างชุดสิทธิ์ \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "ลบชุดสิทธิ์ \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "แก้ไขชุดสิทธิ์ \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_update"
+msgstr "แก้ไขข้อมูลพื้นฐานของฐานความรู้ \"{{ space_name }}\""
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "ตั้งค่าว่าใครสามารถใช้ \"{{ name }}\" ได้"
+
+msgid "corp_log.content.suite_disable"
+msgstr "ปิดการใช้งาน \"{{ name }}\""
+
+msgid "corp_log.content.suite_enable"
+msgstr "เปิดใช้งาน \"{{ name }}\""
+
+msgid "crm.upgrade.relatedData"
+msgstr "ค้นหา"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "ยอมรับคำเชิญของ {{ nickname}}({{ corpName }})"
+
+msgid "crop_log.content.agent_disable"
+msgstr "ปลั๊กอินที่ถูกปิดใช้งาน {{ plugin_name }}"
+
+msgid "crop_log.content.agent_enable"
+msgstr "เปิดใช้งานตัวแทนปลั๊กอิน {{ plugin_name }}"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "ถอนการติดตั้งปลั๊กอินตัวแทน {{ plugin_name }}"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr "สร้างตารางรวม {{name}} คัดลอกจากตารางรวม {{ori_name}} ในแอป {{app_name}}"
+
+msgid "crop_log.content.aggregate_create"
+msgstr "สร้างตารางรวม {{ name }}"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "กู้คืนตารางรวม \"{{ name }}\""
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "ลบตารางรวม {{ name }}"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "เปลี่ยนชื่อตารางรวม {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "อัปเดตการออกแบบตารางรวม {{ name }}"
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "อัปเกรดตารางรวม \"{{ name }}\""
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "ห้องปฏิบัติการ AI แบบปิด"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "เปิดห้องปฏิบัติการ AI"
+
+msgid "crop_log.content.api_key_create"
+msgstr "เพิ่ม API Key แล้ว"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "เพิ่ม API Key \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_delete"
+msgstr "ลบรหัส API"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "ลบรหัส API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_disable"
+msgstr "ปิดใช้งานคีย์ API"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "ปิดใช้งาน API Key \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_enable"
+msgstr "เปิดใช้งาน API Key แล้ว"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "เปิดใช้งาน API Key \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "อัปเดต \"Api Authorization Scope\" ของคีย์ \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "อัปเดต \"ขอบเขตการอนุญาตแอป\" ของคีย์ \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "อัปเดต \"IP Whitelist\" ของคีย์ \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "อัปเดต \"ชื่อ\" ของคีย์ \"{{ name }}\""
+
+msgid "crop_log.content.app_create"
+msgstr "สร้างแอป {{ name }}"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "สร้างแอป {{ name }} โดยการคัดลอกจาก {{ ori_name }}"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "บันทึก ETL ที่ส่งออก"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "ติดตั้งแอป {{ name }} จาก DingDingDa"
+
+msgid "crop_log.content.app_install_link"
+msgstr "ติดตั้งแอป {{ name }} จากลิงก์แชร์แอป"
+
+msgid "crop_log.content.app_install_template"
+msgstr "ติดตั้งแอป {{ name }} จากศูนย์กลางเทมเพลต"
+
+msgid "crop_log.content.app_log_export"
+msgstr "บันทึกแอปที่ส่งออก"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "กลุ่มผู้ดูแลแอปที่ปิดใช้งาน"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "กลุ่มผู้ดูแลระบบแอปที่เปิดใช้งาน"
+
+msgid "crop_log.content.app_recover"
+msgstr "คืนค่าแอป {{ name }}"
+
+msgid "crop_log.content.app_remove"
+msgstr "ลบแอป {{ name }}"
+
+msgid "crop_log.content.app_rename"
+msgstr "เปลี่ยนชื่อแอป {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "บันทึกทริกเกอร์ที่ส่งออก"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "ปิดใช้งานการควบคุมการแนบทั่วโลก"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "เปิดใช้งานการควบคุมการแนบทั่วโลกแล้ว"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "อัปเดตการตั้งค่าการอนุญาต {{ name }}"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "เพิ่มชุดการอนุญาต {{ name }}"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "ลบชุดสิทธิ์ {{ name }}"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "เปลี่ยนชื่อชุดการอนุญาต {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "อัปเดตรายชื่อสมาชิกชุดการอนุญาต {{ name }}"
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "แก้ไขการตั้งค่าการชำระเงินด้วยเหรียญคลาวด์"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "บันทึกการใช้งานเหรียญที่ส่งออก"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "เพิ่มลิงก์คำเชิญสำหรับธุรกิจภายนอก"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "ลบลิงก์คำเชิญสำหรับธุรกิจภายนอก"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "แก้ไขลิงก์คำเชิญสำหรับธุรกิจภายนอก"
+
+msgid "crop_log.content.corp_rename"
+msgstr "เปลี่ยนชื่อธุรกิจ \"{{ old_corp_name }}\" เป็น \"{{ new_corp_name }}\""
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "รูปแบบธุรกิจสำหรับผู้พิการ"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "เปิดใช้งานรูปแบบธุรกิจ"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "แก้ไขรูปแบบธุรกิจ"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "แก้ไข URL ของพอร์ทัลธุรกิจ"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "เพิ่มบทบาทผู้ติดต่อภายนอก \"{{ roleName }}\""
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "ปิดใช้งานหน้าเข้าสู่ระบบแบบกำหนดเอง"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "เปิดใช้งานหน้าเข้าสู่ระบบแบบกำหนดเอง"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "พื้นที่ทำงานธุรกิจที่แก้ไข"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "อัปเดตชุดการอนุญาตของแดชบอร์ด {{ name }}"
+
+msgid "crop_log.content.dash_create"
+msgstr "สร้างแดชบอร์ด {{ name }}"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr ""
+" สร้างแดชบอร์ด {{ name }} โดยคัดลอกจากแดชบอร์ด {{ ori_name }} ของแอป {{ "
+"app_name }}"
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "ปิดใช้งานการส่งออกแดชบอร์ดสาธารณะ"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "เปิดใช้งานการส่งออกแดชบอร์ดสาธารณะ"
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "ปิดใช้งานลิงก์สาธารณะของแดชบอร์ด"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "เปิดใช้งานลิงก์สาธารณะของแดชบอร์ด"
+
+msgid "crop_log.content.dash_recover"
+msgstr "กู้คืนแดชบอร์ด {{ name }}"
+
+msgid "crop_log.content.dash_remove"
+msgstr "ลบแดชบอร์ด {{ name }}"
+
+msgid "crop_log.content.dash_rename"
+msgstr "เปลี่ยนชื่อแดชบอร์ด {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.dash_update"
+msgstr "อัปเดตการออกแบบแดชบอร์ด {{ name }}"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "พิมพ์บันทึกเป็นชุดในเทมเพลต {{ template_name }}"
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "กู้คืนแบตช์แล้ว {{ count }} รายการ"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "แบตช์ถูกลบ {{ count }} รายการ"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "แบตช์ลบ {{ count}} รายการจากการรีไซเคิลข้อมูล"
+
+msgid "crop_log.content.data_batch_update"
+msgstr "อัปเดต {{ total }} บันทึกในชุด {{ success }} สำเร็จ {{ failed }} ล้มเหลว"
+
+msgid "crop_log.content.data_create"
+msgstr "เพิ่มข้อมูล {{ data_label }}"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr "พิมพ์ระเบียนชุดของ {{ table_name }} ในเทมเพลต {{ template_name }}"
+
+msgid "crop_log.content.data_export"
+msgstr "ส่งออกข้อมูลของ {{ entry_name }}"
+
+msgid "crop_log.content.data_import"
+msgstr "เพิ่ม {{ count }} บันทึกโดยการนำเข้า"
+
+msgid "crop_log.content.data_import_file"
+msgstr "นำเข้าไฟล์แนบ {{ success }} รายการ"
+
+msgid "crop_log.content.data_import_update"
+msgstr "อัปเดต {{ count }} บันทึกโดยการนำเข้า"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"อัปเดต {{ updata_datas_amount }} บันทึก เพิ่ม {{ insert_datas_amount }} "
+"บันทึกโดยการนำเข้า"
+
+msgid "crop_log.content.data_print"
+msgstr "พิมพ์บันทึก {{ data_label }} ในเทมเพลต {{ template_name }}"
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "รหัส QR ข้อมูลพิมพ์เป็นชุด"
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "บาร์โค้ดฟิลด์พิมพ์เป็นชุด"
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "รหัส QR ของสนามที่พิมพ์เป็นชุด"
+
+msgid "crop_log.content.data_recover"
+msgstr "ข้อมูลที่กู้คืน {{ data_label }}"
+
+msgid "crop_log.content.data_remove"
+msgstr "ลบข้อมูล {{ data_label }}"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "ลบข้อมูล {{ data_label }} จาก Data Recycle"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr ""
+"สร้างระบบอัตโนมัติ {{ name }} โดยคัดลอกจากระบบอัตโนมัติ {{ ori_name }} "
+"จากแอป {{ app_name }}"
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "สร้างระบบอัตโนมัติ {{ name }}"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "ลบการทำงานอัตโนมัติ {{ name }}"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "เปิดใช้งานระบบอัตโนมัติ {{ name }}"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "ปิดใช้งานระบบอัตโนมัติ {{ name }}"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "อัปเดตระบบอัตโนมัติ {{ name }}"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr "ระบบอัตโนมัติ {{ ori_name }} ได้รับการอัปเดตและเปลี่ยนชื่อเป็น {{ name }}"
+
+msgid "crop_log.content.data_update"
+msgstr "อัปเดตข้อมูล {{ data_label }}"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "ลบบทบาทผู้ติดต่อภายนอก \"{{ roleName }}\""
+
+msgid "crop_log.content.dept_create"
+msgstr "เพิ่มแผนก {{ name }}"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "เพิ่มแท็กธุรกิจ \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "ลบแท็กธุรกิจ \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "ปรับปรุงบริษัทภายใต้แท็กธุรกิจ \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_update"
+msgstr ""
+"เปลี่ยนชื่อแท็กธุรกิจ \"{{ old_dept_label_name }}\" เป็น \"{{ "
+"new_dept_label_name }}\""
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "อัพเดทหัวหน้าแผนก {{ name }}"
+
+msgid "crop_log.content.dept_remove"
+msgstr "ลบแผนก {{ name }}"
+
+msgid "crop_log.content.dept_rename"
+msgstr "เปลี่ยนชื่อแผนก {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "{{ count }} สมาชิกถูกสร้างขึ้นเป็นชุด"
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "สมาชิกของ \"{{ roleName }}\" จำนวน {{ count }} คนถูกไล่ออก"
+
+msgid "crop_log.content.etl_copy"
+msgstr ""
+" สร้างสตรีมข้อมูล {{ name }} โดยการคัดลอกจากสตรีมข้อมูล {{ ori_name }} "
+"ของแอป {{ app_name }}"
+
+msgid "crop_log.content.etl_create"
+msgstr "สร้างข้อมูลสตรีม {{ name }}"
+
+msgid "crop_log.content.etl_remove"
+msgstr "ลบข้อมูลสตรีม {{ name }}"
+
+msgid "crop_log.content.etl_rename"
+msgstr "เปลี่ยนชื่อสตรีมข้อมูล {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.etl_update"
+msgstr "อัปเดตการออกแบบข้อมูลสตรีม {{ name }}"
+
+msgid "crop_log.content.fields_recover"
+msgstr ""
+"อัปเดตการออกแบบฟอร์มของฟอร์ม {{ name }} และคืนค่าฟิลด์ {{ count }} จาก "
+"Field Recycle: {{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"อัปเดตการออกแบบฟอร์มของฟอร์ม {{ name }} ลบฟิลด์ {{ delCount }} "
+"และคืนค่าฟิลด์ {{ recoveryCount }} จาก Field Recycle: {{fields}}"
+
+msgid "crop_log.content.fields_remove"
+msgstr "อัปเดตการออกแบบฟอร์มของฟอร์ม {{ name }} และลบฟิลด์ {{ count }}"
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "ลบฟิลด์ {{ count }} ออกจาก Field Recycle อย่างสมบูรณ์: {{ fields }}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr "ถังขยะถูกล้าง และช่อง {{ count }} ถูกลบออกอย่างสมบูรณ์"
+
+msgid "crop_log.content.file_batch_export"
+msgstr "ดาวน์โหลดไฟล์จาก {{ entry_name }}"
+
+msgid "crop_log.content.flow_update"
+msgstr "อัปเดตการออกแบบเวิร์กโฟลว์ของแบบฟอร์ม {{ name }}"
+
+msgid "crop_log.content.form_create"
+msgstr "สร้างแบบฟอร์ม {{ name }}"
+
+msgid "crop_log.content.form_create_copy"
+msgstr ""
+" สร้างแบบฟอร์ม {{ name }} โดยคัดลอกจากแบบฟอร์ม {{ ori_name }} ของแอป {{ "
+"app_name }}"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "ลบหน้ารายละเอียดแบบกำหนดเอง"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "สลับไปยังหน้ารายละเอียดแบบกำหนดเอง"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "สลับไปยังหน้ารายละเอียดค่าเริ่มต้นของระบบ"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "แก้ไขหน้ารายละเอียดแบบกำหนดเอง"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "ปิดการใช้งานการชำระเงิน"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "เปิดใช้งานการชำระเงิน"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "เปลี่ยนการตั้งค่าการชำระเงิน"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "ปิดการใช้งานลิงค์สาธารณะเพื่อบันทึก"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "เปิดใช้งานลิงก์สาธารณะเพื่อบันทึก"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "ปิดการใช้งานลิงค์สาธารณะ"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "เปิดใช้งานลิงก์สาธารณะ"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "ปิดใช้งานลิงก์สอบถามสาธารณะ"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "เปิดใช้งานลิงก์สอบถามสาธารณะ"
+
+msgid "crop_log.content.form_recover"
+msgstr "กู้คืนแบบฟอร์ม {{ name }}"
+
+msgid "crop_log.content.form_remove"
+msgstr "ลบแบบฟอร์ม {{ name }}"
+
+msgid "crop_log.content.form_rename"
+msgstr "เปลี่ยนชื่อฟอร์ม {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.form_update"
+msgstr "ปรับปรุงการออกแบบฟอร์มสำหรับฟอร์ม {{ name }}"
+
+msgid "crop_log.content.guest_connect"
+msgstr "เชิญธุรกิจจำนวน {{ count }} รายเป็นกลุ่ม"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "ส่งออกรายชื่อติดต่อภายนอกทั้งหมด"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr "แก้ไขข้อมูลของผู้ติดต่อภายนอก \"{{ old_guest_docker_nickname }}\""
+
+msgid "crop_log.content.guest_update"
+msgstr "แก้ไขข้อมูลธุรกิจภายนอก"
+
+msgid "crop_log.content.handover_work"
+msgstr "โอนย้าย {{ works }} จาก {{ from }} ให้ {{ to }}"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "ยกเลิกการเชื่อมต่อกับธุรกิจ {{ count }} แห่งที่เชิญเราให้ร่วมมือ"
+
+msgid "crop_log.content.host_connect"
+msgstr "เชิญธุรกิจภายนอก {{ host_corp_name }}"
+
+msgid "crop_log.content.host_disconnect"
+msgstr "ไม่เกี่ยวข้องกับธุรกิจ \"{{ name }}\" ที่เชิญเราให้ร่วมงานกัน"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "เพิ่มผู้ติดต่อของเรา {{ count }} ราย"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "ลบรายชื่อผู้ติดต่อของเราออกไป {{ count }} รายการ"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "เพิ่มผู้ติดต่อของเรา \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "ลบรายชื่อติดต่อของเรา \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_update"
+msgstr "แก้ไขข้อมูลผู้ติดต่อของเรา \"{{ name }}\""
+
+msgid "crop_log.content.integrate_update"
+msgstr "แก้ไขข้อมูลการเข้าเล่ม"
+
+msgid "crop_log.content.kms_disable"
+msgstr "ฐานความรู้สำหรับผู้พิการ"
+
+msgid "crop_log.content.kms_enable"
+msgstr "ฐานความรู้ที่เปิดใช้งาน"
+
+msgid "crop_log.content.login_log_export"
+msgstr "ประวัติการเข้าสู่ระบบที่ส่งออก"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "เพิ่มกลุ่มผู้ดูแลระบบ {{ name }}"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "ลบกลุ่มผู้ดูแลระบบ {{ name }}"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "เปลี่ยนชื่อกลุ่มผู้ดูแลระบบ {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.managers_add"
+msgstr "เพิ่มสมาชิกในกลุ่มผู้ดูแลระบบ {{ name }}: {{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "สมาชิกที่ถูกลบในกลุ่มผู้ดูแลระบบ {{ name }}: {{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "แบตช์ที่ถูกปิดใช้งานสมาชิก {{ count }} คน"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "แบตช์ถูกลบสมาชิกที่ไม่ได้ใช้งาน {{ count }} ราย"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "สมาชิกที่เปิดใช้งานเป็นชุด {{ count }} คน"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "ปิดใช้งานกลุ่มสมาชิกจำนวน {{ count }} คน"
+
+msgid "crop_log.content.member_exit"
+msgstr "สมาชิก \"{{ nickname }}\" ลาออกจากองค์กรโดยสมัครใจ"
+
+msgid "crop_log.content.member_export"
+msgstr "สมาชิกที่ส่งออกจากรายชื่อติดต่อ"
+
+msgid "crop_log.content.member_freeze"
+msgstr "ระงับการใช้งาน {{ nickname }}"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "ลบสมาชิกที่ไม่ได้ใช้งาน {{ nickname }}"
+
+msgid "crop_log.content.member_import"
+msgstr "เชิญสมาชิกแล้ว {{ count }} คน"
+
+msgid "crop_log.content.member_invite"
+msgstr "เชิญ {{ nickname }}"
+
+msgid "crop_log.content.member_recover"
+msgstr "เปิดใช้งาน \"{{ nickname }}\""
+
+msgid "crop_log.content.member_remove"
+msgstr "ปิดการใช้งาน {{ nickname }}"
+
+msgid "crop_log.content.member_update"
+msgstr "อัปเดตข้อมูลของ {{ nickname }}"
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "เว็บฮุกที่ปิดใช้งาน (ข้อความ)"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "เปิดใช้งานเว็บฮุก (ข้อความ)"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "แก้ไขเว็บฮุก (ข้อความ)"
+
+msgid "crop_log.content.oauth_create"
+msgstr "เพิ่มการอนุญาตสำหรับ \"{{ suite_name }}\""
+
+msgid "crop_log.content.oauth_delete"
+msgstr "เพิกถอนการอนุญาตสำหรับ \"{{ suite_name }}\""
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "ส่งออกบันทึก API เปิด"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "บันทึกแพลตฟอร์มที่ส่งออก"
+
+msgid "crop_log.content.order_cancel"
+msgstr "ยกเลิกคำสั่งซื้อ"
+
+msgid "crop_log.content.order_create"
+msgstr "สร้างคำสั่งซื้อ"
+
+msgid "crop_log.content.order_delete"
+msgstr "ลบคำสั่งซื้อ"
+
+msgid "crop_log.content.order_pay"
+msgstr "ชำระเงินสำหรับการสั่งซื้อ"
+
+msgid "crop_log.content.order_receipt"
+msgstr "ออกใบแจ้งหนี้เมื่อสั่งซื้อ"
+
+msgid "crop_log.content.pay_disable"
+msgstr "ปิดใช้งานบริการการชำระเงิน"
+
+msgid "crop_log.content.pay_enable"
+msgstr "เปิดใช้งานบริการชำระเงิน"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "เชื่อมโยงร้านค้า UnionPay"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "ลบร้านค้า UnionPay"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "ปิดการใช้งานการจัดการสิทธิ์"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "เปิดใช้งานการจัดการสิทธิ์"
+
+msgid "crop_log.content.plugin_create"
+msgstr "สร้างปลั๊กอิน “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_delete"
+msgstr "ลบปลั๊กอิน \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr "สร้างปลั๊กอิน \"{{ plugin_name }}\" และคัดลอกจาก \"{{ ori_plugin_name }}\""
+
+msgid "crop_log.content.plugin_export"
+msgstr "ส่งออกปลั๊กอิน “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_import"
+msgstr "นำเข้าปลั๊กอิน “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "นำเข้าและอัปเดตปลั๊กอิน “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_install"
+msgstr "ติดตั้งปลั๊กอิน {{ plugin_name }}"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "นำไปใช้สำหรับการเผยแพร่ปลั๊กอิน \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_update"
+msgstr "แก้ไขปลั๊กอิน \"{{ plugin_name }}\""
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "เปลี่ยนแปลงสมาชิกภายใต้บทบาทผู้ติดต่อภายนอก \"{{ roleName }}\""
+
+msgid "crop_log.content.role_change_group"
+msgstr "เพิ่มบทบาท \"{{ role_name }}\" ในกลุ่ม \"{{ new_group_name }}\""
+
+msgid "crop_log.content.role_create"
+msgstr "สร้างบทบาท {{ name }} ในกลุ่มบทบาท {{ group_name }}"
+
+msgid "crop_log.content.role_group_create"
+msgstr "สร้างกลุ่มบทบาท {{ name }}"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "ลบกลุ่มบทบาท {{ name }}"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "เปลี่ยนชื่อกลุ่มบทบาท {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.role_member_update"
+msgstr "อัปเดตสมาชิกในบทบาท {{ name }}"
+
+msgid "crop_log.content.role_remove"
+msgstr "ลบบทบาท {{ name }} ในกลุ่มบทบาท {{ group_name }}"
+
+msgid "crop_log.content.role_rename"
+msgstr "เปลี่ยนชื่อบทบาท {{ ori_name }} เป็น {{ name }}"
+
+msgid "crop_log.content.tenant_verify"
+msgstr " การยืนยันตัวตน"
+
+msgid "crop_log.content.timezone_update"
+msgstr "เปลี่ยนโซนเวลาจาก \"{{ old_timezone }}\" เป็น \"{{ new_timezone }}\""
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "ใช้สำหรับจัดการข้อมูลติดต่อของธุรกิจที่เชื่อมต่อ \"{{ name }}\""
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr "โอนสิทธิ์การจัดการข้อมูลติดต่อสำหรับธุรกิจที่เชื่อมต่อ \"{{ name }}\""
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr ""
+"เปลี่ยนชื่อบทบาทผู้ติดต่อภายนอก \"{{ oldRoleName }}\" เป็น \"{{ newRoleName "
+"}}\""
+
+msgid "crop_log.content.watermark_disable"
+msgstr "ปิดใช้งานลายน้ำทั่วโลก"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "เปิดใช้งานลายน้ำทั่วโลก"
+
+msgid "crop_log.content.wx_disable"
+msgstr "ปิดใช้งานการรวมบัญชีบริการ WeChat"
+
+msgid "crop_log.content.wx_enable"
+msgstr "เปิดใช้งานการรวมบัญชีบริการ WeChat"
+
+msgid "crop_log.link_text.view_details"
+msgstr "ดูรายละเอียด"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} - ลงชื่อเข้าใช้"
+
+msgid "dash.date.format.year.quarter"
+msgstr "ปปปป/ไตรมาส"
+
+msgid "dash.date.format.year.week"
+msgstr "ปปปป/www"
+
+msgid "dash.excel.export.subtotal"
+msgstr "ยอดรวมย่อย"
+
+msgid "dash.excel.export.sum"
+msgstr "โดยรวม"
+
+msgid "dash.excel.export.total"
+msgstr "การรวมกลุ่ม"
+
+msgid "dash.percent"
+msgstr "เปอร์เซ็นต์"
+
+msgid "deptType.corpCoop"
+msgstr "ลูกค้าและไคลเอนต์"
+
+msgid "deptType.internal"
+msgstr "สมาชิก"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "ที่อยู่อีเมลไม่ถูกต้อง ตรวจสอบดู"
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "อีเมล์มีอยู่แล้ว"
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "ชื่อผู้ใช้สมาชิกรองรับเฉพาะตัวอักษร ตัวเลข และเครื่องหมายขีดล่างเท่านั้น"
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "ชื่อผู้ใช้สำหรับสมาชิกต้องมีความยาวระหว่าง 3 ถึง 80 ตัวอักษร"
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "กรอกชื่อผู้ใช้ของสมาชิก"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "ชื่อผู้ใช้มีอยู่ในรายชื่อติดต่อแล้ว"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"ชื่อผู้ใช้นี้ถูกใช้โดยผู้เช่ารายอื่น "
+"ตรวจสอบว่าชื่อผู้ใช้นี้เป็นของสมาชิกรายเดียวกันหรือไม่ หากใช่ "
+"ให้ส่งคำเชิญเข้าร่วม หากไม่ใช่ ให้แก้ไขชื่อผู้ใช้"
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "ความยาวสูงสุดสำหรับชื่อสมาชิกคือ 80 ตัวอักษร"
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "กรอกชื่อสมาชิก"
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "ไม่พบกลยุทธ์การนำเข้าที่ตรงกัน"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "กรอกรหัสผ่าน"
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "เบอร์มือถือผิดครับ ตรวจสอบดูครับ"
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "เบอร์มือถือมีอยู่แล้ว"
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "ข้อผิดพลาดที่ไม่รู้จัก"
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "หมายเลขสมาชิกรองรับเฉพาะตัวอักษร ตัวเลข เครื่องหมายขีดล่าง และ '.'"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "หมายเลขสมาชิกมีอยู่ในรายชื่อติดต่อแล้ว"
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "ไม่พบผู้ใช้หรือสมาชิกที่สามารถนำกลับมาใช้ใหม่ได้"
+
+msgid "email.title.aggregate_buffer"
+msgstr "การแจ้งเตือนการใช้เกินของตารางรวมสำหรับ \"{{ _g_productName }}\""
+
+msgid "email.title.aggregation_buffer"
+msgstr "การแจ้งเตือนการบริโภครวมเกินสำหรับ \"{{ _g_productName }}\""
+
+msgid "email.title.appTrialExpire"
+msgstr "{{ _g_productName }}: การแจ้งเตือนวันหมดอายุการทดลองใช้"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "\"{{ _g_productName }}\" การใช้งานระบบอัตโนมัติแบบ Pro"
+
+msgid "email.title.bpa_buffer"
+msgstr "การแจ้งเตือนการบริโภค BPA มากเกินไปสำหรับ \"{{ _g_productName }}\""
+
+msgid "email.title.buffer_expired"
+msgstr ""
+"การแจ้งเตือนสำหรับ \"{{ _g_productName }}\": "
+"เกินขีดจำกัดการใช้งานระบบและบริการถูกระงับ"
+
+msgid "email.title.coinRunOut"
+msgstr "{{ _g_productName }}: คุณได้ใช้เหรียญ {{ _g_productName }} เหรียญหมดแล้ว"
+
+msgid "email.title.coinRunningOut"
+msgstr "{{ _g_productName }}: คุณกำลังจะหมดเหรียญ {{ _g_productName }} เหรียญ"
+
+msgid "email.title.comment"
+msgstr "มีความคิดเห็นใหม่กล่าวถึงคุณ โปรดตอบกลับในเวลาที่เหมาะสม"
+
+msgid "email.title.corpInvite"
+msgstr "{{ _g_productName }}: คำเชิญร่วมมือ"
+
+msgid "email.title.dashAlert"
+msgstr "การแจ้งเตือนการกระตุ้นข้อมูล"
+
+msgid "email.title.dashAlertLimit"
+msgstr "{{ _g_productName }}: การแจ้งเตือนข้อมูลแดชบอร์ดถึงขีดจำกัดสูงสุดรายวันแล้ว"
+
+msgid "email.title.docTrend"
+msgstr "{{ _g_productName }}: การอัปเดตเอกสาร"
+
+msgid "email.title.etl_buffer"
+msgstr "การแจ้งเตือนการใช้ข้อมูลเกินของ Data Factory สำหรับ \"{{ _g_productName }}\""
+
+msgid "email.title.formDataExceed"
+msgstr "{{ _g_productName }}: ปริมาณข้อมูลในตารางเดียวเกินขีดจำกัด"
+
+msgid "email.title.formDataUsage"
+msgstr "{{ _g_productName }}: ปริมาณข้อมูลในตารางเดียวกำลังจะเกินขีดจำกัด"
+
+msgid "email.title.monthlyDataExceed"
+msgstr "{{ _g_productName }}: ปริมาณข้อมูลถึงขีดจำกัดสูงสุดรายเดือนแล้ว"
+
+msgid "email.title.systemLog"
+msgstr "{{ _g_productName }}: บันทึกระบบ"
+
+msgid "email.title.tenantCoop"
+msgstr "ความร่วมมือระหว่างองค์กร 「{{ _g_productName }}」"
+
+msgid "email.title.totalDataExceed"
+msgstr "{{ _g_productName }}: ปริมาณข้อมูลรวมเกินขีดจำกัด"
+
+msgid "email.title.totalDataUsage"
+msgstr "{{ _g_productName }}: ปริมาณข้อมูลรวมกำลังจะเกินขีดจำกัด"
+
+msgid "email.title.trialExpire"
+msgstr "{{ _g_productName }}: การทดลองใช้ VIP ของคุณกำลังจะหมดอายุ"
+
+msgid "email.title.trigger_buffer"
+msgstr "การแจ้งเตือนการใช้เกินของระบบอัตโนมัติสำหรับ \"{{ _g_productName }}\""
+
+msgid "email.title.uploadUsage"
+msgstr "{{ _g_productName }}: จำนวนไฟล์แนบทั้งหมดกำลังจะเกินขีดจำกัด"
+
+msgid "email.title.userChannelVerify"
+msgstr "{{ _g_productName }}: การยืนยันอีเมล"
+
+msgid "email.title.user_buffer"
+msgstr "การแจ้งเตือนการบริโภคเกินของสมาชิกสำหรับ \"{{ _g_productName }}\""
+
+msgid "email.title.vipExpire"
+msgstr "{{ _g_productName }}: VIP ของคุณกำลังจะหมดอายุ"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr "หากเนื้อหาในเซลล์บางเซลล์เกินความยาวสูงสุด เซลล์เหล่านี้อาจถูกล้างข้อมูล:"
+
+msgid "error.export.excel.errorSheetName"
+msgstr "ข้อผิดพลาดในการส่งออก"
+
+msgid "error.export.excel.fileName"
+msgstr "รายการความล้มเหลว"
+
+msgid "event.appCreate"
+msgstr "สร้างแอป"
+
+msgid "event.appPublishAccept"
+msgstr "เผยแพร่แอปสำเร็จแล้ว"
+
+msgid "event.appPublishFailed"
+msgstr "ไม่สามารถเผยแพร่แอปได้"
+
+msgid "event.appRemove"
+msgstr "ลบแอป"
+
+msgid "event.corpAutoSync"
+msgstr "ธุรกิจการซิงค์อัตโนมัติ"
+
+msgid "event.corpManualSync"
+msgstr "การซิงค์ทางธุรกิจด้วยตนเอง"
+
+msgid "event.createDept"
+msgstr "เพิ่มแผนก"
+
+msgid "event.createManageGroup"
+msgstr "เพิ่มกลุ่ม"
+
+msgid "event.createRole"
+msgstr "เพิ่มบทบาท"
+
+msgid "event.dataWebhook"
+msgstr "เว็บฮุก"
+
+msgid "event.entryWebhook"
+msgstr "การผลักดันการกำหนดค่าแบบฟอร์ม"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "ไม่สามารถเรียกใช้สตรีมข้อมูลตามกำหนดเวลาได้"
+
+msgid "event.fileExportComplete"
+msgstr "ไฟล์พร้อมแล้ว"
+
+msgid "event.fileExportFailed"
+msgstr "ไม่สามารถส่งออกไฟล์ได้"
+
+msgid "event.inviteToJoin"
+msgstr "ขอเชิญคุณเข้าร่วม"
+
+msgid "event.kms.spaceApply"
+msgstr "ได้รับคำขอใหม่ในการสร้างฐานความรู้"
+
+msgid "event.memberHardDelete"
+msgstr "ลบสมาชิก"
+
+msgid "event.memberInvite"
+msgstr "เชิญชวนสมาชิก"
+
+msgid "event.memberRemove"
+msgstr "ปิดการใช้งาน"
+
+msgid "event.removeDept"
+msgstr "ลบแผนก"
+
+msgid "event.removeManageGroup"
+msgstr "ลบกลุ่มผู้ดูแลระบบ"
+
+msgid "event.removeRole"
+msgstr "ลบบทบาท"
+
+msgid "event.smsDataComment"
+msgstr "ความคิดเห็นเกี่ยวกับข้อมูล"
+
+msgid "event.smsFlowData"
+msgstr "การแจ้งเตือนขั้นตอนการทำงาน"
+
+msgid "event.smsVerify"
+msgstr "รหัสยืนยันทาง SMS"
+
+msgid "event.systemLogNotify"
+msgstr "การแจ้งเตือนบันทึกระบบ"
+
+msgid "event.timedReminder"
+msgstr "คำเตือน"
+
+msgid "event.updateManageGroupMembers"
+msgstr "อัพเดทสมาชิกแอดมิน"
+
+msgid "excel.address.city"
+msgstr "(เมือง)"
+
+msgid "excel.address.detail"
+msgstr "(ที่อยู่)"
+
+msgid "excel.address.district"
+msgstr "(จังหวัด/อำเภอ)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(ละติจูดและลองจิจูด)"
+
+msgid "excel.address.province"
+msgstr "(รัฐ/จังหวัด)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "ชื่อธุรกิจ"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "อีเมล"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "เป็นเจ้าของ"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "ชื่อ"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "เบอร์โทรศัพท์"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "บทบาท"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "ชื่อธุรกิจ"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "แท็ก"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "อีเมล"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "เป็นเจ้าของ"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "ชื่อ"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "มือถือ"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "บทบาท"
+
+msgid "excel.datetime.format.date"
+msgstr "ปปปป-ดด-วว"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "ปปปป-ดด-วว ชม:นาที"
+
+msgid "excel.datetime.format.date.month"
+msgstr "ปี-เดือน"
+
+msgid "excel.datetime.format.datetime"
+msgstr "ปปปป-ดด-วว ชช:นาที:วว"
+
+msgid "excel.filename.dataTable"
+msgstr "ตารางข้อมูล"
+
+msgid "excel.filename.dataTemplate"
+msgstr "เทมเพลตข้อมูล"
+
+msgid "excel.filename.table"
+msgstr "ตารางสถิติ"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"พบชื่อแผนกซ้ำ \"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "รายละเอียดข้อผิดพลาด"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"รูปแบบไม่ถูกต้องสำหรับ \"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ไม่สามารถจับคู่ ID ใดๆ ได้ "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"เลือกตัวเลือก {{ itemCount }} ในช่อง \"{{ colLabel }}\" "
+"ช่องนี้สอดคล้องกับช่อง \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"ตัวเลือกสูงสุด {{ maxItemCount }} สำหรับฟิลด์ \"{{ colLabel }}\" "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"ตัวเลือกขั้นต่ำ {{ minItemCount }} สำหรับฟิลด์ \"{{ colLabel }}\" "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"โปรดเลือก {{ minItemCount }} ถึง {{ maxItemCount }} ตัวเลือกสำหรับฟิลด์ "
+"\"{{ colLabel }}\" ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ไม่ตรงกับตัวเลือกใดๆ "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในฟอร์ม"
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"ข้อมูลซ้ำสำหรับ \"{{ value }}\" ในฟอร์ม \"{{ formNames }}\" "
+"ใส่คำอธิบายประกอบฟอร์มที่จะนำเข้าในรูปแบบ \"Field Value # Form\""
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"พบชื่อฟิลด์ซ้ำ \"{{ colLabel }}\" ในฟอร์ม \"{{ formName }}\" "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในฟอร์มปัจจุบัน"
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ไม่สามารถจับคู่ข้อมูลใดๆ "
+"ในแบบฟอร์มที่เกี่ยวข้องได้ ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" "
+"ในแบบฟอร์มปัจจุบัน"
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" "
+"ตรงกับหลายเรกคอร์ดในฟอร์มที่เกี่ยวข้อง ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ "
+"widgetLabel }}\" ในฟอร์มปัจจุบัน"
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr ""
+"สำหรับฟิลด์ \"{{ colLabel }}\" ให้ใช้ {{ repeatRemind }} "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ไม่ตรงกับชื่อใดๆ "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในฟอร์ม"
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"พบชื่อสมาชิกซ้ำ \"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในฟอร์ม"
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ควรเป็น \"{{ number }}\" "
+"ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในฟอร์ม"
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ควรมีค่าน้อยกว่าหรือเท่ากับ {{ "
+"maxNumber }} \"{{ colLabel }}\" สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" "
+"ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ควรมากกว่าหรือเท่ากับ {{ "
+"minNumber }} ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในฟอร์ม"
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ colLabel }}\" ควรอยู่ระหว่าง {{ minNumber }} "
+"และ {{ maxNumber }} ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ widgetLabel }}\" ในฟอร์ม"
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ \"{{ widgetName }}\" "
+"ไม่สามารถจับคู่กับขั้นตอนการขายใดๆ ได้ ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ "
+"widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "บันทึกล้มเหลว"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"พบชื่อแผนกซ้ำ \"{{ value }}\" ในฟิลด์ย่อย \"{{ subColLabel }}\" "
+"ของแบบฟอร์มย่อย \"{{ colLabel }}\" ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในแบบฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"รูปแบบไม่ถูกต้องสำหรับ \"{{ value }}\" ในฟิลด์ย่อย \"{{ subColLabel }}\" "
+"ของฟอร์มย่อย \"{{ colLabel }}\" ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ย่อย \"{{ subColLabel }}\" ของฟอร์มย่อย \"{{ "
+"colLabel }}\" ไม่ตรงกับ ID ใดๆ ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"เลือกตัวเลือก {{ itemCount }} ในฟิลด์ย่อย \"{{ subColLabel }}\" "
+"ของฟอร์มย่อย \"{{ colLabel }}\" ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"ตัวเลือกสูงสุด {{ maxItemCount }} สำหรับซับฟิลด์ \"{{ subColLabel }}\" "
+"ของฟอร์มย่อย \"{{ colLabel }}\" ซับฟิลด์นี้สอดคล้องกับซับฟิลด์ \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"ตัวเลือก {{ minItemCount }} ขั้นต่ำสำหรับฟิลด์ย่อย \"{{ subColLabel }}\" "
+"ของฟอร์มย่อย \"{{ colLabel }}\" ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"โปรดเลือก {{ minItemCount }} ถึง {{ maxItemCount }} ตัวเลือกสำหรับฟิลด์ย่อย "
+"\"{{ subColLabel }}\" ของแบบฟอร์มย่อย \"{{ colLabel }}\" "
+"ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ subWidgetLabel }}\" ในแบบฟอร์มย่อย "
+"\"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ย่อย \"{{ subColLabel }}\" ของฟอร์มย่อย \"{{ "
+"colLabel }}\" ไม่ตรงกับตัวเลือกใดๆ ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" ในซับฟิลด์ \"{{ subColLabel }}\" ของฟอร์มย่อย \"{{ colLabel "
+"}}\" ไม่ตรงกับชื่อใดๆ ซับฟิลด์นี้สอดคล้องกับซับฟิลด์ \"{{ subWidgetLabel "
+"}}\" ในซับฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"พบชื่อสมาชิกซ้ำ \"{{ value }}\" ในฟิลด์ย่อย \"{{ subColLabel }}\" "
+"ของฟอร์มย่อย \"{{ colLabel }}\" ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" ในฟิลด์ย่อย \"{{ subColLabel }}\" ของฟอร์มย่อย \"{{ "
+"colLabel }}\" ควรเป็น \"{{ number }}\" ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย "
+"\"{{ subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"\"{{ value }}\" ในซับฟิลด์ \"{{ subColLabel }}\" ของฟอร์มย่อย \"{{ colLabel "
+"}}\" ควรมีค่าน้อยกว่าหรือเท่ากับ {{ maxNumber }} "
+"ซับฟิลด์นี้สอดคล้องกับซับฟิลด์ \"{{ subWidgetLabel }}\" ในซับฟอร์ม \"{{ "
+"widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"\"{{ value }}\" ในซับฟิลด์ \"{{ subColLabel }}\" ของฟอร์มย่อย \"{{ colLabel "
+"}}\" ควรมีค่ามากกว่าหรือเท่ากับ {{ minNumber }} "
+"ซับฟิลด์นี้สอดคล้องกับซับฟิลด์ \"{{ subWidgetLabel }}\" ในซับฟอร์ม \"{{ "
+"widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"\"{{ value }}\" ในซับฟิลด์ \"{{ subColLabel }}\" ของฟอร์มย่อย \"{{ colLabel "
+"}}\" ควรอยู่ระหว่าง {{ minNumber }} และ {{ maxNumber }} "
+"ซับฟิลด์นี้สอดคล้องกับซับฟิลด์ \"{{ subWidgetLabel }}\" ในซับฟอร์ม \"{{ "
+"widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"สำหรับฟิลด์ย่อย \"{{ subColLabel }}\" ในฟอร์มย่อย \"{{ colLabel }}\" "
+"ให้ป้อน {{ repeatRemind }} ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ "
+"subWidgetLabel }}\" ในฟอร์มย่อย \"{{ widgetLabel }}\""
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"จำเป็นต้องมีฟิลด์ย่อย \"{{ subColLabel }}\" ในฟอร์มย่อย \"{{ colLabel }}\" "
+"ฟิลด์ย่อยนี้สอดคล้องกับฟิลด์ย่อย \"{{ subWidgetLabel }}\" ในฟอร์มย่อย \"{{ "
+"widgetLabel }}\""
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr ""
+"จำเป็นต้องระบุฟิลด์ \"{{ colLabel }}\" ฟิลด์นี้สอดคล้องกับฟิลด์ \"{{ "
+"widgetLabel }}\" ในแบบฟอร์ม"
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_รายงานข้อผิดพลาด_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "สังกัดแผนก"
+
+msgid "excel.importError.repeatName.id"
+msgstr "แผนกและรหัสสมาชิก"
+
+msgid "excel.importError.repeatName.name"
+msgstr "ชื่อแผนกและสมาชิกซ้ำกัน"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "สมาชิกที่มีชื่อและรหัสแผนกเดียวกัน"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "แนะนำให้นำเข้าสไตล์"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"ปฏิบัติตามรูปแบบการนำเข้าที่แนะนำเพื่อแทนที่ข้อมูลต้นฉบับ สำหรับรายละเอียด "
+"โปรดดูที่: https://help.jodoo.com/doc/12099"
+
+msgid "excel.mainDataLabel.header"
+msgstr "ข้อมูลที่เกี่ยวข้อง \"{{ formName }}\""
+
+msgid "excel.member.dept"
+msgstr "แผนก"
+
+msgid "excel.member.email"
+msgstr "อีเมล"
+
+msgid "excel.member.exceed"
+msgstr ""
+"จำนวนสมาชิกที่คุณต้องการส่งออกถึงขีดจำกัดสูงสุดแล้ว ส่งออกเฉพาะ 100,000 "
+"รายการแรกเท่านั้น"
+
+msgid "excel.member.filename"
+msgstr "การติดต่อภายใน"
+
+msgid "excel.member.fullRoleName"
+msgstr "กลุ่มบทบาทและบทบาท"
+
+msgid "excel.member.name"
+msgstr "ชื่อ"
+
+msgid "excel.member.phone"
+msgstr "มือถือ"
+
+msgid "excel.member.role"
+msgstr "บทบาท"
+
+msgid "excel.member.role.rel.filename"
+msgstr "บทบาทผู้ติดต่อ"
+
+msgid "excel.member.status"
+msgstr "สถานะ"
+
+msgid "excel.member.username"
+msgstr "เลขที่"
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "รหัสสมาชิก"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "สมาชิกซ้ำ"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "รายงานข้อผิดพลาด.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_รายงานข้อผิดพลาด_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "ที่จำเป็น"
+
+msgid "filezip.filename.package"
+msgstr "{{formName}}_attachment{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "เวลาที่สร้างเวิร์กโฟลว์"
+
+msgid "flow.creator"
+msgstr "ผู้ริเริ่มเวิร์กโฟลว์"
+
+msgid "flow.initiateFlow"
+msgstr "เริ่มต้นตอนนี้"
+
+msgid "flow.initiateFlow.desc"
+msgstr "สมาชิกของกลุ่มนี้สามารถเริ่มเวิร์กโฟลว์ได้"
+
+msgid "flow.manageAllFlow"
+msgstr "จัดการเวิร์กโฟลว์ทั้งหมด"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "สมาชิกในกลุ่มนี้สามารถจัดการกระบวนการทั้งหมดได้"
+
+msgid "flow.node.approve"
+msgstr "การอนุมัติ"
+
+msgid "flow.node.end"
+msgstr "จบ"
+
+msgid "flow.node.start"
+msgstr "เริ่ม"
+
+msgid "flow.state.closed"
+msgstr "จบด้วยมือ"
+
+msgid "flow.state.complete"
+msgstr "สมบูรณ์"
+
+msgid "flow.state.inProcess"
+msgstr "อยู่ระหว่างดำเนินการ"
+
+msgid "flow.state.rejected"
+msgstr "ปฏิเสธ"
+
+msgid "flow.viewAllFlow"
+msgstr "ดูเวิร์กโฟลว์ทั้งหมด"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "สมาชิกในกลุ่มนี้สามารถดูกระบวนการทั้งหมดได้"
+
+msgid "form.analysisField.avgDuration"
+msgstr "เวลาเฉลี่ยของกระบวนการ (ชั่วโมง)"
+
+msgid "form.analysisField.creator"
+msgstr "สมาชิก"
+
+msgid "form.analysisField.dataCount"
+msgstr "การนับข้อมูล"
+
+msgid "form.analysisField.flowNode"
+msgstr "โหนด"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "เวิร์กโฟลว์เสร็จสิ้นเวลา"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "เวิร์กโฟลว์สร้างเวลา"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "เวลาการไหลเข้าของโหนด"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "เวลาการไหลออกของโหนด"
+
+msgid "form.data.tab.common.name"
+msgstr "ข้อมูลพื้นฐาน"
+
+msgid "form.default.field.options.firstText"
+msgstr "ตัวเลือกที่ 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "ตัวเลือกที่ 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "ตัวเลือกที่ 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "ตัวเลือกที่ 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "ตัวเลือกที่ 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "ตัวเลือกที่ 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "ไม่อนุญาตให้มีค่าซ้ำกัน"
+
+msgid "form.operate.batchPrint"
+msgstr "พิมพ์เป็นชุด"
+
+msgid "form.operate.batchUpdate"
+msgstr "แก้ไขแบบแบตช์"
+
+msgid "form.operate.copy"
+msgstr "สำเนา"
+
+msgid "form.operate.create"
+msgstr "เพิ่ม"
+
+msgid "form.operate.delete"
+msgstr "ลบ"
+
+msgid "form.operate.export"
+msgstr "ส่งออก"
+
+msgid "form.operate.flowActivate"
+msgstr "กระบวนการเปิดใช้งาน"
+
+msgid "form.operate.flowClose"
+msgstr "ยุติเวิร์กโฟลว์"
+
+msgid "form.operate.flowTransfer"
+msgstr "เปลี่ยนผู้รับรองกระบวนการ"
+
+msgid "form.operate.import"
+msgstr "การนำเข้า"
+
+msgid "form.operate.read"
+msgstr "ดู"
+
+msgid "form.operate.update"
+msgstr "แก้ไข"
+
+msgid "form.subformField.id"
+msgstr "รหัสแบบฟอร์มย่อย"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "ผู้รับรองปัจจุบัน"
+
+msgid "form.sysField.createTime"
+msgstr "ระยะเวลาการส่ง"
+
+msgid "form.sysField.creator"
+msgstr "ผู้ส่ง"
+
+msgid "form.sysField.dataId"
+msgstr "รหัสข้อมูล"
+
+msgid "form.sysField.dataLabel"
+msgstr "ชื่อ"
+
+msgid "form.sysField.deleteTime"
+msgstr "เวลาที่ถูกลบ"
+
+msgid "form.sysField.deleter"
+msgstr "ผู้ใช้ที่ถูกลบ"
+
+msgid "form.sysField.ext"
+msgstr "พารามิเตอร์ URL"
+
+msgid "form.sysField.flowComment"
+msgstr "ความคิดเห็นการอนุมัติ"
+
+msgid "form.sysField.flowNodes"
+msgstr "โหนดปัจจุบัน"
+
+msgid "form.sysField.flowState"
+msgstr "สถานะเวิร์กโฟลว์"
+
+msgid "form.sysField.flowVer"
+msgstr "เวอร์ชัน"
+
+msgid "form.sysField.operator"
+msgstr "รับบทโดย"
+
+msgid "form.sysField.printOperator"
+msgstr "ผู้ใช้ที่พิมพ์"
+
+msgid "form.sysField.printTime"
+msgstr "เวลาที่พิมพ์"
+
+msgid "form.sysField.privateDataQr"
+msgstr "ข้อมูล QR Code (ภายใน)"
+
+msgid "form.sysField.publicDataQr"
+msgstr "ข้อมูล QR Code (สาธารณะ)"
+
+msgid "form.sysField.updateTime"
+msgstr "เวลาที่อัปเดต"
+
+msgid "form.sysField.updater"
+msgstr "อัพเดทผู้ใช้"
+
+msgid "form.sysField.wxAvatar"
+msgstr "อวาตาร์ WeChat"
+
+msgid "form.sysField.wxNickname"
+msgstr "ชื่อ WeChat"
+
+msgid "form.sysField.wxOpenId"
+msgstr "WeChat เปิด ID"
+
+msgid "formView.allData.name"
+msgstr "ข้อมูลทั้งหมด"
+
+msgid "formView.untitled.name"
+msgstr "มุมมองที่ไม่มีชื่อ"
+
+msgid "formula.cal.type.error"
+msgstr "ผลลัพธ์การคำนวณสูตรมีชนิดข้อมูลไม่ถูกต้อง"
+
+msgid "formula.express.error"
+msgstr "นิพจน์สูตรไม่ถูกต้อง"
+
+msgid "function.not.support"
+msgstr "ฟังก์ชั่นนี้ไม่ได้รับการสนับสนุนในแผนที่ใช้งานอยู่!"
+
+msgid "function.param.count.error"
+msgstr "จำนวนพารามิเตอร์ไม่ถูกต้องสำหรับฟังก์ชัน {{ name }}"
+
+msgid "function.param.error"
+msgstr "พารามิเตอร์ไม่ถูกต้องสำหรับฟังก์ชัน {{ name }}"
+
+msgid "function.param.notEmpty"
+msgstr "พารามิเตอร์สำหรับฟังก์ชัน {{ name }} ไม่สามารถว่างเปล่าได้"
+
+msgid "function.param.type.error"
+msgstr "ประเภทพารามิเตอร์ไม่ถูกต้องสำหรับฟังก์ชัน {{ name }}"
+
+msgid "function.return.error"
+msgstr "ประเภทค่าส่งคืนที่ไม่ได้ระบุสำหรับฟังก์ชัน {{ name }}"
+
+msgid "function.second.param.constant"
+msgstr "พารามิเตอร์ที่สองสำหรับฟังก์ชัน {{ name }} สามารถเป็นค่าคงที่ได้เท่านั้น"
+
+msgid "function.two.param"
+msgstr "ต้องมีพารามิเตอร์อย่างน้อย 2 ตัวสำหรับฟังก์ชัน {{ name }}"
+
+msgid "function.two.param.error"
+msgstr ""
+"ประเภทของพารามิเตอร์ {{ i }}th และ {{ preIdx }}th สำหรับฟังก์ชัน {{ name }} "
+"ไม่ตรงกัน"
+
+msgid "function.which.param.error"
+msgstr "ประเภทของพารามิเตอร์ที่ {{ i }} สำหรับฟังก์ชัน {{ name }} ไม่ถูกต้อง"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "ความยาวของพารามิเตอร์ที่ {{ i }} สำหรับฟังก์ชัน {{ name }} เกินขีดจำกัด"
+
+msgid "handover.type.data"
+msgstr "[ข้อมูล]"
+
+msgid "handover.type.entry"
+msgstr "[แบบฟอร์ม/แดชบอร์ด]"
+
+msgid "handover.type.kms"
+msgstr "[ฐานความรู้]"
+
+msgid "handover.type.role"
+msgstr "[ติดต่อเรา]"
+
+msgid "handover.type.todo"
+msgstr "[ภารกิจ]"
+
+msgid "handover.type.workflow"
+msgstr "[ผู้รับรองเวิร์กโฟลว์]"
+
+msgid "handover.work"
+msgstr "การส่งมอบ"
+
+msgid "kms.docTrend"
+msgstr "การอัปเดตเอกสาร"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "สมาชิกในกลุ่มนี้สามารถกรอกข้อมูลและจัดการข้อมูลที่กรอกได้ด้วยตนเอง"
+
+msgid "manage.addAndManageMyData.name"
+msgstr "เพิ่มและจัดการข้อมูลของฉัน"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "สมาชิกในกลุ่มนี้สามารถกรอกข้อมูลและดูข้อมูลทั้งหมดได้"
+
+msgid "manage.addAndViewAllData.name"
+msgstr "เพิ่มและดูข้อมูลทั้งหมด"
+
+msgid "manage.manageAllData.desc"
+msgstr ""
+"สมาชิกในกลุ่มนี้สามารถจัดการข้อมูลทั้งหมดและกรอกข้อมูลได้ "
+"แต่ไม่สามารถนำเข้าข้อมูลได้"
+
+msgid "manage.manageAllData.name"
+msgstr "จัดการข้อมูลทั้งหมด"
+
+msgid "manage.mergeGroup"
+msgstr "ข้อมูลทั้งหมดได้รับอนุญาต"
+
+msgid "manage.onlyAddData.desc"
+msgstr "สมาชิกในกลุ่มนี้จะสามารถกรอกข้อมูลได้เท่านั้น"
+
+msgid "manage.onlyAddData.name"
+msgstr "ส่งเท่านั้น"
+
+msgid "manage.viewAllData.desc"
+msgstr "สมาชิกในกลุ่มนี้สามารถดูข้อมูลทั้งหมดได้"
+
+msgid "manage.viewAllData.name"
+msgstr "ดูข้อมูลทั้งหมด"
+
+msgid "managerActivity.app.metricsName"
+msgstr "ดูรายละเอียดกิจกรรมตามแอป"
+
+msgid "managerActivity.app.reportName"
+msgstr "ดูตามภาพรวมแอป"
+
+msgid "managerActivity.appId"
+msgstr "รหัสแอป"
+
+msgid "managerActivity.appName"
+msgstr "ชื่อแอป"
+
+msgid "managerActivity.count"
+msgstr "ผู้ใช้งาน (แก้ไข)"
+
+msgid "managerActivity.fileName"
+msgstr "กิจกรรมของผู้ดูแลระบบ"
+
+msgid "managerActivity.managerId"
+msgstr "รหัสผู้ดูแลระบบ"
+
+msgid "managerActivity.managerName"
+msgstr "ชื่อผู้ดูแลระบบ"
+
+msgid "managerActivity.time"
+msgstr "วันที่"
+
+msgid "managerActivity.times"
+msgstr "ครั้ง (แก้ไข)"
+
+msgid "managerActivity.user.metricsName"
+msgstr "ดูรายละเอียดกิจกรรมตามผู้ดูแลระบบ"
+
+msgid "managerActivity.user.reportName"
+msgstr "ดูภาพรวมโดยผู้ดูแลระบบ"
+
+msgid "math.param.error"
+msgstr "ประเภทข้อมูลของการดำเนินการทางคณิตศาสตร์ควรเป็นตัวเลข"
+
+msgid "member.status.deleted"
+msgstr "สมาชิกที่ถูกลบออก"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(ไม่ใช้งาน)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(ลบแล้ว)"
+
+msgid "message.addOrRemoveApp"
+msgstr "เพิ่ม/ลบแอป"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "เพิ่ม/ลบแผนกหรือสมาชิก"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "เพิ่ม/ลบกลุ่มผู้ดูแลระบบ"
+
+msgid "message.addOrRemoveManager"
+msgstr "เพิ่ม/ลบผู้ดูแลระบบ"
+
+msgid "message.alertName"
+msgstr "หัวข้อการแจ้งเตือน"
+
+msgid "message.alertSource"
+msgstr "ที่มาของการเตือนภัย"
+
+msgid "message.anonymousUser"
+msgstr "ผู้ใช้ที่ไม่ระบุชื่อ"
+
+msgid "message.apiKeyOpLog"
+msgstr "บันทึกคีย์ API"
+
+msgid "message.appRename"
+msgstr "เปลี่ยนชื่อแอป"
+
+msgid "message.appUpdate"
+msgstr "การเปลี่ยนแปลงแอพ"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr ""
+"ผู้ดูแลระบบหรือผู้สร้างได้ยกเลิกการมอบหมายงานจาก {{ principal }} "
+"ให้คุณในช่วงเวลา {{ timeRange }}"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr ""
+"ผู้ดูแลระบบหรือผู้สร้างได้ยกเลิกการมอบหมายงานของคุณไปยัง {{ agent }} "
+"ในระหว่าง {{ timeRange }}"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr "ผู้ดูแลระบบหรือผู้สร้างได้ยกเลิกการมอบหมายงานจาก {{ principal }} ให้กับคุณ"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr "ผู้ดูแลระบบหรือผู้สร้างได้ยกเลิกการมอบหมายงานของคุณไปยัง {{ agent }}"
+
+msgid "message.bpm_delegation.description"
+msgstr "คำอธิบาย"
+
+msgid "message.bpm_delegation.principal"
+msgstr "ผู้มอบหมาย"
+
+msgid "message.bpm_delegation.range"
+msgstr "ขอบเขต"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "เวิร์กโฟลว์ทั้งหมด"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "กระบวนการบางส่วน"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "เวลา"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr "{{ principal }} ได้มอบหมายงานทั้งหมดให้คุณเพื่ออนุมัติในช่วง {{ timeRange }}"
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }} ได้มอบหมายงานทั้งหมดให้คุณเพื่ออนุมัติในช่วง {{ timeRange "
+"}} คำอธิบายการมอบหมาย: {{ description }}"
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }} ได้มอบหมายงานให้คุณ"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr "{{ principal }} ได้ยกเลิกการมอบหมายงานให้คุณในระหว่างเวลา {{ timeRange }}"
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }} ได้ยกเลิกการมอบหมายงานให้คุณ"
+
+msgid "message.comment.content"
+msgstr "เนื้อหาความคิดเห็น"
+
+msgid "message.commentator"
+msgstr "แสดงความคิดเห็นโดย"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "ชื่อธุรกิจมีอยู่แล้ว"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "อนุญาตให้มีเจ้าของได้เพียงคนเดียวเท่านั้น"
+
+msgid "message.corp.import.errCode.19011"
+msgstr "เจ้าของที่ระบุได้สร้างบริษัท/ทีมอื่นแล้ว"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "ไม่มีเจ้าของที่ระบุ"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "จำนวนสมาชิกที่นำเข้าเกิน {{number}}"
+
+msgid "message.corp.import.errCode.19014"
+msgstr ""
+"ไม่มีบริษัทคู่ค้าที่นำเข้าได้ในไฟล์ "
+"กรุณานำเข้าใหม่อีกครั้งหลังจากปรับแต่งแล้ว"
+
+msgid "message.corp.import.errCode.19020"
+msgstr "จำนวนบทบาทที่นำเข้าเกิน {{number}} โปรดนำเข้าใหม่อีกครั้งหลังจากปรับแล้ว"
+
+msgid "message.corp.import.errCode.19029"
+msgstr "จำนวนคู่ค้าที่นำเข้าเกิน {{number}} กรุณานำเข้าใหม่อีกครั้งหลังจากปรับแล้ว"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "ชื่อธุรกิจควรมีความยาวไม่เกิน {{ number }} อักขระ"
+
+msgid "message.corp.import.errCode.6065"
+msgstr "อนุญาตให้มีอักขระสูงสุด {{number}} ตัวในแท็ก"
+
+msgid "message.corp.import.errCode.6066"
+msgstr "จำนวนแท็กที่นำเข้าเกิน {{number}} โปรดนำเข้าใหม่อีกครั้งหลังจากปรับแล้ว"
+
+msgid "message.corpCoop"
+msgstr "ลูกค้าและพันธมิตร"
+
+msgid "message.corpSyncResult"
+msgstr "การซิงค์สมาชิก"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{operator}} มอบหมายลูกค้าจำนวน {{account_num}} รายให้กับคุณ"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "ลูกค้า {{ data_label }} ได้รับการรีไซเคิลโดยอัตโนมัติ"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{ operator }} เปลี่ยนผู้รับรองของลูกค้า {{ data_label }}"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{ operator }} เปลี่ยนเจ้าของของลูกค้า {{ account_num }} ราย"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{ operator }} เปลี่ยนผู้ร่วมงานของลูกค้า {{ data_label }}"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{ operator }} เปลี่ยนผู้ร่วมงานของลูกค้า {{ account_num }} ราย"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{ operator }} รีไซเคิลลูกค้าจำนวน {{ account_num }} ราย"
+
+msgid "message.crm.assignor"
+msgstr "ผู้โอนสิทธิ์"
+
+msgid "message.crm.currentCollaborator"
+msgstr "ผู้ร่วมมือปัจจุบัน"
+
+msgid "message.crm.customer"
+msgstr "ลูกค้า"
+
+msgid "message.crm.followPlanComplete"
+msgstr ""
+"{{ operator }} ได้ดำเนินการตามแผนการติดตาม \"{{ data_label }}\" "
+"ของคุณเสร็จสิ้นแล้ว"
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{ operator }} ได้ดำเนินการตามแผนติดตามผล {{ plan_num }} ของคุณเสร็จสิ้นแล้ว"
+
+msgid "message.crm.leads"
+msgstr "นำ"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{ operator }} มอบหมายรายชื่อผู้สนใจ {{ leads_num }} รายให้กับคุณ"
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "ข้อมูล \"{{ data_label }}\" ถูกนำกลับมาใช้ใหม่โดยอัตโนมัติ"
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{ operator }} เปลี่ยนผู้รับรองของผู้นำ {{ data_label }}"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr ""
+"{{ operator }} เปลี่ยนเจ้าของรายชื่อผู้มีแนวโน้มจะเป็นลูกค้าจำนวน {{ "
+"opportunity_num }} ราย"
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{ operator }} เปลี่ยนผู้ร่วมงานของหัวหน้า {{ data_label }}"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr ""
+"{{ operator }} เปลี่ยนผู้ร่วมงานของผู้มีแนวโน้มจะเป็นลูกค้าจำนวน {{ "
+"opportunity_num }} ราย"
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{ operator }} รีไซเคิล {{ leads_num }} รายการแล้ว"
+
+msgid "message.crm.newCharger"
+msgstr "ผู้รับรองใหม่"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{operator}} เพิ่มแผนติดตามผล \"{{data_label}}\" ให้กับคุณแล้ว"
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{ operator }} เปลี่ยนผู้รับรองโอกาสทางธุรกิจ {{ data_label }}"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr ""
+"{{operator}} เปลี่ยนเจ้าของโอกาสทางธุรกิจ {{opportunity_num}} "
+"รายการ/โอกาสต่างๆ"
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{ operator }} เปลี่ยนผู้ร่วมงานของโอกาสทางธุรกิจ {{ data_label }}"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr ""
+"{{operator}} ได้เปลี่ยนแปลงผู้ร่วมงานของโอกาสทางธุรกิจ {{opportunity_num}} "
+"รายการ"
+
+msgid "message.crm.opportunityWin"
+msgstr "โอกาสทางธุรกิจ \"{{ data_label }}\" ได้รับแล้ว"
+
+msgid "message.crm.rawCharger"
+msgstr "อดีตผู้รับรอง"
+
+msgid "message.crm.recycler"
+msgstr "นักรีไซเคิล"
+
+msgid "message.cron.custom"
+msgstr "เวลาเตือนความจำมาถึงแล้ว"
+
+msgid "message.cron.dataExpires"
+msgstr "ข้อมูลเกินกำหนด"
+
+msgid "message.dashName"
+msgstr "หัวเรื่องแดชบอร์ด"
+
+msgid "message.dataAlert"
+msgstr "การแจ้งเตือนข้อมูล"
+
+msgid "message.dataComment"
+msgstr "ลูกค้าและพันธมิตร"
+
+msgid "message.dataCreate"
+msgstr "มีข้อมูลใหม่ส่งมา"
+
+msgid "message.dataLabel"
+msgstr "ชื่อบันทึก"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "ระบบอัตโนมัติล้มเหลว"
+
+msgid "message.emptyValue"
+msgstr "ว่างเปล่า"
+
+msgid "message.enterForm"
+msgstr "ไปที่แบบฟอร์ม"
+
+msgid "message.entryName"
+msgstr "ชื่อแบบฟอร์ม"
+
+msgid "message.error.4402"
+msgstr "การตรวจสอบการคำนวณรวมล้มเหลว"
+
+msgid "message.etlExecuteFailed"
+msgstr "งาน ETL ล้มเหลว"
+
+msgid "message.etlSyncFailed"
+msgstr "ไม่สามารถซิงค์ข้อมูลสตรีมได้"
+
+msgid "message.flow.adminTransfer"
+msgstr "งานจะถูกโอนไปยังคุณโดยผู้ดูแลระบบระดับสูง"
+
+msgid "message.flow.autoBack"
+msgstr "รายการที่ยังไม่ได้ดำเนินการถูกส่งคืน โปรดดำเนินการให้ทันเวลา"
+
+msgid "message.flow.back"
+msgstr "งานที่ส่งไปได้รับการส่งคืนแล้ว"
+
+msgid "message.flow.batchTransfer"
+msgstr "งานใหม่จะถูกโอนไปยังคุณโดยผู้ดูแลระบบระดับสูง"
+
+msgid "message.flow.cc"
+msgstr "คุณได้รับ CC ในผลลัพธ์เวิร์กโฟลว์ที่แก้ไขใหม่"
+
+msgid "message.flow.cc.entryName"
+msgstr "{{ entryName }} คุณได้รับ CC ในผลลัพธ์เวิร์กโฟลว์ที่แก้ไขใหม่"
+
+msgid "message.flow.cc.merge.entryName"
+msgstr "{{ entryName }} มีผลการประมวลผลการไหลใหม่ {{ count }} รายการส่งถึงคุณแล้ว"
+
+msgid "message.flow.dealtUrgently"
+msgstr "จำเป็นต้องมีการจัดการเวิร์กโฟลว์อย่างเร่งด่วน"
+
+msgid "message.flow.memberTransfer"
+msgstr "งานจะถูกโอนไปยังคุณโดย {{ operator }}"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」งานจะถูกโอนไปยังคุณโดย {{ operator }}"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr "คุณมีงานเร่งด่วนใหม่ โปรดจัดการโดยเร็วที่สุด"
+
+msgid "message.flow.sign"
+msgstr "งานจะถูกโอนไปยังคุณโดย {{ operator }}"
+
+msgid "message.flow.signBeforeComplete"
+msgstr ""
+"ผู้ให้การอนุมัติเบื้องต้นได้ดำเนินการกับโหนดแล้ว "
+"คุณมีงานเวิร์กโฟลว์ใหม่ที่ต้องดำเนินการให้เสร็จสิ้น"
+
+msgid "message.flow.timeout"
+msgstr "คุณมีงานที่ค้างอยู่เป็นเวลานาน โปรดจัดการมันทันที"
+
+msgid "message.flow.timeout.entryName"
+msgstr "{{ entryName }} มีงานที่ยังไม่เสร็จ"
+
+msgid "message.flow.todo"
+msgstr "คุณมีงานใหม่"
+
+msgid "message.flow.todo.entryName"
+msgstr "{{ entryName }} คุณมีงานใหม่"
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "{{ entryName }} มีรายการสิ่งที่ต้องทำใหม่ {{ count }} รายการ"
+
+msgid "message.flowData"
+msgstr "ผู้รับรองภายนอก/สมาชิก CC"
+
+msgid "message.kms.clickViewDetails"
+msgstr "คลิก \"ดูรายละเอียด\" เพื่อดูเอกสาร"
+
+msgid "message.kms.denyReason"
+msgstr "เหตุผลในการปฏิเสธ"
+
+msgid "message.kms.description"
+msgstr "คำอธิบายฐานความรู้"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr "{{ operator }} จัดการความคิดเห็นในเอกสาร \"{{ document }}\""
+
+msgid "message.kms.docComment"
+msgstr "{{operator}} แสดงความเห็นเกี่ยวกับเอกสาร \"{{document}}\""
+
+msgid "message.kms.docCreate"
+msgstr "{{operator}} สร้างเอกสาร \"{{document}}\""
+
+msgid "message.kms.docEdit"
+msgstr "{{operator}} แก้ไขเอกสาร \"{{document}}\""
+
+msgid "message.kms.docLike"
+msgstr "{{operator}} ชอบเอกสาร \"{{document}}\""
+
+msgid "message.kms.documentToBeViewed"
+msgstr "คุณมีเอกสารใหม่เพื่อดู"
+
+msgid "message.kms.managerBecome"
+msgstr ""
+"ตอนนี้คุณเป็นผู้ดูแลฐานความรู้ \"{{ space_name }}\" "
+"เริ่มต้นสร้างเอกสารและแบ่งปันไอเดียของคุณ!"
+
+msgid "message.kms.spaceApply"
+msgstr "{{applicant}} ได้สมัครเพื่อสร้างฐานความรู้ชื่อ \"{{space_name}}\""
+
+msgid "message.kms.spaceApplyAgree"
+msgstr ""
+"สร้างฐานความรู้สำเร็จแล้ว ตอนนี้คุณเป็นผู้ดูแลฐานความรู้ใหม่ \"{{ "
+"space_name }}\""
+
+msgid "message.kms.spaceApplyDeny"
+msgstr ""
+"ไม่สามารถสร้างฐานความรู้ \"{{ space_name }}\" ได้ "
+"โปรดกรอกคำอธิบายฐานความรู้และขอใหม่อีกครั้ง"
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{operator}} เตือนให้คุณดูเอกสาร \"{{document}}\""
+
+msgid "message.latitude"
+msgstr "ละติจูด"
+
+msgid "message.longitude"
+msgstr "ลองจิจูด"
+
+msgid "message.member.import.errCode.1005"
+msgstr "อีเมล์มีอยู่แล้ว"
+
+msgid "message.member.import.errCode.1017"
+msgstr "หมายเลขสมาชิกรองรับเฉพาะตัวอักษร ตัวเลข เครื่องหมายขีดล่าง และ '.'"
+
+msgid "message.member.import.errCode.1018"
+msgstr "รูปแบบที่อยู่อีเมลไม่ถูกต้อง"
+
+msgid "message.member.import.errCode.1019"
+msgstr "ชื่อสมาชิกต้องมีความยาวไม่เกิน {{ length }} อักขระ"
+
+msgid "message.member.import.errCode.1024"
+msgstr "เบอร์มือถือไม่ถูกต้อง"
+
+msgid "message.member.import.errCode.1027"
+msgstr "หมายเลขมือถือมีอยู่แล้ว"
+
+msgid "message.member.import.errCode.1082"
+msgstr "จำเป็นต้องระบุอีเมล์"
+
+msgid "message.member.import.errCode.1084"
+msgstr "จำเป็นต้องระบุหมายเลขสมาชิก"
+
+msgid "message.member.import.errCode.1085"
+msgstr "กรอกชื่อสมาชิก"
+
+msgid "message.member.import.errCode.1087"
+msgstr "หมายเลขสมาชิก มีอยู่แล้ว"
+
+msgid "message.member.import.errCode.1092"
+msgstr "หมายเลขสมาชิกต้องมีความยาวไม่เกิน {{ length }} อักขระ"
+
+msgid "message.member.import.errCode.unknown"
+msgstr "ไม่ทราบสาเหตุ กรุณาลองใหม่อีกครั้งในภายหลัง"
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "ไม่มีสิทธิ์ในการจัดการสมาชิก"
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "ชื่อสมาชิกซ้ำกันสำหรับบทบาทหนึ่งภายในไฟล์"
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "ชื่อสมาชิกซ้ำกัน"
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "ยังไม่ได้กรอกสมาชิก"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr "ไม่สามารถนำเข้าสมาชิกที่ไม่มีอยู่หรือได้ลาออกไปแล้ว"
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "ชื่อกลุ่มบทบาทซ้ำกัน"
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "ป้อนกลุ่มบทบาทและชื่อบทบาท"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "ไม่สามารถนำเข้าสมาชิกเข้าสู่กลุ่มบทบาทที่ไม่มีอยู่ได้"
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "ไม่สามารถนำเข้า \"กลุ่มบทบาทที่ซิงโครไนซ์\" ได้"
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "ชื่อบทบาทซ้ำกันภายในกลุ่มบทบาทหนึ่ง"
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "แยกกลุ่มบทบาทและชื่อบทบาทด้วยเครื่องหมายทับ (/)"
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "บทบาทไม่ได้รวมอยู่ในกลุ่มบทบาท"
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "ไม่มีสิทธิ์ในการจัดการบทบาท"
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "ไม่สามารถส่งออก \"บทบาทที่ซิงโครไนซ์\" ได้"
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "ข้อผิดพลาดที่ไม่รู้จัก ลองอีกครั้ง"
+
+msgid "message.modified"
+msgstr "ปรับเปลี่ยน"
+
+msgid "message.modifier"
+msgstr "ผู้ใช้ที่ปรับเปลี่ยน"
+
+msgid "message.notifyTime"
+msgstr "เวลาเตือนความจำ"
+
+msgid "message.remainTime.days"
+msgstr ""
+"มีงานที่ค้างอยู่ เวลาที่เหลือ: {{ days }} day(s), {{ hours }} hour(s), {{ "
+"minutes }} minutes(s). กรุณาดำเนินการให้ทันเวลา"
+
+msgid "message.remainTime.hours"
+msgstr ""
+"มีงานที่ค้างอยู่ เหลือเวลาเพียง {{ hours }} ชั่วโมง {{ minutes }} นาที "
+"กรุณาดำเนินการให้ทันเวลา"
+
+msgid "message.remainTime.lessMinute"
+msgstr ""
+"คุณมีงานที่รอดำเนินการเหลือเวลาดำเนินการไม่ถึง 1 นาที "
+"โปรดดำเนินการให้ทันเวลา"
+
+msgid "message.remainTime.minutes"
+msgstr ""
+"คุณมีงานค้างอยู่ที่เหลือเวลาเพียง {{ minutes }} นาที "
+"กรุณาดำเนินการให้ทันเวลา"
+
+msgid "message.system"
+msgstr "ระบบ"
+
+msgid "message.systemRobot"
+msgstr "ระบบหุ่นยนต์"
+
+msgid "message.title.accountApportion"
+msgstr "แจ้งการมอบหมายงานลูกค้า"
+
+msgid "message.title.accountChangeCharger"
+msgstr "ผู้จัดการลูกค้าถูกเปลี่ยนแปลง"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "ผู้ร่วมมือลูกค้าถูกเปลี่ยนแปลง"
+
+msgid "message.title.accountRecycle"
+msgstr "แจ้งการรีไซเคิลของลูกค้า"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "ตัวจัดการการติดต่อถูกเปลี่ยนแปลง"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "ผู้ร่วมมือของผู้ติดต่อถูกเปลี่ยนแปลง"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "การแจ้งเตือนการใช้งานระบบ {{ _g_productName }}"
+
+msgid "message.title.email.corpCoop"
+msgstr "{{ _g_productName }} การแจ้งเตือนลูกค้าและพันธมิตร"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "การแจ้งเตือนการใช้งานระบบ {{ _g_productName }}"
+
+msgid "message.title.excelImportComplete"
+msgstr "การนำเข้าข้อมูลเสร็จสมบูรณ์"
+
+msgid "message.title.followPlanComplete"
+msgstr "แผนการติดตามของคุณได้ถูกทำเสร็จโดยผู้อื่นแล้ว"
+
+msgid "message.title.leadsApportion"
+msgstr "การแจ้งเตือนการมอบหมายงานนำ"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "มีการเปลี่ยนแปลงตัวจัดการหลัก"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "มีการเปลี่ยนแปลงผู้ร่วมงานหลัก"
+
+msgid "message.title.leadsRecycle"
+msgstr "แจ้งเตือนการรีไซเคิลตะกั่ว"
+
+msgid "message.title.newFollowPlan"
+msgstr "การกำหนดแผนติดตามผลใหม่"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "ตัวจัดการ BO ถูกเปลี่ยนแปลง"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "มีการเปลี่ยนแปลงผู้ร่วมมือ BO"
+
+msgid "message.title.opportunityWin"
+msgstr "คำเตือนการชนะ BO"
+
+msgid "message.title.pluginExpire"
+msgstr "ปลั๊กอิน {{ _g_productName }} จะหมดอายุเร็ว ๆ นี้"
+
+msgid "message.viewDash"
+msgstr "ดูแดชบอร์ด"
+
+msgid "message.viewDataDetails"
+msgstr "ดูข้อมูลรายละเอียด"
+
+msgid "message.viewForm"
+msgstr "ดูแบบฟอร์ม"
+
+msgid "not.support.op"
+msgstr "ตัวดำเนินการเปรียบเทียบที่ไม่รองรับ {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "เบราว์เซอร์ของคุณดูเหมือนจะล้าสมัยสักเล็กน้อย"
+
+msgid "notSupported.ie.subtitle"
+msgstr ""
+"สำหรับการใช้งานทั่วไป "
+"โปรดติดตั้งเบราว์เซอร์สมัยใหม่ต่อไปนี้หรืออัปเกรดเบราว์เซอร์ของคุณ"
+
+msgid "op.param.error"
+msgstr "ชนิดข้อมูลของการดำเนินการคำนำหน้าควรเป็นตัวเลข"
+
+msgid "op.param.number"
+msgstr "ฟิลด์การดำเนินการของตัวดำเนินการ {{op}} ควรเป็นหมายเลข"
+
+msgid "open_store.space.enterprise"
+msgstr "ปลั๊กอินภายในองค์กร"
+
+msgid "open_store.space.store"
+msgstr "ปลั๊กอินอย่างเป็นทางการ"
+
+msgid "page.title.aggregateEdit"
+msgstr "การออกแบบตารางรวม | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "ผู้ช่วย AI"
+
+msgid "page.title.baseConfig"
+msgstr "การออกแบบแบบฟอร์ม-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "ลูกค้าและพันธมิตร | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "การจัดการ | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "พื้นที่ทำงานที่กำหนดเอง"
+
+msgid "page.title.dashEdit"
+msgstr "การออกแบบแดชบอร์ด-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "ตัวอย่างแดชบอร์ด | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "ระบบอัตโนมัติ | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "ดูข้อมูล"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "ลงชื่อเข้าใช้ {{ _g_productName }}"
+
+msgid "page.title.error"
+msgstr "มีบางอย่างผิดพลาดเกิดขึ้น"
+
+msgid "page.title.error.flow"
+msgstr "คำสั่งเวิร์กโฟลว์"
+
+msgid "page.title.error403"
+msgstr "ปฏิเสธการเข้าถึง"
+
+msgid "page.title.error404"
+msgstr "ไม่พบหน้าเพจ"
+
+msgid "page.title.etlEdit"
+msgstr "การออกแบบสตรีมข้อมูล | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "หน้ารายละเอียดที่กำหนดเอง | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "แบบฟอร์มตัวอย่าง | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "ศูนย์กลางเทมเพลต"
+
+msgid "page.title.imageUpload"
+msgstr "อัพโหลดรูปภาพ"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "ลาร์คผูกมัดสำเร็จ"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "การผูกนก"
+
+msgid "page.title.login_bind"
+msgstr "ลิงค์อีเมล์"
+
+msgid "page.title.networkTestView"
+msgstr "ทดสอบการบริการตนเองของเครือข่าย | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "เวอร์ชันนี้ของเบราว์เซอร์ไม่ได้รับการสนับสนุนอีกต่อไป"
+
+msgid "page.title.oauth"
+msgstr "ยืนยันการอนุญาต"
+
+msgid "page.title.openApiExplorer"
+msgstr "คอนโซลดีบัก API | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "คำอธิบายพารามิเตอร์ | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "เปิดแพลตฟอร์ม | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "สร้างคำสั่งซื้อ | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "สั่งชำระเงิน"
+
+msgid "page.title.orderPayFailed"
+msgstr "การชำระเงินล้มเหลว"
+
+msgid "page.title.orderPaySuccess"
+msgstr "ชำระเงินสำเร็จแล้ว"
+
+msgid "page.title.passwordForget"
+msgstr "ลืมรหัสผ่าน {{ _g_productName }}?"
+
+msgid "page.title.passwordReset"
+msgstr "รีเซ็ตรหัสผ่าน"
+
+msgid "page.title.personal"
+msgstr "การตั้งค่าส่วนตัว | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "แม่แบบการพิมพ์การออกแบบ"
+
+msgid "page.title.signature"
+msgstr "ลายเซ็น"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "เข้าสู่ระบบด้วยการอนุญาต"
+
+msgid "page.title.support"
+msgstr "ติดต่อเรา | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "การพิสูจน์ตัวตน | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "ลิงค์เบอร์มือถือ/อีเมล์"
+
+msgid "page.title.userCancelTitle"
+msgstr "บัญชีกำลังถูกปิด"
+
+msgid "print.field.currentFlow"
+msgstr "โหนดปัจจุบัน"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{formName}}_barcode_{{timestamp}}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{formName}}_barcode_{{timestamp}}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "ข้อมูลพื้นฐาน"
+
+msgid "print.sys.fileFormat"
+msgstr "{{file name}} ขนาดไฟล์: {{size}} เวลาอัปโหลด: {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "ระบบการพิมพ์"
+
+msgid "print.sys.wxInfo"
+msgstr "รายละเอียด WeChat ของผู้ที่ส่งสิ่งนี้"
+
+msgid "print.system_template_name"
+msgstr "เทมเพลตเริ่มต้น"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }} ได้กำหนดลูกค้า {{ data_label }} ให้กับคุณ"
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }} ได้มอบหมายลูกค้า {{ account_num }} รายให้คุณ"
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }} เปลี่ยนเจ้าของของลูกค้า {{ data_label }} ก่อนหน้า: {{ "
+"raw_charger }} ปัจจุบัน: {{ new_charger }}"
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr "{{ operator }} เปลี่ยนผู้รับผิดชอบลูกค้า {{ account_num }}"
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{ operator }} เปลี่ยนผู้ร่วมงานของลูกค้า {{ data_label }} "
+"ผู้ร่วมงานปัจจุบัน: {{ collaborators }}"
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{ operator }} เปลี่ยนผู้ร่วมงานของลูกค้า {{ account_num }}"
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }} รีไซเคิลลูกค้า \"{{ data_label }}\" แล้ว"
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "ลูกค้า \"{{ data_label }}\" จะถูกรีไซเคิลโดยอัตโนมัติ"
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }} รีไซเคิลลูกค้า {{ account_num }} รายแล้ว"
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"จำนวนตารางรวมสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัด \"{{ "
+"vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"จำนวนการรวมสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัด \"{{ "
+"vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"จำนวนผู้ได้รับอนุญาตเกินขีดจำกัดแล้ว "
+"ขณะนี้การเข้าถึงการวิเคราะห์ข้อมูลถูกบล็อกแล้ว "
+"ลบสิทธิ์การวิเคราะห์ข้อมูลของสมาชิกบางส่วนในศูนย์ผลิตภัณฑ์"
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }} ได้สร้าง API Key แล้ว"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }} ปิดใช้งาน API Key แล้ว"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }} เปิดใช้งาน API Key แล้ว"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }} ลบรหัส API แล้ว"
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }} สร้างแอป {{ appName }}"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr "ขออภัย แอป {{ appName }} ของคุณไม่สามารถเผยแพร่ได้ สาเหตุคือ:"
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "เหตุผล: {{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr ""
+"ขอแสดงความยินดี! คุณได้เผยแพร่แอป {{ appName }} สำเร็จแล้ว "
+"ตรวจสอบในศูนย์เทมเพลต"
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }} ลบแอป {{ appName }}"
+
+msgid "site.message.content.app_rename"
+msgstr "{{ operator }} เปลี่ยนชื่อแอปจาก {{ oriAppName }} เป็น {{ newAppName }}"
+
+msgid "site.message.content.app_template_approved"
+msgstr "เทมเพลต \"{{ templateName }}\" ได้รับการอนุมัติแล้ว"
+
+msgid "site.message.content.app_template_publish"
+msgstr ""
+"{{ operator }} ได้เปิดตัวแอปพลิเคชัน \"{{ templateName }}\" แล้ว "
+"โดยอยู่ระหว่างรอการตรวจสอบ"
+
+msgid "site.message.content.app_template_rejected"
+msgstr "เทมเพลต \"{{ templateName }}\" ไม่ผ่านการตรวจสอบ เหตุผล: {{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"บริษัท/ทีมของคุณ \"{{ corpName }}\" ได้ดำเนินการ Automations Pro แล้ว {{ "
+"usage }} ครั้ง ขีดจำกัดรายเดือนอยู่ที่ {{ limit }} ในแผนปัจจุบัน "
+"หากเกินขีดจำกัด เหรียญจะถูกใช้ไป เพื่อป้องกันไม่ให้ธุรกิจของคุณหยุดชะงัก "
+"โปรดตรวจสอบให้แน่ใจว่าบัญชีของคุณมีเหรียญเพียงพอ"
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"ทีมของคุณ \"{{ corpName }}\" ได้ถึง {{ usage }} ครั้งในการรัน Automation "
+"Pro แล้ว กำลังจะถึงขีดจำกัดประจำปี {{ limit }} หากเกินขีดจำกัด Automation "
+"Pro จะไม่สามารถรันได้หรือจำเป็นต้องใช้ Cloud Coins กรุณาไปที่ \"การจัดการ - "
+"รายละเอียดแพ็กเกจ\" เพื่อตรวจสอบการใช้งานและเติม Cloud Coins"
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"ทีมของคุณ \"{{ corpName }}\" ได้ถึง {{ usage }} ครั้งในการรัน Automation "
+"Pro แล้ว จำนวนครั้งสูงสุดที่อนุญาตต่อปีคือ {{ limit }} กรุณาตรวจสอบ"
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"จำนวน BPA สำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัด \"{{ "
+"vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"การใช้งานระบบของบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัด "
+"และระบบถูกระงับชั่วคราว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"ยอดคงเหลือของ Cloud Coin ของทีม {{ corpName }} ของคุณน้อยกว่า {{ limit }} "
+"คุณสมบัติต่างๆ เช่น การยืนยันทาง SMS การรับรู้ OCR "
+"และการอัปโหลดไฟล์แนบอาจได้รับผลกระทบ เพื่อหลีกเลี่ยงผลกระทบต่อธุรกิจของคุณ "
+"โปรดชาร์จบัญชีของคุณโดยเร็วที่สุด"
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"ยอดคงเหลือของ Cloud Coin ของทีม {{ corpName }} ของคุณกำลังจะหมดลง "
+"ฟีเจอร์ต่างๆ เช่น การยืนยันทาง SMS การรับรู้ OCR "
+"และการอัปโหลดไฟล์แนบอาจได้รับผลกระทบ เพื่อหลีกเลี่ยงผลกระทบต่อธุรกิจของคุณ "
+"โปรดชาร์จเงินในบัญชีของคุณโดยเร็วที่สุด"
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }} กล่าวถึงคุณในความคิดเห็น {{ dataTitle }}"
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "ข้อมูลที่ไม่มีชื่อ"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "ภาพรวมความคิดเห็น: {{ messageComment }}"
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr "สมาชิกในบริษัท {{ corpName }} กล่าวถึงคุณในความคิดเห็น {{ dataTitle }}"
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "ข้อมูลที่ไม่มีชื่อ"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "ภาพรวมความคิดเห็น: {{ messageComment }}"
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }} เปลี่ยนเจ้าของผู้ติดต่อ {{ data_label }} ก่อนหน้า: {{ "
+"raw_charger }} ปัจจุบัน: {{ new_charger }}"
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr "{{ operator }} เปลี่ยนเจ้าของของผู้ติดต่อ {{ contacts_num }} ราย"
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{ operator }} เปลี่ยนผู้ร่วมงานของผู้ติดต่อ {{ data_label }} "
+"ผู้ร่วมงานปัจจุบัน: {{ collaborators }}"
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{ operator }} เปลี่ยนผู้ร่วมงานของผู้ติดต่อ {{ contacts_num }} ราย"
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr ""
+"ไม่สามารถทำงานร่วมกับบริษัท/ทีมอื่นในธุรกิจได้ "
+"จำนวนบุคคลที่ติดต่อสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" ไม่เพียงพอ"
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"บริษัท {{ corpName }} ที่คุณติดต่อด้วยได้ยื่นคำขอร่วมมือกับคุณ "
+"หลังจากได้ดำเนินการร่วมมือแล้ว "
+"ผู้ติดต่อของคุณสามารถมีส่วนร่วมในธุรกิจของบริษัทได้"
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"จำนวนธุรกิจที่เชื่อมต่อสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"เกินขีดจำกัด \"{{ vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr ""
+"ไม่สามารถเชื่อมต่อกับบริษัทอื่นได้ "
+"โควตาการเชื่อมต่อองค์กรสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" ไม่เพียงพอ "
+"โปรดซื้อเพิ่มเติมแล้วลองอีกครั้ง"
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+" เพื่อนของคุณกำลังเชิญคุณให้ร่วมมือผ่าน {{ _g_productName }} "
+"เข้าร่วมทีมของเขา/เธอ \"{{ corpName }}\" คำเชิญจะมีอายุ 7 วัน"
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"ในแดชบอร์ด {{ entryName }} ของแอป {{ appName }} ข้อมูลใน {{ widgetName }} "
+"จะทริกเกอร์การแจ้งเตือนข้อมูล {{ thresholdName }}"
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr ""
+"การแจ้งเตือนล้มเหลว เนื่องจากการแจ้งเตือนข้อมูล {{ thresholdName }} "
+"ไม่สามารถดำเนินการได้"
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "การแจ้งเตือนจาก {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr ""
+"การแจ้งเตือนข้อมูลแดชบอร์ดที่เปิดใช้งานได้ถึงขีดจำกัดรายวันที่ 1,000 "
+"รายการแล้ว จะไม่มีการแจ้งเตือนเพิ่มเติมในวันนี้"
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr ""
+"เนื่องจากเงื่อนไขการแจ้งเตือนข้อมูล {{ thresholdName }} ไม่ถูกต้อง "
+"การแจ้งเตือนข้อมูลจึงถูกปิดการใช้งานโดยอัตโนมัติ"
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "การแจ้งเตือนจาก {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr ""
+"การแจ้งเตือนถูกปิดการใช้งานโดยอัตโนมัติ เนื่องจากการแจ้งเตือนข้อมูล {{ "
+"thresholdName }} ไม่สามารถดำเนินการได้หลายครั้ง"
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "การแจ้งเตือนจาก {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"ปริมาณข้อมูลรวมของบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัด \"{{ "
+"vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"บริษัท/ทีมของคุณ \"{{ corpName }}\" ได้ใช้ข้อมูลไปแล้ว {{ usage }} "
+"รายการในเดือนนี้ ซึ่งใกล้จะถึงขีดจำกัด 1,000 รายการแล้ว ไปที่ \"การจัดการ > "
+"รายละเอียดแผน\" เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"ในแอป {{ appName }} ระบบอัตโนมัติ {{ triggerName }} "
+"ไม่สามารถทริกเกอร์ได้เป็นเวลา {{ failedCount }} ครั้ง "
+"ดูประวัติการทริกเกอร์ในเวลาที่กำหนด"
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"การทำงานอัตโนมัติ \"{{ triggerName }}\" ในแอป \"{{ appName }}\" "
+"ไม่สามารถดำเนินการได้ โปรดตรวจสอบเวลาบันทึกประวัติการทริกเกอร์"
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"ในแอป {{ appName }} ระบบอัตโนมัติ {{ triggerName }} "
+"ไม่สามารถทริกเกอร์ได้เป็นเวลา {{ failedCount }} ครั้ง "
+"จะไม่มีการส่งการแจ้งเตือนเพิ่มเติมในวันนี้ ดูประวัติการทริกเกอร์ได้ทันเวลา"
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"บริษัท/ทีมของคุณ \"{{ corpName }}\" ใช้งานไปแล้ว {{ usage }} รายการ "
+"โดยใกล้ถึงขีดจำกัด {{ limit }} แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }} เพิ่มแผนกชื่อ {{ deptName }}"
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }} นำเข้าแผนก {{ deptSize }} แผนก"
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }} ลบแผนก {{ deptName }} แล้ว"
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"บริษัท {{ corpName }} ที่สร้างความสัมพันธ์กับคุณมี {{ op }} {{ side }} "
+"ติดต่อ {{ nicknameList }} "
+"ปรับเปลี่ยนสิทธิ์ที่เกี่ยวข้องอย่างทันท่วงทีเพื่อรับประกันการพัฒนาธุรกิจตามป"
+"กติ"
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"บริษัท {{ corpName }} ที่สร้างความสัมพันธ์กับคุณมี {{ op }} {{ side }} "
+"ติดต่อ {{ nicknameList }} "
+"ปรับเปลี่ยนสิทธิ์ที่เกี่ยวข้องอย่างทันท่วงทีเพื่อรับประกันการพัฒนาธุรกิจตามป"
+"กติ"
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"บริษัท {{ corpName }} ที่สร้างการเชื่อมต่อกับคุณมี {{ op }} {{ side }} "
+"ติดต่อ {{ nicknameList }}"
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"จำนวนสตรีมข้อมูลสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัด \"{{ "
+"vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"สตรีมข้อมูล \"{{ etlName }}\" ใน \"{{ appName }}\" "
+"ไม่สามารถอัปเดตได้เป็นเวลา {{ maxCount }} ครั้ง "
+"ระบบได้ปิดใช้งานกฎการอัปเดตและการอัปเดตทั้งหมดถูกระงับ "
+"ตรวจสอบสาเหตุของความล้มเหลวและทำการปรับเปลี่ยนก่อนเปิดใช้งานกฎการอัปเดตอีกคร"
+"ั้ง"
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr " สตรีมข้อมูล \"{{ etlName }}\" ในแอป \"{{ appName }}\" ไม่สามารถอัปเดตได้"
+
+msgid "site.message.content.etl_sync_failed"
+msgstr ""
+"สตรีมข้อมูล \"{{ etl_name }}\" ในแอป \"{{ app_name }}\" "
+"ล้มเหลวในการซิงโครไนซ์ข้อมูลไปยังตารางเอาต์พุต"
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr "ไม่สามารถส่งออก \"{{ title }}\" ได้ ข้อมูลสมาชิกที่ส่งออกเกินขีดจำกัดสูงสุด"
+
+msgid "site.message.content.excel_import_complete"
+msgstr "{{ entryName }} นำเข้าข้อมูล {{ import }} สำเร็จแล้ว"
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"{{ entryName }} นำเข้าข้อมูลสำเร็จ {{ imported }} รายการ แต่ไม่สำเร็จ {{ "
+"failed }} รายการ ลิงก์ดาวน์โหลดรายงานข้อผิดพลาดจะหมดอายุใน 24 ชั่วโมง "
+"กรุณาดาวน์โหลดโดยเร็ว"
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "\"{{ entryName }}\" อัปเดตข้อมูล {{ updated }} สำเร็จแล้ว"
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"{{ entryName }} อัปเดตข้อมูลสำเร็จแล้ว {{ updated }} ชิ้น "
+"ไม่สามารถอัปเดตข้อมูลได้ {{ failed }} ชิ้น "
+"ลิงก์ดาวน์โหลดรายงานข้อผิดพลาดจะไม่ถูกต้องหลังจากผ่านไป 24 ชั่วโมง "
+"กรุณาดาวน์โหลดโดยเร็วที่สุด"
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"{{ entryName }} อัปเดตข้อมูล {{ updated }} ชิ้นสำเร็จแล้ว นำเข้าข้อมูล {{ "
+"import }} ชิ้นสำเร็จแล้ว"
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"{{ entryName }} อัปเดตข้อมูลสำเร็จแล้ว {{ updated }} ชิ้น "
+"นำเข้าข้อมูลสำเร็จแล้ว {{ import }} ชิ้น แต่ไม่สามารถนำเข้าข้อมูลสำเร็จแล้ว "
+"{{ failed }} ชิ้น ลิงก์ดาวน์โหลดรายงานข้อผิดพลาดจะใช้งานไม่ได้หลังจากผ่านไป "
+"24 ชั่วโมง กรุณาดาวน์โหลดโดยเร็วที่สุด"
+
+msgid "site.message.content.file_export_complete"
+msgstr ""
+"\"{{ title }}\" พร้อมสำหรับการดาวน์โหลดแล้ว ลิงก์ดาวน์โหลดจะหมดอายุหลังจาก "
+"24 ชั่วโมง โปรดดาวน์โหลดโดยเร็วที่สุด"
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"\"{{ title }}\" ไฟล์ส่งออกมีขนาดใหญ่เกินไป เมื่อส่งออก ข้อมูลจะต้องไม่เกิน "
+"16MB, 100,000 แถว และ 1,000,000 กริด โปรดกรองและส่งออกอีกครั้ง"
+
+msgid "site.message.content.file_export_failed"
+msgstr "ไม่สามารถส่งออก \"{{ title }}\" ได้ โปรดลองอีกครั้งในภายหลังหรือติดต่อเรา"
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"การส่งออกล้มเหลว ขนาดไฟล์ของ {widget} มีขนาดใหญ่เกินไป "
+"สามารถส่งออกไฟล์แนบได้สูงสุด 1,000 ไฟล์ และไฟล์ที่บีบอัดต้องไม่เกิน 1 GB "
+"ลองส่งออกเป็นชุดย่อย"
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"การส่งออกล้มเหลว มีกฎการเรียงลำดับข้อมูลในฟอร์ม {{ title }} มากเกินไป "
+"ลดกฎการเรียงลำดับหรือปริมาณข้อมูลที่จะส่งออก แล้วส่งออกอีกครั้ง"
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"การส่งออกล้มเหลว ขนาดไฟล์ของ {{ title }} มีขนาดใหญ่เกินไป "
+"สามารถส่งออกเซลล์ที่ผสานกันได้สูงสุด 1,000,000 เซลล์ "
+"และข้อมูลไม่สามารถเกินขีดจำกัดแถวของ Excel ได้ กรองข้อมูลและส่งออกอีกครั้ง"
+
+msgid "site.message.content.flow_cc"
+msgstr "หากต้องดำเนินการเพิ่มเติม โปรดตรวจสอบโดยเร็วที่สุด"
+
+msgid "site.message.content.flow_cc_merge"
+msgstr "หากต้องดำเนินการเพิ่มเติม โปรดตรวจสอบโดยเร็วที่สุด"
+
+msgid "site.message.content.flow_forward"
+msgstr "{{ operator }} ส่งกระบวนการแล้ว กรุณาดำเนินการให้ทันเวลา"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "ส่งโดย {{ flowCreatorName }} กรุณาจัดการโดยเร็ว"
+
+msgid "site.message.content.flow_timeout"
+msgstr "ส่งโดย {{ flowCreatorName }} กรุณาจัดการโดยเร็ว"
+
+msgid "site.message.content.follow_plan_complete"
+msgstr ""
+"{{ operator }} ดำเนินการตามแผนการติดตาม \"{{ data_label }}\" "
+"ของคุณเสร็จสิ้นแล้ว"
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }} ดำเนินการตามแผนติดตามผลของคุณสำเร็จแล้ว {{ plan_num }}"
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"ปริมาณข้อมูลต่อแบบฟอร์มสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"เกินขีดจำกัด \"{{ vipLevel }}\" ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"บริษัท/ทีมของคุณ \"{{ corpName }}\" ได้ใช้ข้อมูลไปแล้ว {{ usage }} "
+"รายการต่อแบบฟอร์ม ซึ่งใกล้ถึงขีดจำกัด {{ limit }} แล้ว ไปที่ \"การจัดการ > "
+"รายละเอียดแผน\" เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.guest_corp_accept"
+msgstr ""
+"บริษัท \"{{ corpName }}\" ยอมรับคำเชิญของคุณแล้ว "
+"แบ่งปันสิทธิ์การใช้งานแอป/แบบฟอร์มกับผู้ติดต่อเพื่อการทำงานร่วมกันในอนาคต"
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr ""
+"พันธมิตรที่เชื่อมต่อของคุณ \"{{ corpName }}\" "
+"อนุมัติคำขอของคุณในการจัดการร่วมของผู้ติดต่อ"
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "บริษัท \"{{ corpName }}\" ถูกตัดการเชื่อมต่อจากคุณ"
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr "คู่ค้าที่เชื่อมต่อของคุณ \"{{ corpName }}\" เข้าควบคุมสิทธิ์ของผู้ติดต่อ"
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"พันธมิตรที่เชื่อมต่อของคุณ \"{{ corpName }}\" เปลี่ยนโหมดการใช้งาน "
+"ดังนั้นการเชื่อมต่อของคุณจึงสิ้นสุดลง "
+"และโควตาการเชื่อมต่อได้ถูกส่งคืนไปยังบัญชีของคุณแล้ว "
+"ติดต่อผู้รับผิดชอบเพื่อสร้างการเชื่อมต่อใหม่"
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"คู่ค้าของคุณ \"{{ corpName }}\" ขออนุญาตจัดการรายชื่อติดต่อในบัญชี \"{{ "
+"_g_productName }}\" ของคุณ "
+"เพื่อให้พวกเขาสามารถตั้งค่ารายชื่อติดต่อทางธุรกิจได้ หากจำเป็น "
+"คุณสามารถดำเนินการขออนุญาตสำหรับรายชื่อติดต่อด้วยตนเองในภายหลัง"
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr ""
+"บริษัท \"{{ corpName }}\" ยุติความร่วมมือกับคุณ "
+"โปรดปรับเปลี่ยนสิทธิ์ที่เกี่ยวข้องเพื่อหลีกเลี่ยงผลกระทบต่อธุรกิจของคุณ"
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr ""
+"พันธมิตรที่เชื่อมต่อของคุณ \"{{ corpName }}\" เปลี่ยนโหมดการใช้งาน "
+"ดังนั้นการเชื่อมต่อของคุณจึงสิ้นสุดลง "
+"โปรดติดต่อผู้รับผิดชอบเพื่อสร้างการเชื่อมต่อใหม่"
+
+msgid "site.message.content.import_file_complete"
+msgstr "นำเข้าไฟล์แนบ {{success}} รายการสำหรับ \"{{ title }}\" {{failed}} ล้มเหลว"
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr "{{ operator }} จัดการความคิดเห็นในเอกสาร \"{{ document }}\""
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "ภาพรวมความคิดเห็น: {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }} แสดงความเห็นในเอกสาร \"{{ document }}\""
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "ภาพรวมความคิดเห็น: {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }} สร้างเอกสารชื่อ \"{{ document }}\""
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }} แก้ไขเอกสาร \"{{ document }}\""
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }} ชอบเอกสาร \"{{ document }}\""
+
+msgid "site.message.content.kms_space_apply"
+msgstr " {{ candidate }} สมัครเพื่อสร้างฐานความรู้ {{ space_name }}"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr ""
+"สร้างฐานความรู้สำเร็จแล้ว ตอนนี้คุณเป็นผู้ดูแลฐานความรู้ใหม่ \"{{ "
+"space_name }}\""
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr ""
+"ไม่สามารถสร้างฐานความรู้ {{ space_name }} ได้ "
+"โปรดปรับปรุงคำอธิบายและลองอีกครั้ง"
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "เหตุผลการปฏิเสธ: {{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr ""
+"ตอนนี้คุณเป็นผู้ดูแลฐานความรู้ \"{{ space_name }}\" "
+"เริ่มต้นสร้างเอกสารและแบ่งปันไอเดียของคุณ!"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{ operator }} เตือนคุณให้ดูเอกสาร \"{{ document }}\""
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "ภาพรวมเอกสาร: {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }} ได้มอบหมายบทบาท \"{{ data_label }}\" ให้กับคุณ"
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }} ได้กำหนดรายชื่อผู้สนใจ {{ leads_num }} รายให้กับคุณ"
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }} เปลี่ยนเจ้าของลีด \"{{ data_label }}\" ก่อนหน้า: \"{{ "
+"raw_charger }}\" ปัจจุบัน: \"{{ new_charger }}\""
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr ""
+"{{ operator }} เปลี่ยนผู้รับผิดชอบรายชื่อผู้มีแนวโน้มจะเป็นลูกค้า {{ "
+"leads_num }} ราย"
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{ operator }} เปลี่ยนผู้ร่วมงานของหัวหน้า \"{{ data_label }}\" "
+"ผู้ร่วมงานปัจจุบัน: \"{{ collaborators }}\""
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }} เปลี่ยนผู้ร่วมงานของผู้นำ {{ leads_num }} ราย"
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }} รีไซเคิลข้อมูล \"{{ data_label }}\" แล้ว"
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "ข้อมูล \"{{ data_label }}\" ถูกนำกลับมาใช้ใหม่โดยอัตโนมัติ"
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }} รีไซเคิล {{ leads_num }} รายการแล้ว"
+
+msgid "site.message.content.manage_group_add_members"
+msgstr ""
+"{{ operator }} เพิ่ม {{ members }} ไปที่กลุ่มผู้ดูแลระบบ \"{{ manageGroup "
+"}}\""
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{ operator }} เพิ่มกลุ่มผู้ดูแลระบบชื่อ \"{{ manageGroup }}\""
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{ operator }} ลบกลุ่มผู้ดูแลระบบชื่อ \"{{ manageGroup }}\""
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr "{{ operator }} ลบ {{ members }} ออกจากกลุ่มผู้ดูแลระบบ \"{{ manageGroup }}\""
+
+msgid "site.message.content.manager_login"
+msgstr "ผู้ดูแลระบบ {{ operator }} ได้ล็อกอินเข้าสู่ระบบแล้ว"
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }} นำเข้าสมาชิก {{ memberSize }} ราย"
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }} ได้เชิญ {{ memberList }}"
+
+msgid "site.message.content.member_remove"
+msgstr "{{ operator }} ได้ตั้งค่าสมาชิก {{ memberList }} ให้ลาออกแล้ว"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"การใช้งานระบบของบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัดแล้ว "
+"หากต้องการดำเนินการต่อโดยไม่หยุดชะงัก ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"การส่งข้อความของคุณล้มเหลว 100 ครั้งและเว็บฮุก (ข้อความ) "
+"จะถูกปิดการใช้งานโดยอัตโนมัติ โปรดตรวจสอบสาเหตุและปรับแต่งการกำหนดค่าใน "
+"\"การจัดการ - เว็บฮุก (ข้อความ)\""
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"การส่งข้อความของคุณล้มเหลว หากส่งข้อความมากกว่า 100 ข้อความล้มเหลว เว็บฮุก "
+"(ข้อความ) จะถูกปิดใช้งานโดยอัตโนมัติ "
+"โปรดตรวจสอบสาเหตุในเวลาที่เหมาะสมและปรับการกำหนดค่าใน \"การจัดการ - เว็บฮุก "
+"(ข้อความ)\""
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"การส่งข้อความของคุณล้มเหลว {{ count }} ครั้ง หากส่งข้อความล้มเหลวมากกว่า "
+"100 ข้อความ เว็บฮุก (ข้อความ) จะถูกปิดใช้งานโดยอัตโนมัติ "
+"โปรดตรวจสอบสาเหตุในเวลาที่เหมาะสมและปรับการกำหนดค่าใน \"การจัดการ - เว็บฮุก "
+"(ข้อความ)\""
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"แอปบางตัวที่บริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"ได้ทดลองใช้ฟรีกำลังจะหมดอายุ เมื่อหมดอายุแล้ว "
+"ข้อมูลจะถูกเก็บไว้แต่ฟีเจอร์ต่างๆ จะถูกจำกัด "
+"ดังนั้นควรอัปเกรดแผนของคุณทันที "
+"หากคุณสมัครใช้งานแบบทดลองใช้หรือซื้อแผนพรีเมียมแล้ว "
+"โปรดละเว้นการแจ้งเตือนนี้"
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{ operator }} เพิ่มแผนการติดตามผล \"{{ data_label }}\" ให้กับคุณแล้ว"
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }} เพิ่มการอนุญาตสำหรับ \"{{ suite_name }}\""
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }} เพิกถอนการอนุญาตสำหรับ \"{{ suite_name }}\""
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }} เปลี่ยนเจ้าของโอกาสทางธุรกิจ \"{{ data_label }}\" ก่อนหน้า: "
+"{{ raw_charger }} ปัจจุบัน: {{ new_charger }}"
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr ""
+"{{ operator }} เปลี่ยนเจ้าของโอกาสทางธุรกิจ {{ opportunity_num }} "
+"รายการ/โอกาสต่างๆ"
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{ operator }} ได้เปลี่ยนแปลงผู้ร่วมงานในโอกาสทางธุรกิจ \"{{ data_label "
+"}}\" ปัจจุบัน: {{ collaborators }}"
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr ""
+"{{ operator }} ได้เปลี่ยนแปลงผู้ร่วมงานของโอกาสทางธุรกิจ {{ opportunity_num "
+"}} รายการ/โอกาสต่างๆ"
+
+msgid "site.message.content.opportunity_win"
+msgstr "โอกาสทางธุรกิจ \"{{ data_label }}\" ได้รับแล้ว"
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"ปลั๊กอิน \"{{ pluginName }}\" ในบริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"จะหมดอายุในวันที่ {{ expireTime }} และปลั๊กอินจะถูกปิดใช้งานหลังจากผ่านไป "
+"{{ days }} วัน หากคุณต้องการต่ออายุ โปรดติดต่อเรา"
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"แอป \"{{ appName }}\" ที่บริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"ได้ทดลองใช้ฟรีจะหมดอายุใน {{ days }} วัน เมื่อหมดอายุแล้ว "
+"ข้อมูลจะถูกเก็บไว้แต่ฟีเจอร์จะถูกจำกัด ดังนั้นควรอัปเกรดแผนของคุณทันที "
+"หากคุณสมัครใช้งานแบบทดลองใช้หรือซื้อแผนพรีเมียมแล้ว "
+"โปรดละเว้นการแจ้งเตือนนี้"
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"เหรียญบนคลาวด์ในบัญชี \"{{ corpName }}\" ของบริษัท/ทีมของคุณหมดลงแล้ว "
+"ฟีเจอร์การยืนยันทาง SMS ไม่สามารถใช้งานได้อีกต่อไป "
+"และสมาชิกบางคนไม่สามารถส่งข้อมูลได้ "
+"หากต้องการป้องกันไม่ให้ธุรกิจของคุณหยุดชะงัก "
+"โปรดปรับเปลี่ยนการออกแบบหรือเติมเหรียญ เมื่อเติมแล้ว "
+"ฟีเจอร์นี้จะไม่ถูกจำกัดอีกต่อไป"
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"เพื่อนของคุณ {{ nickname }} กำลังเชิญคุณเข้าร่วมการทำงานร่วมกันผ่าน {{ "
+"_g_productName }} เข้าร่วมทีมของเขา/เธอ คำเชิญจะมีอายุ 7 วัน"
+
+msgid "site.message.content.team_invite_notify"
+msgstr ""
+"เพื่อนของคุณ {{ nickname }} ต้องการร่วมมือกับคุณใน {{ _g_productName }} "
+"โปรดไปที่ข้อความเพื่อดูรายละเอียด"
+
+msgid "site.message.content.team_invite_success"
+msgstr "คุณได้เข้าร่วม {{ teamName }} สำเร็จแล้ว"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"การใช้งานระบบสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"เกินขีดจำกัดของแผนฟรีแล้ว "
+"หากต้องการให้ระบบใช้งานต่อเนื่องได้หลังจากช่วงทดลองใช้งาน ให้ไปที่ "
+"\"การจัดการ > รายละเอียดแผน\" เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน "
+"สามารถขยายวันทดลองใช้งานที่เหลือสำหรับแผนใดก็ได้"
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"จำนวนการทำงานอัตโนมัติสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"เกินขีดจำกัด \"{{ vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"จำนวนไฟล์แนบที่อัปโหลดสำหรับบริษัท/ทีมของคุณ \"{{ corpName }}\" "
+"เกินขีดจำกัด \"{{ vipLevel }}\" แล้ว ไปที่ \"การจัดการ > รายละเอียดแผน\" "
+"เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"จำนวนไฟล์แนบที่อัปโหลดในบัญชี \"{{ corpName }}\" ของบริษัท/ทีมของคุณถึง {{ "
+"usage }} จากขีดจำกัดทั้งหมด {{ limit }} แล้ว หากเกินขีดจำกัด "
+"เหรียญคลาวด์จะถูกใช้ไป เพื่อป้องกันไม่ให้ธุรกิจของคุณหยุดชะงัก "
+"โปรดตรวจสอบให้แน่ใจว่าบัญชีของคุณมีเหรียญเพียงพอ"
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"จำนวนไฟล์แนบที่อัปโหลดในบัญชี \"{{ corpName }}\" ของบริษัท/ทีมของคุณถึง {{ "
+"usage }} จากขีดจำกัดทั้งหมด {{ limit }} แล้ว หากเกินขีดจำกัด "
+"เหรียญคลาวด์จะถูกใช้ไป ตอนนี้คุณมีเหรียญ {{ coinBalance }} เหรียญแล้ว "
+"เพื่อป้องกันไม่ให้ธุรกิจของคุณหยุดชะงัก "
+"โปรดตรวจสอบให้แน่ใจว่าบัญชีของคุณมีเหรียญเพียงพอ"
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"จำนวนไฟล์แนบที่อัปโหลดในบัญชี \"{{ corpName }}\" ของบริษัท/ทีมของคุณถึง {{ "
+"usage }} จากขีดจำกัดทั้งหมด {{ limit }} แล้ว หากเกินขีดจำกัด "
+"เหรียญคลาวด์จะถูกใช้ไป ตอนนี้คุณไม่มีเหรียญเกิน {{ coinBalance }} เหรียญ "
+"เพื่อป้องกันไม่ให้ธุรกิจของคุณหยุดชะงัก โปรดชาร์จเหรียญโดยเร็วที่สุด"
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"จำนวนไฟล์แนบที่อัปโหลดในบัญชี \"{{ corpName }}\" ของบริษัท/ทีมของคุณถึง {{ "
+"usage }} จากขีดจำกัดทั้งหมด {{ limit }} แล้ว หากเกินขีดจำกัด "
+"คลาวด์คอยน์จะถูกใช้ไป เพื่อป้องกันไม่ให้ธุรกิจของคุณหยุดชะงัก "
+"โปรดเปิดใช้งาน \"การอัปโหลดไฟล์ที่เกินขีดจำกัดจะเสียเหรียญ\" "
+"ในการตั้งค่าการชำระเงิน และตรวจสอบให้แน่ใจว่าบัญชีของคุณมีเหรียญเพียงพอ"
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"จำนวนสมาชิกในบริษัท/ทีมของคุณ \"{{ corpName }}\" เกินขีดจำกัดแล้ว ไปที่ "
+"\"การจัดการ > รายละเอียดแผน\" เพื่อดูรายละเอียดการใช้งานและอัปเกรดแผน"
+
+msgid "site.message.content.webhook_failed_count"
+msgstr ""
+"จำนวน Webhook ที่ล้มเหลวในแบบฟอร์ม {{ entryName }} ของคุณถึง {{ count }} "
+"แล้ว โปรดตรวจสอบและปรับเปลี่ยนโดยเร็วที่สุด"
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"จำนวน Webhook ที่ล้มเหลวในแบบฟอร์ม {{ entryName }} ของคุณถึง {{ count }} "
+"แล้ว Webhook ได้ถูกปิดใช้งาน โปรดเปิดใช้งานหากจำเป็น"
+
+msgid "site.message.content.webhook_failed_first"
+msgstr ""
+"เว็บฮุกล้มเหลวในแบบฟอร์ม {{ entryName }} ของคุณ "
+"โปรดตรวจสอบและปรับเปลี่ยนโดยเร็วที่สุด"
+
+msgid "site.message.content.webhook_form_type"
+msgstr ""
+"เนื่องจากการสลับประเภทแบบฟอร์ม "
+"เว็บฮุกในแบบฟอร์มของคุณจะผลักข้อมูลตามประเภทแบบฟอร์มใหม่"
+
+msgid "site.message.link_text.accept_application"
+msgstr "ยอมรับ"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "ยอมรับ"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "ดาวน์โหลดรายงานข้อผิดพลาด"
+
+msgid "site.message.link_text.download_now"
+msgstr "ดาวน์โหลดทันที"
+
+msgid "site.message.link_text.view_details"
+msgstr "ดูรายละเอียด"
+
+msgid "site.message.title.dash_alert"
+msgstr "การแจ้งเตือนข้อมูล"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "เทมเพลตสร้างเอง"
+
+msgid "template_center.space.standard"
+msgstr "เทมเพลตมาตรฐาน"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "เทมเพลตการนำเข้ารายชื่อติดต่อจำนวนมาก"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "เทมเพลตการนำเข้าเป็นกลุ่มสำหรับผู้ทำงานร่วมกัน"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "เทมเพลตการนำเข้าบทบาท"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "เทมเพลตการสร้างแบตช์สำหรับผู้ติดต่อ"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "แอปพลิเคชั่นการตรวจสอบตัวตน {{ _g_productName }}"
+
+msgid "tenant.verify.files.corp"
+msgstr "ชื่อบริษัท เอกสารประกอบที่เกี่ยวข้อง ฯลฯ"
+
+msgid "tenant.verify.files.owner"
+msgstr "ชื่อ, บัตรประชาชน/เอกสารอื่นๆ"
+
+msgid "tenant.verify.title.approved"
+msgstr "ข้อมูลประจำตัวที่คุณส่งได้รับการอนุมัติแล้ว"
+
+msgid "tenant.verify.title.declined"
+msgstr "ข้อมูลประจำตัวที่คุณส่งมาถูกปฏิเสธ"
+
+msgid "tenant.verify.title.has_expired"
+msgstr ""
+"การยืนยันตัวตนของบริษัทของคุณหมดอายุแล้ว "
+"และไม่สามารถเข้าถึงลิงก์สาธารณะได้อีกต่อไป ยืนยันตัวตนโดยเร็วที่สุด"
+
+msgid "tenant.verify.title.will_expire"
+msgstr ""
+"การยืนยันตัวตนของบริษัทของคุณกำลังจะหมดอายุ "
+"หากต้องการให้สามารถเข้าถึงลิงก์สาธารณะได้อย่างต่อเนื่อง "
+"ให้ทำการยืนยันตัวตนโดยเร็วที่สุด"
+
+msgid "tenant.verify.type.corp"
+msgstr "องค์กรธุรกิจ"
+
+msgid "tenant.verify.type.owner"
+msgstr "ส่วนตัว"
+
+msgid "type.not.match"
+msgstr "ประเภทไม่ถูกต้อง"
+
+msgid "ua.dingtalkMobile"
+msgstr "ดิงทอล์คมือถือ"
+
+msgid "ua.dingtalkPC"
+msgstr "ดิงทอล์คพีซี"
+
+msgid "ua.larkMobile"
+msgstr "ลาร์ค โมบาย"
+
+msgid "ua.larkPC"
+msgstr "ลาร์คพีซี"
+
+msgid "ua.mobile"
+msgstr "เว็บมือถือ"
+
+msgid "ua.pc"
+msgstr "เว็บไซต์พีซี"
+
+msgid "ua.wechatMiniProgram"
+msgstr "โปรแกรมย่อ"
+
+msgid "ua.wechatMobile"
+msgstr "WeChat มือถือ"
+
+msgid "ua.wechatPC"
+msgstr "วีแชทพีซี"
+
+msgid "ua.wxworkMobile"
+msgstr "วีคอมโมบาย"
+
+msgid "ua.wxworkPC"
+msgstr "วีคอมพีซี"
+
+msgid "user.defaultNickname"
+msgstr "ไม่มีชื่อ"
+
+msgid "userActivity.app.metricsName"
+msgstr "ดูรายละเอียดกิจกรรมตามแอป"
+
+msgid "userActivity.app.reportName"
+msgstr "ดูตามภาพรวมแอป"
+
+msgid "userActivity.appId"
+msgstr "รหัสแอป"
+
+msgid "userActivity.appName"
+msgstr "แอป"
+
+msgid "userActivity.app_access_count"
+msgstr "ผู้ใช้ (การเข้าถึง)"
+
+msgid "userActivity.app_access_times"
+msgstr "เวลา (การเข้าถึง)"
+
+msgid "userActivity.data_create_count"
+msgstr "ผู้ใช้ (สร้างข้อมูล)"
+
+msgid "userActivity.data_create_times"
+msgstr "ครั้ง (สร้างข้อมูล)"
+
+msgid "userActivity.data_export_count"
+msgstr "ผู้ใช้งาน (ข้อมูลส่งออก)"
+
+msgid "userActivity.data_export_times"
+msgstr "เวลา (ข้อมูลส่งออก)"
+
+msgid "userActivity.data_remove_count"
+msgstr "ผู้ใช้ (ลบข้อมูล)"
+
+msgid "userActivity.data_remove_times"
+msgstr "ครั้ง (ลบข้อมูล)"
+
+msgid "userActivity.data_update_count"
+msgstr "ผู้ใช้งาน (อัพเดทข้อมูล)"
+
+msgid "userActivity.data_update_times"
+msgstr "ไทม์ส (อัปเดตข้อมูล)"
+
+msgid "userActivity.entity.metricsName"
+msgstr "ดูรายละเอียดกิจกรรมตามวัตถุ"
+
+msgid "userActivity.entity.reportName"
+msgstr "ดูตามภาพรวมวัตถุ"
+
+msgid "userActivity.entityId"
+msgstr "รหัสวัตถุ"
+
+msgid "userActivity.entityName"
+msgstr "วัตถุ"
+
+msgid "userActivity.fileName"
+msgstr "กิจกรรมสมาชิก"
+
+msgid "userActivity.login_stats_count"
+msgstr "ผู้ใช้งาน (เข้าสู่ระบบ)"
+
+msgid "userActivity.login_stats_times"
+msgstr "ครั้ง (เข้าสู่ระบบ)"
+
+msgid "userActivity.memberId"
+msgstr "รหัสสมาชิก"
+
+msgid "userActivity.nickName"
+msgstr "สมาชิก"
+
+msgid "userActivity.time"
+msgstr "วันที่"
+
+msgid "userActivity.user.metricsName"
+msgstr "ดูรายละเอียดกิจกรรมตามสมาชิก"
+
+msgid "userActivity.user.reportName"
+msgstr "ดูตามภาพรวมสมาชิก"
+
+msgid "vip.pack.ent"
+msgstr "องค์กรธุรกิจ"
+
+msgid "vip.pack.free"
+msgstr "ฟรี"
+
+msgid "vip.pack.lite"
+msgstr "ไลท์"
+
+msgid "vip.pack.oem"
+msgstr "กำหนดเอง"
+
+msgid "vip.pack.pro"
+msgstr "มืออาชีพ"
+
+msgid "vip.pack.self_hosted"
+msgstr "พิเศษ"
+
+msgid "vip.pack.starter"
+msgstr "สตาร์ทเตอร์"
+
+msgid "vip.pack.std"
+msgstr "ธุรกิจ"
+
+msgid "vip.pack.trial"
+msgstr "การทดลอง"
+
+msgid "vip.pack.user"
+msgstr "ตามจำนวนผู้ใช้"
+
+msgid "vip.pack.user_premium"
+msgstr "พรีเมี่ยม"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""

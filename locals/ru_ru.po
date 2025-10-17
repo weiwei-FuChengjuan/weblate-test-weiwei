@@ -1,0 +1,4629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.876Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.876Z\n"
+
+msgid "activity.fileName"
+msgstr "Данные о деятельности"
+
+msgid "activity_stats.export.dismission"
+msgstr "(Неактивно)"
+
+msgid "activity_stats.export.removed"
+msgstr "(Удалено)"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "Удаленное приложение"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "Удаленная форма"
+
+msgid "aggregate.compatMetricName"
+msgstr "Обновление индикаторов адаптации"
+
+msgid "aggregate.exceed.limit"
+msgstr "Длина формулы превышает лимит"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "Невозможно рассчитать агрегированные и неагрегированные поля"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "Агрегированные поля не могут быть использованы для агрегации снова."
+
+msgid "aggregate.main.subform.error"
+msgstr "Невозможно рассчитать поля основной формы и подчиненной формы"
+
+msgid "aggregate.param.be.number"
+msgstr "Параметры функции агрегации {{ name }} должны иметь числовые типы."
+
+msgid "aggregate.param.be.one"
+msgstr "Количество параметров для функции агрегации должно быть равно 1"
+
+msgid "aggregate.return.number"
+msgstr "Тип возвращаемой формулы должен быть Число."
+
+msgid "aggregate.support.same.form.op"
+msgstr "Рассчитываться могут только поля из одной и той же подформы."
+
+msgid "automation.node.end"
+msgstr "Конечный узел"
+
+msgid "automation.node.start"
+msgstr "Узел запуска"
+
+msgid "bpa.presetWidget.title0"
+msgstr "Созданный"
+
+msgid "bpa.presetWidget.title1"
+msgstr "В ходе выполнения"
+
+msgid "bpa.presetWidget.title10"
+msgstr "График тренда среднего времени обработки одного процесса"
+
+msgid "bpa.presetWidget.title11"
+msgstr "График тренда среднего времени обработки узла задачи"
+
+msgid "bpa.presetWidget.title2"
+msgstr "Завершенный"
+
+msgid "bpa.presetWidget.title3"
+msgstr "Завершить вручную"
+
+msgid "bpa.presetWidget.title4"
+msgstr "График тренда среднего времени обработки одного процесса (час)"
+
+msgid "bpa.presetWidget.title5"
+msgstr "Статистика по узлам ожидающих выполнения задач"
+
+msgid "bpa.presetWidget.title6"
+msgstr "Среднее время обработки узла задачи"
+
+msgid "bpa.presetWidget.title7"
+msgstr "Статистика заданий участников"
+
+msgid "bpa.presetWidget.title8"
+msgstr "Статистика задач участников на узле задач"
+
+msgid "bpa.presetWidget.title9"
+msgstr "Среднее время обработки элемента узла задачи"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "Затраченное время (час)"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "Задачи"
+
+msgid "compare.not.support"
+msgstr "Недопустимый знак сравнения {{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr "Недопустимый знак сравнения {{ op }}. Вместо этого используйте \"==\""
+
+msgid "compare.param.boolean"
+msgstr "Булев"
+
+msgid "compare.param.datetime"
+msgstr "Дата"
+
+msgid "compare.param.not.support"
+msgstr ""
+"Типы параметров с обеих сторон {{ op }} не могут быть {{ type1 }} или {{ "
+"type2 }}"
+
+msgid "compare.param.number"
+msgstr "Число"
+
+msgid "compare.param.string"
+msgstr "Нить"
+
+msgid "concatenate.param.error"
+msgstr "Исходное поле формы не существует"
+
+msgid "corp.currentDepartment"
+msgstr "Отдел текущего пользователя"
+
+msgid "corp.currentUser"
+msgstr "Текущий пользователь"
+
+msgid "corp.joinCorpSuccess"
+msgstr "Успешно присоединился к команде"
+
+msgid "corp.log.agentDisable"
+msgstr "Отключить плагин"
+
+msgid "corp.log.agentEnable"
+msgstr "Включить плагин"
+
+msgid "corp.log.agentUninstall"
+msgstr "Удалить плагин"
+
+msgid "corp.log.aggregateCreate"
+msgstr "Создать сводную таблицу"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "Миграция сводной таблицы"
+
+msgid "corp.log.aggregateRemove"
+msgstr "Удалить сводную таблицу"
+
+msgid "corp.log.aggregateRename"
+msgstr "Переименовать Агрегированную Таблицу"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "Обновить дизайн агрегированной таблицы"
+
+msgid "corp.log.aiLabDisable"
+msgstr "Закрытие лаборатории ИИ"
+
+msgid "corp.log.aiLabEnable"
+msgstr "Открытие лаборатории ИИ"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "Создать API-ключ"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "Удалить API-ключ"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "Отключить API-ключ"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "Включить API-ключ"
+
+msgid "corp.log.apiKeyName"
+msgstr "Имя ключа API"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "Обновить ключ"
+
+msgid "corp.log.apiName"
+msgstr "Имя API"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "Отключить контроль прикрепленных приложений"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "Включить управление прикрепленными приложениями"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "Изменить управление прикреплением приложений"
+
+msgid "corp.log.appCreate"
+msgstr "Создать приложение"
+
+msgid "corp.log.appEtlLog"
+msgstr "{{ etlName }}-Обновить журналы"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "Настройте домашнюю страницу приложения"
+
+msgid "corp.log.appLog"
+msgstr "Журналы приложений"
+
+msgid "corp.log.appLogExport"
+msgstr "Экспорт журналов приложений"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "Добавить приложение Управление группой"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "Отключить группу администраторов приложений"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "Включить группу администраторов приложений"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "Удалить приложение Управление группой"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "Переименовать приложение Управление группой"
+
+msgid "corp.log.appManagerAdd"
+msgstr "Добавить менеджера"
+
+msgid "corp.log.appManagerRemove"
+msgstr "Удалить менеджера"
+
+msgid "corp.log.appRecover"
+msgstr "Восстановить приложение"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "Изменить настройки кросс-приложения"
+
+msgid "corp.log.appRemove"
+msgstr "Удалить приложение"
+
+msgid "corp.log.appRename"
+msgstr "Переименовать приложение"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "Изменить URL-адрес приложения"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "Отключить водяной знак приложения"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "Включить водяной знак приложения"
+
+msgid "corp.log.application"
+msgstr "Из приложения"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "Отключить глобальный контроль вложений"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "Включить глобальное управление вложениями"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "Инициировать делегирование отключено"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "Включить инициирование делегирования"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr ""
+"Делегирование отменено: Делегирование от {{ principal }} к {{ agent }} в "
+"течение {{ timeRange }}"
+
+msgid "corp.log.businessContent"
+msgstr "Деловая информация"
+
+msgid "corp.log.businessCount"
+msgstr "Использование OCR"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "Регистрация бизнеса"
+
+msgid "corp.log.businessTime"
+msgstr "Время проверки"
+
+msgid "corp.log.callTime"
+msgstr "Время звонка"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "Изменить настройки оплаты"
+
+msgid "corp.log.coinUsageApp"
+msgstr "Приложение"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "Вход"
+
+msgid "corp.log.coinUsageLog"
+msgstr "Журналы использования монет"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "Поля"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "Добавить ссылку приглашения для внешнего бизнеса"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "Удалить ссылку приглашения для внешнего бизнеса"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "Изменить ссылку приглашения для внешнего бизнеса"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "Добавить роль внешнего контакта"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "Удалить роль внешнего контакта"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "Переименовать роль внешнего контакта"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "Изменение участников в роли внешнего контакта"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "Блок уведомлений об обновлении"
+
+msgid "corp.log.corpRename"
+msgstr "Переименовать бизнес"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "Отключить деловой стиль"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "Включить деловой стиль"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "Изменить деловой стиль"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "Изменить URL-адрес бизнес-портала"
+
+msgid "corp.log.customLoginDisable"
+msgstr "Отключить пользовательскую страницу входа"
+
+msgid "corp.log.customLoginEnable"
+msgstr "Включить пользовательскую страницу входа"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "Редактировать рабочее пространство бизнеса"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "Разрешение на редактирование панели инструментов"
+
+msgid "corp.log.dashCreate"
+msgstr "Создать панель инструментов"
+
+msgid "corp.log.dashPublicLink"
+msgstr "Изменить публичную ссылку на панель инструментов"
+
+msgid "corp.log.dashRecover"
+msgstr "Восстановить панель инструментов"
+
+msgid "corp.log.dashRemove"
+msgstr "Удалить панель инструментов"
+
+msgid "corp.log.dashRename"
+msgstr "Переименовать панель инструментов"
+
+msgid "corp.log.dashUpdate"
+msgstr "Редактировать"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "Пакетная печать записей"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "Пакетное восстановление данных"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "Пакетное удаление данных"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "Пакетное редактирование данных"
+
+msgid "corp.log.dataCreate"
+msgstr "Добавить данные"
+
+msgid "corp.log.dataExport"
+msgstr "Экспорт данных"
+
+msgid "corp.log.dataImport"
+msgstr "Импорт - Добавить данные"
+
+msgid "corp.log.dataImportFile"
+msgstr "Импорт вложений"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "Импорт - Обновление данных"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "Импорт - добавление и обновление данных"
+
+msgid "corp.log.dataPrint"
+msgstr "Распечатать запись"
+
+msgid "corp.log.dataPrintQr"
+msgstr "Печать QR-кодов/штрих-кодов"
+
+msgid "corp.log.dataRecover"
+msgstr "Восстановить данные"
+
+msgid "corp.log.dataRemove"
+msgstr "Удалить данные"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "Создать Автоматизацию"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "Удалить автоматизацию"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "Включить автоматизацию"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "Отключить автоматизацию"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "Обновление Автоматизации"
+
+msgid "corp.log.dataUpdate"
+msgstr "Обновить данные"
+
+msgid "corp.log.deptCreate"
+msgstr "Добавить отдел"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "Добавить бизнес-тег"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "Удалить бизнес-тег"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "Отрегулируйте компанию в разделе «Бизнес-тег»"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "Изменить имя бизнес-тега"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "Начальник отдела обновлений"
+
+msgid "corp.log.deptRemove"
+msgstr "Удалить отдел"
+
+msgid "corp.log.deptRename"
+msgstr "Переименовать отдел"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "Автоматическое обновление"
+
+msgid "corp.log.etlCreate"
+msgstr "Создать поток данных"
+
+msgid "corp.log.etlCronExecute"
+msgstr "Обновление Cron"
+
+msgid "corp.log.etlDuration"
+msgstr "Продолжительность обновления"
+
+msgid "corp.log.etlEndTime"
+msgstr "Время окончания"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "Обновить результат"
+
+msgid "corp.log.etlExecuteType"
+msgstr "Метод обновления"
+
+msgid "corp.log.etlJust"
+msgstr "Менее 1 мин."
+
+msgid "corp.log.etlManualExecute"
+msgstr "Ручное обновление"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }} мин."
+
+msgid "corp.log.etlRemove"
+msgstr "Удалить поток данных"
+
+msgid "corp.log.etlRename"
+msgstr "Переименовать поток данных"
+
+msgid "corp.log.etlStartTime"
+msgstr "Время начала"
+
+msgid "corp.log.etlTime"
+msgstr "Дата обновления"
+
+msgid "corp.log.etlUpdate"
+msgstr "Обновление дизайна потока данных"
+
+msgid "corp.log.fail"
+msgstr "Неудача"
+
+msgid "corp.log.fileDownload"
+msgstr "Скачать файл"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "Отключить БФА"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "Включить BPA"
+
+msgid "corp.log.flowUpdate"
+msgstr "Обновление дизайна рабочего процесса"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "Пакетная настройка формы/разрешение панели мониторинга"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "Разрешение на обновление формы"
+
+msgid "corp.log.formCreate"
+msgstr "Создать форму"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "Удалить страницу деталей данных"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "Переключить страницу деталей данных"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "Редактировать страницу деталей данных"
+
+msgid "corp.log.formOnlinePay"
+msgstr "Управление настройками платежей"
+
+msgid "corp.log.formPublicLink"
+msgstr "Обновить публичную ссылку формы"
+
+msgid "corp.log.formPublicQuery"
+msgstr "Обновить ссылку на публичный запрос формы"
+
+msgid "corp.log.formRecover"
+msgstr "Восстановить форму"
+
+msgid "corp.log.formRemove"
+msgstr "Удалить форму"
+
+msgid "corp.log.formRename"
+msgstr "Переименовать форму"
+
+msgid "corp.log.formUpdate"
+msgstr "Обновить дизайн формы"
+
+msgid "corp.log.guestConnect"
+msgstr "Пригласить внешний бизнес"
+
+msgid "corp.log.guestDockerExport"
+msgstr "Экспорт внешнего контакта"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "Редактировать внешнюю контактную информацию"
+
+msgid "corp.log.guestUpdate"
+msgstr "Редактировать внешнюю бизнес-информацию"
+
+msgid "corp.log.hostDisconnect"
+msgstr "Отключение от бизнеса"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "Добавьте наш контакт"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "Удалить наш контакт"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "Изменить нашу контактную информацию"
+
+msgid "corp.log.integrateUpdate"
+msgstr "Редактировать информацию о привязке"
+
+msgid "corp.log.ip"
+msgstr "IP-адрес"
+
+msgid "corp.log.kmsDisable"
+msgstr "Отключить базу знаний"
+
+msgid "corp.log.kmsEnable"
+msgstr "Включить базу знаний"
+
+msgid "corp.log.loginLocation"
+msgstr "Местоположение входа"
+
+msgid "corp.log.loginLog"
+msgstr "История входов"
+
+msgid "corp.log.loginLogExport"
+msgstr "Экспорт истории входов"
+
+msgid "corp.log.loginPlatform"
+msgstr "Вход на платформу"
+
+msgid "corp.log.loginTime"
+msgstr "Время входа"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "Добавить группу администраторов"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "Удалить группу администраторов"
+
+msgid "corp.log.manageGroupRename"
+msgstr "Переименовать группу администраторов"
+
+msgid "corp.log.managersAdd"
+msgstr "Добавить администратора"
+
+msgid "corp.log.managersRemove"
+msgstr "Удалить Администратора"
+
+msgid "corp.log.memberExit"
+msgstr "Добровольно покинул организацию"
+
+msgid "corp.log.memberExport"
+msgstr "Экспорт Контакты"
+
+msgid "corp.log.memberFreeze"
+msgstr "Отключить участника"
+
+msgid "corp.log.memberHardDelete"
+msgstr "Удалить участника"
+
+msgid "corp.log.memberInvite"
+msgstr "Приглашать"
+
+msgid "corp.log.memberRecover"
+msgstr "Включить участника"
+
+msgid "corp.log.memberRemove"
+msgstr "Деактивировать"
+
+msgid "corp.log.memberUpdate"
+msgstr "Обновить информацию об участнике"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "Экспортная роль"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "Роль импорта"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "Отключить Webhook (Сообщение)"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "Включить Webhook (Сообщение)"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "Редактировать Webhook (Сообщение)"
+
+msgid "corp.log.oauthCreate"
+msgstr "Добавить авторизацию"
+
+msgid "corp.log.oauthDelete"
+msgstr "Отключить авторизацию"
+
+msgid "corp.log.ocrBankCard"
+msgstr "Банковская карта"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "Лицензия на ведение бизнеса"
+
+msgid "corp.log.ocrContent"
+msgstr "OCR-контент"
+
+msgid "corp.log.ocrCount"
+msgstr "Использование OCR"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "Водительское удостоверение"
+
+msgid "corp.log.ocrGeneral"
+msgstr "Общий текст"
+
+msgid "corp.log.ocrIdCard"
+msgstr "Удостоверение личности"
+
+msgid "corp.log.ocrLog"
+msgstr "ОРС"
+
+msgid "corp.log.ocrResult"
+msgstr "Результат OCR"
+
+msgid "corp.log.ocrTime"
+msgstr "Время распознавания текста"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "Билет на поезд"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "Счет-фактура налога на добавленную стоимость"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "Регистрация транспортного средства"
+
+msgid "corp.log.openApiLog"
+msgstr "Журнал вызовов API"
+
+msgid "corp.log.openApiLogExport"
+msgstr "Экспорт журналов Open API"
+
+msgid "corp.log.operateDetails"
+msgstr "Подробности"
+
+msgid "corp.log.operateLog"
+msgstr "Журналы платформы"
+
+msgid "corp.log.operateLogExport"
+msgstr "Экспорт журналов платформы"
+
+msgid "corp.log.operateObject"
+msgstr "Объект"
+
+msgid "corp.log.operateTime"
+msgstr "Время"
+
+msgid "corp.log.operateType"
+msgstr "Тип"
+
+msgid "corp.log.operator"
+msgstr "Оператор"
+
+msgid "corp.log.orderCancel"
+msgstr "Отменить заказ"
+
+msgid "corp.log.orderCreate"
+msgstr "Создать заказ"
+
+msgid "corp.log.orderDelete"
+msgstr "Удалить заказ"
+
+msgid "corp.log.orderPay"
+msgstr "Оплатить заказ"
+
+msgid "corp.log.orderReceipt"
+msgstr "Заказ счета-фактуры"
+
+msgid "corp.log.payUpdate"
+msgstr "Настройка платежного сервиса"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "Отключить управление разрешениями"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "Включить управление разрешениями"
+
+msgid "corp.log.pluginCount"
+msgstr "Использование плагина"
+
+msgid "corp.log.pluginCreate"
+msgstr "Создать плагин"
+
+msgid "corp.log.pluginExport"
+msgstr "Экспорт плагина"
+
+msgid "corp.log.pluginImport"
+msgstr "Импорт плагина"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "Импорт и обновление плагина"
+
+msgid "corp.log.pluginInstall"
+msgstr "Установить плагин"
+
+msgid "corp.log.pluginName"
+msgstr "Имя плагина"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "Опубликовать плагин"
+
+msgid "corp.log.pluginUpdate"
+msgstr "Редактировать плагин"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "Использование плагина"
+
+msgid "corp.log.registrant"
+msgstr "Член"
+
+msgid "corp.log.returnStatus"
+msgstr "Статус возврата"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "Перегруппировать роль"
+
+msgid "corp.log.roleCreate"
+msgstr "Создать роль"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "Создать группу ролей"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "Удалить группу ролей"
+
+msgid "corp.log.roleGroupRename"
+msgstr "Переименовать группу ролей"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "Обновление члена в роли"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "Обновление назначенного отдела."
+
+msgid "corp.log.roleRemove"
+msgstr "Удалить роль"
+
+msgid "corp.log.roleRename"
+msgstr "Переименовать роль"
+
+msgid "corp.log.running"
+msgstr "Бег"
+
+msgid "corp.log.smsContent"
+msgstr "Подробности"
+
+msgid "corp.log.smsCount"
+msgstr "Использовал"
+
+msgid "corp.log.smsSendFailed"
+msgstr "Отправка не удалась"
+
+msgid "corp.log.smsSendPhone"
+msgstr "Номер мобильного телефона"
+
+msgid "corp.log.smsSendResult"
+msgstr "Статус отправки"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "Отправлено успешно"
+
+msgid "corp.log.smsSendingLog"
+msgstr "Отправка СМС"
+
+msgid "corp.log.smsTime"
+msgstr "Дата"
+
+msgid "corp.log.spaceCreate"
+msgstr "Создать базу знаний"
+
+msgid "corp.log.spaceDelete"
+msgstr "Удалить базу знаний"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "Создать набор разрешений для базы знаний"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "Удалить набор разрешений для базы знаний"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "Редактировать набор разрешений для базы знаний"
+
+msgid "corp.log.spaceUpdate"
+msgstr "Редактировать информацию базы знаний"
+
+msgid "corp.log.success"
+msgstr "Успех"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "Настройте разрешения для продукта"
+
+msgid "corp.log.suiteDisable"
+msgstr "Запрещать"
+
+msgid "corp.log.suiteEnable"
+msgstr "Давать возможность"
+
+msgid "corp.log.systemRobot"
+msgstr "Системный робот"
+
+msgid "corp.log.tenantVerify"
+msgstr "Подтвердить личность"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "Изменить часовой пояс"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "Подать заявку на управление внешними контактами"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "Разрешение на передачу управления контактами"
+
+msgid "corp.log.waiting"
+msgstr "Ожидающий"
+
+msgid "corp.log.watermarkDisable"
+msgstr "Отключить глобальный водяной знак"
+
+msgid "corp.log.watermarkEnable"
+msgstr "Включить глобальный водяной знак"
+
+msgid "corp.log.wxDisable"
+msgstr "Отключить интеграцию учетной записи сервиса WeChat"
+
+msgid "corp.log.wxEnable"
+msgstr "Включить интеграцию учетной записи сервиса WeChat"
+
+msgid "corp.syncFailed"
+msgstr "Автоматическая синхронизация не удалась"
+
+msgid "corp.syncFailedContent"
+msgstr "Синхронизация деловых контактов не удалась."
+
+msgid "corp.syncFailedSubject"
+msgstr "Не удалось синхронизировать участников"
+
+msgid "corp.syncSuccessContent"
+msgstr "Деловые контакты синхронизированы."
+
+msgid "corp.syncSuccessSubject"
+msgstr "Участники успешно синхронизированы"
+
+msgid "corp.systemManageGroup"
+msgstr "Группа Супер Администратора"
+
+msgid "corp.unGrouped"
+msgstr "Разгруппировано"
+
+msgid "corpCoop.department"
+msgstr "Внешние организации"
+
+msgid "corpUsage.accessTime"
+msgstr "Последний доступ"
+
+msgid "corpUsage.aggregate"
+msgstr "Агрегированные таблицы"
+
+msgid "corpUsage.app"
+msgstr "Приложения"
+
+msgid "corpUsage.app.cardName"
+msgstr "Просмотр по App-Обзор"
+
+msgid "corpUsage.app.metricListName"
+msgstr "Просмотр по приложению — сведения об использовании"
+
+msgid "corpUsage.appId"
+msgstr "Идентификатор приложения"
+
+msgid "corpUsage.appName"
+msgstr "Имя приложения"
+
+msgid "corpUsage.attachment"
+msgstr "Загруженное вложение"
+
+msgid "corpUsage.automation"
+msgstr "Автоматизация Pro"
+
+msgid "corpUsage.bpa"
+msgstr "BPA-компоненты"
+
+msgid "corpUsage.createTime"
+msgstr "Создано"
+
+msgid "corpUsage.creator"
+msgstr "Владелец"
+
+msgid "corpUsage.creator.username"
+msgstr "Идентификатор владельца"
+
+msgid "corpUsage.dash"
+msgstr "Панель инструментов"
+
+msgid "corpUsage.dash.type"
+msgstr "Панель инструментов"
+
+msgid "corpUsage.data"
+msgstr "Общие данные"
+
+msgid "corpUsage.data_trigger"
+msgstr "Автоматизация"
+
+msgid "corpUsage.date"
+msgstr "Дата"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "Подробные данные"
+
+msgid "corpUsage.etl"
+msgstr "Фабрика данных"
+
+msgid "corpUsage.fileName"
+msgstr "Использование ресурсов"
+
+msgid "corpUsage.form_coop"
+msgstr "Регулярные формы"
+
+msgid "corpUsage.form_coop.type"
+msgstr "Регулярная форма"
+
+msgid "corpUsage.form_workflow"
+msgstr "Формы рабочего процесса"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "Идентификатор формы рабочего процесса"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "Имя формы рабочего процесса"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "Форма рабочего процесса"
+
+msgid "corpUsage.member.cardName"
+msgstr "Просмотр по участнику-Обзор"
+
+msgid "corpUsage.member.metricListName"
+msgstr "Просмотр по участнику — подробности использования"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "Нет данных"
+
+msgid "corpUsage.public_link"
+msgstr "Включены публичные ссылки"
+
+msgid "corpUsage.public_link.type"
+msgstr "Тип объекта"
+
+msgid "corpUsage.updateTime"
+msgstr "Последнее редактирование"
+
+msgid "corp_coop.operate.create"
+msgstr "добавлен"
+
+msgid "corp_coop.operate.delete"
+msgstr "удалено"
+
+msgid "corp_coop.side.other"
+msgstr "его"
+
+msgid "corp_coop.side.our"
+msgstr "твой"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr ""
+"Отключено управление прикрепленными приложениями для приложения \"{{ "
+"app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "Включен контроль прикрепления приложений для приложения \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "Изменен элемент управления прикреплением приложения \"{{ app_name }}\""
+
+msgid "corp_log.content.app_home_update"
+msgstr "Изменена домашняя страница приложения \"{{ app_name }}\""
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "Добавить группу управления приложениями {{name}} в {{appName}}"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "Удалить группу управления приложениями {{name}} в {{appName}}"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr ""
+"Переименовать группу управления приложениями с {{oriName}} на {{name}} в "
+"{{appName}}"
+
+msgid "corp_log.content.app_manager_add"
+msgstr "Добавить менеджера приложений {{ members }} в {{ name }} из {{ appName }}"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "Удалить менеджер приложений {{ members }} в {{ name }} из {{ appName }}"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "Изменены настройки кросс-приложения для приложения \"{{ app_name }}\""
+
+msgid "corp_log.content.app_url_update"
+msgstr "Отредактирован URL-адрес приложения \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "Отключен водяной знак приложения для приложения \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "Включен водяной знак приложения для приложения \"{{ app_name }}\""
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "Инициировать делегирование отключено"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "Инициирование делегирования включено"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr ""
+"Делегирование отменено: Делегирование от {{ principal }} к {{ agent }} в "
+"течение {{ timeRange }}"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "Обновлены участники в списке заблокированных"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr ""
+"Обновленный диапазон уведомлений участников и приложений для списка "
+"блокировки"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "Обновлен диапазон уведомлений приложений для списка блокировки"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "Отключено BPA для {{ count }} форм"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "Включен BPA для {{ count }} форм"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "Отключен BPA для формы \"{{ flow_name }}\""
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "Включен BPA для формы \"{{ flow_name }}\""
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "Пакетная настройка разрешений для форм/панелей мониторинга"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "Импортировал информацию о роли"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "Импортированные участники в \"{{ fullRoleNames }}\""
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "Назначенный отдел для участников в {{role}} был обновлен."
+
+msgid "corp_log.content.role_rel_update"
+msgstr "Назначенный отдел для {{ nickname }} в {{ role }} был обновлен."
+
+msgid "corp_log.content.space_create"
+msgstr "Создана база знаний \"{{ space_name }}\""
+
+msgid "corp_log.content.space_delete"
+msgstr "Удалил базу знаний \"{{ space_name }}\""
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "Создан набор разрешений \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "Удален набор разрешений \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "Отредактировал набор разрешений \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_update"
+msgstr "Отредактировал основную информацию базы знаний \"{{ space_name }}\""
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "Настройте, кто может использовать \"{{ name }}\""
+
+msgid "corp_log.content.suite_disable"
+msgstr "Отключить \"{{ name }}\""
+
+msgid "corp_log.content.suite_enable"
+msgstr "Включить \"{{ name }}\""
+
+msgid "crm.upgrade.relatedData"
+msgstr "Искать"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "Принять приглашение от {{ nickname}}({{ corpName }})"
+
+msgid "crop_log.content.agent_disable"
+msgstr "Отключенный плагин {{ plugin_name }}"
+
+msgid "crop_log.content.agent_enable"
+msgstr "Включен агент плагина {{ plugin_name }}"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "Удален плагин-агент {{ plugin_name }}"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr ""
+"Создана агрегатная таблица {{name}}, скопированная из агрегатной таблицы "
+"{{ori_name}} в приложении {{app_name}}."
+
+msgid "crop_log.content.aggregate_create"
+msgstr "Создана сводная таблица {{name}}"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "Восстановлена сводная таблица \"{{ name }}\""
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "Удалена сводная таблица {{name}}"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "Переименована агрегированная таблица {{ ori_name }} в {{ name }}"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "Обновлен дизайн сводной таблицы {{name}}"
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "Обновлена сводная таблица \"{{ name }}\""
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "Закрытая лаборатория ИИ"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "Открытая лаборатория ИИ"
+
+msgid "crop_log.content.api_key_create"
+msgstr "Добавлен ключ API"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "Добавлен ключ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_delete"
+msgstr "Удален ключ API"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "Удален ключ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_disable"
+msgstr "Отключенный API-ключ"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "Отключен ключ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_enable"
+msgstr "Включенный ключ API"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "Включен ключ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "Обновите «Область авторизации API» ключа «{{ name }}»"
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "Обновите «Область авторизации приложения» ключа «{{ name }}»"
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "Обновите «Белый список IP-адресов» ключа «{{ name }}»"
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "Обновите «Имя» ключа «{{ name }}»"
+
+msgid "crop_log.content.app_create"
+msgstr "Создано приложение {{ name }}"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "Создано приложение {{name}} путем копирования из {{ori_name}}"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "Экспортированные журналы ETL"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "Установленное приложение {{name}} от DingDingDa"
+
+msgid "crop_log.content.app_install_link"
+msgstr "Установленное приложение {{name}} по ссылке общего доступа к приложению"
+
+msgid "crop_log.content.app_install_template"
+msgstr "Установленное приложение {{name}} из центра шаблонов"
+
+msgid "crop_log.content.app_log_export"
+msgstr "Экспортированные журналы приложений"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "Группа администраторов приложений отключена"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "Включенная группа администраторов приложений"
+
+msgid "crop_log.content.app_recover"
+msgstr "Восстановленное приложение {{name}}"
+
+msgid "crop_log.content.app_remove"
+msgstr "Удалено приложение {{ name }}"
+
+msgid "crop_log.content.app_rename"
+msgstr "Переименовано приложение {{ori_name}} в {{name}}"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "Экспортированные журналы триггеров"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "Отключить глобальный контроль вложений"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "Глобальный контроль вложений включен"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "Обновлен набор разрешений {{ name }} Настройки"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "Добавлен набор разрешений {{name}}"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "Удален набор разрешений {{name}}"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "Переименован набор разрешений {{ori_name}} в {{name}}"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "Обновлены члены набора разрешений {{name}}"
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "Отредактировал настройки оплаты облачной монетой"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "Экспортированные журналы использования монет"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "Добавлена ссылка-приглашение для внешнего бизнеса"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "Удалил ссылку-приглашение для внешнего бизнеса"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "Отредактировал ссылку приглашения для внешнего бизнеса"
+
+msgid "crop_log.content.corp_rename"
+msgstr "Переименован бизнес \"{{ old_corp_name }}\" в \"{{ new_corp_name }}\""
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "Деловой стиль для людей с ограниченными возможностями"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "Включенный деловой стиль"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "Отредактированный деловой стиль"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "Отредактировал URL бизнес-портала"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "Добавлена роль внешнего контакта \"{{ roleName }}\""
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "Отключенная пользовательская страница входа"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "Включена пользовательская страница входа"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "Редактируемое рабочее пространство для бизнеса"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "Обновлен набор разрешений панели управления {{name}}"
+
+msgid "crop_log.content.dash_create"
+msgstr "Создана панель инструментов {{name}}"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr ""
+" Создал панель управления {{name}}, скопировав панель управления "
+"{{ori_name}} приложения {{app_name}}."
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "Отключен публичный экспорт панели управления"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "Включен публичный экспорт панели управления."
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "Отключена публичная ссылка на панель управления"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "Включена публичная ссылка на панель управления"
+
+msgid "crop_log.content.dash_recover"
+msgstr "Восстановленная панель управления {{name}}"
+
+msgid "crop_log.content.dash_remove"
+msgstr "Удаленная панель управления {{name}}"
+
+msgid "crop_log.content.dash_rename"
+msgstr "Панель управления {{ori_name}} переименована в {{name}}"
+
+msgid "crop_log.content.dash_update"
+msgstr "Обновил дизайн панели инструментов {{name}}"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "Пакетная печать записей в шаблоне {{ template_name }}."
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "Пакет восстановленных записей {{ count }}"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "Пакетное удаление {{ count }} записей"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "Пакетное удаление {{ count }} записей из Data Recycle"
+
+msgid "crop_log.content.data_batch_update"
+msgstr ""
+"Обновлено {{ total }} записей в пакете, {{ success }} успешно, {{ failed }} "
+"не удалось"
+
+msgid "crop_log.content.data_create"
+msgstr "Добавлены данные {{data_label}}"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr "Пакетная печать записей {{ table_name }} в шаблоне {{ template_name }}."
+
+msgid "crop_log.content.data_export"
+msgstr "Экспортированы данные {{ entry_name }}"
+
+msgid "crop_log.content.data_import"
+msgstr "Добавлено {{ count }} записей путем импорта"
+
+msgid "crop_log.content.data_import_file"
+msgstr "{{ success }} вложений импортировано."
+
+msgid "crop_log.content.data_import_update"
+msgstr "Обновлено {{ count }} записей путем импорта"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"Обновлено {{updata_datas_amount}} записей, добавлено "
+"{{insert_datas_amount}} записей путем импорта"
+
+msgid "crop_log.content.data_print"
+msgstr "Распечатанная запись {{data_label}} в шаблоне {{template_name}}."
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "Пакетная печать QR-кодов данных."
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "Пакетная печать полевых штрихкодов."
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "Пакетная печать полевых QR-кодов."
+
+msgid "crop_log.content.data_recover"
+msgstr "Восстановленные данные {{data_label}}"
+
+msgid "crop_log.content.data_remove"
+msgstr "Удаленные данные {{data_label}}"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "Удалены данные {{data_label}} из корзины данных"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr ""
+"Создана автоматизация {{name}}, скопированная из автоматизации {{ori_name}} "
+"из приложения {{app_name}}."
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "Создана автоматизация {{ name }}"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "Удалена автоматизация {{name}}"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "Включена автоматизация {{name}}"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "Отключена автоматизация {{name}}"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "Обновленная автоматизация {{name}}"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr "Автоматизация {{ori_name}} была обновлена и переименована в {{name}}"
+
+msgid "crop_log.content.data_update"
+msgstr "Обновленные данные {{data_label}}"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "Удалена роль внешнего контакта \"{{ roleName }}\""
+
+msgid "crop_log.content.dept_create"
+msgstr "Добавлен отдел {{ name }}"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "Добавлен бизнес-тег \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "Удален бизнес-тег \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "Скорректированы компании под бизнес-тегом \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_update"
+msgstr ""
+"Переименован бизнес-тег \"{{ old_dept_label_name }}\" в \"{{ "
+"new_dept_label_name }}\""
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "Обновлен руководитель отдела {{ name }}"
+
+msgid "crop_log.content.dept_remove"
+msgstr "Удален отдел {{ name }}"
+
+msgid "crop_log.content.dept_rename"
+msgstr "Переименован отдел {{ori_name}} в {{name}}"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "{{ count }} участников создано партиями."
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "{{ count }} участников \"{{roleName}}\" были уволены."
+
+msgid "crop_log.content.etl_copy"
+msgstr ""
+" Создан поток данных {{name}} путем копирования из потока данных "
+"{{ori_name}} приложения {{app_name}}"
+
+msgid "crop_log.content.etl_create"
+msgstr "Создан поток данных {{name}}"
+
+msgid "crop_log.content.etl_remove"
+msgstr "Удален поток данных {{name}}"
+
+msgid "crop_log.content.etl_rename"
+msgstr "Переименовать поток данных {{ori_name}} в {{name}}"
+
+msgid "crop_log.content.etl_update"
+msgstr "Обновлен дизайн потока данных {{name}}"
+
+msgid "crop_log.content.fields_recover"
+msgstr ""
+"Обновлен дизайн формы {{ name }} и восстановлено {{ count }} полей из "
+"корзины полей: {{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"Обновлен дизайн формы {{ name }}, удалено {{ delCount }} полей и "
+"восстановлено {{ recoveryCount }} полей из корзины полей: {{fields}}"
+
+msgid "crop_log.content.fields_remove"
+msgstr "Обновлен дизайн формы {name} и удалено {{ count }} полей."
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "Полностью удалено {{ count }} полей из Field Recycle: {fields}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr "Корзина была очищена, и {{ count }} полей были полностью удалены."
+
+msgid "crop_log.content.file_batch_export"
+msgstr "Скачал файл с {{ entry_name }}"
+
+msgid "crop_log.content.flow_update"
+msgstr "Обновлен дизайн рабочего процесса формы {{name}}"
+
+msgid "crop_log.content.form_create"
+msgstr "Создана форма {{ name }}"
+
+msgid "crop_log.content.form_create_copy"
+msgstr ""
+" Создал форму {{name}} путем копирования из формы {{ori_name}} приложения "
+"{{app_name}}"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "Удалить страницу пользовательских деталей"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "Переключить на страницу пользовательских деталей"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "Переключить на страницу деталей по умолчанию системы"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "Редактировать страницу пользовательских деталей"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "Отключить платежи"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "Включить платежи"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "Изменить настройки платежей"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "Отключена публичная ссылка на запись"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "Включена публичная ссылка для записи"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "Отключил публичную ссылку"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "Включена публичная ссылка"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "Отключена ссылка на публичный запрос"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "Включена ссылка на публичный запрос"
+
+msgid "crop_log.content.form_recover"
+msgstr "Восстановлена форма {{ name }}"
+
+msgid "crop_log.content.form_remove"
+msgstr "Удалена форма {{ name }}"
+
+msgid "crop_log.content.form_rename"
+msgstr "Переименуйте форму {{ori_name}} в {{name}}"
+
+msgid "crop_log.content.form_update"
+msgstr "Изменен дизайн формы для формы {{name}}"
+
+msgid "crop_log.content.guest_connect"
+msgstr "Приглашено {{ count }} предприятий партиями"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "Экспортированы все внешние контакты"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr ""
+"Отредактировал информацию внешнего контакта \"{{ old_guest_docker_nickname "
+"}}\""
+
+msgid "crop_log.content.guest_update"
+msgstr "Отредактировал информацию внешнего бизнеса"
+
+msgid "crop_log.content.handover_work"
+msgstr "Переданы {{ works }} от {{ from }} к {{ to }}"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "Отключено от {{ count }} компаний, которые пригласили нас к сотрудничеству"
+
+msgid "crop_log.content.host_connect"
+msgstr "Пригласил внешнюю компанию {{host_corp_name}}"
+
+msgid "crop_log.content.host_disconnect"
+msgstr "Отключен от компании \"{{name}}\", которая пригласила нас к сотрудничеству"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "Добавлено {{ count }} наших контактов"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "Удалено {{ count }} наших контактов"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "Добавлен наш контакт \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "Удален наш контакт \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_update"
+msgstr "Отредактировал информацию о нашем контакте \"{{ name }}\""
+
+msgid "crop_log.content.integrate_update"
+msgstr "Отредактированная информация о привязке"
+
+msgid "crop_log.content.kms_disable"
+msgstr "База знаний для инвалидов"
+
+msgid "crop_log.content.kms_enable"
+msgstr "Включенная база знаний"
+
+msgid "crop_log.content.login_log_export"
+msgstr "Экспортированная история входов"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "Добавлена группа администраторов {{name}}"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "Удалена группа администраторов {{name}}"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "Группа администраторов {{ori_name}} переименована в {{name}}"
+
+msgid "crop_log.content.managers_add"
+msgstr "Добавлены участники в группу администраторов {{name}}: {{members}}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "Удаленные участники в группе администраторов {{name}}: {{members}}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "Пакетно отключено {{ count }} участников"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "Пакетное удаление {{ count }} неактивных участников"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "Пакетно включено {{ count }} участников"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "Пакетно деактивировано {{ count }} участников"
+
+msgid "crop_log.content.member_exit"
+msgstr "Участник \"{{ nickname }}\" добровольно покинул организацию"
+
+msgid "crop_log.content.member_export"
+msgstr "Экспортированные участники из контактов"
+
+msgid "crop_log.content.member_freeze"
+msgstr "Отключен {{ nickname }}"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "Удален неактивный участник {{ nickname }}"
+
+msgid "crop_log.content.member_import"
+msgstr "Приглашено {{ count }} участников"
+
+msgid "crop_log.content.member_invite"
+msgstr "Приглашен {{ nickname }}"
+
+msgid "crop_log.content.member_recover"
+msgstr "Включено \"{{ nickname }}\""
+
+msgid "crop_log.content.member_remove"
+msgstr "Деактивирован {{ nickname }}"
+
+msgid "crop_log.content.member_update"
+msgstr "Обновлена информация о {{ nickname }}"
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "Отключенный Webhook (Сообщение)"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "Включен Webhook (Сообщение)"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "Отредактированный Webhook (Сообщение)"
+
+msgid "crop_log.content.oauth_create"
+msgstr "Добавлена авторизация для \"{{ suite_name }}\""
+
+msgid "crop_log.content.oauth_delete"
+msgstr "Отменено разрешение на \"{{ suite_name }}\""
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "Экспортированные журналы Open API"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "Экспортированные журналы платформы"
+
+msgid "crop_log.content.order_cancel"
+msgstr "Отменил заказ"
+
+msgid "crop_log.content.order_create"
+msgstr "Создал заказ"
+
+msgid "crop_log.content.order_delete"
+msgstr "Удалил заказ"
+
+msgid "crop_log.content.order_pay"
+msgstr "Оплачен заказ"
+
+msgid "crop_log.content.order_receipt"
+msgstr "Выставлен счет на заказ"
+
+msgid "crop_log.content.pay_disable"
+msgstr "Отключить платежную услугу"
+
+msgid "crop_log.content.pay_enable"
+msgstr "Включить платежный сервис"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "Ссылка UnionPay Merchant"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "Удалить продавца UnionPay"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "Отключено разрешение на управление"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "Включено Управление разрешениями"
+
+msgid "crop_log.content.plugin_create"
+msgstr "Создал плагин «{{ plugin_name }}»"
+
+msgid "crop_log.content.plugin_delete"
+msgstr "Удалил плагин \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr "Создал плагин \"{{ plugin_name }}\" и скопировал из \"{{ ori_plugin_name }}\""
+
+msgid "crop_log.content.plugin_export"
+msgstr "Экспортируйте плагин «{{ plugin_name }}»"
+
+msgid "crop_log.content.plugin_import"
+msgstr "Импортируйте плагин «{{ plugin_name }}»"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "Импортируйте и обновите плагин «{{ plugin_name }}»"
+
+msgid "crop_log.content.plugin_install"
+msgstr "Установленный плагин {{ plugin_name }}"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "Подал заявку на публикацию плагина \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_update"
+msgstr "Отредактировал плагин \"{{ plugin_name }}\""
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "Изменены участники в роли внешнего контакта \"{{ roleName }}\""
+
+msgid "crop_log.content.role_change_group"
+msgstr "Добавлена роль \"{{ role_name }}\"в группу \"{{ new_group_name }}\""
+
+msgid "crop_log.content.role_create"
+msgstr "Создана роль {{ name }} в группе ролей {{ group_name }}"
+
+msgid "crop_log.content.role_group_create"
+msgstr "Создана группа ролей {{name}}"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "Удалена группа ролей {{name}}"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "Группа ролей {{ori_name}} переименована в {{name}}"
+
+msgid "crop_log.content.role_member_update"
+msgstr "Обновлены участники в роли {{name}}"
+
+msgid "crop_log.content.role_remove"
+msgstr "Удалена роль {{ name }} в группе ролей {{ group_name }}"
+
+msgid "crop_log.content.role_rename"
+msgstr "Переименована роль {{ori_name}} в {{name}}"
+
+msgid "crop_log.content.tenant_verify"
+msgstr " Подтвержденная личность"
+
+msgid "crop_log.content.timezone_update"
+msgstr "Изменен часовой пояс с \"{{ old_timezone }}\" на \"{{ new_timezone }}\""
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "Применено для управления контактами связанного бизнеса \"{{ name }}\""
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr ""
+"Передано разрешение на управление контактами для связанного бизнеса "
+"\"{{name}}\""
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr ""
+"Переименована роль внешнего контакта \"{{ oldRoleName }}\" в \"{{ "
+"newRoleName }}\""
+
+msgid "crop_log.content.watermark_disable"
+msgstr "Отключен глобальный водяной знак"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "Включен глобальный водяной знак"
+
+msgid "crop_log.content.wx_disable"
+msgstr "Отключена интеграция учетной записи сервиса WeChat"
+
+msgid "crop_log.content.wx_enable"
+msgstr "Включена интеграция с учетной записью сервиса WeChat"
+
+msgid "crop_log.link_text.view_details"
+msgstr "Посмотреть подробности"
+
+msgid "customPage.title.signIn"
+msgstr "{{corpName}} - Войти"
+
+msgid "dash.date.format.year.quarter"
+msgstr "ГГГГ/квК"
+
+msgid "dash.date.format.year.week"
+msgstr "ГГГГ/Ннв"
+
+msgid "dash.excel.export.subtotal"
+msgstr "Промежуточный итог"
+
+msgid "dash.excel.export.sum"
+msgstr "Общий"
+
+msgid "dash.excel.export.total"
+msgstr "Агрегация"
+
+msgid "dash.percent"
+msgstr "Процент"
+
+msgid "deptType.corpCoop"
+msgstr "Клиенты и покупатели"
+
+msgid "deptType.internal"
+msgstr "Участники"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "Неправильный адрес электронной почты. Проверьте."
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "Такой адрес электронной почты уже существует."
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "Имена пользователей могут содержать только буквы, цифры и подчеркивания."
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "Имя пользователя должно содержать от 3 до 80 символов."
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "Введите имя пользователя участника"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "Имя пользователя уже существует в Контактах."
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"Имя пользователя используется другим арендатором. Проверьте, принадлежит ли "
+"оно тому же участнику. Если да, отправьте приглашение присоединиться. Если "
+"нет, измените имя пользователя."
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "Максимальная длина имени участника — 80 символов."
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "Введите имя участника."
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "Не найдена соответствующая политика импорта"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "Введите пароль."
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "Неправильный номер мобильного. Проверьте."
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "Номер мобильного телефона уже существует."
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "Неизвестная ошибка."
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "Номер участника поддерживает только буквы, цифры, символ подчеркивания и '.'"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "Номер участника уже существует в Контактах."
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "Не найдено повторно используемых пользователей или участников"
+
+msgid "email.title.aggregate_buffer"
+msgstr "Агрегированная таблица оповещения о перерасходе для \"{{ _g_productName }}\""
+
+msgid "email.title.aggregation_buffer"
+msgstr "Оповещение о чрезмерном потреблении агрегации для \"{{ _g_productName }}\""
+
+msgid "email.title.appTrialExpire"
+msgstr "{{ _g_productName }}: Напоминания об истечении срока действия пробной версии"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "\"{{ _g_productName }}\" Автоматизация Pro Использование"
+
+msgid "email.title.bpa_buffer"
+msgstr "Предупреждение о чрезмерном потреблении BPA для \"{{ _g_productName }}\""
+
+msgid "email.title.buffer_expired"
+msgstr ""
+"Оповещение для \"{{ _g_productName }}\": превышен лимит использования "
+"системы и обслуживание приостановлено"
+
+msgid "email.title.coinRunOut"
+msgstr "{{ _g_productName }}: У вас закончились {{ _g_productName }} монет"
+
+msgid "email.title.coinRunningOut"
+msgstr "{{ _g_productName }}: У вас скоро закончатся {{ _g_productName }} монет"
+
+msgid "email.title.comment"
+msgstr "Новый комментарий упомянул вас. Пожалуйста, ответьте вовремя"
+
+msgid "email.title.corpInvite"
+msgstr "{{ _g_productName }}: Приглашение к сотрудничеству"
+
+msgid "email.title.dashAlert"
+msgstr "Оповещения, вызванные данными"
+
+msgid "email.title.dashAlertLimit"
+msgstr ""
+"{{ _g_productName }}: оповещения о данных панели мониторинга достигли "
+"максимального дневного лимита"
+
+msgid "email.title.docTrend"
+msgstr "{{ _g_productName }}: Обновления документов"
+
+msgid "email.title.etl_buffer"
+msgstr "Оповещение о перерасходе Data Factory для \"{{ _g_productName }}\""
+
+msgid "email.title.formDataExceed"
+msgstr "{{ _g_productName }}: Объем данных в одной таблице превысил лимит"
+
+msgid "email.title.formDataUsage"
+msgstr "{{ _g_productName }}: Объем данных в одной таблице скоро превысит лимит"
+
+msgid "email.title.monthlyDataExceed"
+msgstr "{{ _g_productName }}: Объем данных достиг максимального месячного лимита"
+
+msgid "email.title.systemLog"
+msgstr "{{ _g_productName }}: Системные журналы"
+
+msgid "email.title.tenantCoop"
+msgstr "「{{ _g_productName }}」Корпоративное сотрудничество"
+
+msgid "email.title.totalDataExceed"
+msgstr "{{ _g_productName }}: Общий объем данных превысил лимит"
+
+msgid "email.title.totalDataUsage"
+msgstr "{{ _g_productName }}: Общий объем данных скоро превысит лимит"
+
+msgid "email.title.trialExpire"
+msgstr "{{ _g_productName }}: Срок действия вашей пробной VIP-подписки истекает"
+
+msgid "email.title.trigger_buffer"
+msgstr "Оповещение о перерасходе средств автоматизации для \"{{ _g_productName }}\""
+
+msgid "email.title.uploadUsage"
+msgstr "{{ _g_productName }}: Общее количество вложений скоро превысит лимит"
+
+msgid "email.title.userChannelVerify"
+msgstr "{{ _g_productName }}: Подтверждение электронной почты"
+
+msgid "email.title.user_buffer"
+msgstr "Оповещение о чрезмерном потреблении для участника \"{{ _g_productName }}\""
+
+msgid "email.title.vipExpire"
+msgstr "{{ _g_productName }}: Ваш VIP скоро истечет"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr ""
+"Если содержимое некоторых ячеек превышает максимальную длину, эти ячейки "
+"могут быть очищены:"
+
+msgid "error.export.excel.errorSheetName"
+msgstr "Ошибка экспорта"
+
+msgid "error.export.excel.fileName"
+msgstr "Список неудач"
+
+msgid "event.appCreate"
+msgstr "Создать приложение"
+
+msgid "event.appPublishAccept"
+msgstr "Приложение успешно опубликовано"
+
+msgid "event.appPublishFailed"
+msgstr "Не удалось опубликовать приложение."
+
+msgid "event.appRemove"
+msgstr "Удалить приложение"
+
+msgid "event.corpAutoSync"
+msgstr "Автосинхронизация Бизнеса"
+
+msgid "event.corpManualSync"
+msgstr "Ручная синхронизация бизнеса"
+
+msgid "event.createDept"
+msgstr "Добавить отдел"
+
+msgid "event.createManageGroup"
+msgstr "Добавить группу"
+
+msgid "event.createRole"
+msgstr "Добавить роль"
+
+msgid "event.dataWebhook"
+msgstr "Вебхук"
+
+msgid "event.entryWebhook"
+msgstr "Форма конфигурации Push"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "Не удалось запустить поток данных по расписанию"
+
+msgid "event.fileExportComplete"
+msgstr "Файл готов"
+
+msgid "event.fileExportFailed"
+msgstr "Не удалось экспортировать файлы"
+
+msgid "event.inviteToJoin"
+msgstr "Приглашаем вас присоединиться"
+
+msgid "event.kms.spaceApply"
+msgstr "Получен новый запрос на создание базы знаний"
+
+msgid "event.memberHardDelete"
+msgstr "Удалить участника"
+
+msgid "event.memberInvite"
+msgstr "Пригласить участника"
+
+msgid "event.memberRemove"
+msgstr "Деактивировать"
+
+msgid "event.removeDept"
+msgstr "Удалить отдел"
+
+msgid "event.removeManageGroup"
+msgstr "Удалить группу администраторов"
+
+msgid "event.removeRole"
+msgstr "Удалить роль"
+
+msgid "event.smsDataComment"
+msgstr "Комментарий к данным"
+
+msgid "event.smsFlowData"
+msgstr "Напоминание о рабочем процессе"
+
+msgid "event.smsVerify"
+msgstr "Код подтверждения по СМС"
+
+msgid "event.systemLogNotify"
+msgstr "Уведомление о системных журналах"
+
+msgid "event.timedReminder"
+msgstr "Напоминание"
+
+msgid "event.updateManageGroupMembers"
+msgstr "Обновление администратора участника"
+
+msgid "excel.address.city"
+msgstr "(Город)"
+
+msgid "excel.address.detail"
+msgstr "(Адрес)"
+
+msgid "excel.address.district"
+msgstr "(Округ/Район)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(Широта и долгота)"
+
+msgid "excel.address.province"
+msgstr "(Штат/провинция)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "Название компании"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "Электронная почта"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "Владелец"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "Имя"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "Номер телефона"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "Роли"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "Название компании"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "Ярлык"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "Электронная почта"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "Владелец"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "Имя"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "Мобильный"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "Роль"
+
+msgid "excel.datetime.format.date"
+msgstr "ГГГГ-ММ-ДД"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "ГГГГ-ММ-ДД ЧЧ:ММ"
+
+msgid "excel.datetime.format.date.month"
+msgstr "ГГГГ-ММ"
+
+msgid "excel.datetime.format.datetime"
+msgstr "ГГГГ-ММ-ДД ЧЧ:ММ:СС"
+
+msgid "excel.filename.dataTable"
+msgstr "Таблица данных"
+
+msgid "excel.filename.dataTemplate"
+msgstr "Шаблон данных"
+
+msgid "excel.filename.table"
+msgstr "Статистическая таблица"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"Дублирующееся название отдела \"{{ value }}\" найдено в поле \"{{ colLabel "
+"}}\". Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "Подробности ошибки"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"Неправильный формат для \"{{ value }}\" в поле \"{{ colLabel }}\". Это поле "
+"соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" не удалось сопоставить ни один "
+"идентификатор. Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"Выберите {{ itemCount }} опций в поле \"{{ colLabel }}\". Это поле "
+"соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"Максимальное количество {{ maxItemCount }} опций для поля \"{{ colLabel "
+"}}\". Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"Минимальное количество {{ minItemCount }} опций для поля \"{{ colLabel "
+"}}\". Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"Пожалуйста, выберите {{ minItemCount }} to {{ maxItemCount }} опции для "
+"поля \"{{ colLabel }}\". Это поле соответствует полю \"{{ widgetLabel }}\" "
+"в форме."
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" не удалось сопоставить ни один "
+"параметр. Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"Дублировать данные для \"{{ value }}\" в форме \"{{ formNames }}\". "
+"Аннотировать импортируемую форму в формате \"Field Value # Form\"."
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"Дублирующееся имя поля \"{{ colLabel }}\" найдено в форме \"{{ formName "
+"}}\". Это поле соответствует полю \"{{ widgetLabel }}\" в текущей форме."
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" не удалось сопоставить ни с одним "
+"данным в связанной форме. Это поле соответствует полю \"{{ widgetLabel }}\" "
+"в текущей форме."
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" совпало с несколькими записями в "
+"связанной форме. Это поле соответствует полю \"{{ widgetLabel }}\" в "
+"текущей форме."
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr ""
+"Для поля \"{{ colLabel }}\", {{ repeatRemind }}. Это поле соответствует "
+"полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" не удалось сопоставить ни одно "
+"имя. Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"Дублирующее имя участника \"{{ value }}\" найдено в поле \"{{ colLabel "
+"}}\". Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" должно быть \"{{ number }}\". Это "
+"поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" должно быть меньше или равно {{ "
+"maxNumber }}. \"{{ colLabel }}\" соответствует полю \"{{ widgetLabel }}\" в "
+"форме."
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" должно быть больше или равно {{ "
+"minNumber }}. Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ colLabel }}\" должно быть между {{ minNumber }} "
+"и {{ maxNumber }}. Это поле соответствует полю \"{{ widgetLabel }}\" в "
+"форме."
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"\"{{ value }}\" в поле \"{{ widgetName }}\" не соответствует ни одному "
+"этапу продаж. Это поле соответствует полю \"{{ widgetLabel }}\" в форме."
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "Неудачная запись"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"Дублирующееся название отдела \"{{ value }}\" найдено в подполе \"{{ "
+"subColLabel }}\" подформы \"{{ colLabel }}\". Это подполе соответствует "
+"подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"Неправильный формат для \"{{ value }}\" в подполе \"{{ subColLabel }}\" "
+"подформы \"{{ colLabel }}\". Это подполе соответствует подполю \"{{ "
+"subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" в подполе \"{{ subColLabel }}\" подформы \"{{ colLabel }}\" "
+"не удалось сопоставить ни один идентификатор. Это подполе соответствует "
+"подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"Выберите {{ itemCount }} опций в подполе \"{{ subColLabel }}\" подформы "
+"\"{{ colLabel }}\". Это подполе соответствует подполю \"{{ subWidgetLabel "
+"}}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"Максимальное количество {{ maxItemCount }} опций для подполя \"{{ "
+"subColLabel }}\" подформы \"{{ colLabel }}\". Это подполе соответствует "
+"подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"Минимальное количество {{ minItemCount }} опций для подполя \"{{ "
+"subColLabel }}\" подформы \"{{ colLabel }}\". Это подполе соответствует "
+"подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"Выберите параметры {{ minItemCount }} - {{ maxItemCount }} для подполя \"{{ "
+"subColLabel }}\" подформы \"{{ colLabel }}\". Это подполе соответствует "
+"подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"\"{{ value }}\" в подполе \"{{ subColLabel }}\" подформы \"{{ colLabel }}\" "
+"не удалось сопоставить ни одну опцию. Это подполе соответствует подполю "
+"\"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" в подполе \"{{ subColLabel }}\" подформы \"{{ colLabel }}\" "
+"не удалось сопоставить ни одно имя. Это подполе соответствует подполю \"{{ "
+"subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"Дублирующееся имя члена \"{{ value }}\" найдено в подполе \"{{ subColLabel "
+"}}\" подформы \"{{ colLabel }}\". Это подполе соответствует подполю \"{{ "
+"subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" в подполе \"{{ subColLabel }}\" подформы \"{{ colLabel }}\" "
+"должно быть \"{{ number }}\". Это подполе соответствует подполю \"{{ "
+"subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"\"{{ value }}\" в подполе \"{{ subColLabel }}\" подформы \"{{ colLabel }}\" "
+"должно быть меньше или равно {{ maxNumber }}. Это подполе соответствует "
+"подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"\"{{ value }}\" в подполе \"{{ subColLabel }}\" подформы \"{{ colLabel }}\" "
+"должно быть больше или равно {{ minNumber }}. Это подполе соответствует "
+"подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"\"{{ value }}\" в подполе \"{{ subColLabel }}\" подформы \"{{ colLabel }}\" "
+"должно быть между {{ minNumber }} и {{ maxNumber }}. Это подполе "
+"соответствует подполю \"{{ subWidgetLabel }}\" в подформе \"{{ widgetLabel "
+"}}\"."
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"Для подполя \"{{ subColLabel }}\" в подформе \"{{ colLabel }}\", {{ "
+"repeatRemind }}. Это подполе соответствует подполю \"{{ subWidgetLabel }}\" "
+"в подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"Подполе \"{{ subColLabel }}\" в подформе \"{{ colLabel }}\" является "
+"обязательным. Это подполе соответствует подполю \"{{ subWidgetLabel }}\" в "
+"подформе \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr ""
+"Поле \"{{ colLabel }}\" обязательно. Это поле соответствует полю \"{{ "
+"widgetLabel }}\" в форме."
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_отчет об ошибке_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "принадлежать отделу"
+
+msgid "excel.importError.repeatName.id"
+msgstr "идентификатор отдела и участника"
+
+msgid "excel.importError.repeatName.name"
+msgstr "дублирование имени отдела и члена"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "Те же имена членов и идентификатор отдела"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "предложить импортировать стили"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"Следуйте рекомендуемому стилю импорта для замены исходных данных. "
+"Подробности см. по адресу: https://help.jodoo.com/doc/12099."
+
+msgid "excel.mainDataLabel.header"
+msgstr "Связанные данные «{{ formName }}»"
+
+msgid "excel.member.dept"
+msgstr "Отдел."
+
+msgid "excel.member.email"
+msgstr "Электронная почта"
+
+msgid "excel.member.exceed"
+msgstr ""
+"Количество членов, которых вы хотите экспортировать, достигло максимального "
+"предела. Экспортируются только первые 100 000 записей"
+
+msgid "excel.member.filename"
+msgstr "Внутренние контакты"
+
+msgid "excel.member.fullRoleName"
+msgstr "Группа ролей и роль"
+
+msgid "excel.member.name"
+msgstr "Имя"
+
+msgid "excel.member.phone"
+msgstr "Мобильный"
+
+msgid "excel.member.role"
+msgstr "Роли"
+
+msgid "excel.member.role.rel.filename"
+msgstr "Контакты Роль"
+
+msgid "excel.member.status"
+msgstr "Статус"
+
+msgid "excel.member.username"
+msgstr "Нет."
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "Идентификатор участника"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "Дублирующий участник"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "Отчет об ошибке.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_отчет об ошибке_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "Необходимый"
+
+msgid "filezip.filename.package"
+msgstr "{{ formName }}_attachment{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "Время создания рабочего процесса"
+
+msgid "flow.creator"
+msgstr "Инициатор рабочего процесса"
+
+msgid "flow.initiateFlow"
+msgstr "Начать сейчас"
+
+msgid "flow.initiateFlow.desc"
+msgstr "Члены этой группы могут инициировать рабочий процесс"
+
+msgid "flow.manageAllFlow"
+msgstr "Управление всеми рабочими процессами"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "Члены этой группы могут управлять всеми процессами"
+
+msgid "flow.node.approve"
+msgstr "Одобрение"
+
+msgid "flow.node.end"
+msgstr "Конец"
+
+msgid "flow.node.start"
+msgstr "Начинать"
+
+msgid "flow.state.closed"
+msgstr "Завершить вручную"
+
+msgid "flow.state.complete"
+msgstr "Завершенный"
+
+msgid "flow.state.inProcess"
+msgstr "В ходе выполнения"
+
+msgid "flow.state.rejected"
+msgstr "Отклонять"
+
+msgid "flow.viewAllFlow"
+msgstr "Просмотреть все рабочие процессы"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "Участники этой группы могут просматривать все процессы"
+
+msgid "form.analysisField.avgDuration"
+msgstr "Среднее время процесса (часы)"
+
+msgid "form.analysisField.creator"
+msgstr "Член"
+
+msgid "form.analysisField.dataCount"
+msgstr "Количество данных"
+
+msgid "form.analysisField.flowNode"
+msgstr "Узел"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "Время завершения рабочего процесса"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "Время создания рабочего процесса"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "Время притока узла"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "Время оттока узла"
+
+msgid "form.data.tab.common.name"
+msgstr "Основная информация"
+
+msgid "form.default.field.options.firstText"
+msgstr "Вариант 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "Вариант 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "Вариант 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "Вариант 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "Вариант 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "Вариант 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "Повторяющиеся значения не допускаются."
+
+msgid "form.operate.batchPrint"
+msgstr "Пакетная печать"
+
+msgid "form.operate.batchUpdate"
+msgstr "Пакетное редактирование"
+
+msgid "form.operate.copy"
+msgstr "Копировать"
+
+msgid "form.operate.create"
+msgstr "Добавлять"
+
+msgid "form.operate.delete"
+msgstr "Удалить"
+
+msgid "form.operate.export"
+msgstr "Экспорт"
+
+msgid "form.operate.flowActivate"
+msgstr "Процесс активации"
+
+msgid "form.operate.flowClose"
+msgstr "Завершить рабочий процесс"
+
+msgid "form.operate.flowTransfer"
+msgstr "Изменить утверждающего процесс"
+
+msgid "form.operate.import"
+msgstr "Импорт"
+
+msgid "form.operate.read"
+msgstr "Вид"
+
+msgid "form.operate.update"
+msgstr "Редактировать"
+
+msgid "form.subformField.id"
+msgstr "Идентификатор подформы"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "Текущий утверждающий"
+
+msgid "form.sysField.createTime"
+msgstr "Время подачи"
+
+msgid "form.sysField.creator"
+msgstr "Отправитель"
+
+msgid "form.sysField.dataId"
+msgstr "data_id"
+
+msgid "form.sysField.dataLabel"
+msgstr "Заголовок"
+
+msgid "form.sysField.deleteTime"
+msgstr "Удаленное время"
+
+msgid "form.sysField.deleter"
+msgstr "Удаленный пользователь"
+
+msgid "form.sysField.ext"
+msgstr "Параметр URL-адреса"
+
+msgid "form.sysField.flowComment"
+msgstr "Комментарий к утверждению"
+
+msgid "form.sysField.flowNodes"
+msgstr "Текущий узел"
+
+msgid "form.sysField.flowState"
+msgstr "Статус рабочего процесса"
+
+msgid "form.sysField.flowVer"
+msgstr "Версия"
+
+msgid "form.sysField.operator"
+msgstr "Действовал"
+
+msgid "form.sysField.printOperator"
+msgstr "Печатный Пользователь"
+
+msgid "form.sysField.printTime"
+msgstr "Напечатанное время"
+
+msgid "form.sysField.privateDataQr"
+msgstr "QR-код данных (внутренний)"
+
+msgid "form.sysField.publicDataQr"
+msgstr "QR-код данных (публичный)"
+
+msgid "form.sysField.updateTime"
+msgstr "Обновленное время"
+
+msgid "form.sysField.updater"
+msgstr "Обновленный пользователь"
+
+msgid "form.sysField.wxAvatar"
+msgstr "Аватар WeChat"
+
+msgid "form.sysField.wxNickname"
+msgstr "Имя WeChat"
+
+msgid "form.sysField.wxOpenId"
+msgstr "WeChat OpenID"
+
+msgid "formView.allData.name"
+msgstr "Все данные"
+
+msgid "formView.untitled.name"
+msgstr "Безымянный вид"
+
+msgid "formula.cal.type.error"
+msgstr "Результат расчета формулы имеет неверный тип данных."
+
+msgid "formula.express.error"
+msgstr "Неправильное выражение формулы"
+
+msgid "function.not.support"
+msgstr "Эта функция не поддерживается в активном плане!"
+
+msgid "function.param.count.error"
+msgstr "Неверное количество параметров для функции {{name}}"
+
+msgid "function.param.error"
+msgstr "Неверный(е) параметр(ы) для функции {{ name }}"
+
+msgid "function.param.notEmpty"
+msgstr "Параметры для функции {{name}} не могут быть пустыми"
+
+msgid "function.param.type.error"
+msgstr "Неверный тип параметра для функции {{ name }}"
+
+msgid "function.return.error"
+msgstr "Неуказанный тип возвращаемого значения для функции {{ name }}"
+
+msgid "function.second.param.constant"
+msgstr "Вторым параметром функции {{name}} может быть только константа."
+
+msgid "function.two.param"
+msgstr "Для функции {{name}} необходимо не менее 2 параметров"
+
+msgid "function.two.param.error"
+msgstr ""
+"Тип {{ i }}-го и {{ preIdx }}-го параметров для функции {{ name }} не "
+"совпадает"
+
+msgid "function.which.param.error"
+msgstr "Неправильный тип параметра {{ i }} для функции {{ name }}"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "Длина {{ i }}-го параметра для функции {{ name }} превышает предел"
+
+msgid "handover.type.data"
+msgstr "[Данные]"
+
+msgid "handover.type.entry"
+msgstr "[Форма/Панель инструментов]"
+
+msgid "handover.type.kms"
+msgstr "[База знаний]"
+
+msgid "handover.type.role"
+msgstr "[Контакты]"
+
+msgid "handover.type.todo"
+msgstr "[Задачи]"
+
+msgid "handover.type.workflow"
+msgstr "[Утверждающий рабочий процесс]"
+
+msgid "handover.work"
+msgstr "Сдавать"
+
+msgid "kms.docTrend"
+msgstr "Обновления документов"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "Члены этой группы могут самостоятельно заполнять данные и управлять ими."
+
+msgid "manage.addAndManageMyData.name"
+msgstr "Добавить и управлять моими данными"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "Участники этой группы могут заполнять данные и просматривать все данные."
+
+msgid "manage.addAndViewAllData.name"
+msgstr "Добавить и просмотреть все данные"
+
+msgid "manage.manageAllData.desc"
+msgstr ""
+"Члены этой группы могут управлять всеми данными и заполнять данные, но не "
+"могут импортировать данные."
+
+msgid "manage.manageAllData.name"
+msgstr "Управляйте всеми данными"
+
+msgid "manage.mergeGroup"
+msgstr "Все данные с разрешения"
+
+msgid "manage.onlyAddData.desc"
+msgstr "Члены этой группы могут только заполнять данные"
+
+msgid "manage.onlyAddData.name"
+msgstr "Только отправить"
+
+msgid "manage.viewAllData.desc"
+msgstr "Участники этой группы могут просматривать все данные"
+
+msgid "manage.viewAllData.name"
+msgstr "Просмотреть все данные"
+
+msgid "managerActivity.app.metricsName"
+msgstr "Просмотр по данным о действиях приложения"
+
+msgid "managerActivity.app.reportName"
+msgstr "Просмотр по App-Обзор"
+
+msgid "managerActivity.appId"
+msgstr "Идентификатор приложения"
+
+msgid "managerActivity.appName"
+msgstr "Имя приложения"
+
+msgid "managerActivity.count"
+msgstr "Пользователи (Изменить)"
+
+msgid "managerActivity.fileName"
+msgstr "Административная деятельность"
+
+msgid "managerActivity.managerId"
+msgstr "Административный идентификатор"
+
+msgid "managerActivity.managerName"
+msgstr "Имя администратора"
+
+msgid "managerActivity.time"
+msgstr "Дата"
+
+msgid "managerActivity.times"
+msgstr "Время (Изменить)"
+
+msgid "managerActivity.user.metricsName"
+msgstr "Просмотр по администратору-Детали активности"
+
+msgid "managerActivity.user.reportName"
+msgstr "Просмотр по Admin-Обзор"
+
+msgid "math.param.error"
+msgstr "Тип данных математических операций должен быть Число."
+
+msgid "member.status.deleted"
+msgstr "Удаленные участники"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(неактивно)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(удалено)"
+
+msgid "message.addOrRemoveApp"
+msgstr "Добавить/удалить приложение"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "Добавить/удалить отдел или участника"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "Добавить/удалить группу администраторов"
+
+msgid "message.addOrRemoveManager"
+msgstr "Добавить/Удалить администратора"
+
+msgid "message.alertName"
+msgstr "Название оповещения"
+
+msgid "message.alertSource"
+msgstr "Источник оповещения"
+
+msgid "message.anonymousUser"
+msgstr "Анонимный пользователь"
+
+msgid "message.apiKeyOpLog"
+msgstr "Журнал ключей API"
+
+msgid "message.appRename"
+msgstr "Переименовать приложение"
+
+msgid "message.appUpdate"
+msgstr "Изменения в приложении"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr ""
+"Администратор системы или создатель отменил делегирование вам задач {{ "
+"principal }} в течение {{ timeRange }}."
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr ""
+"Администратор или создатель системы отменил ваше делегирование задач {{ "
+"agent }} в течение {{ timeRange }}."
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr ""
+"Системный администратор или создатель отменил делегирование вам задачи от "
+"{{ principal }}"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr ""
+"Системный администратор или создатель отменил делегирование вашей задачи {{ "
+"agent }}"
+
+msgid "message.bpm_delegation.description"
+msgstr "Описание"
+
+msgid "message.bpm_delegation.principal"
+msgstr "Делегатор"
+
+msgid "message.bpm_delegation.range"
+msgstr "Объем"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "Все рабочие процессы"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "Частичные процессы"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "Время"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr ""
+"{{ principal }} делегировал вам все задачи для утверждения в течение {{ "
+"timeRange }}."
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }} делегировал вам все задачи для утверждения в течение {{ "
+"timeRange }}. Описание делегирования: {{ description }}."
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }} делегировал вам свои задачи"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr "{{ principal }} отменил делегирование вам задач на {{ timeRange }}."
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }} отменил делегирование вам своих задач"
+
+msgid "message.comment.content"
+msgstr "Содержание комментария"
+
+msgid "message.commentator"
+msgstr "Прокомментировал"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "Название компании уже существует"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "Разрешен только один владелец."
+
+msgid "message.corp.import.errCode.19011"
+msgstr "Указанный владелец уже создал другую компанию/команду"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "Владелец не указан"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "Количество импортированных участников превышает {{number}}"
+
+msgid "message.corp.import.errCode.19014"
+msgstr ""
+"В файле нет импортируемых компаний-партнеров. Пожалуйста, выполните "
+"повторный импорт после корректировки."
+
+msgid "message.corp.import.errCode.19020"
+msgstr ""
+"Количество импортированных ролей превышает {{number}}, пожалуйста, "
+"выполните повторный импорт после корректировки"
+
+msgid "message.corp.import.errCode.19029"
+msgstr ""
+"Количество импортированных партнеров превышает {{number}}, пожалуйста, "
+"выполните повторный импорт после корректировки"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "Название компании должно содержать не более {{number}} символов."
+
+msgid "message.corp.import.errCode.6065"
+msgstr "Максимальное количество символов в теге: {{number}}"
+
+msgid "message.corp.import.errCode.6066"
+msgstr ""
+"Количество импортированных тегов превышает {{number}}, пожалуйста, "
+"выполните повторный импорт после корректировки"
+
+msgid "message.corpCoop"
+msgstr "Клиенты и партнеры"
+
+msgid "message.corpSyncResult"
+msgstr "Синхронизация участников"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{operator}} назначил вам {{account_num}} клиента(ов)"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "Клиент {{data_label}} был автоматически переработан"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{operator}} изменил утверждающего клиента {{data_label}}"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{operator}} изменил(а) владельца(ей) {{account_num}} клиента(ов)"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{operator}} изменил соавтора клиента {{data_label}}"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{operator}} изменил(а) соавтора(ов) {{account_num}} клиента(ов)"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{operator}} переработано {{account_num}} клиентов"
+
+msgid "message.crm.assignor"
+msgstr "Цедент"
+
+msgid "message.crm.currentCollaborator"
+msgstr "Текущий соавтор"
+
+msgid "message.crm.customer"
+msgstr "Клиент"
+
+msgid "message.crm.followPlanComplete"
+msgstr "{{operator}} выполнил ваш план последующих действий \"{{data_label}}\""
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{operator}} выполнил ваш {{plan_num}} план(ов) последующих действий"
+
+msgid "message.crm.leads"
+msgstr "Лиды"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{operator}} назначил вам {{leads_num}} лидов."
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "Лид «{{ data_label }}» был автоматически переработан."
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{operator}} изменил утверждающего лида {{data_label}}"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr "{{operator}} изменил(а) владельца(ей) {{option_num}} лидов(ов)."
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{operator}} изменил соавтора лида {{data_label}}"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr "{{operator}} изменил(а) соавтора(ов) {{option_num}} лида(ов)."
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{operator}} переработал {{leads_num}} лидов."
+
+msgid "message.crm.newCharger"
+msgstr "Новый утверждающий"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{operator}} добавил для вас план последующих действий \"{{data_label}}\""
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{operator}} изменил утверждающего деловую возможность {{data_label}}"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr "{{operator}} сменил владельцев {{opportunity_num}} бизнес-возможностей."
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{operator}} изменил соавтора бизнес-возможности {{data_label}}"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr ""
+"{{operator}} изменил(-а) соавтора(-ов) {{opportunity_num}} "
+"бизнес-возможности/возможностей."
+
+msgid "message.crm.opportunityWin"
+msgstr "Бизнес-возможность \"{{ data_label }}\" была выиграна."
+
+msgid "message.crm.rawCharger"
+msgstr "Бывший утверждающий"
+
+msgid "message.crm.recycler"
+msgstr "Переработчик"
+
+msgid "message.cron.custom"
+msgstr "Пришло время напоминания"
+
+msgid "message.cron.dataExpires"
+msgstr "Данные просрочены"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "message.dashName"
+msgstr "Заголовок панели инструментов"
+
+msgid "message.dataAlert"
+msgstr "Оповещение о данных"
+
+msgid "message.dataComment"
+msgstr "Клиенты и партнеры"
+
+msgid "message.dataCreate"
+msgstr "Представлены новые данные."
+
+msgid "message.dataLabel"
+msgstr "Название записи"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "Неудачная автоматизация"
+
+msgid "message.emptyValue"
+msgstr "Пустой"
+
+msgid "message.enterForm"
+msgstr "Перейти к форме"
+
+msgid "message.entryName"
+msgstr "Имя формы"
+
+msgid "message.error.4402"
+msgstr "Не удалось проверить расчет агрегации"
+
+msgid "message.etlExecuteFailed"
+msgstr "Неудачная задача ETL"
+
+msgid "message.etlSyncFailed"
+msgstr "Не удалось синхронизировать поток данных"
+
+msgid "message.flow.adminTransfer"
+msgstr "Задача передана вам супер-администратором"
+
+msgid "message.flow.autoBack"
+msgstr ""
+"Необработанные рабочие элементы были возвращены. Пожалуйста, обработайте их "
+"вовремя"
+
+msgid "message.flow.back"
+msgstr "Представленные рабочие элементы были возвращены"
+
+msgid "message.flow.batchTransfer"
+msgstr "Новые задачи передаются вам супер-администратором."
+
+msgid "message.flow.cc"
+msgstr "Вы получили копию нового решенного результата рабочего процесса"
+
+msgid "message.flow.cc.entryName"
+msgstr ""
+"{{ entryName }} Вы получили копию нового решенного результата рабочего "
+"процесса"
+
+msgid "message.flow.cc.merge.entryName"
+msgstr "{entryName} Вам отправлено {{ count }} новых результатов обработки потока"
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "message.flow.dealtUrgently"
+msgstr "Рабочий процесс необходимо обработать срочно"
+
+msgid "message.flow.memberTransfer"
+msgstr "Задача передана вам оператором {{operator}}"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」Задача передана вам {{operator }}"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr "У вас есть новое срочное задание. Пожалуйста, займитесь им как можно скорее."
+
+msgid "message.flow.sign"
+msgstr "Задача передана вам оператором {{operator}}."
+
+msgid "message.flow.signBeforeComplete"
+msgstr ""
+"Предварительный утверждающий обработал узел. Вам нужно завершить новую "
+"задачу рабочего процесса."
+
+msgid "message.flow.timeout"
+msgstr "У вас есть долгожданная задача. Пожалуйста, займитесь ею немедленно."
+
+msgid "message.flow.timeout.entryName"
+msgstr "{{ entryName }} имеет незавершенные задачи"
+
+msgid "message.flow.todo"
+msgstr "У вас есть новое задание."
+
+msgid "message.flow.todo.entryName"
+msgstr "{{ entryName }} У вас новая задача"
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "{entryName} Есть {{ count }} новых пунктов списка дел"
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "message.flowData"
+msgstr "Внешний утверждающий/член CC"
+
+msgid "message.kms.clickViewDetails"
+msgstr "Нажмите «Просмотреть подробности», чтобы просмотреть документ."
+
+msgid "message.kms.denyReason"
+msgstr "Причина отклонения"
+
+msgid "message.kms.description"
+msgstr "Описание базы знаний"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr "{{operator}} обработал комментарии в документе \"{{document}}\"."
+
+msgid "message.kms.docComment"
+msgstr "{{operator}} прокомментировал документ \"{{document}}\""
+
+msgid "message.kms.docCreate"
+msgstr "{{operator}} создал документ \"{{document}}\""
+
+msgid "message.kms.docEdit"
+msgstr "{{operator}} отредактировал документ \"{{document}}\""
+
+msgid "message.kms.docLike"
+msgstr "{{operator}} понравился документ \"{{document}}\""
+
+msgid "message.kms.documentToBeViewed"
+msgstr "У вас есть новый документ для просмотра."
+
+msgid "message.kms.managerBecome"
+msgstr ""
+"Теперь вы являетесь администратором базы знаний \"{{ space_name }}\". "
+"Начните создавать документы и делиться своими идеями!"
+
+msgid "message.kms.spaceApply"
+msgstr ""
+"{{applicant}} подал заявку на создание базы знаний под названием "
+"«{{space_name}}»."
+
+msgid "message.kms.spaceApplyAgree"
+msgstr ""
+"База знаний успешно создана. Теперь вы являетесь администратором новой базы "
+"знаний \"{{ space_name }}\"."
+
+msgid "message.kms.spaceApplyDeny"
+msgstr ""
+"Не удалось создать базу знаний \"{{ space_name }}\". Заполните описание "
+"базы знаний и повторите запрос."
+
+msgid "message.kms.spaceViewNotify"
+msgstr ""
+"{{operator}} напоминает вам о необходимости просмотреть документ "
+"\"{{document}}\""
+
+msgid "message.latitude"
+msgstr "Широта"
+
+msgid "message.longitude"
+msgstr "Долгота"
+
+msgid "message.member.import.errCode.1005"
+msgstr "Электронная почта уже существует."
+
+msgid "message.member.import.errCode.1017"
+msgstr "Номер участника поддерживает только буквы, цифры, символ подчеркивания и '.'"
+
+msgid "message.member.import.errCode.1018"
+msgstr "Неверный формат адреса электронной почты"
+
+msgid "message.member.import.errCode.1019"
+msgstr "Имя участника не должно быть длиннее {{ length }} символов"
+
+msgid "message.member.import.errCode.1024"
+msgstr "Неверный номер мобильного телефона"
+
+msgid "message.member.import.errCode.1027"
+msgstr "Номер мобильного телефона уже существует"
+
+msgid "message.member.import.errCode.1082"
+msgstr "Необходимо указать адрес электронной почты."
+
+msgid "message.member.import.errCode.1084"
+msgstr "Требуется номер участника"
+
+msgid "message.member.import.errCode.1085"
+msgstr "Введите имя участника"
+
+msgid "message.member.import.errCode.1087"
+msgstr "Номер участника уже существует"
+
+msgid "message.member.import.errCode.1092"
+msgstr "Номер участника не должен превышать {{ length }} символов."
+
+msgid "message.member.import.errCode.unknown"
+msgstr "Неизвестная причина. Попробуйте еще раз позже."
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "Не имеете разрешения на управление участником."
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "Дублирующееся имя участника для одной роли в файле."
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "Дублирующееся имя участника."
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "Пока не заполнено ни одного участника"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr ""
+"Невозможно импортировать участников, которые не существуют или вышли из "
+"состава."
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "Дублирующееся имя группы ролей."
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "Введите группу ролей и названия ролей."
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "Невозможно импортировать участников в несуществующую группу ролей."
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "Невозможно импортировать «синхронизированные группы ролей»."
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "Дублирующееся имя роли в одной группе ролей."
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "Разделите имена групп ролей и ролей косой чертой (/)."
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "Роль не включена в группу ролей."
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "Нет разрешения на управление ролью."
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "Невозможно экспортировать «синхронизированные роли»."
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "Неизвестная ошибка. Попробуйте еще раз."
+
+msgid "message.modified"
+msgstr "Измененный"
+
+msgid "message.modifier"
+msgstr "Измененный пользователь"
+
+msgid "message.notifyTime"
+msgstr "Время напоминания"
+
+msgid "message.remainTime.days"
+msgstr ""
+"Есть ожидающие задачи. Оставшееся время: {{ days }} дн., {{ hours }} ч., {{ "
+"minutes }} мин. Пожалуйста, обработайте их вовремя"
+
+msgid "message.remainTime.hours"
+msgstr ""
+"Есть ожидающие задачи. Осталось времени: только {{hours}} час(ов), "
+"{{minutes}} минут(ы). Пожалуйста, обработайте их вовремя"
+
+msgid "message.remainTime.lessMinute"
+msgstr ""
+"У вас есть отложенная задача, на обработку которой осталось менее 1 минуты. "
+"Пожалуйста, обработайте ее вовремя"
+
+msgid "message.remainTime.minutes"
+msgstr ""
+"У вас есть отложенная задача с оставшимся временем обработки всего {{ "
+"minutes }} минут(ы). Пожалуйста, обработайте ее вовремя"
+
+msgid "message.system"
+msgstr "Система"
+
+msgid "message.systemRobot"
+msgstr "Системный робот"
+
+msgid "message.title.accountApportion"
+msgstr "Уведомление о назначении клиента"
+
+msgid "message.title.accountChangeCharger"
+msgstr "Клиентский обработчик изменен"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "Сотрудник клиента изменен"
+
+msgid "message.title.accountRecycle"
+msgstr "Уведомление о переработке отходов для клиентов"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "Контактный обработчик изменен"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "Сотрудник контактов изменен"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "{{ _g_productName }} Оповещение об использовании системы"
+
+msgid "message.title.email.corpCoop"
+msgstr "{{ _g_productName }} Уведомление клиентов и партнеров"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "{{ _g_productName }} Оповещение об использовании системы"
+
+msgid "message.title.excelImportComplete"
+msgstr "Импорт данных завершен"
+
+msgid "message.title.followPlanComplete"
+msgstr "Ваш план действий был выполнен другими"
+
+msgid "message.title.leadsApportion"
+msgstr "Уведомление о назначении ведущего"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "Изменен ведущий обработчик"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "Ведущий соавтор изменен"
+
+msgid "message.title.leadsRecycle"
+msgstr "Уведомление о переработке свинца"
+
+msgid "message.title.newFollowPlan"
+msgstr "Новое задание по плану последующих действий"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "Изменен обработчик BO"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "Сотрудник BO изменен"
+
+msgid "message.title.opportunityWin"
+msgstr "Напоминание о выигрышном BO"
+
+msgid "message.title.pluginExpire"
+msgstr "Срок действия плагина {{ _g_productName }} скоро истечет."
+
+msgid "message.viewDash"
+msgstr "Просмотреть панель инструментов"
+
+msgid "message.viewDataDetails"
+msgstr "Просмотреть подробные данные"
+
+msgid "message.viewForm"
+msgstr "Просмотреть форму"
+
+msgid "not.support.op"
+msgstr "Неподдерживаемый оператор сравнения {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "Ваш браузер, похоже, немного устарел."
+
+msgid "notSupported.ie.subtitle"
+msgstr ""
+"Для обычного использования установите следующие современные браузеры или "
+"обновите свой браузер."
+
+msgid "op.param.error"
+msgstr "Тип данных префиксных операций должен быть Число."
+
+msgid "op.param.number"
+msgstr "Поле операции оператора {{op}} должно быть числом"
+
+msgid "open_store.space.enterprise"
+msgstr "Внутренний плагин"
+
+msgid "open_store.space.store"
+msgstr "Официальный плагин"
+
+msgid "page.title.aggregateEdit"
+msgstr "Проектирование сводной таблицы | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "Помощник ИИ"
+
+msgid "page.title.baseConfig"
+msgstr "Дизайн формы-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "Клиенты и партнеры | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "Управление | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "Индивидуальное рабочее пространство"
+
+msgid "page.title.dashEdit"
+msgstr "Дизайн панели инструментов-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "Предварительный просмотр панели управления | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "Автоматизация | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "Просмотреть данные"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "Войти в {{ _g_productName }}"
+
+msgid "page.title.error"
+msgstr "Что-то пошло не так"
+
+msgid "page.title.error.flow"
+msgstr "Подсказка рабочего процесса"
+
+msgid "page.title.error403"
+msgstr "Доступ запрещен"
+
+msgid "page.title.error404"
+msgstr "Страница не найдена"
+
+msgid "page.title.etlEdit"
+msgstr "Проектирование потока данных | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "Пользовательская страница деталей | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "Предварительный просмотр формы | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "Центр шаблонов"
+
+msgid "page.title.imageUpload"
+msgstr "Загрузка изображения"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "Жаворонок успешно скакал"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "Переплет жаворонка"
+
+msgid "page.title.login_bind"
+msgstr "Ссылка на электронную почту"
+
+msgid "page.title.networkTestView"
+msgstr "Тест самообслуживания сети | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "Эта версия браузера больше не поддерживается"
+
+msgid "page.title.oauth"
+msgstr "Подтвердить авторизацию"
+
+msgid "page.title.openApiExplorer"
+msgstr "Отладчик API | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "Описание параметра | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "Открытая платформа | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "Создать заказ | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "Оплатить заказ"
+
+msgid "page.title.orderPayFailed"
+msgstr "Платеж не прошёл"
+
+msgid "page.title.orderPaySuccess"
+msgstr "Платеж прошел успешно"
+
+msgid "page.title.passwordForget"
+msgstr "Забыли пароль {{ _g_productName }}?"
+
+msgid "page.title.passwordReset"
+msgstr "Сбросить пароль"
+
+msgid "page.title.personal"
+msgstr "Персональные настройки | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "Шаблон дизайна печати"
+
+msgid "page.title.signature"
+msgstr "Подпись"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "Войти с авторизацией"
+
+msgid "page.title.support"
+msgstr "Свяжитесь с нами | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "Аутентификация личности | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "Ссылка на номер мобильного телефона/адрес электронной почты"
+
+msgid "page.title.userCancelTitle"
+msgstr "Счет закрывается"
+
+msgid "print.field.currentFlow"
+msgstr "Текущий узел"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{formName}}_штрихкод_{{timestamp}}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{formName}}_штрихкод_{{timestamp}}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "Основная информация"
+
+msgid "print.sys.fileFormat"
+msgstr "{{file name}} Размер файла: {{size}} Время загрузки: {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "Системная печать"
+
+msgid "print.sys.wxInfo"
+msgstr "Данные WeChat о человеке, который отправил это"
+
+msgid "print.system_template_name"
+msgstr "Шаблон по умолчанию"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{operator}} назначил вам клиента {{data_label}}."
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{operator}} назначил вам {{account_num}} клиентов."
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{operator}} изменил владельца клиента {{data_label}}. Предыдущее: "
+"{{raw_charger}}. Текущее: {{new_charger}}."
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr "{{operator}} сменил ответственного за {{account_num}} клиентов."
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{operator}} изменил(а) соавтора(ов) клиента {{data_label}}. Текущий "
+"соавтор: {{collaborators}}."
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{operator}} изменил(а) соавтора(ов) {{account_num}} клиента(ов)."
+
+msgid "site.message.content.account_recycle"
+msgstr "{{operator}} переработал клиента \"{{data_label}}\"."
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "Клиент \"{{ data_label }}\" был автоматически утилизирован."
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{operator}} переработал {{account_num}} клиента(ов)."
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"Количество агрегированных таблиц для вашей компании/команды \"{{ corpName "
+"}}\" превысило лимит \"{{ vipLevel }}\". Перейдите в \"Управление > "
+"Подробности плана\", чтобы просмотреть подробности использования и обновить "
+"план."
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"Количество агрегаций для вашей компании/команды \"{{ corpName }}\" "
+"превысило лимит \"{{ vipLevel }}\". Перейдите в \"Управление > Подробности "
+"плана\", чтобы просмотреть подробности использования и обновить план."
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"Количество авторизованных людей превысило лимит. Доступ к анализу данных "
+"сейчас заблокирован. Удалите разрешение на анализ данных некоторых "
+"участников в центре продуктов."
+
+msgid "site.message.content.api_key_create"
+msgstr "{{operator}} создал(а) ключ(и) API"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{operator}} отключены ключи API"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{operator}} включены ключи API"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{operator}} удалены ключи API"
+
+msgid "site.message.content.app_create"
+msgstr "{{operator}} создал приложение {{appName}}"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr ""
+"Извините, ваше приложение {{ appName }} не удалось опубликовать. Причина "
+"следующая:"
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "Причина: {{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr ""
+"Поздравляем! Вы успешно опубликовали приложение {{ appName }}. Проверьте "
+"его в Центре шаблонов."
+
+msgid "site.message.content.app_remove"
+msgstr "{{operator}} удалил приложение {{appName}}"
+
+msgid "site.message.content.app_rename"
+msgstr "{{operator}} изменил название приложения с {{oriAppName}} на {{newAppName}}"
+
+msgid "site.message.content.app_template_approved"
+msgstr "Шаблон \"{{ templateName }}\" был одобрен"
+
+msgid "site.message.content.app_template_publish"
+msgstr ""
+"{{operator}} выпустил приложение \"{{templateName}}\", ожидающее "
+"рассмотрения"
+
+msgid "site.message.content.app_template_rejected"
+msgstr "Шаблон \"{{ templateName }}\" не прошел проверку. причина: {{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"Ваша компания/команда \"{{ corpName }}\" выполнила Automations Pro {{ usage "
+"}} раз. Ежемесячный лимит составляет {{ limit }} в текущем плане. Если "
+"лимит будет превышен, монеты будут израсходованы. Чтобы предотвратить любые "
+"сбои в работе вашего бизнеса, убедитесь, что на вашем счете достаточно "
+"монет."
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"Ваша команда \"{{ corpName }}\" достигла {{ usage }} запусков Automation "
+"Pro. Годовой лимит {{ limit }} скоро будет достигнут. После превышения "
+"лимита Automation Pro не сможет запускаться или потребуется Cloud Coins. "
+"Пожалуйста, перейдите в «Управление — Детали плана» для просмотра "
+"использования и пополнения Cloud Coins."
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"Ваша команда \"{{ corpName }}\" достигла {{ usage }} запусков Automation "
+"Pro. Максимальное количество запусков в год — {{ limit }}. Пожалуйста, "
+"обратите на это внимание."
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"Количество BPA для вашей компании/команды \"{{ corpName }}\" превысило "
+"лимит \"{{ vipLevel }}\". Перейдите в \"Управление > Подробности плана\", "
+"чтобы просмотреть подробности использования и обновить план."
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"Использование системы для вашей компании/команды \"{{ corpName }}\" "
+"превысило лимит, и система была временно приостановлена. Перейдите в "
+"\"Управление > Подробности плана\", чтобы просмотреть подробности "
+"использования и обновить план."
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"Баланс Cloud Coin вашей команды {{ corpName }} меньше {{ limit }}. Такие "
+"функции, как SMS-верификация, распознавание OCR и загрузка вложений, могут "
+"быть затронуты. Чтобы избежать любого влияния на ваш бизнес, пополните свой "
+"счет как можно скорее."
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"Баланс Cloud Coin вашей команды {{ corpName }} скоро закончится. Такие "
+"функции, как SMS-верификация, распознавание OCR и загрузка вложений, могут "
+"быть затронуты. Чтобы избежать любого влияния на ваш бизнес, пополните свой "
+"счет как можно скорее."
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{sender}} упомянул вас в комментарии {{dataTitle}}."
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "Данные без названия"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "Обзор комментариев: {{ messageComment }}."
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr "Участники компании {{corpName}} упомянули вас в комментарии {{dataTitle}}."
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "Данные без названия"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "Обзор комментариев: {{ messageComment }}."
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{operator}} изменил владельца контакта {{data_label}}. Предыдущее: "
+"{{raw_charger}}. Текущее: {{new_charger}}."
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr "{{operator}} изменил(а) владельца(ей) {{contacts_num}} контакта(ов)."
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{operator}} изменил(а) соавтора(ов) контакта {{data_label}}. Текущий "
+"соавтор(ы): {{collaborators}}."
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{operator}} изменил(а) соавтора(ов) {{contacts_num}} контакта(ов)."
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr ""
+"Не удалось сотрудничать с другими компаниями/командами по бизнесу. "
+"Количество контактных лиц для вашей компании/команды \"{{ corpName }}\" "
+"недостаточно."
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"Компания {{corpName}}, с которой вы связались, подала заявку на "
+"установление сотрудничества с вами. После установления сотрудничества ваши "
+"контакты могут участвовать в бизнесе компании."
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"Количество подключенных предприятий для вашей компании/команды \"{{ "
+"corpName }}\" превысило лимит \"{{ vipLevel }}\". Перейдите в \"Управление "
+"> Подробности плана\", чтобы просмотреть подробности использования и "
+"обновить план."
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr ""
+"Не удалось подключиться к другим компаниям. Квота корпоративных подключений "
+"для вашей компании/команды \"{{ corpName }}\" недостаточна. Купите больше и "
+"попробуйте еще раз."
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+" Ваш друг приглашает вас к сотрудничеству через {{ _g_productName }}. "
+"Присоединяйтесь к его/ее команде \"{{ corpName }}\". Приглашение будет "
+"действительно в течение 7 дней."
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"На панели управления {{ entryName }} приложения {{ appName }} данные в {{ "
+"widgetName }} вызвали оповещение о данных {{ thresholdName }}."
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr ""
+"Напоминание не выполнено, так как оповещение о данных {{ thresholdName }} "
+"не было выполнено."
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "Оповещение от {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr ""
+"Количество сработавших оповещений на панели мониторинга достигло дневного "
+"лимита в 1000. Сегодня больше оповещений срабатывать не будут."
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr ""
+"Поскольку условие оповещения о данных {{ thresholdName }} было "
+"недействительным, оповещение о данных было автоматически отключено."
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "Оповещение от {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr ""
+"Оповещение было отключено автоматически, поскольку оповещение о данных {{ "
+"thresholdName }} не было выполнено много раз."
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "Оповещение от {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"Общий объем данных для вашей компании/команды \"{{ corpName }}\" превысил "
+"лимит \"{{ vipLevel }}\". Перейдите в \"Управление > Подробности плана\", "
+"чтобы просмотреть сведения об использовании и обновить план."
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"Ваша компания/команда \"{{ corpName }}\" уже использовала {{ usage }} "
+"записей в этом месяце, приближаясь к пределу в 1000 записей. Перейдите в "
+"\"Управление > Подробности плана\", чтобы просмотреть подробности "
+"использования и обновить план."
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"В приложении {{ appName }} автоматизация {{ triggerName }} не сработала {{ "
+"failedCount }} раз. Просмотрите историю триггеров по времени."
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"Автоматизация \"{{ triggerName }}\" в приложении \"{{ appName }}\" не была "
+"выполнена. Проверьте время журнала истории триггеров."
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"В приложении {{ appName }} автоматизация {{ triggerName }} не была запущена "
+"{{ failedCount }} раз. Сегодня больше не будет напоминаний. Просмотрите "
+"историю триггеров вовремя."
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"Ваша компания/команда \"{{ corpName }}\" уже использовала {{ usage }} "
+"записей в общей сложности, приближаясь к пределу {{ limit }}. Перейдите в "
+"\"Управление > Подробности плана\", чтобы просмотреть подробности "
+"использования и обновить план."
+
+msgid "site.message.content.dept_create"
+msgstr "{{operator}} добавил отдел с именем {{deptName}}"
+
+msgid "site.message.content.dept_import"
+msgstr "{{operator}} импортировано {{deptSize}} отделов."
+
+msgid "site.message.content.dept_remove"
+msgstr "{{operator}} удалил отдел {{deptName}}."
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"Компания {{corpName}}, которая установила с вами связи, имеет {{op}} "
+"{{side}} контакт {{nicknameList}}. Своевременно корректируйте "
+"соответствующие разрешения, чтобы гарантировать нормальное развитие бизнеса."
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"Компания {{corpName}}, которая установила с вами связи, имеет {{op}} "
+"{{side}} контакт {{nicknameList}}. Своевременно корректируйте "
+"соответствующие разрешения, чтобы гарантировать нормальное развитие бизнеса."
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"Компания {{corpName}}, установившая с вами связи, имеет {{op}} {{side}} "
+"контакт {{nicknameList}}."
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"Количество потоков данных для вашей компании/команды \"{{ corpName }}\" "
+"превысило лимит \"{{ vipLevel }}\". Перейдите в \"Управление > Подробности "
+"плана\", чтобы просмотреть подробности использования и обновить план."
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"Поток данных \"{{ etlName }}\" в \"{{ appName }}\" не удалось обновить {{ "
+"maxCount }} раз. Система отключила правила обновления, и все обновления "
+"были приостановлены. Проверьте причины сбоев и внесите изменения перед "
+"повторной активацией правил обновления."
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr ""
+" Не удалось обновить поток данных «{{ etlName }}» в приложении «{{ appName "
+"}}»."
+
+msgid "site.message.content.etl_sync_failed"
+msgstr ""
+"Потоку данных \"{{ etl_name }}\" в приложении \"{{ app_name }}\" не удалось "
+"синхронизировать данные с выходной таблицей."
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr ""
+"Не удалось экспортировать \"{{ title }}\". Экспортированные данные "
+"участника превышают максимальный предел."
+
+msgid "site.message.content.excel_import_complete"
+msgstr "{{ entryName }} успешно импортировал {{ imported }} данные."
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"{{ entryName }} успешно импортировал {{ imported }} фрагментов данных, но "
+"не удалось импортировать {{ failed }} фрагментов данных. Ссылка на загрузку "
+"отчета об ошибках станет недействительной через 24 часа. Пожалуйста, "
+"загрузите ее как можно скорее."
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "\"{{ entryName }}\" успешно обновил {{ updated }} данные."
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"{{ entryName }} успешно обновлено {{ updated }} частей данных, не удалось "
+"обновить {{ failed }} частей данных. Ссылка для загрузки отчета об ошибках "
+"станет недействительной через 24 часа. Пожалуйста, загрузите ее как можно "
+"скорее."
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"{{ entryName }} успешно обновлено {{ updated }} фрагментов данных, успешно "
+"импортировано {{ imported }} фрагментов данных."
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"{{ entryName }} успешно обновлено {{ updated }} частей данных, успешно "
+"импортировано {{ imported }} частей данных, но не удалось импортировать {{ "
+"failed }} частей данных. Ссылка для загрузки отчета об ошибках станет "
+"недействительной через 24 часа. Пожалуйста, загрузите ее как можно скорее."
+
+msgid "site.message.content.file_export_complete"
+msgstr ""
+"\"{{ title }}\" готов к загрузке. Ссылка на загрузку истечет через 24 часа. "
+"Загрузите ее как можно скорее."
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"\"{{ title }}\" Файл экспорта слишком большой. При экспорте данные не могут "
+"превышать 16 МБ, 100 000 строк и 1 000 000 сеток. Пожалуйста, отфильтруйте "
+"и экспортируйте снова."
+
+msgid "site.message.content.file_export_failed"
+msgstr ""
+"Не удалось экспортировать \"{{ title }}\". Попробуйте еще раз позже или "
+"свяжитесь с нами."
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"Экспорт не удался. Размер файла {widget} слишком большой. Можно "
+"экспортировать максимум 1000 вложений, а сжатый файл не может превышать 1 "
+"ГБ. Попробуйте экспортировать их меньшими партиями."
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"Экспорт не удался. Слишком много правил сортировки для данных в форме "
+"{{title}}. Уменьшите правила сортировки или объем данных для экспорта и "
+"повторите экспорт."
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"Экспорт не удался. Размер файла {{title}} слишком велик. Можно "
+"экспортировать максимум 1 000 000 объединенных ячеек, а данные не могут "
+"превышать лимит строк Excel. Отфильтруйте данные и экспортируйте снова."
+
+msgid "site.message.content.flow_cc"
+msgstr ""
+"Если требуются дальнейшие действия, пожалуйста, рассмотрите их как можно "
+"скорее."
+
+msgid "site.message.content.flow_cc_merge"
+msgstr ""
+"Если требуются дальнейшие действия, пожалуйста, рассмотрите их как можно "
+"скорее."
+
+msgid "site.message.content.flow_forward"
+msgstr "{{operator}} отправил процесс, пожалуйста, обработайте его вовремя"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr ""
+"Отправлено {{flowCreatorName}}, пожалуйста, обработайте его как можно "
+"скорее."
+
+msgid "site.message.content.flow_timeout"
+msgstr ""
+"Отправлено {{flowCreatorName}}, пожалуйста, обработайте его как можно "
+"скорее."
+
+msgid "site.message.content.follow_plan_complete"
+msgstr "{{operator}} выполнил ваш план последующих действий \"{{data_label}}\"."
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{operator}} выполнил {{plan_num}} ваших последующих планов."
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"Объем данных на форму для вашей компании/команды \"{{ corpName }}\" "
+"превысил лимит \"{{ vipLevel }}\". Перейдите в \"Управление > Подробности "
+"плана\", чтобы просмотреть подробности использования и обновить план."
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"Ваша компания/команда \"{{ corpName }}\" уже использовала {{ usage }} "
+"записи(й) на форму, приближаясь к пределу {{ limit }}. Перейдите в "
+"\"Управление > Подробности плана\", чтобы просмотреть подробности "
+"использования и обновить план."
+
+msgid "site.message.content.guest_corp_accept"
+msgstr ""
+"Компания \"{{ corpName }}\" приняла ваше приглашение. Поделитесь "
+"разрешениями приложения/формы с ее контактным лицом для будущего "
+"сотрудничества."
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr ""
+"Ваш взаимосвязанный партнер «{{ corpName }}» одобрил ваш запрос на "
+"совместное управление контактами."
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "Компания \"{{ corpName }}\" была отключена от вас."
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr ""
+"Ваш взаимосвязанный партнер \"{{ corpName }}\" взял на себя разрешения "
+"контактов."
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"Ваш партнер по взаимодействию \"{{ corpName }}\" изменил свой режим "
+"использования, поэтому ваше взаимодействие прекращено, а квота на "
+"подключение возвращена на ваш счет. Обратитесь к ответственному лицу для "
+"восстановления подключения."
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"Ваш партнер \"{{ corpName }}\" запросил разрешение на управление контактами "
+"в вашей учетной записи \"{{ _g_productName }}\", чтобы они могли настроить "
+"деловые контакты. При необходимости позже возьмите на себя разрешение на "
+"контакты."
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr ""
+"Компания \"{{ corpName }}\" прекратила сотрудничество с вами. Измените "
+"соответствующие разрешения, чтобы избежать влияния на ваш бизнес."
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr ""
+"Ваш партнер по взаимодействию \"{{ corpName }}\" изменил свой режим "
+"использования, поэтому ваше взаимодействие прекращено. Обратитесь к "
+"ответственному лицу для восстановления соединения."
+
+msgid "site.message.content.import_file_complete"
+msgstr ""
+"{{success}} вложений импортировано для \"{{ title }}\". {{failed}} не "
+"удалось."
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr "{{operator}} обработал комментарии в документе \"{{document}}\"."
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "Обзор комментариев: {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{operator}} прокомментировал документ \"{{document}}\"."
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "Обзор комментариев: {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{operator}} создал документ с именем \"{{document}}\"."
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{operator}} отредактировал документ \"{{document}}\"."
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{operator}} понравился документ \"{{document}}\"."
+
+msgid "site.message.content.kms_space_apply"
+msgstr " {{application}} подать заявку на создание базы знаний {{space_name}}"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr ""
+"База знаний успешно создана. Теперь вы являетесь администратором новой базы "
+"знаний \"{{ space_name }}\"."
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr ""
+"Не удалось создать базу знаний {{ space_name }}. Улучшите ее описание и "
+"попробуйте еще раз."
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "Причина отклонения: {{deny_reason}}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr ""
+"Теперь вы являетесь администратором базы знаний \"{{ space_name }}\". "
+"Начните создавать документы и делиться своими идеями!"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{operator}} напомнил вам просмотреть документ \"{{document}}\"."
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "Обзор документа: {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{operator}} назначил вам лида \"{{data_label}}\"."
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{operator}} назначил вам {{leads_num}} лидов."
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{operator}} изменил владельца лида \"{{data_label}}\". Предыдущее: "
+"\"{{raw_charger}}\". Текущее: \"{{new_charger}}\"."
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr "{{operator}} сменил ответственного за {{leads_num}} лидов."
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{operator}} изменил(а) соавтора(ов) лида \"{{data_label}}\". Текущий "
+"соавтор(ы): \"{{collaborators}}\"."
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{operator}} изменил соавтора {{leads_num}} лидов."
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{operator}} повторно использовал лид \"{{data_label}}\"."
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "Лид «{{ data_label }}» был автоматически переработан."
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{operator}} переработал {{leads_num}} лидов."
+
+msgid "site.message.content.manage_group_add_members"
+msgstr ""
+"{{operator}} добавил {{members}} в группу администраторов "
+"\"{{manageGroup}}\"."
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{operator}} добавил группу администраторов с именем «{{manageGroup}}»."
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{operator}} удалил группу администраторов с именем «{{manageGroup}}»."
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr ""
+"{{operator}} удалил {{members}} из группы администраторов "
+"\"{{manageGroup}}\"."
+
+msgid "site.message.content.manager_login"
+msgstr "Администратор {{operator}} вошел в систему."
+
+msgid "site.message.content.member_import"
+msgstr "{{operator}} импортировано {{memberSize}} участников."
+
+msgid "site.message.content.member_invite"
+msgstr "{{operator}} пригласил {{memberList}}."
+
+msgid "site.message.content.member_remove"
+msgstr "{{operator}} установил участников {{memberList}} как ушедших в отставку"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"Использование системы для вашей компании/команды \"{{ corpName }}\" "
+"превысило лимит. Чтобы продолжить без перерыва. Перейдите в \"Управление > "
+"Подробности плана\", чтобы просмотреть подробности использования и обновить "
+"план."
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"Отправка вашего сообщения не удалась 100 раз, и веб-перехватчик (сообщение) "
+"был автоматически отключен. Проверьте причину и измените конфигурацию в "
+"разделе «Управление — Веб-перехватчик (сообщение)»."
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"Ваше сообщение не удалось отправить. Если более 100 сообщений не удалось "
+"отправить, вебхук (сообщение) будет автоматически отключен. Пожалуйста, "
+"проверьте причину вовремя и отрегулируйте конфигурацию в \"Управление - "
+"Вебхук (сообщение)\"."
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"Ваше сообщение не было отправлено {{ count }} раз. Если более 100 сообщений "
+"не удалось отправить, вебхук (сообщение) будет автоматически отключен, "
+"пожалуйста, проверьте причину вовремя и скорректируйте конфигурацию в "
+"\"Управление - Вебхук (сообщение)\"."
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"Некоторые приложения, которые ваша компания/команда \"{{ corpName }}\" "
+"пробовали бесплатно, скоро истечет. После истечения срока действия данные "
+"будут сохранены, но функции будут ограничены, поэтому своевременно обновите "
+"свой план. Если вы подписались на пробную версию или приобрели "
+"премиум-план, проигнорируйте это уведомление."
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{operator}} добавил для вас план последующих действий «{{data_label}}»."
+
+msgid "site.message.content.oauth_create"
+msgstr "{{operator}} добавил авторизацию для \"{{suit_name}}\"."
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{operator}} отозвал разрешение для \"{{suit_name}}\"."
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{operator}} изменил владельца бизнес-возможности \"{{data_label}}\". "
+"Предыдущая: {{raw_charger}}. Текущая: {{new_charger}}."
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr ""
+"{{operator}} сменил(-и) владельца(-ей) {{opportunities_num}} "
+"бизнес-возможностей."
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{operator}} изменил(а) соавтора(ов) бизнес-возможности \"{{data_label}}\". "
+"Текущий: {{collaborators}}."
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr ""
+"{{operator}} изменил(а) соавтора(ов) {{opportunity_num}} "
+"бизнес-возможности/возможностей."
+
+msgid "site.message.content.opportunity_win"
+msgstr "Бизнес-возможность \"{{ data_label }}\" была выиграна."
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"Плагин \"{{ pluginName }}\" в вашей компании/команде \"{{ corpName }}\" "
+"истекает {{ expireTime }}, и плагин будет отключен через {{ days }} "
+"дней(дней). Если вы хотите продлить его, свяжитесь с нами."
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"Приложение \"{{ appName }}\", которое ваша компания/команда \"{{ corpName "
+"}}\" попробовали бесплатно, истекает через {{ days }} дн.(дней). После "
+"истечения срока действия данные будут сохранены, но функции будут "
+"ограничены, поэтому своевременно обновите свой план. Если вы уже "
+"подписались на пробную версию или приобрели премиум-план, проигнорируйте "
+"это уведомление."
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"Облачные монеты на счете вашей компании/команды \"{{ corpName }}\" были "
+"исчерпаны. Функция SMS-верификации больше недоступна, и некоторые участники "
+"не смогли предоставить данные. Чтобы предотвратить любые сбои в работе "
+"вашего бизнеса, измените дизайн или пополните монеты. После пополнения "
+"функция больше не будет ограничена."
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"Ваш друг {{ nickname }} приглашает вас к сотрудничеству через {{ "
+"_g_productName }}. Присоединяйтесь к его/ее команде. Приглашение будет "
+"действительно в течение 7 дней."
+
+msgid "site.message.content.team_invite_notify"
+msgstr ""
+"Ваш друг {{ nickname }} хочет сотрудничать с вами по {{ _g_productName }}. "
+"Пожалуйста, перейдите в Сообщения, чтобы просмотреть подробности"
+
+msgid "site.message.content.team_invite_success"
+msgstr "Вы успешно присоединились к {{ teamName }}"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"Использование системы для вашей компании/команды \"{{ corpName }}\" "
+"превысило лимит бесплатного плана. Чтобы обеспечить бесперебойное "
+"использование системы после пробного периода, перейдите в \"Управление > "
+"Подробности плана\", чтобы просмотреть подробности использования и обновить "
+"план. Оставшиеся дни пробного периода можно продлить для любого плана."
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"Количество автоматизаций для вашей компании/команды \"{{ corpName }}\" "
+"превысило лимит \"{{ vipLevel }}\". Перейдите в \"Управление > Подробности "
+"плана\", чтобы просмотреть подробности использования и обновить план."
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"Количество загруженных вложений для вашей компании/команды \"{{ corpName "
+"}}\" превысило лимит \"{{ vipLevel }}\". Перейдите в \"Управление > "
+"Подробности плана\", чтобы просмотреть подробности использования и обновить "
+"план."
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"Количество загруженных вложений в аккаунте вашей компании/команды \"{{ "
+"corpName }}\" достигло {{ usage }} из общего лимита {{ limit }}. Если лимит "
+"будет превышен, будут израсходованы облачные монеты. Чтобы предотвратить "
+"любые сбои в работе вашего бизнеса, убедитесь, что на вашем аккаунте "
+"достаточно монет."
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"Количество загруженных вложений в аккаунте вашей компании/команды \"{{ "
+"corpName }}\" достигло {{ usage }} из общего лимита {{ limit }}. Если лимит "
+"будет превышен, будут израсходованы облачные монеты. Теперь у вас есть {{ "
+"coinBalance }} монет(ы). Чтобы предотвратить любые сбои в работе вашего "
+"бизнеса, убедитесь, что на вашем счете достаточно монет."
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"Количество загруженных вложений в аккаунте вашей компании/команды \"{{ "
+"corpName }}\" достигло {{ usage }} из общего лимита {{ limit }}. Если лимит "
+"будет превышен, будут израсходованы облачные монеты. Теперь у вас не более "
+"{{ coinBalance }} монет(ы). Чтобы предотвратить любые сбои в работе вашего "
+"бизнеса, пополните запас монет как можно скорее."
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"Количество загруженных вложений в аккаунте вашей компании/команды \"{{ "
+"corpName }}\" достигло {{ usage }} из общего лимита {{ limit }}. Если лимит "
+"будет превышен, будут израсходованы облачные монеты. Чтобы предотвратить "
+"любые сбои в работе вашего бизнеса, включите \"Загрузка файлов, превышающих "
+"лимит, будет стоить монет\" в настройках платежей и убедитесь, что на вашем "
+"счете достаточно монет."
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"Количество участников в вашей компании/команде \"{{ corpName }}\" превысило "
+"лимит. Перейдите в \"Управление > Подробности плана\", чтобы просмотреть "
+"подробности использования и обновить план."
+
+msgid "site.message.content.webhook_failed_count"
+msgstr ""
+"Количество сбоев Webhook в вашей форме {{ entryName }} достигло {{ count "
+"}}. Проверьте и исправьте как можно скорее."
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"Количество сбоев Webhook в вашей форме {{ entryName }} достигло {{ count "
+"}}, webhook отключен. Пожалуйста, включите его, если необходимо."
+
+msgid "site.message.content.webhook_failed_first"
+msgstr ""
+"Webhook не сработал в вашей форме {{ entryName }}. Проверьте и исправьте "
+"как можно скорее."
+
+msgid "site.message.content.webhook_form_type"
+msgstr ""
+"Из-за переключения типа формы веб-хук в вашей форме будет отправлять данные "
+"в соответствии с новым типом формы."
+
+msgid "site.message.link_text.accept_application"
+msgstr "Принимать"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "Принимать"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "Загрузить отчет об ошибке"
+
+msgid "site.message.link_text.download_now"
+msgstr "Загрузить сейчас"
+
+msgid "site.message.link_text.view_details"
+msgstr "Посмотреть подробности"
+
+msgid "site.message.title.dash_alert"
+msgstr "Оповещение о данных"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "Шаблоны для самостоятельной сборки"
+
+msgid "template_center.space.standard"
+msgstr "Стандартные шаблоны"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "Шаблон массового импорта контактов"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "Шаблон массового импорта Collaborator"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "Шаблон импорта роли"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "Шаблон пакетного создания контактов"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "{{ _g_productName }} Приложение для аутентификации личности"
+
+msgid "tenant.verify.files.corp"
+msgstr "Название предприятия, соответствующие подтверждающие документы и т. д."
+
+msgid "tenant.verify.files.owner"
+msgstr "Имя, удостоверение личности/другие документы"
+
+msgid "tenant.verify.title.approved"
+msgstr "Представленные вами учетные данные были одобрены."
+
+msgid "tenant.verify.title.declined"
+msgstr "Представленные вами учетные данные были отклонены."
+
+msgid "tenant.verify.title.has_expired"
+msgstr ""
+"Аутентификация вашей компании истекла, и публичные ссылки больше не "
+"доступны. Пройдите аутентификацию как можно скорее."
+
+msgid "tenant.verify.title.will_expire"
+msgstr ""
+"Аутентификация вашей компании скоро истечет. Чтобы обеспечить постоянный "
+"доступ к публичным ссылкам, пройдите аутентификацию как можно скорее"
+
+msgid "tenant.verify.type.corp"
+msgstr "Предприятие"
+
+msgid "tenant.verify.type.owner"
+msgstr "Личный"
+
+msgid "type.not.match"
+msgstr "Неправильный тип"
+
+msgid "ua.dingtalkMobile"
+msgstr "Мобильный DingTalk"
+
+msgid "ua.dingtalkPC"
+msgstr "DingTalk ПК"
+
+msgid "ua.larkMobile"
+msgstr "Ларк Мобайл"
+
+msgid "ua.larkPC"
+msgstr "Ларк ПК"
+
+msgid "ua.mobile"
+msgstr "Мобильный Интернет"
+
+msgid "ua.pc"
+msgstr "ПК-веб"
+
+msgid "ua.wechatMiniProgram"
+msgstr "Мини программа"
+
+msgid "ua.wechatMobile"
+msgstr "WeChat Мобильный"
+
+msgid "ua.wechatPC"
+msgstr "WeChat ПК"
+
+msgid "ua.wxworkMobile"
+msgstr "WeCom Мобильный"
+
+msgid "ua.wxworkPC"
+msgstr "ПК WeCom"
+
+msgid "user.defaultNickname"
+msgstr "Без названия"
+
+msgid "userActivity.app.metricsName"
+msgstr "Просмотр по данным о действиях приложения"
+
+msgid "userActivity.app.reportName"
+msgstr "Просмотр по App-Обзор"
+
+msgid "userActivity.appId"
+msgstr "Идентификатор приложения"
+
+msgid "userActivity.appName"
+msgstr "Приложение"
+
+msgid "userActivity.app_access_count"
+msgstr "Пользователи (Доступ)"
+
+msgid "userActivity.app_access_times"
+msgstr "Время (Доступ)"
+
+msgid "userActivity.data_create_count"
+msgstr "Пользователи (Создание данных)"
+
+msgid "userActivity.data_create_times"
+msgstr "Время (Создать данные)"
+
+msgid "userActivity.data_export_count"
+msgstr "Пользователи (Экспорт данных)"
+
+msgid "userActivity.data_export_times"
+msgstr "Время (Экспорт данных)"
+
+msgid "userActivity.data_remove_count"
+msgstr "Пользователи (удаление данных)"
+
+msgid "userActivity.data_remove_times"
+msgstr "Время (удаление данных)"
+
+msgid "userActivity.data_update_count"
+msgstr "Пользователи (обновление данных)"
+
+msgid "userActivity.data_update_times"
+msgstr "Время (обновить данные)"
+
+msgid "userActivity.entity.metricsName"
+msgstr "Просмотр по объектам-активности Подробности"
+
+msgid "userActivity.entity.reportName"
+msgstr "Просмотр по объекту-Обзор"
+
+msgid "userActivity.entityId"
+msgstr "Идентификатор объекта"
+
+msgid "userActivity.entityName"
+msgstr "Объект"
+
+msgid "userActivity.fileName"
+msgstr "Активность участников"
+
+msgid "userActivity.login_stats_count"
+msgstr "Пользователи (Войти)"
+
+msgid "userActivity.login_stats_times"
+msgstr "Время (Войти)"
+
+msgid "userActivity.memberId"
+msgstr "Идентификатор участника"
+
+msgid "userActivity.nickName"
+msgstr "Член"
+
+msgid "userActivity.time"
+msgstr "Дата"
+
+msgid "userActivity.user.metricsName"
+msgstr "Просмотр по членам-Детали активности"
+
+msgid "userActivity.user.reportName"
+msgstr "Просмотр по участнику-Обзор"
+
+msgid "vip.pack.ent"
+msgstr "Предприятие"
+
+msgid "vip.pack.free"
+msgstr "Бесплатно"
+
+msgid "vip.pack.lite"
+msgstr "Лайт"
+
+msgid "vip.pack.oem"
+msgstr "Индивидуальный"
+
+msgid "vip.pack.pro"
+msgstr "Профессиональный"
+
+msgid "vip.pack.self_hosted"
+msgstr "Эксклюзивный"
+
+msgid "vip.pack.starter"
+msgstr "Стартер"
+
+msgid "vip.pack.std"
+msgstr "Бизнес"
+
+msgid "vip.pack.trial"
+msgstr "Пробный"
+
+msgid "vip.pack.user"
+msgstr "По количеству пользователей"
+
+msgid "vip.pack.user_premium"
+msgstr "Премиум"

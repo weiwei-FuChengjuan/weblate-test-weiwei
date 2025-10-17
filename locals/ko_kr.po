@@ -1,0 +1,4375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.852Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.852Z\n"
+
+msgid "activity.fileName"
+msgstr "활동 데이터"
+
+msgid "activity_stats.export.dismission"
+msgstr "(비활성)"
+
+msgid "activity_stats.export.removed"
+msgstr "(삭제됨)"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "삭제된 앱"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "삭제된 양식"
+
+msgid "aggregate.compatMetricName"
+msgstr "업그레이드 적응 지표"
+
+msgid "aggregate.exceed.limit"
+msgstr "수식 길이가 제한을 초과했습니다."
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "집계된 필드와 집계되지 않은 필드를 계산할 수 없습니다."
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "집계 필드는 다시 집계에 사용할 수 없습니다."
+
+msgid "aggregate.main.subform.error"
+msgstr "기본 양식 및 하위 양식 필드를 계산할 수 없습니다."
+
+msgid "aggregate.param.be.number"
+msgstr "{{ name }} 집계 함수의 매개변수는 숫자 유형이어야 합니다."
+
+msgid "aggregate.param.be.one"
+msgstr "집계 함수의 매개변수 개수는 1이어야 합니다."
+
+msgid "aggregate.return.number"
+msgstr "수식 반환 유형은 숫자여야 합니다."
+
+msgid "aggregate.support.same.form.op"
+msgstr "동일한 SubForm의 필드만 계산할 수 있습니다."
+
+msgid "automation.node.end"
+msgstr "끝 노드"
+
+msgid "automation.node.start"
+msgstr "트리거링 노드"
+
+msgid "bpa.presetWidget.title0"
+msgstr "생성됨"
+
+msgid "bpa.presetWidget.title1"
+msgstr "진행 중"
+
+msgid "bpa.presetWidget.title10"
+msgstr "단일 프로세스의 평균 처리 시간 추세 차트"
+
+msgid "bpa.presetWidget.title11"
+msgstr "작업 노드의 평균 처리 시간 추세 차트"
+
+msgid "bpa.presetWidget.title2"
+msgstr "완전한"
+
+msgid "bpa.presetWidget.title3"
+msgstr "수동으로 종료"
+
+msgid "bpa.presetWidget.title4"
+msgstr "단일 프로세스의 평균 처리 시간(시간) 추세 차트"
+
+msgid "bpa.presetWidget.title5"
+msgstr "보류 중인 작업 노드에 대한 통계"
+
+msgid "bpa.presetWidget.title6"
+msgstr "작업 노드의 평균 처리 시간"
+
+msgid "bpa.presetWidget.title7"
+msgstr "회원 업무 통계"
+
+msgid "bpa.presetWidget.title8"
+msgstr "작업 노드의 멤버 작업 통계"
+
+msgid "bpa.presetWidget.title9"
+msgstr "작업 노드의 평균 멤버 처리 시간"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "소요 시간(시간)"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "작업"
+
+msgid "compare.not.support"
+msgstr "불법적인 비교 기호 {{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr "잘못된 비교 기호 {{ op }}입니다. 대신 \"==\"를 사용하세요."
+
+msgid "compare.param.boolean"
+msgstr "부울"
+
+msgid "compare.param.datetime"
+msgstr "날짜"
+
+msgid "compare.param.not.support"
+msgstr "{{ op }}의 양쪽에 있는 매개변수 유형은 {{ type1 }} 또는 {{ type2 }}가 될 수 없습니다."
+
+msgid "compare.param.number"
+msgstr "숫자"
+
+msgid "compare.param.string"
+msgstr "끈"
+
+msgid "concatenate.param.error"
+msgstr "원래 양식 필드가 존재하지 않습니다."
+
+msgid "corp.currentDepartment"
+msgstr "현재 사용자 부서"
+
+msgid "corp.currentUser"
+msgstr "현재 사용자"
+
+msgid "corp.joinCorpSuccess"
+msgstr "성공적으로 팀에 합류했습니다"
+
+msgid "corp.log.agentDisable"
+msgstr "플러그인 비활성화"
+
+msgid "corp.log.agentEnable"
+msgstr "플러그인 활성화"
+
+msgid "corp.log.agentUninstall"
+msgstr "플러그인 제거"
+
+msgid "corp.log.aggregateCreate"
+msgstr "집계 테이블 생성"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "집계 테이블 마이그레이션"
+
+msgid "corp.log.aggregateRemove"
+msgstr "집계 테이블 삭제"
+
+msgid "corp.log.aggregateRename"
+msgstr "집계 테이블 이름 바꾸기"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "집계 테이블 디자인 업데이트"
+
+msgid "corp.log.aiLabDisable"
+msgstr "AI 랩 폐쇄"
+
+msgid "corp.log.aiLabEnable"
+msgstr "AI 랩 개설"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "API 키 생성"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "API 키 삭제"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "API 키 비활성화"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "API 키 활성화"
+
+msgid "corp.log.apiKeyName"
+msgstr "API 키 이름"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "업데이트 키"
+
+msgid "corp.log.apiName"
+msgstr "API 이름"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "앱 첨부 파일 제어 끄기"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "앱 첨부 제어 활성화"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "애플리케이션 첨부 제어 수정"
+
+msgid "corp.log.appCreate"
+msgstr "앱 만들기"
+
+msgid "corp.log.appEtlLog"
+msgstr "{{ etlName }}-로그 업데이트"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "Adjust 앱 홈페이지"
+
+msgid "corp.log.appLog"
+msgstr "앱 로그"
+
+msgid "corp.log.appLogExport"
+msgstr "앱 로그 내보내기"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "앱 관리 그룹 추가"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "앱 관리자 그룹 비활성화"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "앱 관리자 그룹 활성화"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "앱 관리 그룹 제거"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "앱 관리 그룹 이름 바꾸기"
+
+msgid "corp.log.appManagerAdd"
+msgstr "관리자 추가"
+
+msgid "corp.log.appManagerRemove"
+msgstr "관리자 제거"
+
+msgid "corp.log.appRecover"
+msgstr "앱 복원"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "앱 간 설정 편집"
+
+msgid "corp.log.appRemove"
+msgstr "앱 삭제"
+
+msgid "corp.log.appRename"
+msgstr "앱 이름 바꾸기"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "앱 URL 편집"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "앱 워터마크 비활성화"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "앱 워터마크 활성화"
+
+msgid "corp.log.application"
+msgstr "앱에서"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "글로벌 첨부파일 다운로드 제어를 비활성화합니다"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "글로벌 첨부파일 다운로드 제어를 활성화합니다"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "위임 시작이 비활성화되었습니다."
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "위임 시작 활성화"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr "위임이 취소되었습니다: {{ principal }}에서 {{ agent }}로의 위임이 {{ timeRange }} 동안 취소되었습니다."
+
+msgid "corp.log.businessContent"
+msgstr "사업 정보"
+
+msgid "corp.log.businessCount"
+msgstr "OCR 사용법"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "사업자등록"
+
+msgid "corp.log.businessTime"
+msgstr "검증 시간"
+
+msgid "corp.log.callTime"
+msgstr "통화 시간"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "결제 설정 편집"
+
+msgid "corp.log.coinUsageApp"
+msgstr "앱"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "기입"
+
+msgid "corp.log.coinUsageLog"
+msgstr "코인 사용 로그"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "전지"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "외부 비즈니스를 위한 초대 링크 추가"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "외부 비즈니스에 대한 초대 링크 삭제"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "외부 비즈니스에 대한 초대 링크 편집"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "외부 연락처 역할 추가"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "외부 연락처 역할 삭제"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "외부 연락처 역할 이름 바꾸기"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "외부 연락처 역할에서 멤버 변경"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "업데이트 알림 블록"
+
+msgid "corp.log.corpRename"
+msgstr "사업체 이름 변경"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "비즈니스 스타일 비활성화"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "비즈니스 스타일 활성화"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "비즈니스 스타일 편집"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "비즈니스 포털 URL 편집"
+
+msgid "corp.log.customLoginDisable"
+msgstr "사용자 정의 로그인 페이지 비활성화"
+
+msgid "corp.log.customLoginEnable"
+msgstr "사용자 정의 로그인 페이지 활성화"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "비즈니스 작업 공간 편집"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "대시보드 권한 편집"
+
+msgid "corp.log.dashCreate"
+msgstr "대시보드 만들기"
+
+msgid "corp.log.dashPublicLink"
+msgstr "대시보드 공개 링크 편집"
+
+msgid "corp.log.dashRecover"
+msgstr "대시보드 복원"
+
+msgid "corp.log.dashRemove"
+msgstr "대시보드 삭제"
+
+msgid "corp.log.dashRename"
+msgstr "대시보드 이름 바꾸기"
+
+msgid "corp.log.dashUpdate"
+msgstr "편집하다"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "일괄 인쇄 레코드"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "일괄적으로 데이터 복구"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "일괄적으로 데이터 삭제"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "일괄적으로 데이터 편집"
+
+msgid "corp.log.dataCreate"
+msgstr "데이터 추가"
+
+msgid "corp.log.dataExport"
+msgstr "데이터 내보내기"
+
+msgid "corp.log.dataImport"
+msgstr "가져오기 - 데이터 추가"
+
+msgid "corp.log.dataImportFile"
+msgstr "첨부 파일 가져오기"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "가져오기 - 데이터 업데이트"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "가져오기 - 데이터 추가 및 업데이트"
+
+msgid "corp.log.dataPrint"
+msgstr "인쇄 기록"
+
+msgid "corp.log.dataPrintQr"
+msgstr "QR 코드/바코드 인쇄"
+
+msgid "corp.log.dataRecover"
+msgstr "데이터 복구"
+
+msgid "corp.log.dataRemove"
+msgstr "데이터 삭제"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "자동화 만들기"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "자동화 제거"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "자동화 활성화"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "자동화 비활성화"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "업데이트 자동화"
+
+msgid "corp.log.dataUpdate"
+msgstr "데이터 업데이트"
+
+msgid "corp.log.deptCreate"
+msgstr "부서 추가"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "비즈니스 태그 추가"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "비즈니스 태그 삭제"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "비즈니스 태그에서 회사 조정"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "비즈니스 태그 이름 편집"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "부서장 업데이트"
+
+msgid "corp.log.deptRemove"
+msgstr "부서 삭제"
+
+msgid "corp.log.deptRename"
+msgstr "부서 이름 변경"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "자동 업데이트"
+
+msgid "corp.log.etlCreate"
+msgstr "데이터 스트림 생성"
+
+msgid "corp.log.etlCronExecute"
+msgstr "크론 업데이트"
+
+msgid "corp.log.etlDuration"
+msgstr "업데이트 기간"
+
+msgid "corp.log.etlEndTime"
+msgstr "종료 시간"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "업데이트 결과"
+
+msgid "corp.log.etlExecuteType"
+msgstr "업데이트 방법"
+
+msgid "corp.log.etlJust"
+msgstr "1분 이내"
+
+msgid "corp.log.etlManualExecute"
+msgstr "수동 업데이트"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }}분"
+
+msgid "corp.log.etlRemove"
+msgstr "데이터 스트림 삭제"
+
+msgid "corp.log.etlRename"
+msgstr "데이터 스트림 이름 바꾸기"
+
+msgid "corp.log.etlStartTime"
+msgstr "시작 시간"
+
+msgid "corp.log.etlTime"
+msgstr "업데이트 날짜"
+
+msgid "corp.log.etlUpdate"
+msgstr "데이터 스트림 디자인 업데이트"
+
+msgid "corp.log.fail"
+msgstr "실패하다"
+
+msgid "corp.log.fileDownload"
+msgstr "파일 다운로드"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "BPA 비활성화"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "BPA 활성화"
+
+msgid "corp.log.flowUpdate"
+msgstr "워크플로 디자인 업데이트"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "일괄 조정 양식/대시보드 권한"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "업데이트 양식 권한"
+
+msgid "corp.log.formCreate"
+msgstr "양식 만들기"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "데이터 상세 페이지 삭제"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "데이터 상세 페이지 전환"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "데이터 상세 페이지 편집"
+
+msgid "corp.log.formOnlinePay"
+msgstr "결제 설정 관리"
+
+msgid "corp.log.formPublicLink"
+msgstr "양식의 공개 링크 업데이트"
+
+msgid "corp.log.formPublicQuery"
+msgstr "양식의 공개 쿼리 링크 업데이트"
+
+msgid "corp.log.formRecover"
+msgstr "양식 복구"
+
+msgid "corp.log.formRemove"
+msgstr "양식 삭제"
+
+msgid "corp.log.formRename"
+msgstr "양식 이름 바꾸기"
+
+msgid "corp.log.formUpdate"
+msgstr "양식 디자인 업데이트"
+
+msgid "corp.log.guestConnect"
+msgstr "외부 비즈니스 초대"
+
+msgid "corp.log.guestDockerExport"
+msgstr "외부 연락처 내보내기"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "외부 연락처 정보 편집"
+
+msgid "corp.log.guestUpdate"
+msgstr "외부 비즈니스 정보 편집"
+
+msgid "corp.log.hostDisconnect"
+msgstr "사업과의 단절"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "연락처 추가"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "연락처 삭제"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "연락처 정보 편집"
+
+msgid "corp.log.integrateUpdate"
+msgstr "바인딩 정보 편집"
+
+msgid "corp.log.ip"
+msgstr "IP 주소"
+
+msgid "corp.log.kmsDisable"
+msgstr "지식 기반 비활성화"
+
+msgid "corp.log.kmsEnable"
+msgstr "지식 기반 활성화"
+
+msgid "corp.log.loginLocation"
+msgstr "로그인 위치"
+
+msgid "corp.log.loginLog"
+msgstr "로그인 기록"
+
+msgid "corp.log.loginLogExport"
+msgstr "로그인 기록 내보내기"
+
+msgid "corp.log.loginPlatform"
+msgstr "로그인 플랫폼"
+
+msgid "corp.log.loginTime"
+msgstr "로그인 시간"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "관리자 그룹 추가"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "관리자 그룹 삭제"
+
+msgid "corp.log.manageGroupRename"
+msgstr "관리자 그룹 이름 바꾸기"
+
+msgid "corp.log.managersAdd"
+msgstr "관리자 추가"
+
+msgid "corp.log.managersRemove"
+msgstr "관리자 삭제"
+
+msgid "corp.log.memberExit"
+msgstr "자발적으로 조직을 떠났다"
+
+msgid "corp.log.memberExport"
+msgstr "연락처 내보내기"
+
+msgid "corp.log.memberFreeze"
+msgstr "멤버 비활성화"
+
+msgid "corp.log.memberHardDelete"
+msgstr "회원 삭제"
+
+msgid "corp.log.memberInvite"
+msgstr "초대하다"
+
+msgid "corp.log.memberRecover"
+msgstr "멤버 활성화"
+
+msgid "corp.log.memberRemove"
+msgstr "비활성화"
+
+msgid "corp.log.memberUpdate"
+msgstr "회원 정보 업데이트"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "내보내기 역할"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "가져오기 역할"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "웹훅(메시지) 비활성화"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "웹훅(메시지) 활성화"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "웹훅(메시지) 편집"
+
+msgid "corp.log.oauthCreate"
+msgstr "권한 추가"
+
+msgid "corp.log.oauthDelete"
+msgstr "권한 부여 비활성화"
+
+msgid "corp.log.ocrBankCard"
+msgstr "은행 카드"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "사업자등록증"
+
+msgid "corp.log.ocrContent"
+msgstr "OCR 콘텐츠"
+
+msgid "corp.log.ocrCount"
+msgstr "OCR 사용법"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "운전면허증"
+
+msgid "corp.log.ocrGeneral"
+msgstr "일반 텍스트"
+
+msgid "corp.log.ocrIdCard"
+msgstr "신분증"
+
+msgid "corp.log.ocrLog"
+msgstr "OCR"
+
+msgid "corp.log.ocrResult"
+msgstr "OCR 결과"
+
+msgid "corp.log.ocrTime"
+msgstr "OCR 시간"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "기차표"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "부가가치세 계산서"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "차량 등록"
+
+msgid "corp.log.openApiLog"
+msgstr "API 호출 로그"
+
+msgid "corp.log.openApiLogExport"
+msgstr "Open API 로그 내보내기"
+
+msgid "corp.log.operateDetails"
+msgstr "세부"
+
+msgid "corp.log.operateLog"
+msgstr "플랫폼 로그"
+
+msgid "corp.log.operateLogExport"
+msgstr "플랫폼 로그 내보내기"
+
+msgid "corp.log.operateObject"
+msgstr "물체"
+
+msgid "corp.log.operateTime"
+msgstr "시간"
+
+msgid "corp.log.operateType"
+msgstr "유형"
+
+msgid "corp.log.operator"
+msgstr "연산자"
+
+msgid "corp.log.orderCancel"
+msgstr "주문 취소"
+
+msgid "corp.log.orderCreate"
+msgstr "주문 생성"
+
+msgid "corp.log.orderDelete"
+msgstr "주문 삭제"
+
+msgid "corp.log.orderPay"
+msgstr "지불 명령"
+
+msgid "corp.log.orderReceipt"
+msgstr "송장 주문서"
+
+msgid "corp.log.payUpdate"
+msgstr "결제 서비스 설정"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "관리 권한 비활성화"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "권한 관리 활성화"
+
+msgid "corp.log.pluginCount"
+msgstr "플러그인 사용"
+
+msgid "corp.log.pluginCreate"
+msgstr "플러그인 만들기"
+
+msgid "corp.log.pluginExport"
+msgstr "플러그인 내보내기"
+
+msgid "corp.log.pluginImport"
+msgstr "플러그인 가져오기"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "플러그인 가져오기 및 업데이트"
+
+msgid "corp.log.pluginInstall"
+msgstr "플러그인 설치"
+
+msgid "corp.log.pluginName"
+msgstr "플러그인 이름"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "플러그인 게시"
+
+msgid "corp.log.pluginUpdate"
+msgstr "플러그인 편집"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "플러그인 사용"
+
+msgid "corp.log.registrant"
+msgstr "회원"
+
+msgid "corp.log.returnStatus"
+msgstr "반품 상태"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "재편성 역할"
+
+msgid "corp.log.roleCreate"
+msgstr "역할 생성"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "역할 그룹 만들기"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "역할 그룹 삭제"
+
+msgid "corp.log.roleGroupRename"
+msgstr "역할 그룹 이름 바꾸기"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "역할의 멤버 업데이트"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "담당 부서 업데이트"
+
+msgid "corp.log.roleRemove"
+msgstr "역할 삭제"
+
+msgid "corp.log.roleRename"
+msgstr "역할 이름 바꾸기"
+
+msgid "corp.log.running"
+msgstr "달리기"
+
+msgid "corp.log.smsContent"
+msgstr "세부"
+
+msgid "corp.log.smsCount"
+msgstr "사용된"
+
+msgid "corp.log.smsSendFailed"
+msgstr "전송 실패"
+
+msgid "corp.log.smsSendPhone"
+msgstr "휴대폰 번호"
+
+msgid "corp.log.smsSendResult"
+msgstr "전송 상태"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "성공적으로 전송되었습니다"
+
+msgid "corp.log.smsSendingLog"
+msgstr "SMS 전송"
+
+msgid "corp.log.smsTime"
+msgstr "날짜"
+
+msgid "corp.log.spaceCreate"
+msgstr "지식 기반 만들기"
+
+msgid "corp.log.spaceDelete"
+msgstr "지식 기반 삭제"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "지식 기반에 대한 권한 집합 만들기"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "지식 기반에 대한 권한 집합 삭제"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "지식 기반에 대한 권한 집합 편집"
+
+msgid "corp.log.spaceUpdate"
+msgstr "지식 기반 정보 편집"
+
+msgid "corp.log.success"
+msgstr "성공"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "제품 권한 설정"
+
+msgid "corp.log.suiteDisable"
+msgstr "장애를 입히다"
+
+msgid "corp.log.suiteEnable"
+msgstr "할 수 있게 하다"
+
+msgid "corp.log.systemRobot"
+msgstr "시스템 로봇"
+
+msgid "corp.log.tenantVerify"
+msgstr "신원 인증"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "시간대 편집"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "외부 연락처 관리 신청"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "연락처 관리 권한 이전"
+
+msgid "corp.log.waiting"
+msgstr "대기 중"
+
+msgid "corp.log.watermarkDisable"
+msgstr "글로벌 워터마크 비활성화"
+
+msgid "corp.log.watermarkEnable"
+msgstr "글로벌 워터마크 활성화"
+
+msgid "corp.log.wxDisable"
+msgstr "WeChat 서비스 계정 통합 비활성화"
+
+msgid "corp.log.wxEnable"
+msgstr "WeChat 서비스 계정 통합 활성화"
+
+msgid "corp.syncFailed"
+msgstr "자동 동기화에 실패했습니다"
+
+msgid "corp.syncFailedContent"
+msgstr "비즈니스 연락처 동기화에 실패했습니다."
+
+msgid "corp.syncFailedSubject"
+msgstr "멤버 동기화에 실패했습니다"
+
+msgid "corp.syncSuccessContent"
+msgstr "비즈니스 연락처가 동기화되었습니다."
+
+msgid "corp.syncSuccessSubject"
+msgstr "멤버가 성공적으로 동기화되었습니다."
+
+msgid "corp.systemManageGroup"
+msgstr "슈퍼 관리자 그룹"
+
+msgid "corp.unGrouped"
+msgstr "그룹화되지 않음"
+
+msgid "corpCoop.department"
+msgstr "외부 조직"
+
+msgid "corpUsage.accessTime"
+msgstr "마지막 접속"
+
+msgid "corpUsage.aggregate"
+msgstr "집계 테이블"
+
+msgid "corpUsage.app"
+msgstr "앱"
+
+msgid "corpUsage.app.cardName"
+msgstr "앱 개요로 보기"
+
+msgid "corpUsage.app.metricListName"
+msgstr "앱별 보기 - 사용 세부 정보"
+
+msgid "corpUsage.appId"
+msgstr "앱 ID"
+
+msgid "corpUsage.appName"
+msgstr "앱 이름"
+
+msgid "corpUsage.attachment"
+msgstr "업로드된 첨부 파일"
+
+msgid "corpUsage.automation"
+msgstr "자동화 프로"
+
+msgid "corpUsage.bpa"
+msgstr "BPA"
+
+msgid "corpUsage.createTime"
+msgstr "생성일"
+
+msgid "corpUsage.creator"
+msgstr "소유자"
+
+msgid "corpUsage.creator.username"
+msgstr "소유자 ID"
+
+msgid "corpUsage.dash"
+msgstr "계기반"
+
+msgid "corpUsage.dash.type"
+msgstr "계기반"
+
+msgid "corpUsage.data"
+msgstr "총 데이터"
+
+msgid "corpUsage.data_trigger"
+msgstr "자동화"
+
+msgid "corpUsage.date"
+msgstr "날짜"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "데이터 세부 정보"
+
+msgid "corpUsage.etl"
+msgstr "데이터 팩토리"
+
+msgid "corpUsage.fileName"
+msgstr "리소스 사용"
+
+msgid "corpUsage.form_coop"
+msgstr "정규 양식"
+
+msgid "corpUsage.form_coop.type"
+msgstr "정규 양식"
+
+msgid "corpUsage.form_workflow"
+msgstr "워크플로 양식"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "워크플로 양식 ID"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "워크플로 양식 이름"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "워크플로 양식"
+
+msgid "corpUsage.member.cardName"
+msgstr "회원별 보기-개요"
+
+msgid "corpUsage.member.metricListName"
+msgstr "회원별 보기 - 사용 세부 정보"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "데이터 없음"
+
+msgid "corpUsage.public_link"
+msgstr "공개 링크 활성화"
+
+msgid "corpUsage.public_link.type"
+msgstr "객체 유형"
+
+msgid "corpUsage.updateTime"
+msgstr "마지막 편집"
+
+msgid "corp_coop.operate.create"
+msgstr "추가됨"
+
+msgid "corp_coop.operate.delete"
+msgstr "삭제됨"
+
+msgid "corp_coop.side.other"
+msgstr "그것은"
+
+msgid "corp_coop.side.our"
+msgstr "당신의"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "앱 \"{{ app_name }}\"에 대한 앱 첨부 파일 제어가 비활성화되었습니다"
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "애플리케이션 \"{{ app_name }}\"에 대한 애플리케이션 첨부 제어가 활성화되었습니다"
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "애플리케이션 \"{{ app_name }}\"의 애플리케이션 첨부 제어를 수정했습니다"
+
+msgid "corp_log.content.app_home_update"
+msgstr "앱 \"{{ app_name }}\"의 홈페이지를 조정했습니다."
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "{{ appName }}에 앱 관리 그룹 {{ name }}을 추가합니다."
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "{{ appName }}에서 앱 관리 그룹 {{ name }}을 제거합니다."
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr "{{ appName }}에서 앱 관리 그룹의 이름을 {{ oriName }}에서 {{ name }}으로 변경합니다."
+
+msgid "corp_log.content.app_manager_add"
+msgstr "{{ appName }}의 {{ name }}에 앱 관리자 {{ members }}을(를) 추가합니다."
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "{{ appName }}의 {{ name }}에서 앱 관리자 {{ members }}을 제거합니다."
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "앱 \"{{ app_name }}\"에 대한 앱 간 설정을 편집했습니다."
+
+msgid "corp_log.content.app_url_update"
+msgstr "앱 \"{{ app_name }}\"의 앱 URL을 편집했습니다."
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "앱 \"{{ app_name }}\"에 대한 비활성화된 앱 워터마크"
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "앱 \"{{ app_name }}\"에 대해 앱 워터마크를 활성화했습니다."
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "위임 시작이 비활성화되었습니다."
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "위임 시작이 활성화되었습니다."
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr "위임이 취소되었습니다: {{ principal }}에서 {{ agent }}로의 위임이 {{ timeRange }} 동안 취소되었습니다."
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "블록 목록에 업데이트된 멤버"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr "차단 목록에 대한 멤버 및 앱 알림 범위가 업데이트되었습니다."
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "차단 목록에 대한 앱 알림 범위가 업데이트되었습니다."
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "{{ count }}개 양식에 대해 비활성화된 BPA"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "{{ count }}개 양식에 대해 BPA 활성화됨"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "\"{{ flow_name }}\" 양식에 대해 BPA가 비활성화되었습니다."
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "\"{{ flow_name }}\" 양식에 대해 BPA가 활성화되었습니다."
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "일괄적으로 조정된 양식/대시보드 권한"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "역할 정보를 가져왔습니다"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "\"{{ fullRoleNames }}\"에 멤버를 가져왔습니다."
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "{{ role }}의 멤버에게 할당된 부서가 업데이트되었습니다."
+
+msgid "corp_log.content.role_rel_update"
+msgstr "{{ role }}의 {{ nickname }}에게 할당된 부서가 업데이트되었습니다."
+
+msgid "corp_log.content.space_create"
+msgstr "지식 기반 \"{{ space_name }}\"을 생성했습니다."
+
+msgid "corp_log.content.space_delete"
+msgstr "지식 기반 \"{{ space_name }}\"을 삭제했습니다."
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "\"{{ space_perm_group_name }}\" 권한 집합을 생성했습니다."
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "\"{{ space_perm_group_name }}\" 권한 집합을 삭제했습니다."
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "권한 집합 \"{{ space_perm_group_name }}\"을 편집했습니다."
+
+msgid "corp_log.content.space_update"
+msgstr "지식베이스 \"{{ space_name }}\"의 기본 정보를 편집했습니다."
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "\"{{ name }}\"을 사용할 수 있는 사람을 설정하세요"
+
+msgid "corp_log.content.suite_disable"
+msgstr "\"{{ name }}\" 비활성화"
+
+msgid "corp_log.content.suite_enable"
+msgstr "\"{{ name }}\" 활성화"
+
+msgid "crm.upgrade.relatedData"
+msgstr "조회"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "{{ nickname }}({{ corpName }})의 초대를 수락합니다."
+
+msgid "crop_log.content.agent_disable"
+msgstr "비활성화된 플러그인 {{ plugin_name }}"
+
+msgid "crop_log.content.agent_enable"
+msgstr "플러그인 에이전트 {{ plugin_name }} 활성화됨"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "플러그인 에이전트 {{ plugin_name }}가 제거되었습니다."
+
+msgid "crop_log.content.aggregate_copy"
+msgstr "{{app_name}} 앱의 {{ori_name}} 집계 테이블에서 복사한 {{name}} 집계 테이블을 생성했습니다."
+
+msgid "crop_log.content.aggregate_create"
+msgstr "{{ name }} 집계 테이블이 생성되었습니다."
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "집계 테이블 \"{{ name }}\" 복원됨"
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "삭제된 집계 테이블 {{ name }}"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "집계 테이블 {{ ori_name }}의 이름을 {{ name }}으로 변경했습니다."
+
+msgid "crop_log.content.aggregate_update"
+msgstr "집계 테이블 {{ name }}의 디자인을 업데이트했습니다."
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "집계 테이블 \"{{ name }}\" 업그레이드됨"
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "폐쇄된 AI 연구실"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "AI 랩 오픈"
+
+msgid "crop_log.content.api_key_create"
+msgstr "API 키 추가됨"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "API 키 \"{{ suite_name }}\"이 추가되었습니다."
+
+msgid "crop_log.content.api_key_delete"
+msgstr "삭제된 API 키"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "API 키 \"{{ suite_name }}\"이(가) 삭제되었습니다."
+
+msgid "crop_log.content.api_key_disable"
+msgstr "비활성화된 API 키"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "비활성화된 API 키 \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_enable"
+msgstr "활성화된 API 키"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "활성화된 API 키 \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "키 \"{{ name }}\"의 \"Api 권한 범위\"를 업데이트합니다."
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "키 \"{{ name }}\"의 \"앱 권한 범위\"를 업데이트합니다."
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "키 \"{{ name }}\"의 \"IP 허용 목록\"을 업데이트합니다."
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "키 \"{{ name }}\"의 \"이름\"을 업데이트합니다."
+
+msgid "crop_log.content.app_create"
+msgstr "{{ name }} 앱을 만들었습니다."
+
+msgid "crop_log.content.app_create_copy"
+msgstr "{{ ori_name }}에서 복사하여 앱 {{ name }}을(를) 만들었습니다."
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "내보낸 ETL 로그"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "DingDingDa에서 앱 {{ name }}을 설치했습니다."
+
+msgid "crop_log.content.app_install_link"
+msgstr "앱 공유 링크에서 앱 {{ name }}을(를) 설치했습니다."
+
+msgid "crop_log.content.app_install_template"
+msgstr "템플릿 센터에서 앱 {{ name }}을(를) 설치했습니다."
+
+msgid "crop_log.content.app_log_export"
+msgstr "내보낸 앱 로그"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "비활성화된 앱 관리자 그룹"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "활성화된 앱 관리자 그룹"
+
+msgid "crop_log.content.app_recover"
+msgstr "앱 {{ name }}을(를) 복원했습니다."
+
+msgid "crop_log.content.app_remove"
+msgstr "앱 {{ name }}을(를) 삭제했습니다."
+
+msgid "crop_log.content.app_rename"
+msgstr "앱 {{ ori_name }}의 이름을 {{ name }}으로 변경했습니다."
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "내보낸 트리거 로그"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "글로벌 첨부 파일 제어 비활성화"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "글로벌 첨부 파일 제어가 활성화되었습니다."
+
+msgid "crop_log.content.auth_config_update"
+msgstr "업데이트된 권한 집합 {{ name }} 설정"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "권한 집합 {{ name }}이 추가되었습니다."
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "삭제된 권한 집합 {{ name }}"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "권한 집합 {{ ori_name }}의 이름이 {{ name }}으로 변경되었습니다."
+
+msgid "crop_log.content.auth_members_update"
+msgstr "권한 집합 {{ name }}의 멤버를 업데이트했습니다."
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "클라우드 코인 결제 설정을 수정했습니다."
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "내보낸 코인 사용 로그"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "외부 비즈니스에 대한 초대 링크가 추가되었습니다."
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "외부 비즈니스에 대한 초대 링크를 삭제했습니다."
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "외부 비즈니스에 대한 초대 링크를 편집했습니다."
+
+msgid "crop_log.content.corp_rename"
+msgstr "사업체 이름을 \"{{ old_corp_name }}\"에서 \"{{ new_corp_name }}\"로 변경했습니다."
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "장애인 비즈니스 스타일"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "활성화된 비즈니스 스타일"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "편집된 비즈니스 스타일"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "비즈니스 포털 URL을 편집했습니다."
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "외부 연락처 역할 \"{{ roleName }}\"을 추가했습니다."
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "비활성화된 사용자 정의 로그인 페이지"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "사용자 정의 로그인 페이지 활성화"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "편집된 비즈니스 작업 공간"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "대시보드 {{ name }}의 권한 집합을 업데이트했습니다."
+
+msgid "crop_log.content.dash_create"
+msgstr "대시보드 {{ name }}을(를) 생성했습니다."
+
+msgid "crop_log.content.dash_create_copy"
+msgstr " 앱 {{ app_name }}의 대시보드 {{ ori_name }}에서 복사하여 대시보드 {{ name }}을 생성했습니다."
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "대시보드 공개 내보내기를 비활성화했습니다."
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "대시보드 공개 내보내기를 활성화했습니다."
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "대시보드 공개 링크를 비활성화했습니다."
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "대시보드 공개 링크 활성화"
+
+msgid "crop_log.content.dash_recover"
+msgstr "대시보드 {{ name }}이(가) 복원되었습니다."
+
+msgid "crop_log.content.dash_remove"
+msgstr "대시보드 {{ name }}이(가) 삭제되었습니다."
+
+msgid "crop_log.content.dash_rename"
+msgstr "대시보드 {{ ori_name }}의 이름이 {{ name }}으로 변경되었습니다."
+
+msgid "crop_log.content.dash_update"
+msgstr "대시보드 {{ name }}의 디자인을 업데이트했습니다."
+
+msgid "crop_log.content.data_batch_print"
+msgstr "{{ template_name }} 템플릿에서 레코드를 일괄 인쇄합니다."
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "{{ count }}개의 레코드를 일괄 복구했습니다."
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "{{ count }}개의 레코드를 일괄 삭제했습니다."
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "데이터 재활용에서 {{ count }}개의 레코드를 일괄 삭제했습니다."
+
+msgid "crop_log.content.data_batch_update"
+msgstr ""
+"일괄 처리에서 {{ total }}개의 레코드를 업데이트했습니다. {{ success }}개가 성공했고, {{ fail }}개가 "
+"실패했습니다."
+
+msgid "crop_log.content.data_create"
+msgstr "데이터 {{ data_label }} 추가됨"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr "{{ template_name }} 템플릿에서 {{ table_name }}의 레코드를 일괄 인쇄합니다."
+
+msgid "crop_log.content.data_export"
+msgstr "{{ entry_name }}의 데이터를 내보냈습니다."
+
+msgid "crop_log.content.data_import"
+msgstr "가져오기를 통해 {{ count }}개의 레코드가 추가되었습니다."
+
+msgid "crop_log.content.data_import_file"
+msgstr "{{ success }}개의 첨부 파일을 가져왔습니다."
+
+msgid "crop_log.content.data_import_update"
+msgstr "가져오기를 통해 {{ count }}개의 레코드가 업데이트되었습니다."
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"{{ updata_datas_amount }}개 레코드를 업데이트했습니다. 가져오기를 통해 {{ insert_datas_amount "
+"}}개 레코드를 추가했습니다."
+
+msgid "crop_log.content.data_print"
+msgstr "{{ template_name }} 템플릿에 {{ data_label }} 레코드가 인쇄되었습니다."
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "일괄 인쇄된 데이터 QR 코드."
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "일괄 인쇄된 필드 바코드."
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "현장 QR 코드를 일괄 인쇄합니다."
+
+msgid "crop_log.content.data_recover"
+msgstr "복구된 데이터 {{ data_label }}"
+
+msgid "crop_log.content.data_remove"
+msgstr "삭제된 데이터 {{ data_label }}"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "데이터 재활용에서 {{ data_label }} 데이터를 삭제했습니다."
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr "앱 {{ app_name }}의 자동화 {{ ori_name }}에서 복사된 자동화 {{ name }}을 생성했습니다."
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "자동화 {{ name }}을(를) 생성했습니다."
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "자동화 {{ name }}이(가) 삭제되었습니다."
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "자동화 {{ name }} 활성화됨"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "비활성화된 자동화 {{ name }}"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "업데이트된 자동화 {{ name }}"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr "자동화 {{ ori_name }}이 업데이트되었으며 이름이 {{ name }}으로 변경되었습니다."
+
+msgid "crop_log.content.data_update"
+msgstr "업데이트된 데이터 {{ data_label }}"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "외부 연락처 역할 \"{{ roleName }}\"을 삭제했습니다."
+
+msgid "crop_log.content.dept_create"
+msgstr "부서 {{ name }}를 추가했습니다."
+
+msgid "crop_log.content.dept_label_create"
+msgstr "비즈니스 태그 \"{{ dept_label_name }}\"을 추가했습니다."
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "비즈니스 태그 \"{{ dept_label_name }}\"을 삭제했습니다."
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "\"{{ dept_label_name }}\" 비즈니스 태그에 있는 회사를 조정했습니다."
+
+msgid "crop_log.content.dept_label_update"
+msgstr ""
+"비즈니스 태그 \"{{ old_dept_label_name }}\"의 이름을 \"{{ new_dept_label_name }}\"로 "
+"변경했습니다."
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "부서장 {{ name }}에게 업데이트됨"
+
+msgid "crop_log.content.dept_remove"
+msgstr "삭제된 부서 {{ name }}"
+
+msgid "crop_log.content.dept_rename"
+msgstr "부서 이름이 {{ ori_name }}에서 {{ name }}으로 변경되었습니다."
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "{{ count }}명의 멤버가 일괄적으로 생성되었습니다."
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "\"{{ roleName }}\"의 {{ count }}명의 멤버가 해고되었습니다."
+
+msgid "crop_log.content.etl_copy"
+msgstr ""
+" 앱 {{ app_name }}의 데이터 스트림 {{ ori_name }}에서 복사하여 데이터 스트림 {{ name }}을(를) "
+"생성했습니다."
+
+msgid "crop_log.content.etl_create"
+msgstr "데이터 스트림 {{ name }}을(를) 생성했습니다."
+
+msgid "crop_log.content.etl_remove"
+msgstr "삭제된 데이터 스트림 {{ name }}"
+
+msgid "crop_log.content.etl_rename"
+msgstr "데이터 스트림 {{ ori_name }}의 이름을 {{ name }}으로 변경합니다."
+
+msgid "crop_log.content.etl_update"
+msgstr "데이터 스트림 {{ name }}의 디자인을 업데이트했습니다."
+
+msgid "crop_log.content.fields_recover"
+msgstr ""
+"{{ name }} 양식의 양식 디자인을 업데이트하고 필드 재활용: {{ fields }}에서 {{ count }}개의 필드를 "
+"복원했습니다."
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"{{ name }} 양식의 양식 디자인을 업데이트하고, {{ delCount }}개 필드를 제거하고, {{ recoveryCount "
+"}}개 필드를 필드 재활용: {{fields}}에서 복원했습니다."
+
+msgid "crop_log.content.fields_remove"
+msgstr "{{ name }} 양식의 양식 디자인을 업데이트하고 {{ count }}개 필드를 제거했습니다."
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "필드 재활용에서 {{ count }}개의 필드가 완전히 제거되었습니다: {{ fields }}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr "휴지통이 비워졌고, {{ count }}개의 필드가 완전히 삭제되었습니다."
+
+msgid "crop_log.content.file_batch_export"
+msgstr "{{ entry_name }}에서 파일을 다운로드했습니다."
+
+msgid "crop_log.content.flow_update"
+msgstr "{{ name }} 양식의 워크플로 디자인을 업데이트했습니다."
+
+msgid "crop_log.content.form_create"
+msgstr "{{ name }} 양식을 생성했습니다."
+
+msgid "crop_log.content.form_create_copy"
+msgstr " 앱 {{ app_name }}의 양식 {{ ori_name }}에서 복사하여 양식 {{ name }}을 만들었습니다."
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "사용자 지정 상세 페이지 삭제"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "사용자 지정 상세 페이지로 전환"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "시스템 기본 상세 페이지로 전환"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "사용자 지정 상세 페이지 편집"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "결제 비활성화"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "결제 활성화"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "결제 설정 변경"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "기록에 대한 공개 링크를 비활성화했습니다."
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "기록을 위해 공개 링크를 활성화했습니다."
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "공개 링크를 비활성화했습니다"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "공개 링크 활성화"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "공개 쿼리 링크를 비활성화했습니다."
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "공개 쿼리 링크 활성화"
+
+msgid "crop_log.content.form_recover"
+msgstr "{{ name }} 양식을 복구하세요"
+
+msgid "crop_log.content.form_remove"
+msgstr "삭제된 양식 {{ name }}"
+
+msgid "crop_log.content.form_rename"
+msgstr "{{ ori_name }} 양식의 이름을 {{ name }}으로 변경합니다."
+
+msgid "crop_log.content.form_update"
+msgstr "{{ name }} 양식의 양식 디자인을 수정했습니다."
+
+msgid "crop_log.content.guest_connect"
+msgstr "{{ count }}개의 기업을 일괄적으로 초대했습니다."
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "모든 외부 연락처를 내보냈습니다."
+
+msgid "crop_log.content.guest_docker_update"
+msgstr "외부 연락처 \"{{ old_guest_docker_nickname }}\"의 정보를 편집했습니다."
+
+msgid "crop_log.content.guest_update"
+msgstr "외부 업체 정보를 편집했습니다."
+
+msgid "crop_log.content.handover_work"
+msgstr "{{ from }}의 {{ works }}를 {{ to }}에게 인계했습니다."
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "협업을 위해 초대한 {{ count }}개 업체와 연결이 끊어졌습니다."
+
+msgid "crop_log.content.host_connect"
+msgstr "외부 업체 {{host_corp_name}}을 초대했습니다."
+
+msgid "crop_log.content.host_disconnect"
+msgstr "협업을 요청한 회사 \"{{ name }}\"와 연결이 끊어졌습니다."
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "{{ count }}개의 연락처를 추가했습니다."
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "연락처 {{ count }}개를 삭제했습니다."
+
+msgid "crop_log.content.host_docker_create"
+msgstr "연락처 \"{{ name }}\"을(를) 추가했습니다."
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "연락처 \"{{ name }}\"을(를) 삭제했습니다."
+
+msgid "crop_log.content.host_docker_update"
+msgstr "연락처 \"{{ name }}\"의 정보를 편집했습니다."
+
+msgid "crop_log.content.integrate_update"
+msgstr "편집된 바인딩 정보"
+
+msgid "crop_log.content.kms_disable"
+msgstr "장애인 지식 기반"
+
+msgid "crop_log.content.kms_enable"
+msgstr "활성화된 지식 기반"
+
+msgid "crop_log.content.login_log_export"
+msgstr "내보낸 로그인 기록"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "관리자 그룹 {{ name }}이 추가되었습니다."
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "관리자 그룹 {{ name }}이(가) 삭제되었습니다."
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "관리자 그룹 {{ ori_name }}의 이름이 {{ name }}으로 변경되었습니다."
+
+msgid "crop_log.content.managers_add"
+msgstr "관리 그룹 {{ name }}에 멤버 추가됨: {{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "관리자 그룹 {{ name }}에서 삭제된 멤버: {{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "배치 비활성화 {{ count }}명의 멤버"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "비활성 멤버 {{ count }}명을 일괄 삭제했습니다."
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "배치 활성화된 {{ count }}명의 멤버"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "{{ count }}명의 멤버를 일괄 비활성화했습니다."
+
+msgid "crop_log.content.member_exit"
+msgstr "회원 \"{{ nickname }}\" 님이 자발적으로 조직을 탈퇴했습니다."
+
+msgid "crop_log.content.member_export"
+msgstr "연락처에서 내보낸 멤버"
+
+msgid "crop_log.content.member_freeze"
+msgstr "{{ nickname }} 사용 중지됨"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "비활성 회원 {{ nickname }}을(를) 삭제했습니다."
+
+msgid "crop_log.content.member_import"
+msgstr "{{ count }}명의 회원을 초대했습니다."
+
+msgid "crop_log.content.member_invite"
+msgstr "{{ nickname }} 초대됨"
+
+msgid "crop_log.content.member_recover"
+msgstr "\"{{ nickname }}\" 활성화됨"
+
+msgid "crop_log.content.member_remove"
+msgstr "{{ nickname }} 비활성화됨"
+
+msgid "crop_log.content.member_update"
+msgstr "{{ nickname }} 의 정보를 업데이트했습니다."
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "비활성화된 웹훅(메시지)"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "활성화된 웹훅(메시지)"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "편집된 웹훅(메시지)"
+
+msgid "crop_log.content.oauth_create"
+msgstr "\"{{ suite_name }}\"에 대한 권한이 추가되었습니다."
+
+msgid "crop_log.content.oauth_delete"
+msgstr "\"{{ suite_name }}\"에 대한 권한이 취소되었습니다."
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "내보낸 Open API 로그"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "내보낸 플랫폼 로그"
+
+msgid "crop_log.content.order_cancel"
+msgstr "주문을 취소했습니다"
+
+msgid "crop_log.content.order_create"
+msgstr "주문을 생성했습니다"
+
+msgid "crop_log.content.order_delete"
+msgstr "주문을 삭제했습니다"
+
+msgid "crop_log.content.order_pay"
+msgstr "주문에 대한 지불 완료"
+
+msgid "crop_log.content.order_receipt"
+msgstr "주문 시 청구됨"
+
+msgid "crop_log.content.pay_disable"
+msgstr "결제 서비스 비활성화"
+
+msgid "crop_log.content.pay_enable"
+msgstr "결제 서비스 활성화"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "유니온페이 가맹점 링크"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "UnionPay 가맹점 제거"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "비활성화된 관리 권한"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "관리 권한 활성화"
+
+msgid "crop_log.content.plugin_create"
+msgstr "플러그인 “{{ plugin_name }}”을 생성했습니다."
+
+msgid "crop_log.content.plugin_delete"
+msgstr "플러그인 \"{{ plugin_name }}\"을 삭제했습니다."
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr "플러그인 \"{{ plugin_name }}\"을 생성하고 \"{{ ori_plugin_name }}\"에서 복사했습니다."
+
+msgid "crop_log.content.plugin_export"
+msgstr "플러그인 “{{ plugin_name }}”을 내보냅니다."
+
+msgid "crop_log.content.plugin_import"
+msgstr "플러그인 “{{ plugin_name }}”을 가져옵니다."
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "플러그인 “{{ plugin_name }}”을 가져오고 업데이트합니다."
+
+msgid "crop_log.content.plugin_install"
+msgstr "플러그인 {{ plugin_name }} 설치됨"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "플러그인 \"{{ plugin_name }}\" 게시를 신청했습니다."
+
+msgid "crop_log.content.plugin_update"
+msgstr "플러그인 \"{{ plugin_name }}\"을 편집했습니다."
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "외부 연락처 역할 \"{{ roleName }}\"에서 멤버가 변경되었습니다."
+
+msgid "crop_log.content.role_change_group"
+msgstr "그룹 \"{{ new_group_name }}\"에 \"{{ role_name }}\" 역할을 추가했습니다."
+
+msgid "crop_log.content.role_create"
+msgstr "역할 그룹 {{ group_name }}에서 역할 {{ name }}을(를) 생성했습니다."
+
+msgid "crop_log.content.role_group_create"
+msgstr "역할 그룹 {{ name }}을(를) 생성했습니다."
+
+msgid "crop_log.content.role_group_remove"
+msgstr "역할 그룹 {{ name }}이(가) 삭제되었습니다."
+
+msgid "crop_log.content.role_group_rename"
+msgstr "역할 그룹 {{ ori_name }}의 이름이 {{ name }}으로 변경되었습니다."
+
+msgid "crop_log.content.role_member_update"
+msgstr "역할 {{ name }}의 업데이트된 멤버"
+
+msgid "crop_log.content.role_remove"
+msgstr "역할 그룹 {{ group_name }}에서 역할 {{ name }}이(가) 삭제되었습니다."
+
+msgid "crop_log.content.role_rename"
+msgstr "역할 {{ ori_name }}의 이름이 {{ name }}으로 변경되었습니다."
+
+msgid "crop_log.content.tenant_verify"
+msgstr " 인증된 신원"
+
+msgid "crop_log.content.timezone_update"
+msgstr "시간대를 \"{{ old_timezone }}\"에서 \"{{ new_timezone }}\"로 변경했습니다."
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "연결된 사업체 \"{{ name }}\"의 연락처 관리를 신청했습니다."
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr "연결된 비즈니스 \"{{ name }}\"의 연락처 관리 권한을 이전했습니다."
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr "외부 연락처 역할 \"{{ oldRoleName }}\"의 이름을 \"{{ newRoleName }}\"로 변경했습니다."
+
+msgid "crop_log.content.watermark_disable"
+msgstr "비활성화된 글로벌 워터마크"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "글로벌 워터마크 활성화"
+
+msgid "crop_log.content.wx_disable"
+msgstr "비활성화된 WeChat 서비스 계정 통합"
+
+msgid "crop_log.content.wx_enable"
+msgstr "WeChat 서비스 계정 통합이 활성화되었습니다."
+
+msgid "crop_log.link_text.view_details"
+msgstr "세부 정보 보기"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} - 로그인"
+
+msgid "dash.date.format.year.quarter"
+msgstr "년/분기"
+
+msgid "dash.date.format.year.week"
+msgstr "YYYY/Www"
+
+msgid "dash.excel.export.subtotal"
+msgstr "소계"
+
+msgid "dash.excel.export.sum"
+msgstr "전반적인"
+
+msgid "dash.excel.export.total"
+msgstr "집합"
+
+msgid "dash.percent"
+msgstr "백분율"
+
+msgid "deptType.corpCoop"
+msgstr "고객 및 클라이언트"
+
+msgid "deptType.internal"
+msgstr "회원들"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "이메일 주소가 잘못되었습니다. 확인해 보세요."
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "해당 이메일이 이미 존재합니다."
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "회원 사용자 이름에는 문자, 숫자, 밑줄만 사용할 수 있습니다."
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "회원 사용자 이름은 3~80자 사이여야 합니다."
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "회원의 사용자 이름을 입력하세요"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "사용자 이름이 연락처에 이미 존재합니다."
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"다른 테넌트가 사용자 이름을 사용했습니다. 동일한 구성원에게 속하는지 확인하세요. 동일한 구성원에게 속하는 경우 가입 초대장을 "
+"보내세요. 동일한 구성원이 아닌 경우 사용자 이름을 수정하세요."
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "회원 이름의 최대 길이는 80자입니다."
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "회원 이름을 입력하세요."
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "재사용 가능한 사용자 또는 멤버를 찾을 수 없습니다"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "비밀번호를 입력하세요."
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "잘못된 휴대폰 번호입니다. 확인해 보세요."
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "해당 휴대폰 번호가 이미 존재합니다."
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "알 수 없는 오류입니다."
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "멤버 번호는 문자, 숫자, 밑줄 및 '.'만 지원합니다."
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "연락처에 회원번호가 이미 존재합니다."
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "재사용 가능한 사용자 또는 멤버를 찾을 수 없습니다"
+
+msgid "email.title.aggregate_buffer"
+msgstr "\"{{ _g_productName }}\"에 대한 집계 테이블 과소비 경고"
+
+msgid "email.title.aggregation_buffer"
+msgstr "\"{{ _g_productName }}\"에 대한 집계 과소비 경고"
+
+msgid "email.title.appTrialExpire"
+msgstr "{{ _g_productName }}: 체험판 만료 알림"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "\"{{ _g_productName }}\" 자동화 Pro 사용"
+
+msgid "email.title.bpa_buffer"
+msgstr "\"{{ _g_productName }}\"에 대한 BPA 과소비 경고"
+
+msgid "email.title.buffer_expired"
+msgstr "\"{{ _g_productName }}\"에 대한 알림: 시스템 사용 한도를 초과하여 서비스가 중단되었습니다."
+
+msgid "email.title.coinRunOut"
+msgstr "{{ _g_productName }}: {{ _g_productName }} 코인이 부족합니다."
+
+msgid "email.title.coinRunningOut"
+msgstr "{{ _g_productName }}: {{ _g_productName }} 코인이 곧 소진됩니다."
+
+msgid "email.title.comment"
+msgstr "새로운 댓글에서 당신을 언급했습니다. 시간 내에 답변해 주세요."
+
+msgid "email.title.corpInvite"
+msgstr "{{ _g_productName }}: 협업 초대"
+
+msgid "email.title.dashAlert"
+msgstr "데이터 트리거 알림"
+
+msgid "email.title.dashAlertLimit"
+msgstr "{{ _g_productName }}: 대시보드 데이터 알림이 최대 일일 한도에 도달했습니다."
+
+msgid "email.title.docTrend"
+msgstr "{{ _g_productName }}: 문서 업데이트"
+
+msgid "email.title.etl_buffer"
+msgstr "\"{{ _g_productName }}\"에 대한 Data Factory 과소비 경고"
+
+msgid "email.title.formDataExceed"
+msgstr "{{ _g_productName }}: 단일 테이블의 데이터 볼륨이 제한을 초과했습니다."
+
+msgid "email.title.formDataUsage"
+msgstr "{{ _g_productName }}: 단일 테이블의 데이터 볼륨이 제한을 초과하려고 합니다."
+
+msgid "email.title.monthlyDataExceed"
+msgstr "{{ _g_productName }}: 데이터 양이 월별 최대 한도에 도달했습니다."
+
+msgid "email.title.systemLog"
+msgstr "{{ _g_productName }}: 시스템 로그"
+
+msgid "email.title.tenantCoop"
+msgstr "「{{ _g_productName }}」엔터프라이즈 협업"
+
+msgid "email.title.totalDataExceed"
+msgstr "{{ _g_productName }}: 총 데이터 볼륨이 한도를 초과했습니다."
+
+msgid "email.title.totalDataUsage"
+msgstr "{{ _g_productName }}: 총 데이터 볼륨이 한도를 초과하려고 합니다."
+
+msgid "email.title.trialExpire"
+msgstr "{{ _g_productName }}: VIP 평가판이 곧 만료됩니다."
+
+msgid "email.title.trigger_buffer"
+msgstr "\"{{ _g_productName }}\"에 대한 자동화 과소비 경고"
+
+msgid "email.title.uploadUsage"
+msgstr "{{ _g_productName }}: 첨부 파일 총 개수가 한도를 초과하려고 합니다."
+
+msgid "email.title.userChannelVerify"
+msgstr "{{ _g_productName }}: 이메일 확인"
+
+msgid "email.title.user_buffer"
+msgstr "\"{{ _g_productName }}\"에 대한 회원 과소비 알림"
+
+msgid "email.title.vipExpire"
+msgstr "{{ _g_productName }}: 귀하의 VIP가 곧 만료됩니다."
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr "특정 셀의 내용이 최대 길이를 초과하는 경우 해당 셀은 비워질 수 있습니다."
+
+msgid "error.export.excel.errorSheetName"
+msgstr "내보내기 오류"
+
+msgid "error.export.excel.fileName"
+msgstr "실패 목록"
+
+msgid "event.appCreate"
+msgstr "앱 만들기"
+
+msgid "event.appPublishAccept"
+msgstr "앱이 성공적으로 게시되었습니다"
+
+msgid "event.appPublishFailed"
+msgstr "앱 게시에 실패했습니다"
+
+msgid "event.appRemove"
+msgstr "앱 삭제"
+
+msgid "event.corpAutoSync"
+msgstr "자동 동기화 비즈니스"
+
+msgid "event.corpManualSync"
+msgstr "수동 동기화 비즈니스"
+
+msgid "event.createDept"
+msgstr "부서 추가"
+
+msgid "event.createManageGroup"
+msgstr "그룹 추가"
+
+msgid "event.createRole"
+msgstr "역할 추가"
+
+msgid "event.dataWebhook"
+msgstr "웹훅"
+
+msgid "event.entryWebhook"
+msgstr "폼 구성 푸시"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "일정에 따라 데이터 스트림을 실행하지 못했습니다."
+
+msgid "event.fileExportComplete"
+msgstr "파일이 준비되었습니다"
+
+msgid "event.fileExportFailed"
+msgstr "파일을 내보내지 못했습니다"
+
+msgid "event.inviteToJoin"
+msgstr "참여를 초대합니다"
+
+msgid "event.kms.spaceApply"
+msgstr "지식 기반을 생성하라는 새로운 요청을 받았습니다."
+
+msgid "event.memberHardDelete"
+msgstr "회원 삭제"
+
+msgid "event.memberInvite"
+msgstr "회원 초대"
+
+msgid "event.memberRemove"
+msgstr "비활성화"
+
+msgid "event.removeDept"
+msgstr "부서 삭제"
+
+msgid "event.removeManageGroup"
+msgstr "관리자 그룹 삭제"
+
+msgid "event.removeRole"
+msgstr "역할 삭제"
+
+msgid "event.smsDataComment"
+msgstr "데이터 주석"
+
+msgid "event.smsFlowData"
+msgstr "워크플로 알림"
+
+msgid "event.smsVerify"
+msgstr "SMS 인증 코드"
+
+msgid "event.systemLogNotify"
+msgstr "시스템 로그 알림"
+
+msgid "event.timedReminder"
+msgstr "알림"
+
+msgid "event.updateManageGroupMembers"
+msgstr "관리자 회원 업데이트"
+
+msgid "excel.address.city"
+msgstr "(도시)"
+
+msgid "excel.address.detail"
+msgstr "(주소)"
+
+msgid "excel.address.district"
+msgstr "(군/구)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(위도와 경도)"
+
+msgid "excel.address.province"
+msgstr "(주/도)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "사업체명"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "이메일"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "소유자입니다"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "이름"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "전화 번호"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "역할"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "사업체명"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "꼬리표"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "이메일"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "소유자입니다"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "이름"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "이동하는"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "역할"
+
+msgid "excel.datetime.format.date"
+msgstr "년-월-일"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "YYYY-MM-DD HH:MM"
+
+msgid "excel.datetime.format.date.month"
+msgstr "년-월"
+
+msgid "excel.datetime.format.datetime"
+msgstr "YYYY-MM-DD HH:MM:SS"
+
+msgid "excel.filename.dataTable"
+msgstr "데이터 테이블"
+
+msgid "excel.filename.dataTemplate"
+msgstr "데이터 템플릿"
+
+msgid "excel.filename.table"
+msgstr "통계표"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"\"{{ colLabel }}\" 필드에서 중복된 부서 이름 \"{{ value }}\"이(가) 발견되었습니다. 이 필드는 양식의 "
+"\"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "오류 세부 정보"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\" 형식이 잘못되었습니다. 이 필드는 양식의 \"{{ "
+"widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"에 일치하는 ID가 없습니다. 이 필드는 양식의 \"{{ "
+"widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"\"{{ colLabel }}\" 필드에서 {{ itemCount }}개의 옵션을 선택하세요. 이 필드는 양식의 \"{{ "
+"widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"\"{{ colLabel }}\" 필드에 대한 최대 {{ maxItemCount }}개 옵션입니다. 이 필드는 양식의 \"{{ "
+"widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"\"{{ colLabel }}\" 필드에 대한 최소 {{ minItemCount }}개 옵션입니다. 이 필드는 양식의 \"{{ "
+"widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"\"{{ colLabel }}\" 필드에 {{ minItemCount }}개부터 {{ maxItemCount }}개까지의 옵션을 "
+"선택하세요. 이 필드는 양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"에 일치하는 옵션이 없습니다. 이 필드는 양식의 \"{{ "
+"widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"\"{{ formNames }}\" 양식의 \"{{ value }}\"에 대한 중복 데이터가 있습니다. 가져올 양식에 \"필드 값 # "
+"양식\" 형식으로 주석을 추가하세요."
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"\"{{ formName }}\" 양식에서 중복된 필드 이름 \"{{ colLabel }}\"이(가) 발견되었습니다. 이 필드는 현재 "
+"양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"이(가) 관련 양식의 데이터와 일치하지 않습니다. 이 필드는 현재 "
+"양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"이(가) 관련 양식의 여러 레코드와 일치합니다. 이 필드는 현재 "
+"양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 경우 {{ repeatRemind }}입니다. 이 필드는 양식의 \"{{ widgetLabel "
+"}}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"에 일치하는 이름이 없습니다. 이 필드는 양식의 \"{{ "
+"widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"\"{{ colLabel }}\" 필드에서 중복된 회원 이름 \"{{ value }}\"이(가) 발견되었습니다. 이 필드는 양식의 "
+"\"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"는 \"{{ number }}\"이어야 합니다. 이 필드는 양식의 "
+"\"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"은 {{ maxNumber }}보다 작거나 같아야 합니다. \"{{ "
+"colLabel }}\"은 양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"은(는) {{ minNumber }}보다 크거나 같아야 합니다. 이 "
+"필드는 양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"\"{{ colLabel }}\" 필드의 \"{{ value }}\"은(는) {{ minNumber }}에서 {{ maxNumber "
+"}} 사이여야 합니다. 이 필드는 양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"\"{{ widgetName }}\" 필드의 \"{{ value }}\"은(는) 판매 단계와 일치하지 않습니다. 이 필드는 양식의 "
+"\"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "실패한 기록"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에서 중복된 부서 이름 \"{{ "
+"value }}\"이(가) 발견되었습니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ "
+"subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value }}\"의 "
+"형식이 잘못되었습니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel }}\" "
+"하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value }}\"에 "
+"일치하는 ID가 없습니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel "
+"}}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에서 {{ itemCount }}개의 "
+"옵션을 선택하세요. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel }}\" "
+"하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 대한 최대 {{ "
+"maxItemCount }}개 옵션입니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ "
+"subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 대한 최소 {{ "
+"minItemCount }}개 옵션입니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ "
+"subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 대해 {{ minItemCount "
+"}}개부터 {{ maxItemCount }}개까지의 옵션을 선택하세요. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 "
+"양식의 \"{{ subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value }}\"에 "
+"일치하는 옵션이 없습니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel "
+"}}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value }}\"에 "
+"일치하는 이름이 없습니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel "
+"}}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에서 중복된 멤버 이름 \"{{ "
+"value }}\"이(가) 발견되었습니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ "
+"subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value }}\"는 "
+"\"{{ number }}\"이어야 합니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ "
+"subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value "
+"}}\"은(는) {{ maxNumber }}보다 작거나 같아야 합니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 "
+"양식의 \"{{ subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value "
+"}}\"은(는) {{ minNumber }}보다 크거나 같아야 합니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 "
+"양식의 \"{{ subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 있는 \"{{ value "
+"}}\"은(는) {{ minNumber }}에서 {{ maxNumber }} 사이여야 합니다. 이 하위 필드는 \"{{ "
+"widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드에 대해 {{ repeatRemind "
+"}}를 실행합니다. 이 하위 필드는 \"{{ widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel }}\" "
+"하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"\"{{ colLabel }}\" 하위 양식의 \"{{ subColLabel }}\" 하위 필드는 필수입니다. 이 하위 필드는 \"{{ "
+"widgetLabel }}\" 하위 양식의 \"{{ subWidgetLabel }}\" 하위 필드에 해당합니다."
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr "\"{{ colLabel }}\" 필드는 필수입니다. 이 필드는 양식의 \"{{ widgetLabel }}\" 필드에 해당합니다."
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_오류 보고서_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "소속 부서"
+
+msgid "excel.importError.repeatName.id"
+msgstr "부서 및 회원 ID"
+
+msgid "excel.importError.repeatName.name"
+msgstr "중복된 이름 부서 및 구성원"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "동일한 이름의 회원 및 부서 ID"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "스타일 가져오기를 제안합니다"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"권장 가져오기 스타일에 따라 원본 데이터를 대체하세요. 자세한 내용은 https://help.jodoo.com/doc/12099를 "
+"참조하세요."
+
+msgid "excel.mainDataLabel.header"
+msgstr "연관된 \"{{ formName }}\" 데이터"
+
+msgid "excel.member.dept"
+msgstr "부서"
+
+msgid "excel.member.email"
+msgstr "이메일"
+
+msgid "excel.member.exceed"
+msgstr "내보내려는 멤버 수가 최대 한도에 도달했습니다. 처음 100,000개 레코드만 내보내집니다."
+
+msgid "excel.member.filename"
+msgstr "내부 연락처"
+
+msgid "excel.member.fullRoleName"
+msgstr "역할 그룹 및 역할"
+
+msgid "excel.member.name"
+msgstr "이름"
+
+msgid "excel.member.phone"
+msgstr "이동하는"
+
+msgid "excel.member.role"
+msgstr "역할"
+
+msgid "excel.member.role.rel.filename"
+msgstr "연락처 역할"
+
+msgid "excel.member.status"
+msgstr "상태"
+
+msgid "excel.member.username"
+msgstr "아니요."
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "회원 ID"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "중복 회원"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "오류 보고서.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_오류 보고서_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "필수의"
+
+msgid "filezip.filename.package"
+msgstr "{{ formName }}_첨부파일{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "워크플로 생성 시간"
+
+msgid "flow.creator"
+msgstr "워크플로우 개시자"
+
+msgid "flow.initiateFlow"
+msgstr "지금 시작하세요"
+
+msgid "flow.initiateFlow.desc"
+msgstr "이 그룹의 멤버는 워크플로를 시작할 수 있습니다."
+
+msgid "flow.manageAllFlow"
+msgstr "모든 워크플로 관리"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "이 그룹의 멤버는 모든 프로세스를 관리할 수 있습니다."
+
+msgid "flow.node.approve"
+msgstr "승인"
+
+msgid "flow.node.end"
+msgstr "끝"
+
+msgid "flow.node.start"
+msgstr "시작"
+
+msgid "flow.state.closed"
+msgstr "수동으로 종료"
+
+msgid "flow.state.complete"
+msgstr "완전한"
+
+msgid "flow.state.inProcess"
+msgstr "진행 중"
+
+msgid "flow.state.rejected"
+msgstr "거부하다"
+
+msgid "flow.viewAllFlow"
+msgstr "모든 워크플로 보기"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "이 그룹의 멤버는 모든 프로세스를 볼 수 있습니다."
+
+msgid "form.analysisField.avgDuration"
+msgstr "평균 처리 시간(시간)"
+
+msgid "form.analysisField.creator"
+msgstr "회원"
+
+msgid "form.analysisField.dataCount"
+msgstr "데이터 개수"
+
+msgid "form.analysisField.flowNode"
+msgstr "마디"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "워크플로 완료 시간"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "워크플로 생성 시간"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "노드 유입 시간"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "노드 유출 시간"
+
+msgid "form.data.tab.common.name"
+msgstr "기본 정보"
+
+msgid "form.default.field.options.firstText"
+msgstr "옵션 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "옵션 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "옵션 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "옵션 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "옵션 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "옵션 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "중복된 값은 허용되지 않습니다."
+
+msgid "form.operate.batchPrint"
+msgstr "일괄 인쇄"
+
+msgid "form.operate.batchUpdate"
+msgstr "일괄 편집"
+
+msgid "form.operate.copy"
+msgstr "복사"
+
+msgid "form.operate.create"
+msgstr "추가하다"
+
+msgid "form.operate.delete"
+msgstr "삭제"
+
+msgid "form.operate.export"
+msgstr "내보내다"
+
+msgid "form.operate.flowActivate"
+msgstr "활성화 프로세스"
+
+msgid "form.operate.flowClose"
+msgstr "워크플로 종료"
+
+msgid "form.operate.flowTransfer"
+msgstr "프로세스 승인자 변경"
+
+msgid "form.operate.import"
+msgstr "수입"
+
+msgid "form.operate.read"
+msgstr "보다"
+
+msgid "form.operate.update"
+msgstr "편집하다"
+
+msgid "form.subformField.id"
+msgstr "하위 폼 ID"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "현재 승인자"
+
+msgid "form.sysField.createTime"
+msgstr "제출 시간"
+
+msgid "form.sysField.creator"
+msgstr "제출자"
+
+msgid "form.sysField.dataId"
+msgstr "데이터_아이디"
+
+msgid "form.sysField.dataLabel"
+msgstr "제목"
+
+msgid "form.sysField.deleteTime"
+msgstr "삭제된 시간"
+
+msgid "form.sysField.deleter"
+msgstr "삭제된 사용자"
+
+msgid "form.sysField.ext"
+msgstr "URL 매개변수"
+
+msgid "form.sysField.flowComment"
+msgstr "승인 의견"
+
+msgid "form.sysField.flowNodes"
+msgstr "현재 노드"
+
+msgid "form.sysField.flowState"
+msgstr "워크플로 상태"
+
+msgid "form.sysField.flowVer"
+msgstr "버전"
+
+msgid "form.sysField.operator"
+msgstr "에 의해 행동"
+
+msgid "form.sysField.printOperator"
+msgstr "인쇄된 사용자"
+
+msgid "form.sysField.printTime"
+msgstr "인쇄된 시간"
+
+msgid "form.sysField.privateDataQr"
+msgstr "데이터 QR 코드(내부)"
+
+msgid "form.sysField.publicDataQr"
+msgstr "데이터 QR 코드(공개)"
+
+msgid "form.sysField.updateTime"
+msgstr "업데이트된 시간"
+
+msgid "form.sysField.updater"
+msgstr "업데이트된 사용자"
+
+msgid "form.sysField.wxAvatar"
+msgstr "위챗 아바타"
+
+msgid "form.sysField.wxNickname"
+msgstr "위챗 이름"
+
+msgid "form.sysField.wxOpenId"
+msgstr "위챗 오픈아이디"
+
+msgid "formView.allData.name"
+msgstr "모든 데이터"
+
+msgid "formView.untitled.name"
+msgstr "제목 없는 보기"
+
+msgid "formula.cal.type.error"
+msgstr "수식 계산 결과가 잘못된 데이터 유형입니다."
+
+msgid "formula.express.error"
+msgstr "잘못된 수식 표현"
+
+msgid "function.not.support"
+msgstr "이 기능은 현재 활성화된 플랜에서는 지원되지 않습니다!"
+
+msgid "function.param.count.error"
+msgstr "{{ name }} 함수의 매개변수 개수가 올바르지 않습니다."
+
+msgid "function.param.error"
+msgstr "{{ name }} 함수에 대한 잘못된 매개변수가 있습니다."
+
+msgid "function.param.notEmpty"
+msgstr "{{ name }} 함수의 매개변수는 비어 있을 수 없습니다."
+
+msgid "function.param.type.error"
+msgstr "{{ name }} 함수의 매개변수 유형이 잘못되었습니다."
+
+msgid "function.return.error"
+msgstr "{{ name }} 함수에 대한 반환 값 유형이 지정되지 않았습니다."
+
+msgid "function.second.param.constant"
+msgstr "{{ name }} 함수의 두 번째 매개변수는 상수만 가능합니다."
+
+msgid "function.two.param"
+msgstr "{{ name }} 함수에는 최소 2개의 매개변수가 필요합니다."
+
+msgid "function.two.param.error"
+msgstr "{{ name }} 함수의 {{ i }}번째 및 {{ preIdx }}번째 매개변수의 유형이 일치하지 않습니다."
+
+msgid "function.which.param.error"
+msgstr "{{ name }} 함수의 {{ i }}번째 매개변수 유형이 잘못되었습니다."
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "{{ name }} 함수의 {{ i }}번째 매개변수 길이가 제한을 초과합니다."
+
+msgid "handover.type.data"
+msgstr "[데이터]"
+
+msgid "handover.type.entry"
+msgstr "[폼/대시보드]"
+
+msgid "handover.type.kms"
+msgstr "[지식 기반]"
+
+msgid "handover.type.role"
+msgstr "[콘택트 렌즈]"
+
+msgid "handover.type.todo"
+msgstr "[업무]"
+
+msgid "handover.type.workflow"
+msgstr "[워크플로 승인자]"
+
+msgid "handover.work"
+msgstr "이양"
+
+msgid "kms.docTrend"
+msgstr "문서 업데이트"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "이 그룹의 멤버는 데이터를 직접 입력하고, 입력한 데이터를 관리할 수 있습니다."
+
+msgid "manage.addAndManageMyData.name"
+msgstr "내 데이터 추가 및 관리"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "이 그룹의 멤버는 데이터를 입력하고 모든 데이터를 볼 수 있습니다."
+
+msgid "manage.addAndViewAllData.name"
+msgstr "모든 데이터 추가 및 보기"
+
+msgid "manage.manageAllData.desc"
+msgstr "이 그룹의 멤버는 모든 데이터를 관리하고 데이터를 입력할 수 있지만 데이터를 가져올 수는 없습니다."
+
+msgid "manage.manageAllData.name"
+msgstr "모든 데이터 관리"
+
+msgid "manage.mergeGroup"
+msgstr "모든 데이터는 허가를 받아야 합니다"
+
+msgid "manage.onlyAddData.desc"
+msgstr "이 그룹의 멤버는 데이터를 채울 수만 있습니다."
+
+msgid "manage.onlyAddData.name"
+msgstr "제출만 가능"
+
+msgid "manage.viewAllData.desc"
+msgstr "이 그룹의 멤버는 모든 데이터를 볼 수 있습니다."
+
+msgid "manage.viewAllData.name"
+msgstr "모든 데이터 보기"
+
+msgid "managerActivity.app.metricsName"
+msgstr "앱 활동 세부 정보로 보기"
+
+msgid "managerActivity.app.reportName"
+msgstr "앱 개요로 보기"
+
+msgid "managerActivity.appId"
+msgstr "앱 ID"
+
+msgid "managerActivity.appName"
+msgstr "앱 이름"
+
+msgid "managerActivity.count"
+msgstr "사용자(편집)"
+
+msgid "managerActivity.fileName"
+msgstr "관리자 활동"
+
+msgid "managerActivity.managerId"
+msgstr "관리자 ID"
+
+msgid "managerActivity.managerName"
+msgstr "관리자 이름"
+
+msgid "managerActivity.time"
+msgstr "날짜"
+
+msgid "managerActivity.times"
+msgstr "타임즈(편집)"
+
+msgid "managerActivity.user.metricsName"
+msgstr "관리자 활동 세부 정보별 보기"
+
+msgid "managerActivity.user.reportName"
+msgstr "관리자별 보기-개요"
+
+msgid "math.param.error"
+msgstr "수학 연산의 데이터 유형은 숫자여야 합니다."
+
+msgid "member.status.deleted"
+msgstr "제거된 멤버"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(비활성화됨)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(삭제됨)"
+
+msgid "message.addOrRemoveApp"
+msgstr "앱 추가/삭제"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "부서 또는 구성원 추가/삭제"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "관리자 그룹 추가/삭제"
+
+msgid "message.addOrRemoveManager"
+msgstr "관리자 추가/삭제"
+
+msgid "message.alertName"
+msgstr "알림 제목"
+
+msgid "message.alertSource"
+msgstr "알림 출처"
+
+msgid "message.anonymousUser"
+msgstr "익명의 사용자"
+
+msgid "message.apiKeyOpLog"
+msgstr "API 키 로그"
+
+msgid "message.appRename"
+msgstr "앱 이름 바꾸기"
+
+msgid "message.appUpdate"
+msgstr "앱 변경 사항"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr "시스템 관리자 또는 생성자가 {{ timeRange }} 동안 {{ principal }}에게 작업을 위임하는 것을 취소했습니다."
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr "시스템 관리자 또는 생성자가 {{ timeRange }} 동안 {{ agent }}에게 작업 위임을 취소했습니다."
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr "시스템 관리자 또는 생성자가 {{ principal }}에서 귀하에게 작업 위임을 취소했습니다."
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr "시스템 관리자 또는 생성자가 {{ agent }}에게 작업 위임을 취소했습니다."
+
+msgid "message.bpm_delegation.description"
+msgstr "설명"
+
+msgid "message.bpm_delegation.principal"
+msgstr "위임자"
+
+msgid "message.bpm_delegation.range"
+msgstr "범위"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "모든 워크플로"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "부분 프로세스"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "시간"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr "{{ principal }}님이 {{ timeRange }} 동안 모든 작업을 승인을 위해 귀하에게 위임했습니다."
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }}님이 {{ timeRange }} 동안 모든 작업을 귀하에게 위임하여 승인을 받았습니다. 위임 설명: {{ "
+"description }}."
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }}님이 귀하에게 작업을 위임했습니다."
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr "{{ principal }}님이 {{ timeRange }} 동안 귀하에게 위임된 작업을 취소했습니다."
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }}님이 귀하에게 위임한 업무 위임을 취소했습니다."
+
+msgid "message.comment.content"
+msgstr "댓글 내용"
+
+msgid "message.commentator"
+msgstr "님이 댓글을 남겼습니다"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "사업체 이름이 이미 존재합니다"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "소유자는 한 명만 허용됩니다."
+
+msgid "message.corp.import.errCode.19011"
+msgstr "지정된 소유자가 이미 다른 회사/팀을 생성했습니다."
+
+msgid "message.corp.import.errCode.19012"
+msgstr "지정된 소유자 없음"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "가져온 회원 수가 {{number}}명을 초과했습니다."
+
+msgid "message.corp.import.errCode.19014"
+msgstr "파일 내에 가져올 수 있는 파트너 회사가 없습니다. 조정 후 다시 가져오시기 바랍니다."
+
+msgid "message.corp.import.errCode.19020"
+msgstr "가져온 역할 수가 {{number}}개를 초과합니다. 조정 후 다시 가져오세요."
+
+msgid "message.corp.import.errCode.19029"
+msgstr "가져온 파트너 수가 {{number}}개를 초과합니다. 조정 후 다시 가져오세요."
+
+msgid "message.corp.import.errCode.19036"
+msgstr "사업체 이름은 {{ number }}자를 넘지 않아야 합니다."
+
+msgid "message.corp.import.errCode.6065"
+msgstr "태그에는 최대 {{number}}자가 허용됩니다."
+
+msgid "message.corp.import.errCode.6066"
+msgstr "가져온 태그의 개수가 {{number}}개를 초과하였습니다. 조정 후 다시 가져오시기 바랍니다."
+
+msgid "message.corpCoop"
+msgstr "고객 및 파트너"
+
+msgid "message.corpSyncResult"
+msgstr "멤버 동기화"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{operator}}님이 귀하에게 {{account_num}}명의 고객을 할당했습니다."
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "고객 {{ data_label }}이(가) 자동으로 재활용되었습니다."
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{ operator }}님이 고객 {{ data_label }}의 승인자를 변경했습니다."
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{ operator }}님이 {{ account_num }}명의 고객의 소유자를 변경했습니다."
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{ operator }}님이 고객 {{ data_label }}의 협력자를 변경했습니다."
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{ operator }}님이 {{ account_num }}명의 고객의 협력자를 변경했습니다."
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{ operator }}님이 {{ account_num }}명의 고객을 재활용했습니다."
+
+msgid "message.crm.assignor"
+msgstr "양도인"
+
+msgid "message.crm.currentCollaborator"
+msgstr "현재 협력자"
+
+msgid "message.crm.customer"
+msgstr "고객"
+
+msgid "message.crm.followPlanComplete"
+msgstr "{{ operator }}님이 귀하의 후속 계획 \"{{ data_label }}\"을 완료했습니다."
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{ operator }}님이 {{ plan_num }}개의 후속 계획을 완료했습니다."
+
+msgid "message.crm.leads"
+msgstr "리드"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{ operator }}님이 귀하에게 {{ leads_num }}개의 리드를 할당했습니다."
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "리드 \"{{ data_label }}\"이(가) 자동으로 재활용되었습니다."
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{ operator }}님이 리드 {{ data_label }}의 승인자를 변경했습니다."
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr "{{ operator }}가 {{ opportunity_num }}개 리드의 소유자를 변경했습니다."
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{ operator }}가 리드 {{ data_label }}의 협력자를 변경했습니다."
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr "{{ operator }}가 {{ opportunity_num }}개 리드의 협력자를 변경했습니다."
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{ operator }}님이 {{ lead_num }}개의 리드를 재활용했습니다."
+
+msgid "message.crm.newCharger"
+msgstr "새로운 승인자"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{operator}}님이 귀하를 위한 후속 계획 \"{{data_label}}\"을(를) 추가했습니다."
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{ operator }}님이 {{ data_label }} 사업 기회의 승인자를 변경했습니다."
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr "{{operator}}가 {{opportunity_num}}개의 사업 기회의 소유자를 변경했습니다."
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{ operator }}가 비즈니스 기회 {{ data_label }}의 협력자를 변경했습니다."
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr "{{operator}}가 {{opportunity_num}}개의 사업 기회의 협력자를 변경했습니다."
+
+msgid "message.crm.opportunityWin"
+msgstr "사업 기회 \"{{ data_label }}\"이(가) 성공했습니다."
+
+msgid "message.crm.rawCharger"
+msgstr "전 승인자"
+
+msgid "message.crm.recycler"
+msgstr "재활용업체"
+
+msgid "message.cron.custom"
+msgstr "알림 시간이 왔습니다"
+
+msgid "message.cron.dataExpires"
+msgstr "데이터 기한 초과"
+
+msgid "message.dashName"
+msgstr "대시보드 제목"
+
+msgid "message.dataAlert"
+msgstr "데이터 알림"
+
+msgid "message.dataComment"
+msgstr "고객 및 파트너"
+
+msgid "message.dataCreate"
+msgstr "새로운 데이터가 제출되었습니다"
+
+msgid "message.dataLabel"
+msgstr "레코드 제목"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "실패한 자동화"
+
+msgid "message.emptyValue"
+msgstr "비어 있는"
+
+msgid "message.enterForm"
+msgstr "양식으로 이동"
+
+msgid "message.entryName"
+msgstr "양식 이름"
+
+msgid "message.error.4402"
+msgstr "집계 계산을 검증하지 못했습니다."
+
+msgid "message.etlExecuteFailed"
+msgstr "실패한 ETL 작업"
+
+msgid "message.etlSyncFailed"
+msgstr "데이터 스트림 동기화에 실패했습니다."
+
+msgid "message.flow.adminTransfer"
+msgstr "슈퍼 관리자가 작업을 귀하에게 전송합니다."
+
+msgid "message.flow.autoBack"
+msgstr "처리되지 않은 작업 항목이 반환되었습니다. 시간 내에 처리해 주시기 바랍니다."
+
+msgid "message.flow.back"
+msgstr "제출된 작업 항목이 반환되었습니다."
+
+msgid "message.flow.batchTransfer"
+msgstr "새로운 작업은 슈퍼 관리자에 의해 귀하에게 전송됩니다."
+
+msgid "message.flow.cc"
+msgstr "새로 해결된 워크플로 결과에 대해 CC가 지정되었습니다."
+
+msgid "message.flow.cc.entryName"
+msgstr "{{ entryName }} 새로운 해결된 워크플로 결과에 대해 참조로 지정되었습니다."
+
+msgid "message.flow.cc.merge.entryName"
+msgstr "{{ entryName }} 새로운 흐름 처리 결과가 {{ count }}개 있습니다. 이 결과가 귀하에게 CC로 전송되었습니다."
+
+msgid "message.flow.dealtUrgently"
+msgstr "워크플로를 긴급하게 처리해야 합니다."
+
+msgid "message.flow.memberTransfer"
+msgstr "{{ operator }}님이 작업을 귀하에게 전송했습니다."
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」작업이 {{ operator }}에 의해 귀하에게 전송되었습니다."
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr "새로운 긴급 작업이 있습니다. 최대한 빨리 처리해 주세요."
+
+msgid "message.flow.sign"
+msgstr "{{ operator }}가 작업을 귀하에게 전송했습니다."
+
+msgid "message.flow.signBeforeComplete"
+msgstr "사전 승인자가 노드를 처리했습니다. 완료해야 할 새 워크플로 작업이 있습니다."
+
+msgid "message.flow.timeout"
+msgstr "오랫동안 보류 중인 작업이 있습니다. 즉시 처리해 주세요."
+
+msgid "message.flow.timeout.entryName"
+msgstr "{{ entryName }}에 완료되지 않은 작업이 있습니다."
+
+msgid "message.flow.todo"
+msgstr "새로운 작업이 있습니다"
+
+msgid "message.flow.todo.entryName"
+msgstr "{{ entryName }} 새로운 작업이 있습니다."
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "{{ entryName }} 새로운 할 일 항목이 {{ count }}개 있습니다."
+
+msgid "message.flowData"
+msgstr "외부 승인자/CC 멤버"
+
+msgid "message.kms.clickViewDetails"
+msgstr "문서를 보려면 \"자세히 보기\"를 클릭하세요."
+
+msgid "message.kms.denyReason"
+msgstr "거부 사유"
+
+msgid "message.kms.description"
+msgstr "지식 기반 설명"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr "{{ operator }}가 \"{{ document }}\" 문서의 주석을 처리했습니다."
+
+msgid "message.kms.docComment"
+msgstr "{{operator}}님이 \"{{document}}\" 문서에 댓글을 남겼습니다."
+
+msgid "message.kms.docCreate"
+msgstr "{{operator}}님이 \"{{document}}\" 문서를 생성했습니다."
+
+msgid "message.kms.docEdit"
+msgstr "{{operator}}가 문서 \"{{document}}\"을(를) 편집했습니다."
+
+msgid "message.kms.docLike"
+msgstr "{{operator}}님이 \"{{document}}\" 문서를 좋아했습니다."
+
+msgid "message.kms.documentToBeViewed"
+msgstr "새로운 문서를 볼 수 있습니다."
+
+msgid "message.kms.managerBecome"
+msgstr "이제 지식 기반 \"{{ space_name }}\"의 관리자가 되셨습니다. 문서를 만들고 아이디어를 공유해 보세요!"
+
+msgid "message.kms.spaceApply"
+msgstr "{{applicant}}님이 \"{{space_name}}\"라는 이름의 지식 베이스를 만들기 위해 신청했습니다."
+
+msgid "message.kms.spaceApplyAgree"
+msgstr "지식 기반을 성공적으로 생성했습니다. 이제 새 지식 기반 \"{{ space_name }}\"의 관리자가 되셨습니다."
+
+msgid "message.kms.spaceApplyDeny"
+msgstr "지식 기반 \"{{ space_name }}\"을(를) 생성하지 못했습니다. 지식 기반 설명을 작성하고 다시 요청하세요."
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{operator}}가 \"{{document}}\" 문서를 보라고 알려줍니다."
+
+msgid "message.latitude"
+msgstr "위도"
+
+msgid "message.longitude"
+msgstr "경도"
+
+msgid "message.member.import.errCode.1005"
+msgstr "이메일이 이미 존재합니다."
+
+msgid "message.member.import.errCode.1017"
+msgstr "멤버 번호는 문자, 숫자, 밑줄 및 '.'만 지원합니다."
+
+msgid "message.member.import.errCode.1018"
+msgstr "이메일 주소 형식이 잘못되었습니다"
+
+msgid "message.member.import.errCode.1019"
+msgstr "회원 이름은 {{ length }}자를 넘을 수 없습니다."
+
+msgid "message.member.import.errCode.1024"
+msgstr "잘못된 휴대폰 번호입니다"
+
+msgid "message.member.import.errCode.1027"
+msgstr "휴대폰 번호가 이미 존재합니다"
+
+msgid "message.member.import.errCode.1082"
+msgstr "이메일 주소를 입력해야 합니다."
+
+msgid "message.member.import.errCode.1084"
+msgstr "회원번호가 필요합니다"
+
+msgid "message.member.import.errCode.1085"
+msgstr "회원의 이름을 입력하세요"
+
+msgid "message.member.import.errCode.1087"
+msgstr "회원번호가 이미 존재합니다"
+
+msgid "message.member.import.errCode.1092"
+msgstr "회원 번호는 {{ length }}자를 넘을 수 없습니다."
+
+msgid "message.member.import.errCode.unknown"
+msgstr "알 수 없는 이유입니다. 나중에 다시 시도해 주세요."
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "회원을 관리할 권한이 없습니다."
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "파일 내 한 역할에 대해 중복된 멤버 이름이 있습니다."
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "중복된 회원 이름입니다."
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "아직 회원으로 등록되지 않았습니다"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr "존재하지 않는 회원이나 사임한 회원은 가져올 수 없습니다."
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "역할 그룹 이름이 중복되었습니다."
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "역할 그룹 및 역할 이름을 입력하세요"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "존재하지 않는 역할 그룹에는 구성원을 가져올 수 없습니다."
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "\"동기화된 역할 그룹\"을 가져올 수 없습니다."
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "한 역할 그룹 내에 역할 이름이 중복됩니다."
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "역할 그룹과 역할 이름은 슬래시(/)로 구분합니다."
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "해당 역할은 역할 그룹에 포함되지 않습니다."
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "역할을 관리할 권한이 없습니다."
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "\"동기화된 역할\"을 내보낼 수 없습니다."
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "알 수 없는 오류입니다. 다시 시도하세요."
+
+msgid "message.modified"
+msgstr "수정됨"
+
+msgid "message.modifier"
+msgstr "수정된 사용자"
+
+msgid "message.notifyTime"
+msgstr "알림 시간"
+
+msgid "message.remainTime.days"
+msgstr ""
+"처리 대기 중인 작업이 있습니다. 남은 시간: {{ days }}일 {{ hours }}시간 {{ minutes }}분. 시간 내에 "
+"처리해 주세요"
+
+msgid "message.remainTime.hours"
+msgstr "보류 중인 작업이 있습니다. 남은 시간은 {{hours}}시간, {{minutes}}분입니다. 시간 내에 처리해 주세요."
+
+msgid "message.remainTime.lessMinute"
+msgstr "처리 시간이 1분 미만으로 남은 보류 중인 작업이 있습니다. 시간 내에 처리해 주세요."
+
+msgid "message.remainTime.minutes"
+msgstr "처리 시간이 {{ minutes }}분 밖에 남지 않은 대기 중인 작업이 있습니다. 시간 내에 처리해 주세요"
+
+msgid "message.system"
+msgstr "체계"
+
+msgid "message.systemRobot"
+msgstr "시스템 로봇"
+
+msgid "message.title.accountApportion"
+msgstr "고객 할당 알림"
+
+msgid "message.title.accountChangeCharger"
+msgstr "고객 담당자가 변경되었습니다"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "고객 협력자가 변경되었습니다"
+
+msgid "message.title.accountRecycle"
+msgstr "고객 재활용 알림"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "연락처 처리자가 변경되었습니다"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "연락처 공동 작업자가 변경되었습니다."
+
+msgid "message.title.email.analytics_exceed"
+msgstr "{{ _g_productName }} 시스템 사용 알림"
+
+msgid "message.title.email.corpCoop"
+msgstr "{{ _g_productName }} 고객 및 파트너 알림"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "{{ _g_productName }} 시스템 사용 알림"
+
+msgid "message.title.excelImportComplete"
+msgstr "데이터 가져오기 완료"
+
+msgid "message.title.followPlanComplete"
+msgstr "귀하의 후속 계획은 다른 사람들에 의해 완료되었습니다."
+
+msgid "message.title.leadsApportion"
+msgstr "리드 할당 알림"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "리드 핸들러가 변경되었습니다"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "리드 협력자가 변경되었습니다"
+
+msgid "message.title.leadsRecycle"
+msgstr "납 재활용 알림"
+
+msgid "message.title.newFollowPlan"
+msgstr "새로운 후속 계획 할당"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "BO 핸들러가 변경되었습니다"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "BO 협력자가 변경되었습니다"
+
+msgid "message.title.opportunityWin"
+msgstr "우승 BO 알림"
+
+msgid "message.title.pluginExpire"
+msgstr "플러그인 {{ _g_productName }}이 곧 만료됩니다."
+
+msgid "message.viewDash"
+msgstr "대시보드 보기"
+
+msgid "message.viewDataDetails"
+msgstr "자세한 데이터 보기"
+
+msgid "message.viewForm"
+msgstr "양식 보기"
+
+msgid "not.support.op"
+msgstr "지원되지 않는 비교 연산자 {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "귀하의 브라우저가 약간 오래된 것 같습니다."
+
+msgid "notSupported.ie.subtitle"
+msgstr "정상적으로 이용하시려면 다음의 최신 브라우저를 설치하시거나, 브라우저를 업그레이드하시기 바랍니다."
+
+msgid "op.param.error"
+msgstr "접두사 연산의 데이터 유형은 숫자여야 합니다."
+
+msgid "op.param.number"
+msgstr "{{op}} 연산자의 연산 필드는 숫자여야 합니다."
+
+msgid "open_store.space.enterprise"
+msgstr "사내 플러그인"
+
+msgid "open_store.space.store"
+msgstr "공식 플러그인"
+
+msgid "page.title.aggregateEdit"
+msgstr "집계 테이블 디자인 | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "AI 어시스턴트"
+
+msgid "page.title.baseConfig"
+msgstr "양식 디자인-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "고객 및 파트너 | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "관리 | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "사용자 정의 작업 공간"
+
+msgid "page.title.dashEdit"
+msgstr "대시보드 디자인-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "대시보드 미리보기 | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "자동화 | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "데이터 보기"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "{{ _g_productName }}에 로그인하세요"
+
+msgid "page.title.error"
+msgstr "뭔가 잘못됐어요"
+
+msgid "page.title.error.flow"
+msgstr "워크플로 프롬프트"
+
+msgid "page.title.error403"
+msgstr "접근 불가"
+
+msgid "page.title.error404"
+msgstr "페이지를 찾을 수 없습니다"
+
+msgid "page.title.etlEdit"
+msgstr "데이터 스트림 디자인 | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "사용자 정의 상세 페이지 | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "양식 미리보기 | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "템플릿 센터"
+
+msgid "page.title.imageUpload"
+msgstr "이미지 업로드"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "종달새가 성공적으로 출동했습니다"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "종달새 바인딩"
+
+msgid "page.title.login_bind"
+msgstr "링크 이메일"
+
+msgid "page.title.networkTestView"
+msgstr "네트워크 셀프 서비스 테스트 | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "이 브라우저 버전은 더 이상 지원되지 않습니다."
+
+msgid "page.title.oauth"
+msgstr "승인 확인"
+
+msgid "page.title.openApiExplorer"
+msgstr "API 디버그 콘솔 | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "매개변수 설명 | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "오픈 플랫폼 | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "주문 생성 | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "지불 명령"
+
+msgid "page.title.orderPayFailed"
+msgstr "결제 실패"
+
+msgid "page.title.orderPaySuccess"
+msgstr "결제 성공"
+
+msgid "page.title.passwordForget"
+msgstr "{{ _g_productName }} 비밀번호를 잊으셨나요?"
+
+msgid "page.title.passwordReset"
+msgstr "비밀번호 재설정"
+
+msgid "page.title.personal"
+msgstr "개인 설정 | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "디자인 인쇄 템플릿"
+
+msgid "page.title.signature"
+msgstr "서명"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "인증으로 로그인"
+
+msgid "page.title.support"
+msgstr "문의하기 | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "신원 인증 | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "휴대폰 번호/이메일 링크"
+
+msgid "page.title.userCancelTitle"
+msgstr "계정이 폐쇄됩니다"
+
+msgid "print.field.currentFlow"
+msgstr "현재 노드"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{ formName }}_바코드_{{ timestamp }}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{ formName }}_바코드_{{ timestamp }}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "기본 정보"
+
+msgid "print.sys.fileFormat"
+msgstr "{{ file name }} 파일 크기: {{ size }} 업로드 시간: {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "시스템 인쇄"
+
+msgid "print.sys.wxInfo"
+msgstr "이 게시물을 제출한 사람의 WeChat 세부 정보"
+
+msgid "print.system_template_name"
+msgstr "기본 템플릿"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }}님이 귀하에게 {{ data_label }} 고객을 할당했습니다."
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }}님이 귀하에게 {{ account_num }}명의 고객을 할당했습니다."
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }}님이 고객 {{ data_label }}의 소유자를 변경했습니다. 이전: {{ raw_charger }}. "
+"현재: {{ new_charger }}."
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr "{{ operator }}님이 {{ account_num }}명의 고객 담당자를 변경했습니다."
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{ operator }}님이 고객 {{ data_label }}의 공동 작업자를 변경했습니다. 현재 공동 작업자는 {{ "
+"collaborators }}명입니다."
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{ operator }}가 {{ account_num }}명의 고객의 협력자를 변경했습니다."
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }}가 고객 \"{{ data_label }}\"을 재활용했습니다."
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "고객 \"{{ data_label }}\"은 자동으로 재활용되었습니다."
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }}님이 {{ account_num }}명의 고객을 재활용했습니다."
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 집계 테이블 수가 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 > 플랜 "
+"세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 플랜을 업그레이드하세요."
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 집계 수가 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 > 요금제 세부 "
+"정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"권한이 있는 사용자 수가 한도를 초과했습니다. 현재 데이터 분석 접근이 차단되었습니다. 제품 센터에서 일부 구성원의 데이터 분석 권한을 "
+"제거하세요."
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }}님이 API 키를 생성했습니다."
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }}이(가) API 키를 비활성화했습니다."
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }} 활성화된 API 키"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }}님이 API 키를 삭제했습니다."
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }}님이 {{ appName }} 앱을 생성했습니다."
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr "죄송합니다. {{ appName }} 앱을 게시하지 못했습니다. 이유는 다음과 같습니다."
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "이유: {{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr "축하합니다! {{ appName }} 앱을 성공적으로 게시했습니다. 템플릿 센터에서 확인해 보세요."
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }}님이 {{ appName }} 앱을 삭제했습니다."
+
+msgid "site.message.content.app_rename"
+msgstr "{{ operator }}가 앱 이름을 {{ oriAppName }}에서 {{ newAppName }}으로 변경했습니다."
+
+msgid "site.message.content.app_template_approved"
+msgstr "템플릿 \"{{ templateName }}\"이 승인되었습니다."
+
+msgid "site.message.content.app_template_publish"
+msgstr "{{ operator }}님이 \"{{ templateName }}\" 애플리케이션을 출시했으며 검토를 기다리고 있습니다."
+
+msgid "site.message.content.app_template_rejected"
+msgstr "템플릿 \"{{ templateName }}\"이(가) 검토를 통과하지 못했습니다. 이유: {{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"귀사/팀 \"{{ corpName }}\"에서 Automations Pro를 {{ usage }}회 실행했습니다. 현재 플랜의 월간 "
+"한도는 {{ limit }}입니다. 한도를 초과하면 코인이 소모됩니다. 사업 중단을 방지하려면 계정에 충분한 코인이 있는지 확인하세요."
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"귀하의 팀 \"{{ teamName }}\"이(가) {{ usage }} 건의 Automation Pro 실행 횟수에 도달했습니다. "
+"연간 허용되는 최대 실행 횟수 {{ limit }} 에 곧 도달할 예정입니다. 한도를 초과하면 Automation Pro를 실행할 수 "
+"없거나 Cloud Coins가 필요합니다. \"관리 - 플랜 상세\"에서 사용 내역을 확인하고 Cloud Coins를 충전해 주시기 "
+"바랍니다."
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"귀하의 팀 \"{{ corpName }}\"이(가) {{ usage }} 건의 Automation Pro 실행 횟수에 도달했습니다. "
+"연간 허용되는 최대 실행 횟수는 {{ limit }} 입니다. 주의해 주시기 바랍니다."
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 BPA 수가 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 > 요금제 "
+"세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"귀사/팀 \"{{ corpName }}\"의 시스템 사용량이 한도를 초과하여 시스템이 일시적으로 중단되었습니다. \"관리 > 요금제 "
+"세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"{{corpName}} 팀의 클라우드 코인 잔액이 {{limit}} 미만입니다. SMS 인증, OCR 인식, 첨부 파일 업로드 등의 "
+"기능이 영향을 받을 수 있습니다. 사업에 차질이 없도록 최대한 빨리 계정을 충전하세요."
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"{{corpName}} 팀의 클라우드 코인 잔액이 곧 소진됩니다. SMS 인증, OCR 인식, 첨부 파일 업로드 등의 기능이 영향을 "
+"받을 수 있습니다. 비즈니스에 차질이 없도록 최대한 빨리 계정을 충전하세요."
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }}님이 {{ dataTitle }} 댓글에서 당신을 언급했습니다."
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "제목 없는 데이터"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "댓글 개요: {{ messageComment }}."
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr "{{ corpName }} 회사의 구성원이 {{ dataTitle }} 댓글에서 당신을 언급했습니다."
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "제목 없는 데이터"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "댓글 개요: {{ messageComment }}."
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }}님이 {{ data_label }} 연락처의 소유자를 변경했습니다. 이전: {{ raw_charger }}. "
+"현재: {{ new_charger }}."
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr "{{ operator }}가 {{ contact_num }}개 연락처의 소유자를 변경했습니다."
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{ operator }}님이 연락처 {{ data_label }}의 공동작업자를 변경했습니다. 현재 공동작업자는 {{ "
+"collaborators }}명입니다."
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{ operator }}가 {{ contacts_num }}개 연락처의 공동 작업자를 변경했습니다."
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr "다른 회사/팀과의 업무 협업에 실패했습니다. 귀사/팀 \"{{ corpName }}\"의 담당자 수가 부족합니다."
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"귀하께서 연결하신 {{ corpName }} 회사가 귀하와의 협업을 신청했습니다. 협업이 성사되면 귀하의 연락처가 회사 사업에 참여할 "
+"수 있습니다."
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 연결된 비즈니스 수가 \"{{ vipLevel }}\"의 한도를 초과했습니다. \"관리 > "
+"요금제 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr ""
+"다른 회사와 연결하지 못했습니다. 회사/팀 \"{{ corpName }}\"의 Enterprise 연결 할당량이 부족합니다. 추가 구매 "
+"후 다시 시도해 주세요."
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+" 친구가 {{ _g_productName }}을 통해 협업하도록 초대했습니다. 친구의 \"{{ corpName }}\" 팀에 "
+"참여하세요. 초대장은 7일 동안 유효합니다."
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"앱 {{ appName }}의 대시보드 {{ entryName }}에서 {{ widgetName }}의 데이터가 데이터 알림 {{ "
+"thresholdName }}을 트리거했습니다."
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr "데이터 알림 {{thresholdName}}이(가) 실행되지 않아 알림이 실패했습니다."
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "{{ appName }} > {{ entryName }} > {{ widgetName }}의 알림"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr "대시보드 데이터 알림이 일일 한도인 1,000개에 도달했습니다. 오늘은 더 이상 알림이 발송되지 않습니다."
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr "데이터 알림 {{thresholdName}}의 알림 조건이 유효하지 않으므로 데이터 알림이 자동으로 비활성화되었습니다."
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "{{ appName }} > {{ entryName }} > {{ widgetName }}의 알림"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr "데이터 알림 {{thresholdName}}이 여러 번 실행되지 않아 알림이 자동으로 비활성화되었습니다."
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "{{ appName }} > {{ entryName }} > {{ widgetName }}의 알림"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 총 데이터 용량이 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 > "
+"요금제 세부 정보\"에서 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"귀사/팀 \"{{ corpName }}\"은(는) 이번 달에 이미 {{ usage }}개의 레코드를 사용했으며, 레코드 한도인 "
+"1,000개에 거의 도달했습니다. \"관리 > 플랜 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 플랜을 업그레이드하세요."
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"{{ appName }} 앱에서 자동화 {{ triggerName }}이(가) {{ failCount }}회 동안 트리거되지 "
+"못했습니다. 트리거 내역을 시간별로 확인하세요."
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"앱 \"{{ appName }}\"의 자동화 \"{{ triggerName }}\"을(를) 실행하지 못했습니다. 트리거 기록 로그 "
+"시간을 확인하세요."
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"{{ appName }} 앱에서 자동화 {{ triggerName }}이(가) {{ failCount }}회 동안 트리거되지 "
+"못했습니다. 오늘 더 이상 알림이 전송되지 않습니다. 트리거 내역을 시간별로 확인하세요."
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"귀사/팀 \"{{ corpName }}\"에서 이미 총 {{ usage }}개의 레코드를 사용했으며, 이는 {{ limit }}개의 "
+"한도에 도달했습니다. \"관리 > 요금제 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }}님이 {{ deptName }}이라는 부서를 추가했습니다."
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }}가 {{ deptSize }}개 부서를 가져왔습니다."
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }}가 {{ deptName }} 부서를 삭제했습니다."
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"귀하와 관계를 맺은 {{ corpName }} 회사의 연락처는 {{ op }} {{ side }}이며, {{ nicknameList "
+"}}입니다. 원활한 사업 운영을 위해 관련 권한을 적시에 조정해 주시기 바랍니다."
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"귀하와 관계를 맺은 {{ corpName }} 회사의 연락처는 {{ op }} {{ side }}이며, {{ nicknameList "
+"}}입니다. 원활한 사업 운영을 위해 관련 권한을 적시에 조정해 주시기 바랍니다."
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"귀하와 관계를 맺은 회사 {{ corpName }}의 연락처는 {{ op }} {{ side }}개입니다. {{ nicknameList "
+"}}"
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 데이터 스트림 수가 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 > "
+"요금제 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"\"{{ appName }}\"의 데이터 스트림 \"{{ etlName }}\"이(가) {{ maxCount }}회 동안 업데이트에 "
+"실패했습니다. 시스템에서 업데이트 규칙을 비활성화하여 모든 업데이트가 일시 중단되었습니다. 업데이트 규칙을 다시 활성화하기 전에 실패 "
+"원인을 확인하고 필요한 조치를 취하십시오."
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr " \"{{ appName }}\" 앱의 데이터 스트림 \"{{ etlName }}\"을 업데이트하지 못했습니다."
+
+msgid "site.message.content.etl_sync_failed"
+msgstr ""
+"\"{{ app_name }}\" 앱의 데이터 스트림 \"{{ etl_name }}\"이 출력 테이블에 데이터를 동기화하는 데 "
+"실패했습니다."
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr "\"{{ title }}\"을(를) 내보내지 못했습니다. 내보낸 회원 데이터가 최대 한도를 초과했습니다."
+
+msgid "site.message.content.excel_import_complete"
+msgstr "{{ entryName }}이(가) {{ imported }} 데이터를 성공적으로 가져왔습니다."
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"{{ entryName }}님이 {{ imported }}개의 데이터를 성공적으로 가져왔지만, {{ fail }}개의 데이터를 가져오지 "
+"못했습니다. 오류 보고서 다운로드 링크는 24시간 후 사용할 수 없게 됩니다. 최대한 빨리 다운로드해 주세요."
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "\"{{ entryName }}\"이(가) {{ updated }} 데이터를 성공적으로 업데이트했습니다."
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"{{ entryName }}님이 {{ updated }}개의 데이터를 성공적으로 업데이트했지만, {{ fail }}개의 데이터를 "
+"업데이트하지 못했습니다. 오류 보고서 다운로드 링크는 24시간 후 사용할 수 없게 됩니다. 최대한 빨리 다운로드해 주세요."
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"{{ entryName }}이(가) {{ updated }}개의 데이터를 성공적으로 업데이트했고, {{ brought }}개의 데이터를 "
+"성공적으로 가져왔습니다."
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"{{ entryName }}님이 {{ updated }}개의 데이터를 성공적으로 업데이트했고, {{ imported }}개의 데이터를 "
+"성공적으로 가져왔지만, {{ fail }}개의 데이터를 가져오지 못했습니다. 오류 보고서 다운로드 링크는 24시간 후 사용할 수 없게 "
+"됩니다. 최대한 빨리 다운로드해 주세요."
+
+msgid "site.message.content.file_export_complete"
+msgstr "\"{{ title }}\"을(를) 다운로드할 준비가 되었습니다. 다운로드 링크는 24시간 후 만료됩니다. 최대한 빨리 다운로드하세요."
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"\"{{ title }}\" 내보내기 파일이 너무 큽니다. 내보낼 때 데이터는 16MB, 100,000개 행, 1,000,000개 "
+"그리드를 초과할 수 없습니다. 필터링 후 다시 내보내세요."
+
+msgid "site.message.content.file_export_failed"
+msgstr "\"{{ title }}\"을(를) 내보내지 못했습니다. 나중에 다시 시도하거나 문의해 주세요."
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"내보내기에 실패했습니다. {widget} 파일 크기가 너무 큽니다. 첨부 파일은 최대 1,000개까지 내보낼 수 있으며, 압축 파일은 "
+"1GB를 초과할 수 없습니다. 여러 번에 걸쳐 더 작은 단위로 내보내 보세요."
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"내보내기에 실패했습니다. {{ title }} 양식의 데이터에 대한 정렬 규칙이 너무 많습니다. 내보낼 정렬 규칙이나 데이터 양을 줄인 "
+"후 다시 내보내세요."
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"내보내기에 실패했습니다. {{ title }}의 파일 크기가 너무 큽니다. 병합된 셀은 최대 1,000,000개까지 내보낼 수 있으며, "
+"데이터는 Excel 행 제한을 초과할 수 없습니다. 데이터를 필터링한 후 다시 내보내세요."
+
+msgid "site.message.content.flow_cc"
+msgstr "추가 조치가 필요한 경우 가능한 한 빨리 검토해 주시기 바랍니다."
+
+msgid "site.message.content.flow_cc_merge"
+msgstr "추가 조치가 필요한 경우 가능한 한 빨리 검토해 주시기 바랍니다."
+
+msgid "site.message.content.flow_forward"
+msgstr "{{ operator }}님이 프로세스를 제출했습니다. 시간 내에 처리해 주세요."
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "{{ flowCreatorName }}님이 제출하였습니다. 신속하게 처리해 주시기 바랍니다."
+
+msgid "site.message.content.flow_timeout"
+msgstr "{{ flowCreatorName }}님이 제출하였습니다. 신속하게 처리해 주시기 바랍니다."
+
+msgid "site.message.content.follow_plan_complete"
+msgstr "{{ operator }}님이 귀하의 후속 계획 \"{{ data_label }}\"을 완료했습니다."
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }}님이 귀하의 후속 계획 중 {{ plan_num }}개를 완료했습니다."
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 양식당 데이터 양이 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 > "
+"요금제 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"귀사/팀 \"{{ corpName }}\"에서 양식당 이미 {{ usage }}개의 레코드를 사용하여 {{ limit }}개의 한도에 "
+"도달했습니다. \"관리 > 플랜 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 플랜을 업그레이드하세요."
+
+msgid "site.message.content.guest_corp_accept"
+msgstr "\"{{ corpName }}\" 회사가 초대를 수락했습니다. 향후 협업을 위해 앱/양식 권한을 담당자에게 공유해 주세요."
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr "귀하의 상호 연결된 파트너 \"{{ corpName }}\"가 연락처 공동 관리 요청을 승인했습니다."
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "회사 \"{{ corpName }}\"에서 귀하의 연결이 해제되었습니다."
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr "귀하의 상호 연결된 파트너 \"{{ corpName }}\"이(가) 연락처의 권한을 인수했습니다."
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"상호 연결된 파트너 \"{{ corpName }}\"의 사용 모드가 변경되어 상호 연결이 종료되었으며, 연결 할당량이 계정으로 "
+"반환되었습니다. 담당자에게 문의하여 연결을 다시 구축하세요."
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"파트너 \"{{ corpName }}\"님이 비즈니스 연락처를 설정하기 위해 \"{{ _g_productName }}\" 계정의 연락처 "
+"관리 권한을 요청했습니다. 필요한 경우 나중에 직접 연락처 권한을 가져오세요."
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr "\"{{ corpName }}\" 회사에서 귀사와의 협업을 종료했습니다. 비즈니스에 영향을 미치지 않도록 해당 권한을 조정하세요."
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr ""
+"상호 연결된 파트너 \"{{ corpName }}\"의 사용 모드가 변경되어 상호 연결이 종료되었습니다. 담당자에게 문의하여 연결을 "
+"다시 구축하세요."
+
+msgid "site.message.content.import_file_complete"
+msgstr "\"{{ title }}\"에 대해 {{success}}개의 첨부 파일을 가져왔습니다. {{failed}}개가 실패했습니다."
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr "{{ operator }}가 \"{{ document }}\" 문서의 주석을 처리했습니다."
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "댓글 개요: {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }}가 \"{{ document }}\" 문서에 댓글을 남겼습니다."
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "댓글 개요: {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }}가 \"{{ document }}\"라는 문서를 생성했습니다."
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }}가 문서 \"{{ document }}\"을(를) 편집했습니다."
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }}님이 \"{{ document }}\" 문서를 좋아했습니다."
+
+msgid "site.message.content.kms_space_apply"
+msgstr "{{ applicant }} 님이 지식 베이스 {{ space_name }} 생성을 신청했습니다"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr "지식 기반을 성공적으로 생성했습니다. 이제 새 지식 기반 \"{{ space_name }}\"의 관리자가 되셨습니다."
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr "지식 기반 {{space_name}}을(를) 만들지 못했습니다. 설명을 수정하고 다시 시도해 주세요."
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "거부 사유: {{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr "이제 지식 기반 \"{{ space_name }}\"의 관리자가 되셨습니다. 문서를 만들고 아이디어를 공유해 보세요!"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{ operator }}님이 \"{{ document }}\" 문서를 보라고 알려주셨습니다."
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "문서 개요: {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }}님이 귀하에게 리드 \"{{ data_label }}\"을 할당했습니다."
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }}님이 귀하에게 {{ lead_num }}개의 리드를 할당했습니다."
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }}님이 리드 \"{{ data_label }}\"의 소유자를 변경했습니다. 이전: \"{{ raw_charger "
+"}}\". 현재: \"{{ new_charger }}\"."
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr "{{ operator }}님이 {{ lead_num }}개의 리드를 담당하는 사람을 변경했습니다."
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{ operator }}님이 리드 \"{{ data_label }}\"의 공동작업자를 변경했습니다. 현재 공동작업자는 \"{{ "
+"collaborators }}\"입니다."
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }}가 {{ lead_num }}개 리드의 협력자를 변경했습니다."
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }}가 리드 \"{{ data_label }}\"을(를) 재활용했습니다."
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "리드 \"{{ data_label }}\"이(가) 자동으로 재활용되었습니다."
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }}님이 {{ lead_num }}개의 리드를 재활용했습니다."
+
+msgid "site.message.content.manage_group_add_members"
+msgstr "{{ operator }}님이 {{ members }}님을 관리자 그룹 \"{{ manageGroup }}\"에 추가했습니다."
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{ operator }}가 \"{{ manageGroup }}\"라는 관리자 그룹을 추가했습니다."
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{ operator }}가 \"{{ manageGroup }}\"이라는 관리자 그룹을 삭제했습니다."
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr "{{ operator }}가 {{ members }}을(를) 관리자 그룹 \"{{ manageGroup }}\"에서 제거했습니다."
+
+msgid "site.message.content.manager_login"
+msgstr "관리자 {{ operator }}가 시스템에 로그인했습니다."
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }}가 {{ memberSize }}개의 멤버를 가져왔습니다."
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }}님이 {{ memberList }}님을 초대했습니다."
+
+msgid "site.message.content.member_remove"
+msgstr "{{ operator }}가 {{ memberList }} 멤버를 사임한 것으로 설정했습니다."
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 시스템 사용량이 한도를 초과했습니다. 중단 없이 계속하려면 \"관리 > 요금제 세부 "
+"정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"귀하의 메시지 푸시가 100번 실패하였고, 웹훅(메시지)이 자동으로 비활성화되었습니다. 원인을 확인하고 \"관리 - "
+"웹훅(메시지)\"에서 구성을 조정하세요."
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"메시지 푸시에 실패했습니다. 100개 이상의 메시지가 푸시되지 않으면 웹훅(메시지)이 자동으로 비활성화됩니다. 원인을 확인하고 \"관리 "
+"- 웹훅(메시지)\"에서 설정을 조정하세요."
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"메시지 푸시가 {{ count }}회 실패했습니다. 100개 이상의 메시지가 푸시되지 않으면 웹훅(메시지)이 자동으로 비활성화됩니다. "
+"원인을 확인하고 \"관리 - 웹훅(메시지)\"에서 설정을 조정하세요."
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"에서 무료로 사용해 보셨던 일부 앱이 곧 만료됩니다. 만료되면 데이터는 유지되지만 기능은 "
+"제한되므로, 플랜을 적시에 업그레이드하시기 바랍니다. 체험판을 구독하셨거나 프리미엄 플랜을 구매하셨다면 이 알림을 무시하세요."
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{ operator }}님이 귀하를 위해 후속 계획 \"{{ data_label }}\"을 추가했습니다."
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }}가 \"{{ suite_name }}\"에 대한 권한을 추가했습니다."
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }}가 \"{{ suite_name }}\"에 대한 권한을 취소했습니다."
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }}님이 \"{{ data_label }}\" 사업 기회의 소유자를 변경했습니다. 이전: {{ "
+"raw_charger }}. 현재: {{ new_charger }}."
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr "{{ operator }}가 {{ opportunity_num }}개의 사업 기회의 소유자를 변경했습니다."
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{ operator }}님이 비즈니스 기회 \"{{ data_label }}\"의 협력자를 변경했습니다. 현재 협력자: {{ "
+"collaborators }}명."
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr "{{ operator }}가 {{ opportunity_num }}개의 사업 기회의 협력자를 변경했습니다."
+
+msgid "site.message.content.opportunity_win"
+msgstr "사업 기회 \"{{ data_label }}\"이(가) 성공했습니다."
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"귀사/팀 \"{{ corpName }}\"의 \"{{ pluginName }}\" 플러그인이 {{ expireTime }}에 만료되며, "
+"{{ days }}일 후에 비활성화됩니다. 갱신을 원하시면 저희에게 문의해 주세요."
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"에서 무료로 사용해 보신 \"{{ appName }}\" 앱이 {{ days }}일 후에 "
+"만료됩니다. 만료되면 데이터는 유지되지만 기능이 제한되므로, 지금 바로 요금제를 업그레이드하세요. 이미 체험판을 구독하셨거나 프리미엄 "
+"요금제를 구매하셨다면 이 알림을 무시하세요."
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"귀사/팀의 \"{{ corpName }}\" 계정에 있는 클라우드 코인이 소진되었습니다. SMS 인증 기능을 더 이상 사용할 수 "
+"없으며, 일부 구성원이 데이터를 제출하지 못했습니다. 업무에 차질이 없도록 디자인을 변경하거나 코인을 재충전해 주세요. 재충전 후에는 "
+"기능 제한이 해제됩니다."
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"친구 {{ nickname }}님이 {{ _g_productName }}을 통해 협업하도록 초대했습니다. 친구의 팀에 합류하세요. "
+"초대장은 7일 동안 유효합니다."
+
+msgid "site.message.content.team_invite_notify"
+msgstr "친구 {{ nickname }}님이 {{ _g_productName }}에 협력하고 싶어합니다. 자세한 내용은 메시지에서 확인하세요."
+
+msgid "site.message.content.team_invite_success"
+msgstr "{{ teamName }}에 성공적으로 가입하셨습니다."
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"귀사/팀 \"{{ corpName }}\"의 시스템 사용량이 무료 플랜의 한도를 초과했습니다. 체험 기간 종료 후 시스템 사용을 중단 "
+"없이 유지하려면 \"관리 > 플랜 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 플랜을 업그레이드하세요. 모든 플랜의 남은 체험 "
+"기간은 연장 가능합니다."
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 자동화 수가 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 > 요금제 "
+"세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"에 업로드된 첨부 파일 수가 \"{{ vipLevel }}\" 한도를 초과했습니다. \"관리 "
+"> 요금제 세부 정보\"로 이동하여 사용량 세부 정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"귀사/팀의 \"{{ corpName }}\" 계정에 업로드된 첨부 파일 수가 총 한도 {{ limit }}개 중 {{ usage "
+"}}개에 도달했습니다. 한도를 초과하면 클라우드 코인이 소모됩니다. 업무 중단을 방지하려면 계정에 충분한 코인이 있는지 확인하세요."
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"귀사/팀의 \"{{ corpName }}\" 계정에 업로드된 첨부 파일 수가 총 한도 {{ limit }}개 중 {{ usage "
+"}}개에 도달했습니다. 한도를 초과하면 클라우드 코인이 소모됩니다. 현재 {{ coinBalance }}개의 코인을 보유하고 있습니다. "
+"업무 중단을 방지하려면 계정에 충분한 코인이 있는지 확인하세요."
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"귀사/팀의 \"{{ corpName }}\" 계정에 업로드된 첨부 파일 수가 총 한도 {{ limit }}개 중 {{ usage "
+"}}개에 도달했습니다. 한도를 초과하면 클라우드 코인이 소모됩니다. 현재 보유 코인은 {{ coinBalance }}개입니다. 업무에 "
+"차질이 없도록 최대한 빨리 코인을 충전해 주세요."
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"회사/팀의 \"{{ corpName }}\" 계정에 업로드된 첨부 파일 수가 총 한도 {{ limit }}개 중 {{ usage "
+"}}개에 도달했습니다. 한도를 초과하면 클라우드 코인이 소모됩니다. 업무 중단을 방지하려면 결제 설정에서 \"한도를 초과하는 파일 "
+"업로드 시 코인이 소모됨\"을 활성화하고 계정에 충분한 코인이 있는지 확인하세요."
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"회사/팀 \"{{ corpName }}\"의 구성원 수가 한도를 초과했습니다. \"관리 > 요금제 세부 정보\"로 이동하여 사용량 세부 "
+"정보를 확인하고 요금제를 업그레이드하세요."
+
+msgid "site.message.content.webhook_failed_count"
+msgstr "{{ entryName }} 양식에서 실패한 웹훅 수가 {{ count }}개에 도달했습니다. 최대한 빨리 확인하고 조정해 주세요."
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"{{ entryName }} 양식에서 실패한 Webhook 수가 {{ count }}개에 도달하여 Webhook이 비활성화되었습니다. "
+"필요한 경우 활성화해 주세요."
+
+msgid "site.message.content.webhook_failed_first"
+msgstr "{{ entryName }} 양식에서 웹훅이 실패했습니다. 최대한 빨리 확인하여 수정해 주세요."
+
+msgid "site.message.content.webhook_form_type"
+msgstr "양식 유형이 전환되었기 때문에 양식의 웹훅은 새로운 양식 유형에 따라 데이터를 푸시합니다."
+
+msgid "site.message.link_text.accept_application"
+msgstr "수용하다"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "수용하다"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "오류 보고서 다운로드"
+
+msgid "site.message.link_text.download_now"
+msgstr "지금 다운로드"
+
+msgid "site.message.link_text.view_details"
+msgstr "세부 정보 보기"
+
+msgid "site.message.title.dash_alert"
+msgstr "데이터 알림"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "자체 빌드 템플릿"
+
+msgid "template_center.space.standard"
+msgstr "표준 템플릿"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "연락처 대량 가져오기 템플릿"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "Collaborator 대량 가져오기 템플릿"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "역할 가져오기 템플릿"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "연락처 일괄 생성 템플릿"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "{{ _g_productName }} 신원 인증 애플리케이션"
+
+msgid "tenant.verify.files.corp"
+msgstr "기업명, 관련 증빙서류 등"
+
+msgid "tenant.verify.files.owner"
+msgstr "이름, 신분증/기타 서류"
+
+msgid "tenant.verify.title.approved"
+msgstr "제출하신 자격증명이 승인되었습니다."
+
+msgid "tenant.verify.title.declined"
+msgstr "제출하신 자격증명이 거부되었습니다."
+
+msgid "tenant.verify.title.has_expired"
+msgstr "회사 인증이 만료되어 공개 링크에 더 이상 접근할 수 없습니다. 최대한 빨리 인증하세요."
+
+msgid "tenant.verify.title.will_expire"
+msgstr "회사 인증이 곧 만료됩니다. 공개 링크에 계속 액세스하려면 가능한 한 빨리 인증하세요."
+
+msgid "tenant.verify.type.corp"
+msgstr "기업"
+
+msgid "tenant.verify.type.owner"
+msgstr "개인의"
+
+msgid "type.not.match"
+msgstr "잘못된 유형"
+
+msgid "ua.dingtalkMobile"
+msgstr "딩톡 모바일"
+
+msgid "ua.dingtalkPC"
+msgstr "딩톡 PC"
+
+msgid "ua.larkMobile"
+msgstr "라크 모바일"
+
+msgid "ua.larkPC"
+msgstr "라크 PC"
+
+msgid "ua.mobile"
+msgstr "모바일 웹"
+
+msgid "ua.pc"
+msgstr "PC 웹"
+
+msgid "ua.wechatMiniProgram"
+msgstr "미니 프로그램"
+
+msgid "ua.wechatMobile"
+msgstr "위챗 모바일"
+
+msgid "ua.wechatPC"
+msgstr "위챗 PC"
+
+msgid "ua.wxworkMobile"
+msgstr "위컴 모바일"
+
+msgid "ua.wxworkPC"
+msgstr "위컴 PC"
+
+msgid "user.defaultNickname"
+msgstr "제목 없음"
+
+msgid "userActivity.app.metricsName"
+msgstr "앱 활동 세부 정보로 보기"
+
+msgid "userActivity.app.reportName"
+msgstr "앱 개요로 보기"
+
+msgid "userActivity.appId"
+msgstr "앱 ID"
+
+msgid "userActivity.appName"
+msgstr "앱"
+
+msgid "userActivity.app_access_count"
+msgstr "사용자(접속)"
+
+msgid "userActivity.app_access_times"
+msgstr "타임즈(액세스)"
+
+msgid "userActivity.data_create_count"
+msgstr "사용자(데이터 생성)"
+
+msgid "userActivity.data_create_times"
+msgstr "타임즈(데이터 생성)"
+
+msgid "userActivity.data_export_count"
+msgstr "사용자(데이터 내보내기)"
+
+msgid "userActivity.data_export_times"
+msgstr "시간(데이터 내보내기)"
+
+msgid "userActivity.data_remove_count"
+msgstr "사용자(데이터 삭제)"
+
+msgid "userActivity.data_remove_times"
+msgstr "시간(데이터 삭제)"
+
+msgid "userActivity.data_update_count"
+msgstr "사용자(데이터 업데이트)"
+
+msgid "userActivity.data_update_times"
+msgstr "시간(데이터 업데이트)"
+
+msgid "userActivity.entity.metricsName"
+msgstr "개체-활동 세부 정보별 보기"
+
+msgid "userActivity.entity.reportName"
+msgstr "객체별 보기-개요"
+
+msgid "userActivity.entityId"
+msgstr "객체 ID"
+
+msgid "userActivity.entityName"
+msgstr "물체"
+
+msgid "userActivity.fileName"
+msgstr "회원 활동"
+
+msgid "userActivity.login_stats_count"
+msgstr "사용자(로그인)"
+
+msgid "userActivity.login_stats_times"
+msgstr "타임즈(로그인)"
+
+msgid "userActivity.memberId"
+msgstr "회원 ID"
+
+msgid "userActivity.nickName"
+msgstr "회원"
+
+msgid "userActivity.time"
+msgstr "날짜"
+
+msgid "userActivity.user.metricsName"
+msgstr "회원 활동 세부 정보별 보기"
+
+msgid "userActivity.user.reportName"
+msgstr "회원별 보기-개요"
+
+msgid "vip.pack.ent"
+msgstr "기업"
+
+msgid "vip.pack.free"
+msgstr "무료"
+
+msgid "vip.pack.lite"
+msgstr "라이트"
+
+msgid "vip.pack.oem"
+msgstr "맞춤형"
+
+msgid "vip.pack.pro"
+msgstr "전문적인"
+
+msgid "vip.pack.self_hosted"
+msgstr "독점적인"
+
+msgid "vip.pack.starter"
+msgstr "기동기"
+
+msgid "vip.pack.std"
+msgstr "사업"
+
+msgid "vip.pack.trial"
+msgstr "재판"
+
+msgid "vip.pack.user"
+msgstr "사용자 금액별"
+
+msgid "vip.pack.user_premium"
+msgstr "프리미엄"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""

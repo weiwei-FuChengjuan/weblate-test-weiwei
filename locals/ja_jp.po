@@ -1,0 +1,4377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.846Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.846Z\n"
+
+msgid "activity.fileName"
+msgstr "活動データ"
+
+msgid "activity_stats.export.dismission"
+msgstr "（非アクティブ）"
+
+msgid "activity_stats.export.removed"
+msgstr "（削除済み）"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "削除されたアプリ"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "削除されたフォーム"
+
+msgid "aggregate.compatMetricName"
+msgstr "適応指標アップグレード"
+
+msgid "aggregate.exceed.limit"
+msgstr "公式の長さが制限を超えています"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "集計フィールドは非集計フィールドと相互計算できません"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "集計フィールドを再度集計に使用することはできません"
+
+msgid "aggregate.main.subform.error"
+msgstr "主表フィールドは子表フィールドと相互計算できません"
+
+msgid "aggregate.param.be.number"
+msgstr "{{ name }}の集計関数のパラメータは数値型でなければなりません"
+
+msgid "aggregate.param.be.one"
+msgstr "集計関数のパラメータ数は1つである必要があります"
+
+msgid "aggregate.return.number"
+msgstr "公式の戻り値の型は数値型でなければなりません"
+
+msgid "aggregate.support.same.form.op"
+msgstr "同一サブフォーム内のフィールドのみ計算をサポートしています"
+
+msgid "automation.node.end"
+msgstr "終了ノード"
+
+msgid "automation.node.start"
+msgstr "トリガーノード"
+
+msgid "bpa.presetWidget.title0"
+msgstr "作成済み"
+
+msgid "bpa.presetWidget.title1"
+msgstr "進行中"
+
+msgid "bpa.presetWidget.title10"
+msgstr "プロセスの平均処理時間のトレンドチャート"
+
+msgid "bpa.presetWidget.title11"
+msgstr "タスクノードの平均処理時間のトレンドチャート"
+
+msgid "bpa.presetWidget.title2"
+msgstr "完了済み"
+
+msgid "bpa.presetWidget.title3"
+msgstr "手動終了"
+
+msgid "bpa.presetWidget.title4"
+msgstr "単一プロセスの平均処理時間のトレンドチャート（時間単位）"
+
+msgid "bpa.presetWidget.title5"
+msgstr "保留中のタスクノードの統計"
+
+msgid "bpa.presetWidget.title6"
+msgstr "タスクノードの平均処理時間"
+
+msgid "bpa.presetWidget.title7"
+msgstr "メンバータスクの統計"
+
+msgid "bpa.presetWidget.title8"
+msgstr "タスクノード上のメンバータスクの統計"
+
+msgid "bpa.presetWidget.title9"
+msgstr "タスクノードの平均メンバー処理時間"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "消費時間（時間単位）"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "タスク数"
+
+msgid "compare.not.support"
+msgstr "不正な比較記号{{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr "不正な比較記号{{ op }}「==」を使用してください"
+
+msgid "compare.param.boolean"
+msgstr "ブール"
+
+msgid "compare.param.datetime"
+msgstr "タイムスタンプ"
+
+msgid "compare.param.not.support"
+msgstr "{{ op }} の両側のパラメータタイプは{{ type1 }}と{{ type2 }}であってはなりません"
+
+msgid "compare.param.number"
+msgstr "数字"
+
+msgid "compare.param.string"
+msgstr "テキスト"
+
+msgid "concatenate.param.error"
+msgstr "元のフォームフィールドが存在しません"
+
+msgid "corp.currentDepartment"
+msgstr "現在のユーザーの部署"
+
+msgid "corp.currentUser"
+msgstr "現在のユーザー"
+
+msgid "corp.joinCorpSuccess"
+msgstr "チームに参加しました"
+
+msgid "corp.log.agentDisable"
+msgstr "プラグインを無効にする"
+
+msgid "corp.log.agentEnable"
+msgstr "プラグインを有効にする"
+
+msgid "corp.log.agentUninstall"
+msgstr "プラグインを削除する"
+
+msgid "corp.log.aggregateCreate"
+msgstr "集計テーブルを作成する"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "集計テーブルの移行"
+
+msgid "corp.log.aggregateRemove"
+msgstr "集計テーブルを削除する"
+
+msgid "corp.log.aggregateRename"
+msgstr "集計テーブルの名前を変更する"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "集計テーブルの設計を更新する"
+
+msgid "corp.log.aiLabDisable"
+msgstr "AIラボを無効にする"
+
+msgid "corp.log.aiLabEnable"
+msgstr "AIラボを有効にする"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "APIキーを作成する"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "APIキーを削除する"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "APIキーを無効にする"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "APIキーを有効にする"
+
+msgid "corp.log.apiKeyName"
+msgstr "APIキー名"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "キーを更新する"
+
+msgid "corp.log.apiName"
+msgstr "API名"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "アプリの添付ファイル制御をオフにする"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "アプリの添付ファイル制御を有効にする"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "アプリケーション添付コントロールの変更"
+
+msgid "corp.log.appCreate"
+msgstr "アプリを作成する"
+
+msgid "corp.log.appEtlLog"
+msgstr "{{ etlName }}-更新ログ"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "アプリホームページを調整"
+
+msgid "corp.log.appLog"
+msgstr "アプリログ"
+
+msgid "corp.log.appLogExport"
+msgstr "アプリログをエクスポートする"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "アプリ管理グループを追加"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "アプリ管理グループを無効にする"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "アプリ管理グループを有効にする"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "アプリ管理グループを削除"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "アプリ管理グループの名前を変更"
+
+msgid "corp.log.appManagerAdd"
+msgstr "管理者を追加"
+
+msgid "corp.log.appManagerRemove"
+msgstr "管理者を削除"
+
+msgid "corp.log.appRecover"
+msgstr "アプリを復元する"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "クロスアプリ設定を編集"
+
+msgid "corp.log.appRemove"
+msgstr "アプリを削除する"
+
+msgid "corp.log.appRename"
+msgstr "アプリの名前を変更する"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "アプリのURLを編集"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "アプリのウォーターマークを無効にする"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "アプリのウォーターマークを有効にする"
+
+msgid "corp.log.application"
+msgstr "アプリから"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "グローバル添付ファイルの制御を無効にする"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "グローバルファイルの制御を有効にする"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "保留中の委任を無効にしました"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "保留中の委任を有効にしました"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr "保留中の委任をキャンセルしました：{{ principal }}が{{ timeRange }}の期間中に{{ agent }}に委任しました"
+
+msgid "corp.log.businessContent"
+msgstr "ビジネス情報"
+
+msgid "corp.log.businessCount"
+msgstr "OCR使用量"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "ビジネス登録"
+
+msgid "corp.log.businessTime"
+msgstr "検証時間"
+
+msgid "corp.log.callTime"
+msgstr "呼び出し時間"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "支払い設定を編集する"
+
+msgid "corp.log.coinUsageApp"
+msgstr "アプリ"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "エントリ"
+
+msgid "corp.log.coinUsageLog"
+msgstr "コイン使用ログ"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "フィールド"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "外部ビジネスの招待リンクを追加"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "外部ビジネスの招待リンクを削除"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "外部ビジネスの招待リンクを編集"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "外部連絡先役割を追加"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "外部連絡先役割を削除"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "外部連絡先役割の名前を変更"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "外部連絡先役割のメンバーを変更"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "通知ブロックを更新"
+
+msgid "corp.log.corpRename"
+msgstr "ビジネス名を変更する"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "ビジネススタイルを無効にする"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "ビジネススタイルを有効にする"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "ビジネススタイルを編集"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "ビジネスポータルのURLを編集する"
+
+msgid "corp.log.customLoginDisable"
+msgstr "カスタムログインページを無効にする"
+
+msgid "corp.log.customLoginEnable"
+msgstr "カスタムログインページを有効にする"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "ビジネスワークスペースを編集する"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "ダッシュボードの権限を編集"
+
+msgid "corp.log.dashCreate"
+msgstr "ダッシュボードを作成"
+
+msgid "corp.log.dashPublicLink"
+msgstr "ダッシュボードの公開リンクを編集"
+
+msgid "corp.log.dashRecover"
+msgstr "ダッシュボードを復元"
+
+msgid "corp.log.dashRemove"
+msgstr "ダッシュボードを削除"
+
+msgid "corp.log.dashRename"
+msgstr "ダッシュボードの名前を変更"
+
+msgid "corp.log.dashUpdate"
+msgstr "編集"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "記録を一括印刷"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "データを一括復元"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "データを一括削除"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "データを一括編集"
+
+msgid "corp.log.dataCreate"
+msgstr "データを追加"
+
+msgid "corp.log.dataExport"
+msgstr "データをエクスポート"
+
+msgid "corp.log.dataImport"
+msgstr "データを追加 - インポート"
+
+msgid "corp.log.dataImportFile"
+msgstr "添付ファイルをインポート"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "データを更新 - インポート"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "データを追加および更新 - インポート"
+
+msgid "corp.log.dataPrint"
+msgstr "記録を印刷"
+
+msgid "corp.log.dataPrintQr"
+msgstr "QRコード/バーコードを印刷"
+
+msgid "corp.log.dataRecover"
+msgstr "データを復元"
+
+msgid "corp.log.dataRemove"
+msgstr "データを削除"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "オートメーションを作成"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "オートメーションを削除"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "オートメーションを有効化"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "オートメーションを無効化"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "オートメーションを更新"
+
+msgid "corp.log.dataUpdate"
+msgstr "データを更新"
+
+msgid "corp.log.deptCreate"
+msgstr "部署を追加"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "ビジネスタグを追加"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "ビジネスタグを削除"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "ビジネスタグの会社を調整"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "ビジネスタグ名を編集"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "部署長を更新"
+
+msgid "corp.log.deptRemove"
+msgstr "部署を削除"
+
+msgid "corp.log.deptRename"
+msgstr "部署の名前を変更"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "自動更新"
+
+msgid "corp.log.etlCreate"
+msgstr "データストリームを作成"
+
+msgid "corp.log.etlCronExecute"
+msgstr "Cron更新"
+
+msgid "corp.log.etlDuration"
+msgstr "更新時間"
+
+msgid "corp.log.etlEndTime"
+msgstr "終了時間"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "更新結果"
+
+msgid "corp.log.etlExecuteType"
+msgstr "更新方法"
+
+msgid "corp.log.etlJust"
+msgstr "1分未満"
+
+msgid "corp.log.etlManualExecute"
+msgstr "手動更新"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }} 分"
+
+msgid "corp.log.etlRemove"
+msgstr "データストリームを削除"
+
+msgid "corp.log.etlRename"
+msgstr "データストリームの名前を変更"
+
+msgid "corp.log.etlStartTime"
+msgstr "開始時間"
+
+msgid "corp.log.etlTime"
+msgstr "更新日"
+
+msgid "corp.log.etlUpdate"
+msgstr "データストリームの設計を更新"
+
+msgid "corp.log.fail"
+msgstr "失敗"
+
+msgid "corp.log.fileDownload"
+msgstr "ファイルをダウンロード"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "BPAを無効にする"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "BPAを有効にする"
+
+msgid "corp.log.flowUpdate"
+msgstr "ワークフロー設計を更新"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "フォーム/ダッシュボードの権限を一括調整"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "フォームの権限を更新"
+
+msgid "corp.log.formCreate"
+msgstr "フォームを作成"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "データ詳細ページを削除"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "データ詳細ページを切り替え"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "データ詳細ページを編集"
+
+msgid "corp.log.formOnlinePay"
+msgstr "フォームのオンライン支払いを調整"
+
+msgid "corp.log.formPublicLink"
+msgstr "フォームの公開リンクを更新"
+
+msgid "corp.log.formPublicQuery"
+msgstr "フォームの公開クエリリンクを更新"
+
+msgid "corp.log.formRecover"
+msgstr "フォームを復元"
+
+msgid "corp.log.formRemove"
+msgstr "フォームを削除"
+
+msgid "corp.log.formRename"
+msgstr "フォームの名前を変更"
+
+msgid "corp.log.formUpdate"
+msgstr "フォーム設計を更新"
+
+msgid "corp.log.guestConnect"
+msgstr "外部ビジネスを招待"
+
+msgid "corp.log.guestDockerExport"
+msgstr "外部連絡先をエクスポート"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "外部連絡先情報を編集"
+
+msgid "corp.log.guestUpdate"
+msgstr "外部ビジネス情報を編集"
+
+msgid "corp.log.hostDisconnect"
+msgstr "ビジネスとの接続を切断"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "自社の連絡先を追加"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "自社の連絡先を削除"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "自社の連絡先情報を編集"
+
+msgid "corp.log.integrateUpdate"
+msgstr "バインディング情報を編集する"
+
+msgid "corp.log.ip"
+msgstr "IPアドレス"
+
+msgid "corp.log.kmsDisable"
+msgstr "ナレッジベースを無効にする"
+
+msgid "corp.log.kmsEnable"
+msgstr "ナレッジベースを有効にする"
+
+msgid "corp.log.loginLocation"
+msgstr "ログイン場所"
+
+msgid "corp.log.loginLog"
+msgstr "ログイン履歴"
+
+msgid "corp.log.loginLogExport"
+msgstr "ログイン履歴をエクスポートする"
+
+msgid "corp.log.loginPlatform"
+msgstr "ログインプラットフォーム"
+
+msgid "corp.log.loginTime"
+msgstr "ログイン時間"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "管理グループを追加"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "管理グループを削除"
+
+msgid "corp.log.manageGroupRename"
+msgstr "管理グループの名前を変更"
+
+msgid "corp.log.managersAdd"
+msgstr "管理者を追加"
+
+msgid "corp.log.managersRemove"
+msgstr "管理者を削除"
+
+msgid "corp.log.memberExit"
+msgstr "自主的に企業を退出しました"
+
+msgid "corp.log.memberExport"
+msgstr "連絡先をエクスポート"
+
+msgid "corp.log.memberFreeze"
+msgstr "メンバーを無効にする"
+
+msgid "corp.log.memberHardDelete"
+msgstr "メンバーを削除"
+
+msgid "corp.log.memberInvite"
+msgstr "招待"
+
+msgid "corp.log.memberRecover"
+msgstr "メンバーを有効にする"
+
+msgid "corp.log.memberRemove"
+msgstr "非アクティブ化"
+
+msgid "corp.log.memberUpdate"
+msgstr "メンバー情報を更新"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "ロールのエクスポート"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "ロールのインポート"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "Webhook（メッセージ）を無効にする"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "Webhook（メッセージ）を有効にする"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "Webhook（メッセージ）を編集する"
+
+msgid "corp.log.oauthCreate"
+msgstr "認証を追加"
+
+msgid "corp.log.oauthDelete"
+msgstr "認証を無効化"
+
+msgid "corp.log.ocrBankCard"
+msgstr "銀行カード"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "営業許可証"
+
+msgid "corp.log.ocrContent"
+msgstr "OCR内容"
+
+msgid "corp.log.ocrCount"
+msgstr "OCR使用量"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "運転免許証"
+
+msgid "corp.log.ocrGeneral"
+msgstr "一般テキスト"
+
+msgid "corp.log.ocrIdCard"
+msgstr "IDカード"
+
+msgid "corp.log.ocrLog"
+msgstr "OCR"
+
+msgid "corp.log.ocrResult"
+msgstr "OCR結果"
+
+msgid "corp.log.ocrTime"
+msgstr "OCR時間"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "電車の切符"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "付加価値税請求書"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "車両登録証"
+
+msgid "corp.log.openApiLog"
+msgstr "APIコールログ"
+
+msgid "corp.log.openApiLogExport"
+msgstr "Open APIログをエクスポートする"
+
+msgid "corp.log.operateDetails"
+msgstr "詳細"
+
+msgid "corp.log.operateLog"
+msgstr "プラットフォームログ"
+
+msgid "corp.log.operateLogExport"
+msgstr "プラットフォームログをエクスポートする"
+
+msgid "corp.log.operateObject"
+msgstr "オブジェクト"
+
+msgid "corp.log.operateTime"
+msgstr "時間"
+
+msgid "corp.log.operateType"
+msgstr "タイプ"
+
+msgid "corp.log.operator"
+msgstr "オペレーター"
+
+msgid "corp.log.orderCancel"
+msgstr "注文をキャンセルする"
+
+msgid "corp.log.orderCreate"
+msgstr "注文を作成する"
+
+msgid "corp.log.orderDelete"
+msgstr "注文を削除する"
+
+msgid "corp.log.orderPay"
+msgstr "注文を支払う"
+
+msgid "corp.log.orderReceipt"
+msgstr "注文の領収書を発行する"
+
+msgid "corp.log.payUpdate"
+msgstr "支払いサービスを設定する"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "権限管理を無効にする"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "権限管理を有効にする"
+
+msgid "corp.log.pluginCount"
+msgstr "プラグイン使用量"
+
+msgid "corp.log.pluginCreate"
+msgstr "プラグインを作成"
+
+msgid "corp.log.pluginExport"
+msgstr "プラグインをエクスポート"
+
+msgid "corp.log.pluginImport"
+msgstr "プラグインをインポート"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "アップデートプラグインのインポート"
+
+msgid "corp.log.pluginInstall"
+msgstr "プラグインをインストール"
+
+msgid "corp.log.pluginName"
+msgstr "プラグイン名"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "プラグインを公開する"
+
+msgid "corp.log.pluginUpdate"
+msgstr "プラグインを編集する"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "プラグイン使用"
+
+msgid "corp.log.registrant"
+msgstr "メンバー"
+
+msgid "corp.log.returnStatus"
+msgstr "返却状況"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "役割のグループを変更"
+
+msgid "corp.log.roleCreate"
+msgstr "役割を作成"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "役割グループを作成"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "役割グループを削除"
+
+msgid "corp.log.roleGroupRename"
+msgstr "役割グループの名前を変更"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "役割のメンバーを更新"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "割り当てられた部署を更新"
+
+msgid "corp.log.roleRemove"
+msgstr "役割を削除"
+
+msgid "corp.log.roleRename"
+msgstr "役割の名前を変更"
+
+msgid "corp.log.running"
+msgstr "実行中"
+
+msgid "corp.log.smsContent"
+msgstr "詳細"
+
+msgid "corp.log.smsCount"
+msgstr "使用"
+
+msgid "corp.log.smsSendFailed"
+msgstr "送信失敗"
+
+msgid "corp.log.smsSendPhone"
+msgstr "携帯番号"
+
+msgid "corp.log.smsSendResult"
+msgstr "送信状況"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "送信成功"
+
+msgid "corp.log.smsSendingLog"
+msgstr "SMS送信"
+
+msgid "corp.log.smsTime"
+msgstr "日付"
+
+msgid "corp.log.spaceCreate"
+msgstr "ナレッジベースを作成"
+
+msgid "corp.log.spaceDelete"
+msgstr "ナレッジベースを削除"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "ナレッジベースの権限セットを作成"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "ナレッジベースの権限セットを削除"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "ナレッジベースの権限セットを編集"
+
+msgid "corp.log.spaceUpdate"
+msgstr "ナレッジベース情報を編集"
+
+msgid "corp.log.success"
+msgstr "成功"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "製品の表示範囲を設定する"
+
+msgid "corp.log.suiteDisable"
+msgstr "製品を無効にする"
+
+msgid "corp.log.suiteEnable"
+msgstr "製品を有効にする"
+
+msgid "corp.log.systemRobot"
+msgstr "システムロボット"
+
+msgid "corp.log.tenantVerify"
+msgstr "身元を認証する"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "タイムゾーンを編集する"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "外部連絡先管理の申請"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "連絡先管理の権限を移行"
+
+msgid "corp.log.waiting"
+msgstr "待機中"
+
+msgid "corp.log.watermarkDisable"
+msgstr "グローバルウォーターマークを無効にする"
+
+msgid "corp.log.watermarkEnable"
+msgstr "グローバルウォーターマークを有効にする"
+
+msgid "corp.log.wxDisable"
+msgstr "WeChatサービスアカウントの統合を無効にする"
+
+msgid "corp.log.wxEnable"
+msgstr "WeChatサービスアカウントの統合を有効にする"
+
+msgid "corp.syncFailed"
+msgstr "自動同期に失敗しました"
+
+msgid "corp.syncFailedContent"
+msgstr "企業アドレス帳の同期に失敗しました。"
+
+msgid "corp.syncFailedSubject"
+msgstr "メンバー同期失敗"
+
+msgid "corp.syncSuccessContent"
+msgstr "ビジネス連絡先が同期されました。"
+
+msgid "corp.syncSuccessSubject"
+msgstr "メンバーの同期に成功しました"
+
+msgid "corp.systemManageGroup"
+msgstr "スーパ管理グループ"
+
+msgid "corp.unGrouped"
+msgstr "グループ化されていない"
+
+msgid "corpCoop.department"
+msgstr "外部組織"
+
+msgid "corpUsage.accessTime"
+msgstr "最終アクセス日"
+
+msgid "corpUsage.aggregate"
+msgstr "集計テーブル"
+
+msgid "corpUsage.app"
+msgstr "アプリ"
+
+msgid "corpUsage.app.cardName"
+msgstr "アプリ別表示 - 概要"
+
+msgid "corpUsage.app.metricListName"
+msgstr "アプリ別表示 - 使用状況詳細"
+
+msgid "corpUsage.appId"
+msgstr "アプリID"
+
+msgid "corpUsage.appName"
+msgstr "アプリ名"
+
+msgid "corpUsage.attachment"
+msgstr "アップロードされた添付ファイル"
+
+msgid "corpUsage.automation"
+msgstr "オートメーションプロ"
+
+msgid "corpUsage.bpa"
+msgstr "BPA"
+
+msgid "corpUsage.createTime"
+msgstr "作成日"
+
+msgid "corpUsage.creator"
+msgstr "所有者"
+
+msgid "corpUsage.creator.username"
+msgstr "所有者ID"
+
+msgid "corpUsage.dash"
+msgstr "ダッシュボード"
+
+msgid "corpUsage.dash.type"
+msgstr "ダッシュボード"
+
+msgid "corpUsage.data"
+msgstr "総データ量"
+
+msgid "corpUsage.data_trigger"
+msgstr "オートメーション"
+
+msgid "corpUsage.date"
+msgstr "日付"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "データ詳細"
+
+msgid "corpUsage.etl"
+msgstr "データファクトリー"
+
+msgid "corpUsage.fileName"
+msgstr "リソース使用状況"
+
+msgid "corpUsage.form_coop"
+msgstr "通常フォーム"
+
+msgid "corpUsage.form_coop.type"
+msgstr "通常フォーム"
+
+msgid "corpUsage.form_workflow"
+msgstr "ワークフローフォーム"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "ワークフローフォームID"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "ワークフローフォーム名"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "ワークフローフォーム"
+
+msgid "corpUsage.member.cardName"
+msgstr "メンバー別表示 - 概要"
+
+msgid "corpUsage.member.metricListName"
+msgstr "メンバー別表示 - 使用状況詳細"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "データなし"
+
+msgid "corpUsage.public_link"
+msgstr "有効化されたパブリックリンク"
+
+msgid "corpUsage.public_link.type"
+msgstr "オブジェクトタイプ"
+
+msgid "corpUsage.updateTime"
+msgstr "最終編集日"
+
+msgid "corp_coop.operate.create"
+msgstr "追加"
+
+msgid "corp_coop.operate.delete"
+msgstr "削除"
+
+msgid "corp_coop.side.other"
+msgstr "その"
+
+msgid "corp_coop.side.our"
+msgstr "あなたの"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "アプリ「{{ app_name }}」のアプリ添付ファイル制御が無効になりました"
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "アプリケーション「{{ app_name }}」のアプリケーション添付制御を有効にしました"
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "アプリ「{{ app_name }}」のアプリ添付ファイル制御が変更しました"
+
+msgid "corp_log.content.app_home_update"
+msgstr "アプリ「{{ app_name }}」のホームページを調整しました"
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "アプリ管理グループ{{ name }}を{{ appName }}に追加"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "{{ appName }}からアプリ管理グループ{{ name }}を削除"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr "{{ appName }}のアプリ管理グループを{{ oriName }}から{{ name }}に名前変更"
+
+msgid "corp_log.content.app_manager_add"
+msgstr "{{ appName }}の{{ name }}にアプリマネージャー{{ members }}を追加"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "{{ appName }}の{{ name }}からアプリマネージャー{{ members }}を削除"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "アプリ「{{ app_name }}」のクロスアプリ設定を編集しました"
+
+msgid "corp_log.content.app_url_update"
+msgstr "アプリ「{{ app_name }}」のURLを編集しました"
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "アプリ「{{ app_name }}」のウォーターマークを無効にしました"
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "アプリ「{{ app_name }}」のウォーターマークを有効にしました"
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "保留中の委任を無効にしました"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "保留中の委任を有効にしました"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr "保留中の委任をキャンセルしました：{{ principal }}が{{ timeRange }}の期間中に{{ agent }}に委任しました"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "ブロックリストのメンバーを更新しました"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr "ブロックリストのメンバーとアプリ通知範囲を更新しました"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "ブロックリストのアプリ通知範囲を更新しました"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "{{ count }}フォームのBPAを無効にしました"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "{{ count }}フォームのBPAを有効にしました"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "フォーム「{{ flow_name }}」のBPAを無効にしました"
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "フォーム「{{ flow_name }}」のBPAを有効にしました"
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "フォーム／ダッシュボードの権限を一括調整しました"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "ロールの情報をインポートしました"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "メンバーを「{{ fullRoleNames }}」にインポートしました"
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "ロール「{{ role }}」のメンバーの割り当て先の部署を更新しました"
+
+msgid "corp_log.content.role_rel_update"
+msgstr "ロール「{{ role }}」の{{ nickname }}の割り当て先の部署を更新しました"
+
+msgid "corp_log.content.space_create"
+msgstr "ナレッジベース「{{ space_name }}」を作成しました"
+
+msgid "corp_log.content.space_delete"
+msgstr "ナレッジベース「{{ space_name }}」を削除しました"
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "権限セット「{{ space_perm_group_name }}」を作成しました"
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "権限セット「{{ space_perm_group_name }}」を削除しました"
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "権限セット「{{ space_perm_group_name }}」を編集しました"
+
+msgid "corp_log.content.space_update"
+msgstr "ナレッジベース「{{ space_name }}」の基本情報を編集しました"
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "「{{ name }}」の表示範囲を設定しました"
+
+msgid "corp_log.content.suite_disable"
+msgstr "「{{ name }}」が無効になりました"
+
+msgid "corp_log.content.suite_enable"
+msgstr "「{{ name }}」が有効になりました"
+
+msgid "crm.upgrade.relatedData"
+msgstr "関連データ"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "{{ nickname}}({{ corpName }})の招待を受け入れました"
+
+msgid "crop_log.content.agent_disable"
+msgstr "プラグインエージェント「{{ plugin_name }}」を無効にしました"
+
+msgid "crop_log.content.agent_enable"
+msgstr "プラグインエージェント「{{ plugin_name }}」を有効にしました"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "プラグインエージェント「{{ plugin_name }}」をアンインストールしました"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr ""
+"{{ name }} という集計テーブルを作成しました。{{ app_name }} アプリの {{ ori_name }} "
+"集計テーブルからコピーされました"
+
+msgid "crop_log.content.aggregate_create"
+msgstr "集計テーブル{{ name }}を作成しました"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "集計テーブル「{{ name }}」を復元しました"
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "集計テーブル{{ name }}を削除しました"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "集計テーブル{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "集計テーブル{{ name }}のデザインを更新しました"
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "集計テーブル「{{ name }}」をアップグレードしました"
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "AIラボを無効にしました"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "AIラボを有効にしました"
+
+msgid "crop_log.content.api_key_create"
+msgstr "APIキーを追加しました"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "APIキー「{{ suite_name }}」を追加しました"
+
+msgid "crop_log.content.api_key_delete"
+msgstr "APIキーを削除しました"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "APIキー「{{ suite_name }}」を削除しました"
+
+msgid "crop_log.content.api_key_disable"
+msgstr "APIキーを無効にしました"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "APIキー「{{ suite_name }}」を無効にしました"
+
+msgid "crop_log.content.api_key_enable"
+msgstr "APIキーを有効にしました"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "APIキー「{{ suite_name }}」を有効にしました"
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "キー「{{ name }}」の「API認可範囲」を更新しました"
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "キー「{{ name }}」の「アプリ認可範囲」を更新しました"
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "キー「{{ name }}」の「IPホワイトリスト」を更新しました"
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "キー「{{ name }}」の「名前」を更新しました"
+
+msgid "crop_log.content.app_create"
+msgstr "アプリ{{ name }}を作成"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "{{ ori_name }}からコピーしてアプリ{{ name }}を作成"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "ETLログをエクスポートしました"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "DingDingDaからアプリ{{ name }}をインストール"
+
+msgid "crop_log.content.app_install_link"
+msgstr "アプリ共有リンクからアプリ{{ name }}をインストール"
+
+msgid "crop_log.content.app_install_template"
+msgstr "テンプレートセンターからアプリ{{ name }}をインストール"
+
+msgid "crop_log.content.app_log_export"
+msgstr "アプリログをエクスポートしました"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "アプリ管理グループを無効にしました"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "アプリ管理グループを有効にしました"
+
+msgid "crop_log.content.app_recover"
+msgstr "アプリ{{ name }}を復元"
+
+msgid "crop_log.content.app_remove"
+msgstr "アプリ{{ name }}を削除"
+
+msgid "crop_log.content.app_rename"
+msgstr "アプリ{{ ori_name }}を{{ name }}に名前変更"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "トリガーログをエクスポートしました"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "グローバル添付ファイル制御は無効になっています"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "グローバルの添付ファイル制御が有効になっています"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "権限セット{{ name }}の設定を更新しました"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "権限セット{{ name }}を追加しました"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "権限セット{{ name }}を削除しました"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "権限セット{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "権限セット{{ name }}のメンバーを更新しました"
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "クラウドコインの支払い設定を編集しました"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "コイン使用履歴をエクスポートしました"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "外部企業の招待リンクを追加しました"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "外部企業の招待リンクを削除しました"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "外部企業の招待リンクを編集しました"
+
+msgid "crop_log.content.corp_rename"
+msgstr "企業「{{ old_corp_name }}」を「{{ new_corp_name }}」に名前を変更しました"
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "ビジネススタイルを無効にしました"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "ビジネススタイルを有効にしました"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "ビジネススタイルを編集"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "ビジネスポータルURLを編集しました"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "外部連絡先のロール「{{ roleName }}」を追加しました"
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "カスタムログインページを無効にしました"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "カスタムログインページを有効にしました"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "ビジネスワークスペースを編集しました"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "ダッシュボード{{ name }}の権限セットを更新しました"
+
+msgid "crop_log.content.dash_create"
+msgstr "ダッシュボード{{ name }}を作成しました"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr "アプリ{{ app_name }}のダッシュボード{{ ori_name }}からコピーしてダッシュボード{{ name }}を作成しました"
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "ダッシュボードの公開エクスポートを無効にしました"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "ダッシュボードの公開エクスポートを有効にしました"
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "ダッシュボードのパブリックリンクを無効にしました"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "ダッシュボードのパブリックリンクを有効にしました"
+
+msgid "crop_log.content.dash_recover"
+msgstr "ダッシュボード{{ name }}を復元しました"
+
+msgid "crop_log.content.dash_remove"
+msgstr "ダッシュボード{{ name }}を削除しました"
+
+msgid "crop_log.content.dash_rename"
+msgstr "ダッシュボード{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.dash_update"
+msgstr "ダッシュボード{{ name }}のデザインを更新しました"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "{{ template_name }}テンプレートでレコードを一括印刷しました"
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "{{ count }}件のレコードを一括復元しました"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "{{ count }}件のレコードを一括削除しました"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "データリサイクルから{{ count }}件のレコードを一括削除しました"
+
+msgid "crop_log.content.data_batch_update"
+msgstr "{{ total }}件のレコードを一括更新しました。{{ success }}件成功、{{ failed }}件失敗しました"
+
+msgid "crop_log.content.data_create"
+msgstr "データ{{ data_label }}を追加しました"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr "{{ template_name }}テンプレートで{{ table_name }}のレコードを一括印刷しました"
+
+msgid "crop_log.content.data_export"
+msgstr "{{ entry_name }}のデータをエクスポートしました"
+
+msgid "crop_log.content.data_import"
+msgstr "インポートにより{{ count }}件のレコードを追加しました"
+
+msgid "crop_log.content.data_import_file"
+msgstr "{{ success }}件の添付ファイルをインポートしました"
+
+msgid "crop_log.content.data_import_update"
+msgstr "インポートにより{{ count }}件のレコードを更新しました"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"インポートにより{{ updata_datas_amount }}件のレコードを更新し、{{ insert_datas_amount "
+"}}件のレコードを追加しました"
+
+msgid "crop_log.content.data_print"
+msgstr "{{ template_name }}テンプレートでレコード{{ data_label }}を印刷しました"
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "データQRコードを一括印刷しました"
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "フィールドバーコードを一括印刷しました"
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "フィールドQRコードを一括印刷しました"
+
+msgid "crop_log.content.data_recover"
+msgstr "データ{{ data_label }}を復元しました"
+
+msgid "crop_log.content.data_remove"
+msgstr "データ{{ data_label }}を削除しました"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "データリサイクルからデータ{{ data_label }}を削除しました"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr "アプリ{{ app_name }}のオートメーション{{ ori_name }}からコピーして、オートメーション{{ name }}を作成しました"
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "自動化{{ name }}を作成しました"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "自動化{{ name }}を削除しました"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "自動化{{ name }}を有効にしました"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "自動化{{ name }}を無効にしました"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "自動化{{ name }}を更新しました"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr "自動化{{ ori_name }}を更新し、{{ name }}に名前を変更しました"
+
+msgid "crop_log.content.data_update"
+msgstr "データ{{ data_label }}を更新しました"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "外部連絡先のロール「{{ roleName }}」を削除しました"
+
+msgid "crop_log.content.dept_create"
+msgstr "部署{{ name }}を追加しました"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "ビジネスタグ「{{ dept_label_name }}」を追加しました"
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "ビジネスタグ「{{ dept_label_name }}」を削除しました"
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "ビジネスタグ「{{ dept_label_name }}」の企業を調整しました"
+
+msgid "crop_log.content.dept_label_update"
+msgstr "ビジネスタグ「{{ old_dept_label_name }}」の名前を「{{ new_dept_label_name }}」に変更しました"
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "部署{{ name }}の責任者を更新しました"
+
+msgid "crop_log.content.dept_remove"
+msgstr "部署{{ name }}を削除しました"
+
+msgid "crop_log.content.dept_rename"
+msgstr "部署{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "{{ count }} 人のメンバーが一括作成されました。"
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "「{{ corpName }}」の{{ count }}名のメンバーを退職に変更します"
+
+msgid "crop_log.content.etl_copy"
+msgstr "アプリ{{ app_name }}のデータストリーム{{ ori_name }}からコピーしてデータストリーム{{ name }}を作成しました"
+
+msgid "crop_log.content.etl_create"
+msgstr "データストリーム{{ name }}を作成しました"
+
+msgid "crop_log.content.etl_remove"
+msgstr "データストリーム{{ name }}を削除しました"
+
+msgid "crop_log.content.etl_rename"
+msgstr "データストリーム{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.etl_update"
+msgstr "データストリーム{{ name }}のデザインを更新しました"
+
+msgid "crop_log.content.fields_recover"
+msgstr "フォーム{{ name }}のデザインを更新し、フィールドリサイクルから{{ count }}フィールドを復元: {{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"フォーム{{ name }}のデザインを更新し、{{ delCount }}フィールドを削除し、フィールドリサイクルから{{ recoverCount "
+"}}フィールドを復元: {{ fields }}"
+
+msgid "crop_log.content.fields_remove"
+msgstr "フォーム{{ name }}のデザインを更新し、{{ count }}フィールドを削除"
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "フィールドリサイクルから{{ fields }}の{{ count }}フィールドを完全に削除"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr "リサイクルビンをクリアし、{{ count }}フィールドを完全に削除しました"
+
+msgid "crop_log.content.file_batch_export"
+msgstr "{{ entry_name }}からファイルをダウンロードしました"
+
+msgid "crop_log.content.flow_update"
+msgstr "フォーム{{ name }}のワークフローデザインを更新しました"
+
+msgid "crop_log.content.form_create"
+msgstr "フォーム{{ name }}を作成"
+
+msgid "crop_log.content.form_create_copy"
+msgstr "アプリ{{ app_name }}のフォーム{{ ori_name }}からコピーしてフォーム{{ name }}を作成"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "カスタム詳細ページを削除"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "カスタム詳細ページに切り替え"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "システムデフォルトの詳細ページに切り替え"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "カスタム詳細ページを編集"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "フォームのオンライン支払いをオフにする"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "フォームのオンライン支払いをオンにする"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "フォームのオンライン支払いを変更"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "レコードのパブリックリンクを無効にしました"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "レコードのパブリックリンクを有効にしました"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "パブリックリンクを無効にしました"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "パブリックリンクを有効にしました"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "パブリッククエリリンクを無効にしました"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "パブリッククエリリンクを有効にしました"
+
+msgid "crop_log.content.form_recover"
+msgstr "フォーム{{ name }}を復元"
+
+msgid "crop_log.content.form_remove"
+msgstr "フォーム{{ name }}を削除"
+
+msgid "crop_log.content.form_rename"
+msgstr "フォーム{{ ori_name }}を{{ name }}に名前変更"
+
+msgid "crop_log.content.form_update"
+msgstr "フォーム{{ name }}のデザインを変更"
+
+msgid "crop_log.content.guest_connect"
+msgstr "{{ count }}の企業を一括招待しました"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "すべての外部連絡先をエクスポートしました"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr "外部連絡先「{{ old_guest_docker_nickname }}」の情報を編集しました"
+
+msgid "crop_log.content.guest_update"
+msgstr "外部企業の情報を編集しました"
+
+msgid "crop_log.content.handover_work"
+msgstr "{{ from }}の{{ works }}を{{ to }}に引き継ぎました"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "コラボレーションを招待した{{ count }}企業との接続を解除しました"
+
+msgid "crop_log.content.host_connect"
+msgstr "外部企業{{ host_corp_name }}を招待しました"
+
+msgid "crop_log.content.host_disconnect"
+msgstr "コラボレーションを招待した企業「{{ name }}」との接続を解除しました"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "当社の連絡先を{{ count }}件追加しました"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "当社の連絡先を{{ count }}件削除しました"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "当社の連絡先「{{ name }}」を追加しました"
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "当社の連絡先「{{ name }}」を削除しました"
+
+msgid "crop_log.content.host_docker_update"
+msgstr "当社の連絡先「{{ name }}」の情報を編集しました"
+
+msgid "crop_log.content.integrate_update"
+msgstr "バインディング情報を編集しました"
+
+msgid "crop_log.content.kms_disable"
+msgstr "ナレッジベースを無効にしました"
+
+msgid "crop_log.content.kms_enable"
+msgstr "ナレッジベースを有効にしました"
+
+msgid "crop_log.content.login_log_export"
+msgstr "ログイン履歴をエクスポートしました"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "管理グループ{{ name }}を追加しました"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "管理グループ{{ name }}を削除しました"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "管理グループ{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.managers_add"
+msgstr "管理グループ{{ name }}にメンバーを追加しました: {{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "管理グループ{{ name }}のメンバーを削除しました: {{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "{{ count }}人のメンバーを一括無効にしました"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "{{ count }}人の非アクティブメンバーを一括削除しました"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "{{ count }}人のメンバーを一括有効にしました"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "{{ count }}人のメンバーを一括無効にしました"
+
+msgid "crop_log.content.member_exit"
+msgstr "メンバー「{{ nickname }}」が自主的に企業を退出しました"
+
+msgid "crop_log.content.member_export"
+msgstr "連絡先からメンバーをエクスポートしました"
+
+msgid "crop_log.content.member_freeze"
+msgstr "{{ nickname }}を無効にしました"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "非アクティブメンバー{{ nickname }}を削除しました"
+
+msgid "crop_log.content.member_import"
+msgstr "{{ count }}人のメンバーを招待しました"
+
+msgid "crop_log.content.member_invite"
+msgstr "{{ nickname }}を招待しました"
+
+msgid "crop_log.content.member_recover"
+msgstr "「{{ nickname }}」を有効にしました"
+
+msgid "crop_log.content.member_remove"
+msgstr "{{ nickname }}を無効にしました"
+
+msgid "crop_log.content.member_update"
+msgstr "{{ nickname }}の情報を更新しました"
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "Webhook（メッセージ）を無効にしました"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "Webhook（メッセージ）を有効にしました"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "Webhook（メッセージ）を編集しました"
+
+msgid "crop_log.content.oauth_create"
+msgstr "「{{ suite_name }}」の認可を追加しました"
+
+msgid "crop_log.content.oauth_delete"
+msgstr "「{{ suite_name }}」の認可を取り消しました"
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "Open APIログをエクスポートしました"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "プラットフォームログをエクスポートしました"
+
+msgid "crop_log.content.order_cancel"
+msgstr "注文をキャンセルしました"
+
+msgid "crop_log.content.order_create"
+msgstr "注文を作成しました"
+
+msgid "crop_log.content.order_delete"
+msgstr "注文を削除しました"
+
+msgid "crop_log.content.order_pay"
+msgstr "注文を支払いました"
+
+msgid "crop_log.content.order_receipt"
+msgstr "注文を請求書にしました"
+
+msgid "crop_log.content.pay_disable"
+msgstr "支払いサービスをオフにする"
+
+msgid "crop_log.content.pay_enable"
+msgstr "支払いサービスをオンにする"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "銀聯マーチャントをバインド"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "銀聯マーチャントを削除"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "権限管理を無効にしました"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "権限管理を有効にしました"
+
+msgid "crop_log.content.plugin_create"
+msgstr "プラグイン「{{ plugin_name }}」を作成しました"
+
+msgid "crop_log.content.plugin_delete"
+msgstr "プラグイン「{{ plugin_name }}」を削除しました"
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr "プラグイン「{{ plugin_name }}」を作成し、「{{ ori_plugin_name }}」からコピーしました"
+
+msgid "crop_log.content.plugin_export"
+msgstr "プラグイン「{{ plugin_name }}」をエクスポートしました"
+
+msgid "crop_log.content.plugin_import"
+msgstr "プラグイン「{{ plugin_name }}」をインポートしました"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "プラグイン「{{ plugin_name }}」をインポートと更新しました"
+
+msgid "crop_log.content.plugin_install"
+msgstr "プラグイン「{{ plugin_name }}」をインストールしました"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "プラグイン「{{ plugin_name }}」の公開を申請しました"
+
+msgid "crop_log.content.plugin_update"
+msgstr "プラグイン「{{ plugin_name }}」を編集しました"
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "外部連絡先のロール「{{ roleName }}」のメンバーを変更しました"
+
+msgid "crop_log.content.role_change_group"
+msgstr "ロール「{{ role_name }}」をグループ「{{ new_group_name }}」に追加しました"
+
+msgid "crop_log.content.role_create"
+msgstr "ロールグループ{{ group_name }}にロール{{ name }}を作成しました"
+
+msgid "crop_log.content.role_group_create"
+msgstr "ロールグループ{{ name }}を作成しました"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "ロールグループ{{ name }}を削除しました"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "ロールグループ{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.role_member_update"
+msgstr "ロール{{ name }}のメンバーを更新しました"
+
+msgid "crop_log.content.role_remove"
+msgstr "ロールグループ{{ group_name }}のロール{{ name }}を削除しました"
+
+msgid "crop_log.content.role_rename"
+msgstr "ロール{{ ori_name }}の名前を{{ name }}に変更しました"
+
+msgid "crop_log.content.tenant_verify"
+msgstr "アイデンティティを認証しました"
+
+msgid "crop_log.content.timezone_update"
+msgstr "タイムゾーンを「{{ old_timezone }}」から「{{ new_timezone }}」に変更しました"
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "接続された企業「{{ name }}」の連絡先管理の権限を申請しました"
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr "接続された企業「{{ name }}」の連絡先管理の権限を譲渡しました"
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr "外部連絡先のロール「{{ oldRoleName }}」を「{{ newRoleName }}」に名前を変更しました"
+
+msgid "crop_log.content.watermark_disable"
+msgstr "グローバルウォーターマークを無効にしました"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "グローバルウォーターマークを有効にしました"
+
+msgid "crop_log.content.wx_disable"
+msgstr "WeChatサービスアカウント統合を無効にしました"
+
+msgid "crop_log.content.wx_enable"
+msgstr "WeChatサービスアカウント統合を有効にしました"
+
+msgid "crop_log.link_text.view_details"
+msgstr "詳細を見る"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} - サインイン"
+
+msgid "dash.date.format.year.quarter"
+msgstr "YYYY/qQ"
+
+msgid "dash.date.format.year.week"
+msgstr "YYYY/Www"
+
+msgid "dash.excel.export.subtotal"
+msgstr "小計"
+
+msgid "dash.excel.export.sum"
+msgstr "合計"
+
+msgid "dash.excel.export.total"
+msgstr "集計"
+
+msgid "dash.percent"
+msgstr "割合"
+
+msgid "deptType.corpCoop"
+msgstr "顧客およびクライアント"
+
+msgid "deptType.internal"
+msgstr "メンバー"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "不正なEメールアドレスです。確認してください。"
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "Eメールアドレスは既に存在します。"
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "メンバーのユーザー名は、文字、数字、アンダースコアのみをサポートしています。"
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "メンバーのユーザー名は3から80文字の長さである必要があります。"
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "メンバーのユーザー名を入力してください。"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "ユーザー名は既に連絡先に存在します。"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"ユーザー名は別のテナントによって使用されています。同じメンバーに属するかどうかを確認してください。 "
+"同じメンバーに属する場合は、参加の招待を送信します。異なる場合は、ユーザー名を変更してください。"
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "メンバーの名前の最大長は80文字です。"
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "メンバー名を入力してください。"
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "該当するインポートポリシーが見つかりません"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "パスワードを入力してください。"
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "不正な携帯電話番号です。確認してください。"
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "携帯電話番号は既に存在します。"
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "不明なエラー。"
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "メンバー番号は、文字、数字、アンダースコア、および「.」のみをサポートします。"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "メンバー番号は既に連絡先に存在します。"
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "再利用可能なユーザーまたはメンバーが見つかりません"
+
+msgid "email.title.aggregate_buffer"
+msgstr "\"{{ _g_productName }}\"の集計テーブル過消費アラート"
+
+msgid "email.title.aggregation_buffer"
+msgstr "\"{{ _g_productName }}\"のアグリゲーション過消費アラート"
+
+msgid "email.title.appTrialExpire"
+msgstr "{{ _g_productName }}: 試用期限のリマインダー"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "\"{{ _g_productName }}\" オートメーションProの使用"
+
+msgid "email.title.bpa_buffer"
+msgstr "\"{{ _g_productName }}\"のBPA過消費アラート"
+
+msgid "email.title.buffer_expired"
+msgstr "アラート: \"{{ _g_productName }}\"のシステム使用制限超過とサービス停止"
+
+msgid "email.title.coinRunOut"
+msgstr "{{ _g_productName }}: {{ _g_productName }} コインがなくなりました"
+
+msgid "email.title.coinRunningOut"
+msgstr "{{ _g_productName }}: {{ _g_productName }} コインがまもなくなくなります"
+
+msgid "email.title.comment"
+msgstr "新しいコメントであなたに言及しました。時間内に返信してください"
+
+msgid "email.title.corpInvite"
+msgstr "{{ _g_productName }}: コラボレーションの招待"
+
+msgid "email.title.dashAlert"
+msgstr "データによるアラート"
+
+msgid "email.title.dashAlertLimit"
+msgstr "{{ _g_productName }}: ダッシュボードデータアラートが1日の最大制限に達しました"
+
+msgid "email.title.docTrend"
+msgstr "{{ _g_productName }}: ドキュメントの更新"
+
+msgid "email.title.etl_buffer"
+msgstr "\"{{ _g_productName }}\"のデータファクトリー過消費アラート"
+
+msgid "email.title.formDataExceed"
+msgstr "{{ _g_productName }}: 単一テーブルのデータ量が制限を超えました"
+
+msgid "email.title.formDataUsage"
+msgstr "{{ _g_productName }}: 単一テーブルのデータ量がまもなく制限を超えます"
+
+msgid "email.title.monthlyDataExceed"
+msgstr "{{ _g_productName }}: データ量が月間最大制限に達しました"
+
+msgid "email.title.systemLog"
+msgstr "{{ _g_productName }}: システムログ"
+
+msgid "email.title.tenantCoop"
+msgstr "「{{ _g_productName }}」企業コラボレーション"
+
+msgid "email.title.totalDataExceed"
+msgstr "{{ _g_productName }}: 総データ量が制限を超えました"
+
+msgid "email.title.totalDataUsage"
+msgstr "{{ _g_productName }}: 総データ量がまもなく制限を超えます"
+
+msgid "email.title.trialExpire"
+msgstr "{{ _g_productName }}: VIP試用がまもなく終了します"
+
+msgid "email.title.trigger_buffer"
+msgstr "\"{{ _g_productName }}\"のオートメーション過消費アラート"
+
+msgid "email.title.uploadUsage"
+msgstr "{{ _g_productName }}: 総添付ファイル数がまもなく制限を超えます"
+
+msgid "email.title.userChannelVerify"
+msgstr "{{ _g_productName }}: Eメール認証"
+
+msgid "email.title.user_buffer"
+msgstr "\"{{ _g_productName }}\"のメンバー過消費アラート"
+
+msgid "email.title.vipExpire"
+msgstr "{{ _g_productName }}: VIPがまもなく終了します"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr "特定のセルの内容が最大長を超えると、これらのセルが空になる可能性があります:"
+
+msgid "error.export.excel.errorSheetName"
+msgstr "エクスポートエラー"
+
+msgid "error.export.excel.fileName"
+msgstr "失敗リスト"
+
+msgid "event.appCreate"
+msgstr "アプリを作成"
+
+msgid "event.appPublishAccept"
+msgstr "アプリが正常に公開されました"
+
+msgid "event.appPublishFailed"
+msgstr "アプリの公開に失敗しました"
+
+msgid "event.appRemove"
+msgstr "アプリを削除"
+
+msgid "event.corpAutoSync"
+msgstr "ビジネスの自動同期"
+
+msgid "event.corpManualSync"
+msgstr "ビジネスの手動同期"
+
+msgid "event.createDept"
+msgstr "部署を追加"
+
+msgid "event.createManageGroup"
+msgstr "グループを追加"
+
+msgid "event.createRole"
+msgstr "役割を追加"
+
+msgid "event.dataWebhook"
+msgstr "Webhook"
+
+msgid "event.entryWebhook"
+msgstr "フォーム設定のプッシュ"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "スケジュール通りにデータストリームを実行できませんでした"
+
+msgid "event.fileExportComplete"
+msgstr "ファイルが準備できました"
+
+msgid "event.fileExportFailed"
+msgstr "ファイルのエクスポートに失敗しました"
+
+msgid "event.inviteToJoin"
+msgstr "参加の招待"
+
+msgid "event.kms.spaceApply"
+msgstr "ナレッジベース作成の新しいリクエストを受信しました"
+
+msgid "event.memberHardDelete"
+msgstr "メンバーを削除"
+
+msgid "event.memberInvite"
+msgstr "メンバーを招待"
+
+msgid "event.memberRemove"
+msgstr "非アクティブ化"
+
+msgid "event.removeDept"
+msgstr "部署を削除"
+
+msgid "event.removeManageGroup"
+msgstr "管理グループを削除"
+
+msgid "event.removeRole"
+msgstr "役割を削除"
+
+msgid "event.smsDataComment"
+msgstr "データコメント"
+
+msgid "event.smsFlowData"
+msgstr "ワークフローのリマインダー"
+
+msgid "event.smsVerify"
+msgstr "SMS認証コード"
+
+msgid "event.systemLogNotify"
+msgstr "システムログ通知"
+
+msgid "event.timedReminder"
+msgstr "リマインダー"
+
+msgid "event.updateManageGroupMembers"
+msgstr "管理メンバーを更新"
+
+msgid "excel.address.city"
+msgstr "(市)"
+
+msgid "excel.address.detail"
+msgstr "(住所)"
+
+msgid "excel.address.district"
+msgstr "(郡/区)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(緯度と経度)"
+
+msgid "excel.address.province"
+msgstr "(州/県)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "ビジネス名"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "Eメール"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "オーナーですか"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "名前"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "電話番号"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "役割"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "ビジネス名"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "タグ"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "Eメール"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "オーナーですか"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "名前"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "携帯"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "役割"
+
+msgid "excel.datetime.format.date"
+msgstr "YYYY-MM-DD"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "YYYY-MM-DD HH:MM"
+
+msgid "excel.datetime.format.date.month"
+msgstr "YYYY-MM"
+
+msgid "excel.datetime.format.datetime"
+msgstr "YYYY-MM-DD HH:MM:SS"
+
+msgid "excel.filename.dataTable"
+msgstr "データテーブル"
+
+msgid "excel.filename.dataTemplate"
+msgstr "データテンプレート"
+
+msgid "excel.filename.table"
+msgstr "統計テーブル"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"「{{ colLabel }}」フィールドに重複する部署名「{{ value }}」が見つかりました。このフィールドはフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "エラーの詳細"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」の形式が間違っています。このフィールドはフォームの「{{ widgetLabel "
+"}}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」はIDに一致しませんでした。このフィールドはフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"「{{ colLabel }}」フィールドで{{ itemCount }}選択肢を選択してください。このフィールドはフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"「{{ colLabel }}」フィールドの最大{{ maxItemCount }}選択肢。このフィールドはフォームの「{{ widgetLabel "
+"}}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"「{{ colLabel }}」フィールドの最小{{ minItemCount }}選択肢。このフィールドはフォームの「{{ widgetLabel "
+"}}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"「{{ colLabel }}」フィールドの選択肢を{{ minItemCount }}から{{ maxItemCount "
+"}}選択してください。このフィールドはフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」は選択肢に一致しませんでした。このフィールドはフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"「{{ formNames }}」フォームで「{{ value }}」の重複データ。インポートするフォームを「フィールド値 # "
+"フォーム」の形式で注釈してください。"
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"「{{ formName }}」フォームで重複するフィールド名「{{ colLabel }}」。このフィールドは現在のフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value "
+"}}」は関連フォームのデータに一致しませんでした。このフィールドは現在のフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value "
+"}}」は関連フォームの複数のレコードに一致しました。このフィールドは現在のフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr ""
+"「{{ colLabel }}」フィールドの{{ repeatRemind }}。このフィールドはフォームの「{{ widgetLabel "
+"}}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」は名前に一致しませんでした。このフィールドはフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"「{{ colLabel }}」フィールドに重複するメンバー名「{{ value }}」が見つかりました。このフィールドはフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」は「{{ number "
+"}}」である必要があります。このフィールドはフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」は{{ maxNumber }}以下である必要があります。 「{{ "
+"colLabel }}」はフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」は{{ minNumber "
+"}}以上である必要があります。このフィールドはフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"「{{ colLabel }}」フィールドの「{{ value }}」は{{ minNumber }}から{{ maxNumber "
+"}}の間である必要があります。このフィールドはフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"「{{ widgetName }}」フィールドの「{{ value }}」は販売ステージに一致しませんでした。このフィールドはフォームの「{{ "
+"widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "失敗記録"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドに重複する部署名「{{ value "
+"}}」が見つかりました。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value "
+"}}」の形式が間違っています。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value "
+"}}」はIDに一致しませんでした。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドで{{ itemCount "
+"}}選択肢を選択してください。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの最大{{ maxItemCount "
+"}}選択肢。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの最小{{ minItemCount "
+"}}選択肢。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの選択肢を{{ minItemCount "
+"}}から{{ maxItemCount }}選択してください。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ "
+"subWidgetLabel }}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value "
+"}}」は選択肢に一致しませんでした。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value "
+"}}」は名前に一致しませんでした。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドに重複するメンバー名「{{ value "
+"}}」が見つかりました。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value }}」は「{{ number "
+"}}」である必要があります。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel "
+"}}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value }}」は{{ "
+"maxNumber }}以下である必要があります。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ "
+"subWidgetLabel }}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value }}」は{{ "
+"minNumber }}以上である必要があります。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ "
+"subWidgetLabel }}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの「{{ value }}」は{{ "
+"minNumber }}から{{ maxNumber }}の間である必要があります。このサブフィールドは「{{ widgetLabel "
+"}}」サブフォームの「{{ subWidgetLabel }}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドの{{ repeatRemind "
+"}}。このサブフィールドは「{{ widgetLabel }}」サブフォームの「{{ subWidgetLabel }}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"「{{ colLabel }}」サブフォームの「{{ subColLabel }}」サブフィールドが必須です。このサブフィールドは「{{ "
+"widgetLabel }}」サブフォームの「{{ subWidgetLabel }}」サブフィールドに対応します。"
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr "「{{ colLabel }}」フィールドが必須です。このフィールドはフォームの「{{ widgetLabel }}」フィールドに対応します。"
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_エラーレポート_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "所属部署"
+
+msgid "excel.importError.repeatName.id"
+msgstr "部署およびメンバーID"
+
+msgid "excel.importError.repeatName.name"
+msgstr "重複した名前の部署およびメンバー"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "同名のメンバーと部署ID"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "インポートスタイルを提案"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"推奨されるインポートスタイルに従って元のデータを置き換えます。詳細については、https://help.jodoo.com/doc/12099"
+"をご参照ください。"
+
+msgid "excel.mainDataLabel.header"
+msgstr "関連する「{{ formName }}」データ"
+
+msgid "excel.member.dept"
+msgstr "部署"
+
+msgid "excel.member.email"
+msgstr "Eメール"
+
+msgid "excel.member.exceed"
+msgstr "エクスポートするメンバーの数が最大制限に達しました。最初の100,000件のみがエクスポートされます"
+
+msgid "excel.member.filename"
+msgstr "内部連絡先"
+
+msgid "excel.member.fullRoleName"
+msgstr "ロールグループとロール"
+
+msgid "excel.member.name"
+msgstr "名前"
+
+msgid "excel.member.phone"
+msgstr "携帯"
+
+msgid "excel.member.role"
+msgstr "役割"
+
+msgid "excel.member.role.rel.filename"
+msgstr "連絡先ロール"
+
+msgid "excel.member.status"
+msgstr "ステータス"
+
+msgid "excel.member.username"
+msgstr "番号"
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "メンバーID"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "重複メンバー"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "エラーレポート.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_エラーレポート_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "必須"
+
+msgid "filezip.filename.package"
+msgstr "{{ formName }}_添付ファイル{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "ワークフロー作成時間"
+
+msgid "flow.creator"
+msgstr "ワークフローイニシエーター"
+
+msgid "flow.initiateFlow"
+msgstr "今すぐ開始"
+
+msgid "flow.initiateFlow.desc"
+msgstr "このグループのメンバーはワークフローを開始できます"
+
+msgid "flow.manageAllFlow"
+msgstr "すべてのワークフローを管理"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "このグループのメンバーはすべてのプロセスを管理できます"
+
+msgid "flow.node.approve"
+msgstr "承認"
+
+msgid "flow.node.end"
+msgstr "終了"
+
+msgid "flow.node.start"
+msgstr "開始"
+
+msgid "flow.state.closed"
+msgstr "手動終了"
+
+msgid "flow.state.complete"
+msgstr "完了"
+
+msgid "flow.state.inProcess"
+msgstr "進行中"
+
+msgid "flow.state.rejected"
+msgstr "否認"
+
+msgid "flow.viewAllFlow"
+msgstr "すべてのワークフローを表示"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "このグループのメンバーはすべてのプロセスを表示できます"
+
+msgid "form.analysisField.avgDuration"
+msgstr "プロセスの平均時間（時間）"
+
+msgid "form.analysisField.creator"
+msgstr "メンバー"
+
+msgid "form.analysisField.dataCount"
+msgstr "データカウント"
+
+msgid "form.analysisField.flowNode"
+msgstr "ノード"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "ワークフロー完了時間"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "ワークフロー作成時間"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "ノード流入時間"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "ノード流出時間"
+
+msgid "form.data.tab.common.name"
+msgstr "基本情報"
+
+msgid "form.default.field.options.firstText"
+msgstr "オプション 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "オプション 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "オプション 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "オプション 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "オプション 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "オプション 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "重複する値は許可されません"
+
+msgid "form.operate.batchPrint"
+msgstr "一括印刷"
+
+msgid "form.operate.batchUpdate"
+msgstr "一括編集"
+
+msgid "form.operate.copy"
+msgstr "コピー"
+
+msgid "form.operate.create"
+msgstr "追加"
+
+msgid "form.operate.delete"
+msgstr "削除"
+
+msgid "form.operate.export"
+msgstr "エクスポート"
+
+msgid "form.operate.flowActivate"
+msgstr "プロセスを有効化"
+
+msgid "form.operate.flowClose"
+msgstr "プロセスを終了"
+
+msgid "form.operate.flowTransfer"
+msgstr "プロセスの承認者を変更"
+
+msgid "form.operate.import"
+msgstr "インポート"
+
+msgid "form.operate.read"
+msgstr "表示"
+
+msgid "form.operate.update"
+msgstr "編集"
+
+msgid "form.subformField.id"
+msgstr "サブフォームID"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "現在の承認者"
+
+msgid "form.sysField.createTime"
+msgstr "作成時間"
+
+msgid "form.sysField.creator"
+msgstr "作成者"
+
+msgid "form.sysField.dataId"
+msgstr "data_id"
+
+msgid "form.sysField.dataLabel"
+msgstr "タイトル"
+
+msgid "form.sysField.deleteTime"
+msgstr "削除時間"
+
+msgid "form.sysField.deleter"
+msgstr "削除者"
+
+msgid "form.sysField.ext"
+msgstr "URLパラメーター"
+
+msgid "form.sysField.flowComment"
+msgstr "承認コメント"
+
+msgid "form.sysField.flowNodes"
+msgstr "現在のノード"
+
+msgid "form.sysField.flowState"
+msgstr "ワークフロー状態"
+
+msgid "form.sysField.flowVer"
+msgstr "バージョン"
+
+msgid "form.sysField.operator"
+msgstr "操作者"
+
+msgid "form.sysField.printOperator"
+msgstr "印刷者"
+
+msgid "form.sysField.printTime"
+msgstr "印刷時間"
+
+msgid "form.sysField.privateDataQr"
+msgstr "データQRコード（内部）"
+
+msgid "form.sysField.publicDataQr"
+msgstr "データQRコード（公開）"
+
+msgid "form.sysField.updateTime"
+msgstr "更新時間"
+
+msgid "form.sysField.updater"
+msgstr "更新者"
+
+msgid "form.sysField.wxAvatar"
+msgstr "WeChatアバター"
+
+msgid "form.sysField.wxNickname"
+msgstr "WeChat名"
+
+msgid "form.sysField.wxOpenId"
+msgstr "WeChat OpenID"
+
+msgid "formView.allData.name"
+msgstr "全てのデータ"
+
+msgid "formView.untitled.name"
+msgstr "無題ビュー"
+
+msgid "formula.cal.type.error"
+msgstr "公式計算結果がデータ型と一致しません"
+
+msgid "formula.express.error"
+msgstr "公式の式が正しくありません"
+
+msgid "function.not.support"
+msgstr "現在のバージョンはこの関数をサポートしていません！"
+
+msgid "function.param.count.error"
+msgstr "{{ name }}関数のパラメータ数が正しくありません"
+
+msgid "function.param.error"
+msgstr "{{ name }}関数のパラメータが正しくありません"
+
+msgid "function.param.notEmpty"
+msgstr "{{ name }}関数のパラメータは空にできません"
+
+msgid "function.param.type.error"
+msgstr "{{ name }}関数のパラメータタイプが正しくありません"
+
+msgid "function.return.error"
+msgstr "{{ name }}関数の戻り値の型が不明です"
+
+msgid "function.second.param.constant"
+msgstr "{{ name }}の第2引数は定数でなければなりません"
+
+msgid "function.two.param"
+msgstr "{{ name }}関数には少なくとも2つの引数が必要です"
+
+msgid "function.two.param.error"
+msgstr "{{ name }}関数の第{{ i }}引数の型が第{{ preIdx }}引数の型と一致しません"
+
+msgid "function.which.param.error"
+msgstr "{{ name }}関数の第{{ i }}引数の型が正しくありません"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "{{ name }}関数の第{{ i }}引数の長さが制限を超えています"
+
+msgid "handover.type.data"
+msgstr "[データ]"
+
+msgid "handover.type.entry"
+msgstr "[フォーム/ダッシュボード]"
+
+msgid "handover.type.kms"
+msgstr "[ナレッジベース]"
+
+msgid "handover.type.role"
+msgstr "[連絡先]"
+
+msgid "handover.type.todo"
+msgstr "[タスク]"
+
+msgid "handover.type.workflow"
+msgstr "[ワークフロー承認者]"
+
+msgid "handover.work"
+msgstr "引き継ぎ"
+
+msgid "kms.docTrend"
+msgstr "ドキュメントの更新"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "このグループのメンバーはデータを入力し、自分が入力したデータを管理できます"
+
+msgid "manage.addAndManageMyData.name"
+msgstr "データの追加と管理"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "このグループのメンバーはデータを入力し、すべてのデータを表示できます"
+
+msgid "manage.addAndViewAllData.name"
+msgstr "データを追加して表示"
+
+msgid "manage.manageAllData.desc"
+msgstr "このグループのメンバーはすべてのデータを管理し、データを入力できますが、データをインポートすることはできません"
+
+msgid "manage.manageAllData.name"
+msgstr "すべてのデータを管理"
+
+msgid "manage.mergeGroup"
+msgstr "権限のある全データ"
+
+msgid "manage.onlyAddData.desc"
+msgstr "このグループのメンバーはデータを入力するだけです"
+
+msgid "manage.onlyAddData.name"
+msgstr "入力のみ"
+
+msgid "manage.viewAllData.desc"
+msgstr "このグループのメンバーはすべてのデータを表示できます"
+
+msgid "manage.viewAllData.name"
+msgstr "すべてのデータを表示"
+
+msgid "managerActivity.app.metricsName"
+msgstr "アプリ別表示 - 活動詳細"
+
+msgid "managerActivity.app.reportName"
+msgstr "アプリ別表示 - 概要"
+
+msgid "managerActivity.appId"
+msgstr "アプリID"
+
+msgid "managerActivity.appName"
+msgstr "アプリ名"
+
+msgid "managerActivity.count"
+msgstr "ユーザー数（編集）"
+
+msgid "managerActivity.fileName"
+msgstr "管理者活動"
+
+msgid "managerActivity.managerId"
+msgstr "管理者ID"
+
+msgid "managerActivity.managerName"
+msgstr "管理者名"
+
+msgid "managerActivity.time"
+msgstr "日付"
+
+msgid "managerActivity.times"
+msgstr "回数（編集）"
+
+msgid "managerActivity.user.metricsName"
+msgstr "管理者別表示 - 活動詳細"
+
+msgid "managerActivity.user.reportName"
+msgstr "管理者別表示 - 概要"
+
+msgid "math.param.error"
+msgstr "数学演算のデータ型は数値でなければなりません"
+
+msgid "member.status.deleted"
+msgstr "削除されたメンバー"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(非アクティブ)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(削除済み)"
+
+msgid "message.addOrRemoveApp"
+msgstr "アプリを追加/削除"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "部署またはメンバーを追加/削除"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "管理グループを追加/削除"
+
+msgid "message.addOrRemoveManager"
+msgstr "管理者を追加/削除"
+
+msgid "message.alertName"
+msgstr "アラートタイトル"
+
+msgid "message.alertSource"
+msgstr "アラートの出所"
+
+msgid "message.anonymousUser"
+msgstr "匿名ユーザー"
+
+msgid "message.apiKeyOpLog"
+msgstr "APIキーのログ"
+
+msgid "message.appRename"
+msgstr "アプリの名前を変更"
+
+msgid "message.appUpdate"
+msgstr "アプリケーションの変更"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr "システム管理者または作成者が、{{ timeRange }}の期間中に{{ principal }}があなたに委任したプロセスをキャンセルしました。"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr "システム管理者または作成者が、{{ timeRange }}の期間中に{{ agent }}へのプロセス委任をキャンセルしました。"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr "システム管理者または作成者が、{{ principal }}からあなたへのプロセス委任をキャンセルしました"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr "システム管理者または作成者が、{{ agent }}へのプロセス委任をキャンセルしました"
+
+msgid "message.bpm_delegation.description"
+msgstr "委任の説明"
+
+msgid "message.bpm_delegation.principal"
+msgstr "委任者"
+
+msgid "message.bpm_delegation.range"
+msgstr "委任範囲"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "全てのプロセス"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "部分的なプロセス"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "委任時間"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr "{{ principal }}が{{ timeRange }}の期間中の全てのプロセスをあなたに承認委任しました。"
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }}が{{ timeRange }}の期間中の全てのプロセスをあなたに承認委任しました。委任説明：{{ "
+"description }}。"
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }}があなたにプロセス委任しました"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr "{{ principal }}が{{ timeRange }}の期間中のプロセス委任をあなたにキャンセルしました。"
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }}があなたへのプロセス委任をキャンセルしました"
+
+msgid "message.comment.content"
+msgstr "コメント内容"
+
+msgid "message.commentator"
+msgstr "コメント者"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "ビジネス名が既に存在します"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "所有者は一人のみ許可されています"
+
+msgid "message.corp.import.errCode.19011"
+msgstr "指定された所有者は既に他の会社/チームを作成しています"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "指定された所有者がいません"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "インポートされたメンバーの数が{{number}}を超えています"
+
+msgid "message.corp.import.errCode.19014"
+msgstr "ファイル内にインポート可能なパートナー会社がありません。調整後に再インポートしてください"
+
+msgid "message.corp.import.errCode.19020"
+msgstr "インポートされた役割の数が{{number}}を超えています。調整後に再インポートしてください"
+
+msgid "message.corp.import.errCode.19029"
+msgstr "インポートされたパートナーの数が{{number}}を超えています。調整後に再インポートしてください"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "ビジネス名は{{number}}文字以内でなければなりません"
+
+msgid "message.corp.import.errCode.6065"
+msgstr "タグには最大{{number}}文字が許可されています"
+
+msgid "message.corp.import.errCode.6066"
+msgstr "インポートされたタグの数が{{number}}を超えています。調整後に再インポートしてください"
+
+msgid "message.corpCoop"
+msgstr "顧客とパートナー"
+
+msgid "message.corpSyncResult"
+msgstr "メンバー同期"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{operator}}が{{account_num}}人の顧客を割り当てました"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "顧客{{data_label}}が自動的に回収されました"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{operator}}が顧客{{data_label}}の担当者を変更しました"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{operator}}が{{account_num}}人の顧客の所有者を変更しました"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{operator}}が顧客{{data_label}}の協力者を変更しました"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{operator}}が{{account_num}}人の顧客の協力者を変更しました"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{operator}}が{{account_num}}人の顧客を回収しました"
+
+msgid "message.crm.assignor"
+msgstr "割り当て者"
+
+msgid "message.crm.currentCollaborator"
+msgstr "現在の協力者"
+
+msgid "message.crm.customer"
+msgstr "顧客"
+
+msgid "message.crm.followPlanComplete"
+msgstr "{{operator}}があなたのフォローアッププラン「{{data_label}}」を完了しました"
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{operator}}があなたの{{plan_num}}個のフォローアッププランを完了しました"
+
+msgid "message.crm.leads"
+msgstr "リード"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{operator}}が{{leads_num}}件のリードを割り当てました"
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "リード「{{data_label}}」が自動的に回収されました"
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{operator}}がリード{{data_label}}の担当者を変更しました"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr "{{operator}}が{{opportunity_num}}件のリードの所有者を変更しました"
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{operator}}がリード{{data_label}}の協力者を変更しました"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr "{{operator}}が{{opportunity_num}}件のリードの協力者を変更しました"
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{operator}}が{{leads_num}}件のリードを回収しました"
+
+msgid "message.crm.newCharger"
+msgstr "新しい担当者"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{operator}}があなたのためにフォローアッププラン「{{data_label}}」を追加しました"
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{operator}}が商機{{data_label}}の担当者を変更しました"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr "{{operator}}が{{opportunity_num}}件の商機の所有者を変更しました"
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{operator}}が商機{{data_label}}の協力者を変更しました"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr "{{operator}}が{{opportunity_num}}件の商機の協力者を変更しました"
+
+msgid "message.crm.opportunityWin"
+msgstr "商機「{{data_label}}」が獲得されました"
+
+msgid "message.crm.rawCharger"
+msgstr "元の担当者"
+
+msgid "message.crm.recycler"
+msgstr "回収者"
+
+msgid "message.cron.custom"
+msgstr "リマインダーの時間になりました"
+
+msgid "message.cron.dataExpires"
+msgstr "データ期限切れ"
+
+msgid "message.dashName"
+msgstr "ダッシュボードタイトル"
+
+msgid "message.dataAlert"
+msgstr "データアラート"
+
+msgid "message.dataComment"
+msgstr "顧客とパートナー"
+
+msgid "message.dataCreate"
+msgstr "新しいデータが提出されました"
+
+msgid "message.dataLabel"
+msgstr "レコードタイトル"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "自動化失敗"
+
+msgid "message.emptyValue"
+msgstr "空欄"
+
+msgid "message.enterForm"
+msgstr "フォームに移動"
+
+msgid "message.entryName"
+msgstr "フォーム名"
+
+msgid "message.error.4402"
+msgstr "集計計算の検証に失敗しました"
+
+msgid "message.etlExecuteFailed"
+msgstr "ETLタスク失敗"
+
+msgid "message.etlSyncFailed"
+msgstr "データストリームの同期に失敗しました"
+
+msgid "message.flow.adminTransfer"
+msgstr "タスクがスーパー管理者によってあなたに転送されました"
+
+msgid "message.flow.autoBack"
+msgstr "未処理の作業項目が返却されました。早急に処理してください"
+
+msgid "message.flow.back"
+msgstr "提出された作業項目が返却されました"
+
+msgid "message.flow.batchTransfer"
+msgstr "新しいタスクがスーパー管理者によってあなたに転送されました"
+
+msgid "message.flow.cc"
+msgstr "新しい解決済みワークフロー結果にCCされました"
+
+msgid "message.flow.cc.entryName"
+msgstr "{{ entryName }} 新しい解決済みワークフロー結果にCCされました"
+
+msgid "message.flow.cc.merge.entryName"
+msgstr "{{ entryName }} あなたにCCされた{{ count }}件の新しいフロー処理結果があります"
+
+msgid "message.flow.dealtUrgently"
+msgstr "ワークフローを緊急に処理する必要があります"
+
+msgid "message.flow.memberTransfer"
+msgstr "{{operator}}によってタスクがあなたに転送されました"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」によってタスクがあなたに転送されました"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr "新しい急行タスクがあります。できるだけ早く処理してください"
+
+msgid "message.flow.sign"
+msgstr "{{operator}}によってタスクがあなたに転送されました"
+
+msgid "message.flow.signBeforeComplete"
+msgstr "事前承認者がノードを処理しました。新しいワークフロータスクがあります"
+
+msgid "message.flow.timeout"
+msgstr "長期間保留中のタスクがあります。直ちに処理してください"
+
+msgid "message.flow.timeout.entryName"
+msgstr "「{{ entryName }}」には未完了のタスクがあります"
+
+msgid "message.flow.todo"
+msgstr "新しいタスクがあります"
+
+msgid "message.flow.todo.entryName"
+msgstr "{{ entryName }} 新しいタスクがあります"
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "{{ entryName }} {{ count }}件の新しい未処理項目があります"
+
+msgid "message.flowData"
+msgstr "外部承認者/CCメンバー"
+
+msgid "message.kms.clickViewDetails"
+msgstr "「詳細を見る」をクリックしてドキュメントを表示します"
+
+msgid "message.kms.denyReason"
+msgstr "拒否理由"
+
+msgid "message.kms.description"
+msgstr "ナレッジベースの説明"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr "{{operator}}がドキュメント「{{document}}」のコメントを処理しました"
+
+msgid "message.kms.docComment"
+msgstr "{{operator}}がドキュメント「{{document}}」にコメントしました"
+
+msgid "message.kms.docCreate"
+msgstr "{{operator}}がドキュメント「{{document}}」を作成しました"
+
+msgid "message.kms.docEdit"
+msgstr "{{operator}}がドキュメント「{{document}}」を編集しました"
+
+msgid "message.kms.docLike"
+msgstr "{{operator}}がドキュメント「{{document}}」を「いいね」しました"
+
+msgid "message.kms.documentToBeViewed"
+msgstr "表示する新しいドキュメントがあります"
+
+msgid "message.kms.managerBecome"
+msgstr "あなたは現在、ナレッジベース「{{ space_name }}」の管理者です。ドキュメントを作成してアイデアを共有しましょう!"
+
+msgid "message.kms.spaceApply"
+msgstr "{{applicant}}がナレッジベース「{{space_name}}」の作成を申請しました。"
+
+msgid "message.kms.spaceApplyAgree"
+msgstr "ナレッジベースが正常に作成されました。新しいナレッジベース「{{ space_name }}」の管理者になりました。"
+
+msgid "message.kms.spaceApplyDeny"
+msgstr "ナレッジベース「{{ space_name }}」の作成に失敗しました。ナレッジベースの説明を完了し、再度リクエストしてください。"
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{operator}}がドキュメント「{{document}}」を見るように促しました"
+
+msgid "message.latitude"
+msgstr "緯度"
+
+msgid "message.longitude"
+msgstr "経度"
+
+msgid "message.member.import.errCode.1005"
+msgstr "Eメールアドレスは既に存在します"
+
+msgid "message.member.import.errCode.1017"
+msgstr "メンバー番号は、文字、数字、アンダースコア、および「.」のみをサポートします。"
+
+msgid "message.member.import.errCode.1018"
+msgstr "無効なEメールアドレス形式"
+
+msgid "message.member.import.errCode.1019"
+msgstr "メンバー名は{{ length }}文字以内でなければなりません"
+
+msgid "message.member.import.errCode.1024"
+msgstr "無効な携帯番号"
+
+msgid "message.member.import.errCode.1027"
+msgstr "携帯番号は既に存在します"
+
+msgid "message.member.import.errCode.1082"
+msgstr "Eメールアドレスを入力してください"
+
+msgid "message.member.import.errCode.1084"
+msgstr "メンバー番号が必要です"
+
+msgid "message.member.import.errCode.1085"
+msgstr "メンバー名を入力してください"
+
+msgid "message.member.import.errCode.1087"
+msgstr "メンバー番号は既に存在します"
+
+msgid "message.member.import.errCode.1092"
+msgstr "メンバー番号は{{ length }}文字以内でなければなりません"
+
+msgid "message.member.import.errCode.unknown"
+msgstr "不明な理由。後でもう一度お試しください"
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "メンバーを管理する権限がありません。"
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "ファイル内で1つのロールに対してメンバー名が重複しています。"
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "メンバー名が重複しています。"
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "メンバーがまだ入力されていません。"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr "存在しないメンバーまたは退職したメンバーをインポートすることはできません。"
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "ロールグループ名が重複しています。"
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "ロールグループおよびロール名を入力してください。"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "存在しないロールグループにメンバーをインポートすることはできません。"
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "「同期されたロールグループ」をインポートできません。"
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "1つのロールグループ内でロール名が重複しています。"
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "ロールグループとロール名をスラッシュ(/)で区切ってください。"
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "ロールはロールグループに含まれていません。"
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "ロールを管理する権限がありません。"
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "「同期されたロール」をエクスポートできません。"
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "不明なエラー。再試行してください。"
+
+msgid "message.modified"
+msgstr "変更済み"
+
+msgid "message.modifier"
+msgstr "変更者"
+
+msgid "message.notifyTime"
+msgstr "リマインダー時間"
+
+msgid "message.remainTime.days"
+msgstr "保留中のタスクがあります。残り時間：{{ days }}日{{ hours }}時間{{ minutes }}分。早急に処理してください"
+
+msgid "message.remainTime.hours"
+msgstr "保留中のタスクがあります。残り時間：{{ hours }}時間{{ minutes }}分。早急に処理してください"
+
+msgid "message.remainTime.lessMinute"
+msgstr "処理時間が1分未満の保留中のタスクがあります。早急に処理してください"
+
+msgid "message.remainTime.minutes"
+msgstr "処理時間が{{ minutes }}分しか残っていない保留中のタスクがあります。早急に処理してください"
+
+msgid "message.system"
+msgstr "システム"
+
+msgid "message.systemRobot"
+msgstr "システムロボット"
+
+msgid "message.title.accountApportion"
+msgstr "顧客割り当て通知"
+
+msgid "message.title.accountChangeCharger"
+msgstr "顧客担当者変更"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "顧客協力者変更"
+
+msgid "message.title.accountRecycle"
+msgstr "顧客回収通知"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "連絡先担当者変更"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "連絡先の協力者変更"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "{{ _g_productName }} システム使用状況アラート"
+
+msgid "message.title.email.corpCoop"
+msgstr "{{ _g_productName }} 顧客およびパートナー通知"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "{{ _g_productName }} システム使用状況アラート"
+
+msgid "message.title.excelImportComplete"
+msgstr "データのインポートが完了しました"
+
+msgid "message.title.followPlanComplete"
+msgstr "あなたのフォローアッププランが他のユーザーによって完了しました"
+
+msgid "message.title.leadsApportion"
+msgstr "リード割り当て通知"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "リード担当者変更"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "リード協力者変更"
+
+msgid "message.title.leadsRecycle"
+msgstr "リード回収通知"
+
+msgid "message.title.newFollowPlan"
+msgstr "新しいフォローアッププランの割り当て"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "商機担当者変更"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "商機協力者変更"
+
+msgid "message.title.opportunityWin"
+msgstr "商機獲得リマインダー"
+
+msgid "message.title.pluginExpire"
+msgstr "プラグイン{{ _g_productName }}の有効期限が近づいています。"
+
+msgid "message.viewDash"
+msgstr "ダッシュボードを見る"
+
+msgid "message.viewDataDetails"
+msgstr "詳細データを見る"
+
+msgid "message.viewForm"
+msgstr "フォームを見る"
+
+msgid "not.support.op"
+msgstr "サポートされていない比較演算子 {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "お使いのブラウザは少し古いようです。"
+
+msgid "notSupported.ie.subtitle"
+msgstr "通常の使用のために、以下の最新ブラウザをインストールするか、ブラウザをアップグレードしてください。"
+
+msgid "op.param.error"
+msgstr "プレフィックス演算のデータ型は数値でなければなりません"
+
+msgid "op.param.number"
+msgstr "{{ op }}演算子の操作フィールドは数値型でなければなりません"
+
+msgid "open_store.space.enterprise"
+msgstr "社内プラグイン"
+
+msgid "open_store.space.store"
+msgstr "公式プラグイン"
+
+msgid "page.title.aggregateEdit"
+msgstr "集計テーブルのデザイン | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "AI アシスタント"
+
+msgid "page.title.baseConfig"
+msgstr "フォームデザイン-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "顧客およびパートナー | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "管理バックエンド | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "カスタムワークスペース"
+
+msgid "page.title.dashEdit"
+msgstr "ダッシュボードデザイン-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "ダッシュボードプレビュー | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "自動化 | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "データを見る"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "{{ _g_productName }}にサインイン"
+
+msgid "page.title.error"
+msgstr "何か問題が発生しました"
+
+msgid "page.title.error.flow"
+msgstr "ワークフロープロンプト"
+
+msgid "page.title.error403"
+msgstr "アクセス拒否"
+
+msgid "page.title.error404"
+msgstr "ページが見つかりません"
+
+msgid "page.title.etlEdit"
+msgstr "データストリームデザイン | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "カスタム詳細ページ | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "フォームプレビュー | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "テンプレートセンター"
+
+msgid "page.title.imageUpload"
+msgstr "画像アップロード"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "Larkが正常にバインドされました"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "Larkバインディング"
+
+msgid "page.title.login_bind"
+msgstr "メールバインド"
+
+msgid "page.title.networkTestView"
+msgstr "ネットワークセルフサービステスト | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "このバージョンのブラウザはサポートされていません"
+
+msgid "page.title.oauth"
+msgstr "認可を確認"
+
+msgid "page.title.openApiExplorer"
+msgstr "APIデバッグツール | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "パラメータ説明 | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "オープンプラットフォーム | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "注文を作成 | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "注文を支払う"
+
+msgid "page.title.orderPayFailed"
+msgstr "支払いに失敗しました"
+
+msgid "page.title.orderPaySuccess"
+msgstr "支払いが成功しました"
+
+msgid "page.title.passwordForget"
+msgstr "{{ _g_productName }}のパスワードを忘れましたか？"
+
+msgid "page.title.passwordReset"
+msgstr "パスワードをリセット"
+
+msgid "page.title.personal"
+msgstr "個人設定 | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "印刷テンプレートをデザイン"
+
+msgid "page.title.signature"
+msgstr "署名"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "認証でログイン"
+
+msgid "page.title.support"
+msgstr "お問い合わせ | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "身元確認 | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "携帯番号/Eメールをリンク"
+
+msgid "page.title.userCancelTitle"
+msgstr "アカウントを閉鎖中"
+
+msgid "print.field.currentFlow"
+msgstr "現在のノード"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{ formName }}_バーコード_{{ timestamp }}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{ formName }}_QRコード_{{ timestamp }}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "基本情報"
+
+msgid "print.sys.fileFormat"
+msgstr "{{file name}} ファイルサイズ: {{size}} アップロード時間: {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "システム印刷"
+
+msgid "print.sys.wxInfo"
+msgstr "提出した人のWeChat詳細"
+
+msgid "print.system_template_name"
+msgstr "デフォルトテンプレート"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }}があなたに顧客「{{ data_label }}」を割り当てました。"
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }}が{{ account_num }}件の顧客をあなたに割り当てました。"
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }}が顧客「{{ data_label }}」の所有者を変更しました。前の所有者：「{{ raw_charger "
+"}}」。新しい所有者：「{{ new_charger }}」。"
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr "{{ operator }}が{{ account_num }}件の顧客の担当者を変更しました。"
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{ operator }}が顧客「{{ data_label }}」のコラボレーターを変更しました。現在のコラボレーター：「{{ "
+"collaborators }}」。"
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{ operator }}が{{ account_num }}件の顧客のコラボレーターを変更しました。"
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }}が顧客「{{ data_label }}」を再回収しました。"
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "顧客「{{ data_label }}」が自動的に再回収されました。"
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }}が{{ account_num }}件の顧客を再回収しました。"
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」の集計表の数が「{{ vipLevel }}」の制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」のアグリゲーションの数が「{{ vipLevel }}」の制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"あなたのチーム「<%- corpName "
+"%>」のデータ分析の可視範囲が人数制限を超えているため、メンバーがアクセスできなくなりました。可視範囲を減らすか、現在のバージョンの使用状況を確認してく"
+"ださい。"
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }}がAPIキーを作成しました"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }}がAPIキーを無効にしました"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }}がAPIキーを有効にしました"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }}がAPIキーを削除しました"
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }}が{{ appName }}アプリを作成しました"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr "申し訳ありませんが、アプリ「{{ appName }}」の公開に失敗しました。理由は以下の通りです："
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "理由：{{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr "おめでとうございます！{{ appName }}アプリが正常に公開されました。テンプレートセンターで確認してください。"
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }}が{{ appName }}アプリを削除しました"
+
+msgid "site.message.content.app_rename"
+msgstr "{{ operator }}がアプリ名を{{ oriAppName }}から{{ newAppName }}に変更しました"
+
+msgid "site.message.content.app_template_approved"
+msgstr "テンプレート「{{ templateName }}」の監査に合格しました"
+
+msgid "site.message.content.app_template_publish"
+msgstr "{{ operator }}は、レビュー対象リストにテンプレートが追加された「{{ templateName }}」アプリケーションをリリースしました"
+
+msgid "site.message.content.app_template_rejected"
+msgstr "テンプレート「{{ templateName }}」の監査に失敗しました。理由：{{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」はAutomations Proを{{ usage "
+"}}回実行されました。現在のプランでは月間制限は{{ limit "
+"}}です。制限を超えるとコインが消費されます。ビジネスの中断を避けるために、アカウントに十分なコインがあることを確認してください。"
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"あなたのチーム「{{ corpName }}」は{{ usage }}件のAutomation "
+"Pro実行数に達しました。年間で許可されている最大実行数{{ limit }}に間もなく到達します。上限を超えると、Automation "
+"Proは実行できなくなるか、Cloud Coinsが必要になります。「管理 - プラン詳細」にて利用状況を確認し、Cloud "
+"Coinsをチャージしてください。"
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"あなたのチーム「{{ corpName }}」は{{ usage }}件のAutomation "
+"Pro実行数に達しました。年間で許可されている最大実行数は{{ limit }}です。ご注意ください。"
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のBPAの数が「{{ vipLevel }}」制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」のシステム使用量が制限を超えたため、システムが一時的に停止されました。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"あなたのチーム{{ corpName }}のクラウドコインの残高が{{ limit "
+"}}未満です。SMS認証、OCR認識、添付ファイルのアップロードなどの機能が影響を受ける可能性があります。ビジネスへの影響を避けるために、できるだけ早く"
+"アカウントにリチャージしてください。"
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"あなたのチーム{{ corpName "
+"}}のクラウドコインの残高が少なくなっています。SMS認証、OCR認識、添付ファイルのアップロードなどの機能が影響を受ける可能性があります。ビジネスへの"
+"影響を避けるために、できるだけ早くアカウントにリチャージしてください。"
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }}がコメント「{{ dataTitle }}」であなたに言及しました。"
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "タイトルなしデータ"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "コメント概要：{{ messageComment }}。"
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr "会社「{{ corpName }}」のメンバーがコメント「{{ dataTitle }}」であなたに言及しました。"
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "タイトルなしデータ"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "コメント概要：{{ messageComment }}。"
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }}がコンタクト「{{ data_label }}」の所有者を変更しました。前の所有者：「{{ raw_charger "
+"}}」。新しい所有者：「{{ new_charger }}」。"
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr "{{ operator }}が{{ contacts_num }}件のコンタクトの所有者を変更しました。"
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{ operator }}がコンタクト「{{ data_label }}」のコラボレーターを変更しました。現在のコラボレーター：「{{ "
+"collaborators }}」。"
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{ operator }}が{{ contacts_num }}件のコンタクトのコラボレーターを変更しました。"
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr "他の企業/チームと協力するためのコンタクト数が不足しています。"
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"接続した会社「{{ corpName "
+"}}」が、あなたとのコラボレーションを確立するための申請を行いました。コラボレーションを確立すると、あなたの連絡先がその会社のビジネスに参加できます。"
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」の接続企業数が「{{ vipLevel }}」の制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr "他の企業との接続に失敗しました。あなたの会社/チーム「{{ corpName }}」の企業接続クォータが不足しています。追加購入して再試行してください。"
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+"あなたの友人が{{ _g_productName }}を通じてコラボレーションに招待しています。彼/彼女のチーム「{{ corpName "
+"}}」に参加してください。招待は7日間有効です。"
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"アプリ「{{ appName }}」のダッシュボード「{{ entryName }}」で、ウィジェット「{{ widgetName "
+"}}」のデータがデータアラート「{{ thresholdName }}」をトリガーしました。"
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr "データアラート「{{ thresholdName }}」の実行に失敗したため、リマインダーに失敗しました。"
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "アラート元：{{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr "トリガーされたダッシュボードデータアラートが1日の制限である1,000回に達しました。本日はこれ以上のアラートはトリガーされません。"
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr "データアラート「{{ thresholdName }}」のアラート条件が無効になったため、自動的にデータアラートが無効になりました。"
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "アラート元：{{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr "データアラート「{{ thresholdName }}」の実行に複数回失敗したため、自動的にアラートが無効になりました。"
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "アラート元：{{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」の総データボリュームが「{{ vipLevel }}」制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」は今月すでに{{ usage "
+"}}件のレコードを使用しており、1,000件の制限に近づいています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"アプリ「{{ appName }}」内のオートメーション「{{ triggerName }}」が{{ failedCount "
+"}}回トリガーされませんでした。トリガー履歴を確認してください。"
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"アプリ「{{ appName }}」のオートメーション「{{ triggerName "
+"}}」の実行に失敗しました。トリガー履歴ログ時間を確認してください。"
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"アプリ「{{ appName }}」内のオートメーション「{{ triggerName }}」が{{ failedCount "
+"}}回トリガーされませんでした。今日はこれ以上通知は送信されません。トリガー履歴を確認してください。"
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」は合計で{{ usage }}件のレコードを使用しており、{{ limit "
+"}}件の制限に近づいています。「管理 > プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }}が部署「{{ deptName }}」を追加しました"
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }}が{{ deptSize }}の部署をインポートしました。"
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }}が部署「{{ deptName }}」を削除しました。"
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"あなたと接続を確立した会社{{ corpName }}は、{{ op }}の{{ side }}連絡先{{ nicknameList "
+"}}を持っています。正常なビジネス開発を保証するために、関連する権限をタイムリーに調整してください。"
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"あなたと接続を確立した会社{{ corpName }}は、{{ op }}の{{ side }}連絡先{{ nicknameList "
+"}}を持っています。正常なビジネス開発を保証するために、関連する権限をタイムリーに調整してください。"
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"あなたと接続を確立した会社{{ corpName }}は、{{ op }}の{{ side }}連絡先{{ nicknameList "
+"}}を持っています。"
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のデータストリームの数が「{{ vipLevel }}」制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"アプリ「{{ appName }}」内のデータストリーム「{{ etlName }}」の更新が{{ maxCount "
+"}}回失敗しました。システムは更新ルールを無効にし、すべての更新が一時停止されました。失敗の原因を確認して調整を行い、更新ルールを再有効化してください。"
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr "アプリ「{{ appName }}」内のデータストリーム「{{ etlName }}」の更新に失敗しました。"
+
+msgid "site.message.content.etl_sync_failed"
+msgstr "アプリ「{{ app_name }}」内のデータストリーム「{{ etl_name }}」のデータを出力テーブルに同期することに失敗しました。"
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr "「{{ title }}」のエクスポートに失敗しました。エクスポートされたメンバーデータが最大限度を超えています。"
+
+msgid "site.message.content.excel_import_complete"
+msgstr "「{{ entryName }}」は{{ imported }}件のデータを正常にインポートしました。"
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」は{{ imported }}件のデータを正常にインポートしましたが、{{ failed "
+"}}件のデータのインポートに失敗しました。エラーレポートのダウンロードリンクは24時間後に無効になります。できるだけ早くダウンロードしてください。"
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "「{{ entryName }}」は{{ updated }}件のデータを正常に更新しました。"
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」は{{ updated }}件のデータを正常に更新しましたが、{{ failed "
+"}}件のデータの更新に失敗しました。エラーレポートのダウンロードリンクは24時間後に無効になります。できるだけ早くダウンロードしてください。"
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"「{{ entryName }}」は{{ updated }}件のデータを正常に更新し、{{ imported "
+"}}件のデータを正常にインポートしました。"
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」は{{ updated }}件のデータを正常に更新し、{{ imported "
+"}}件のデータを正常にインポートしましたが、{{ failed "
+"}}件のデータのインポートに失敗しました。エラーレポートのダウンロードリンクは24時間後に無効になります。できるだけ早くダウンロードしてください。"
+
+msgid "site.message.content.file_export_complete"
+msgstr "「{{ title }}」のダウンロード準備が整いました。ダウンロードリンクは24時間後に期限切れになります。できるだけ早くダウンロードしてください。"
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"「{{ title "
+"}}」のエクスポートファイルが大きすぎます。エクスポート時にデータは16MB、100,000行、1,000,000"
+"グリッドを超えることはできません。フィルタリングして再度エクスポートしてください。"
+
+msgid "site.message.content.file_export_failed"
+msgstr "「{{ title }}」のエクスポートに失敗しました。後でもう一度試すか、お問い合わせください。"
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"エクスポートに失敗しました。{widget}のファイルサイズが大きすぎます。最大1,000個の添付ファイルをエクスポートでき、圧縮ファイルのサイズは1 "
+"GBを超えることはできません。より小さなバッチでエクスポートしてみてください。"
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"エクスポートに失敗しました。「{{ title "
+"}}」フォームのデータに対するソートルールが多すぎます。ソートルールまたはエクスポートするデータ量を減らして再度エクスポートしてください。"
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"エクスポートに失敗しました。「{{ title "
+"}}」のファイルサイズが大きすぎます。最大1,000,000"
+"のマージされたセルをエクスポートでき、データはExcelの行制限を超えることはできません。データをフィルタリングして再度エクスポートしてください。"
+
+msgid "site.message.content.flow_cc"
+msgstr "追加の操作が必要な場合は、できるだけ早くご確認ください。"
+
+msgid "site.message.content.flow_cc_merge"
+msgstr "追加の操作が必要な場合は、できるだけ早くご確認ください。"
+
+msgid "site.message.content.flow_forward"
+msgstr "{{ operator }} がプロセスを提出しました。時間内に処理してください"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "{{flowCreatorName}} によって提出されました。速やかに処理してください。"
+
+msgid "site.message.content.flow_timeout"
+msgstr "{{flowCreatorName}} によって提出されました。速やかに処理してください。"
+
+msgid "site.message.content.follow_plan_complete"
+msgstr "{{ operator }}があなたのフォローアッププラン「{{ data_label }}」を完了しました。"
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }}があなたのフォローアッププランの{{ plan_num }}件を完了しました。"
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のフォームごとのデータボリュームが「{{ vipLevel }}」制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」はフォームごとにすでに{{ usage }}件のレコードを使用しており、{{ limit "
+"}}件の制限に近づいています。「管理 > プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.guest_corp_accept"
+msgstr ""
+"会社「{{ corpName "
+"}}」があなたの招待を受け入れました。将来のコラボレーションのために、アプリ/フォームの権限をその連絡先と共有してください。"
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr "あなたの接続パートナー「{{ corpName }}」が、連絡先の共同管理に関するリクエストを承認しました。"
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "会社「{{ corpName }}」はあなたとの接続を解除しました。"
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr "あなたの接続パートナー「{{ corpName }}」は、連絡先の権限を引き継ぎました。"
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"あなたの接続パートナー「{{ corpName "
+"}}」が使用モードを変更したため、接続が終了し、接続クォータがアカウントに戻されました。担当者に連絡して接続を再構築してください。"
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"あなたのパートナー「{{ corpName }}」が、連絡先の管理権限をリクエストしました。ビジネス連絡先を設定するために「{{ "
+"_g_productName }}」アカウント内の連絡先を管理する権限をリクエストしました。必要に応じて、後で連絡先の権限を引き継いでください。"
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr "会社「{{ corpName }}」はあなたとのコラボレーションを終了しました。ビジネスへの影響を避けるために、対応する権限を調整してください。"
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr "あなたの接続パートナー「{{ corpName }}」が使用モードを変更したため、接続が終了しました。担当者に連絡して接続を再構築してください。"
+
+msgid "site.message.content.import_file_complete"
+msgstr ""
+"「{{ title }}」のために{{ success }}個の添付ファイルがインポートされました。{{ failed "
+"}}個のインポートに失敗しました。"
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr "{{ operator }}がドキュメント「{{ document }}」内のコメントを処理しました。"
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "コメント概要：{{ comment }}。"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }}がドキュメント「{{ document }}」にコメントしました。"
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "コメント概要：{{ comment }}。"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }}がドキュメント「{{ document }}」を作成しました。"
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }}がドキュメント「{{ document }}」を編集しました。"
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }}がドキュメント「{{ document }}」に「いいね！」しました。"
+
+msgid "site.message.content.kms_space_apply"
+msgstr "{{ applicant }}がナレッジベース「{{ space_name }}」の作成を申請しました"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr "ナレッジベースの作成に成功しました。新しいナレッジベース「{{ space_name }}」の管理者になりました。"
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr "ナレッジベース「{{ space_name }}」の作成に失敗しました。説明を改善して再試行してください。"
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "拒否理由：{{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr "ナレッジベース「{{ space_name }}」の管理者になりました。ドキュメントを作成し、アイデアを共有しましょう！"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{ operator }}がドキュメント「{{ document }}」を表示するように通知しました。"
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "ドキュメント概要：{{ notify_text }}。"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }}があなたにリード「{{ data_label }}」を割り当てました。"
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }}が{{ leads_num }}件のリードをあなたに割り当てました。"
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }}がリード「{{ data_label }}」の所有者を変更しました。前の所有者：「{{ raw_charger "
+"}}」。新しい所有者：「{{ new_charger }}」。"
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr "{{ operator }}が{{ leads_num }}件のリードの担当者を変更しました。"
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{ operator }}がリード「{{ data_label }}」のコラボレーターを変更しました。現在のコラボレーター：「{{ "
+"collaborators }}」。"
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }}が{{ leads_num }}件のリードのコラボレーターを変更しました。"
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }}がリード「{{ data_label }}」を再回収しました。"
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "リード「{{ data_label }}」が自動的に再回収されました。"
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }}が{{ leads_num }}件のリードを再回収しました。"
+
+msgid "site.message.content.manage_group_add_members"
+msgstr "{{ operator }}が管理グループ「{{ manageGroup }}」に{{ members }}を追加しました。"
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{ operator }}が管理グループ「{{ manageGroup }}」を追加しました。"
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{ operator }}が管理グループ「{{ manageGroup }}」を削除しました。"
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr "{{ operator }}が管理グループ「{{ manageGroup }}」から{{ members }}を削除しました。"
+
+msgid "site.message.content.manager_login"
+msgstr "管理者{{ operator }}がシステムにログインしました。"
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }}が{{ memberSize }}のメンバーをインポートしました。"
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }}が{{ memberList }}を招待しました。"
+
+msgid "site.message.content.member_remove"
+msgstr "{{ operator }} がメンバー {{ memberList }} を退職扱いに設定しました"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」のシステム使用量が制限を超えています。中断せずに継続するために、「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"メッセージのプッシュに100回失敗しました。Webhook（メッセージ）が自動的に無効になりました。原因を確認し、「管理 - "
+"Webhook（メッセージ）」で設定を調整してください。"
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"メッセージのプッシュに失敗しました。100"
+"件以上のメッセージのプッシュに失敗すると、Webhook（メッセージ）が自動的に無効になります。原因を確認し、「管理 - "
+"Webhook（メッセージ）」で設定を調整してください。"
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"メッセージのプッシュに{{ count "
+"}}回失敗しました。100件以上のメッセージのプッシュに失敗すると、Webhook（メッセージ）が自動的に無効になります。原因を確認し、「管理 - "
+"Webhook（メッセージ）」で設定を調整してください。"
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"あなたの会社/チーム「{{ corpName "
+"}}」が無料で試用している一部のアプリが期限切れになろうとしています。期限が切れると、データは保持されますが、機能が制限されますので、タイムリーにプラン"
+"をアップグレードしてください。既に試用またはプレミアムプランを購入されている場合は、この通知を無視してください。"
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{ operator }}があなたのためにフォローアッププラン「{{ data_label }}」を追加しました。"
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }}が「{{ suite_name }}」の認可を追加しました。"
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }}が「{{ suite_name }}」の認可を取り消しました。"
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }}がビジネス機会「{{ data_label }}」の所有者を変更しました。前の所有者：「{{ raw_charger "
+"}}」。新しい所有者：「{{ new_charger }}」。"
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr "{{ operator }}が{{ opportunity_num }}件のビジネス機会の所有者を変更しました。"
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{ operator }}がビジネス機会「{{ data_label }}」のコラボレーターを変更しました。現在のコラボレーター：「{{ "
+"collaborators }}」。"
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr "{{ operator }}が{{ opportunity_num }}件のビジネス機会のコラボレーターを変更しました。"
+
+msgid "site.message.content.opportunity_win"
+msgstr "ビジネス機会「{{ data_label }}」が成功しました。"
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」のプラグイン「{{ pluginName }}」は{{ expireTime "
+"}}に期限切れになり、{{ days }}日後にプラグインが無効になります。更新をご希望の場合は、当社にご連絡ください。"
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」が無料で試用しているアプリ「{{ appName }}」は{{ days "
+"}}日後に期限切れになります。期限が切れると、データは保持されますが、機能が制限されますので、タイムリーにプランをアップグレードしてください。既に試用ま"
+"たはプレミアムプランを購入されている場合は、この通知を無視してください。"
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"あなたの会社／チーム「{{ corpName "
+"}}」のクラウドコインが不足しているため、SMS認証機能が利用できなくなり、一部のメンバーがデータを送信できませんでした。業務に影響が出ないように、デザ"
+"インを調整するか、コインをリチャージしてください。リチャージ後、機能は制限されません。"
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"あなたの友人{{ nickname }}が{{ _g_productName "
+"}}を通じてコラボレーションに招待しています。彼/彼女のチームに参加してください。招待は7日間有効です。"
+
+msgid "site.message.content.team_invite_notify"
+msgstr ""
+"あなたの友人{{ nickname }}が{{ _g_productName "
+"}}であなたと協力したいと考えています。詳細についてはメッセージをご覧ください。"
+
+msgid "site.message.content.team_invite_success"
+msgstr "あなたは{{ teamName }}に参加しました"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"あなたの会社/チーム「{{ corpName "
+"}}」のシステム使用量が無料プランの制限を超えています。試用期間後も中断なくシステムを使用できるようにするために、「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。残りの試用日数は、どのプランでも延長できます。"
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のオートメーションの数が「{{ vipLevel }}」制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のアップロードされた添付ファイルの数が「{{ vipLevel }}」制限を超えています。「管理 "
+"> プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のアカウントにアップロードされた添付ファイルの数が{{ usage }}に達し、全体の制限{{ "
+"limit "
+"}}に近づいています。制限を超える場合、クラウドコインが消費されます。業務に支障がないように、アカウントに十分なコインがあることを確認してください。"
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のアカウントにアップロードされた添付ファイルの数が{{ usage }}に達し、全体の制限{{ "
+"limit }}に近づいています。制限を超える場合、クラウドコインが消費されます。現在、{{ coinBalance "
+"}}コインがあります。業務に支障がないように、アカウントに十分なコインがあることを確認してください。"
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のアカウントにアップロードされた添付ファイルの数が{{ usage }}に達し、全体の制限{{ "
+"limit }}に近づいています。制限を超える場合、クラウドコインが消費されます。現在、{{ coinBalance "
+"}}コイン以下しかありません。業務に支障がないように、できるだけ早くコインをリチャージしてください。"
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"あなたの会社／チーム「{{ corpName }}」のアカウントにアップロードされた添付ファイルの数が{{ usage }}に達し、全体の制限{{ "
+"limit "
+"}}に近づいています。制限を超える場合、クラウドコインが消費されます。業務に支障がないように、「制限を超えるファイルのアップロードにはコインが必要」と支"
+"払い設定で有効にし、アカウントに十分なコインがあることを確認してください。"
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"あなたの会社/チーム「{{ corpName }}」のメンバー数が制限を超えています。「管理 > "
+"プラン詳細」にアクセスして、使用状況の詳細を確認し、プランをアップグレードしてください。"
+
+msgid "site.message.content.webhook_failed_count"
+msgstr "あなたのフォーム「{{ entryName }}」のWebhookが{{ count }}回失敗しました。できるだけ早く確認し、調整してください。"
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"あなたのフォーム「{{ entryName }}」のWebhookが{{ count "
+"}}回失敗し、Webhookが無効になりました。必要に応じて有効にしてください。"
+
+msgid "site.message.content.webhook_failed_first"
+msgstr "あなたのフォーム「{{ entryName }}」のWebhookが失敗しました。できるだけ早く確認し、調整してください。"
+
+msgid "site.message.content.webhook_form_type"
+msgstr "フォームタイプの切り替えにより、フォーム内のWebhookは新しいフォームタイプに基づいてデータをプッシュします。"
+
+msgid "site.message.link_text.accept_application"
+msgstr "承諾"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "承諾"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "エラーレポートをダウンロード"
+
+msgid "site.message.link_text.download_now"
+msgstr "今すぐダウンロード"
+
+msgid "site.message.link_text.view_details"
+msgstr "詳細を見る"
+
+msgid "site.message.title.dash_alert"
+msgstr "データアラート"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "エンタープライズテンプレート"
+
+msgid "template_center.space.standard"
+msgstr "公式テンプレート"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "連絡先一括インポートテンプレート"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "コラボレーター一括インポートテンプレート"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "ロールインポートテンプレート"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "連絡先の一括作成テンプレート"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "{{ _g_productName }} 身分証明申請書"
+
+msgid "tenant.verify.files.corp"
+msgstr "企業名、関連する証明書類など。"
+
+msgid "tenant.verify.files.owner"
+msgstr "名前、IDカード/その他の書類"
+
+msgid "tenant.verify.title.approved"
+msgstr "送信された証明書が承認されました。"
+
+msgid "tenant.verify.title.declined"
+msgstr "送信された証明書が拒否されました。"
+
+msgid "tenant.verify.title.has_expired"
+msgstr "会社の認証が期限切れになり、公開リンクはアクセスできなくなります。できるだけ早く認証してください。"
+
+msgid "tenant.verify.title.will_expire"
+msgstr "会社の認証がまもなく期限切れになります。公開リンクへのアクセスを継続するために、できるだけ早く認証してください。"
+
+msgid "tenant.verify.type.corp"
+msgstr "企業"
+
+msgid "tenant.verify.type.owner"
+msgstr "個人"
+
+msgid "type.not.match"
+msgstr "タイプが一致しません"
+
+msgid "ua.dingtalkMobile"
+msgstr "DingTalkモバイル"
+
+msgid "ua.dingtalkPC"
+msgstr "DingTalk PC"
+
+msgid "ua.larkMobile"
+msgstr "Larkモバイル"
+
+msgid "ua.larkPC"
+msgstr "Lark PC"
+
+msgid "ua.mobile"
+msgstr "モバイルウェブ"
+
+msgid "ua.pc"
+msgstr "PCウェブ"
+
+msgid "ua.wechatMiniProgram"
+msgstr "ミニプログラム"
+
+msgid "ua.wechatMobile"
+msgstr "WeChatモバイル"
+
+msgid "ua.wechatPC"
+msgstr "WeChat PC"
+
+msgid "ua.wxworkMobile"
+msgstr "WeComモバイル"
+
+msgid "ua.wxworkPC"
+msgstr "WeCom PC"
+
+msgid "user.defaultNickname"
+msgstr "無題"
+
+msgid "userActivity.app.metricsName"
+msgstr "アプリ別表示 - 活動詳細"
+
+msgid "userActivity.app.reportName"
+msgstr "アプリ別表示 - 概要"
+
+msgid "userActivity.appId"
+msgstr "アプリID"
+
+msgid "userActivity.appName"
+msgstr "アプリ"
+
+msgid "userActivity.app_access_count"
+msgstr "ユーザー数（アクセス）"
+
+msgid "userActivity.app_access_times"
+msgstr "回数（アクセス）"
+
+msgid "userActivity.data_create_count"
+msgstr "ユーザー数（データ作成）"
+
+msgid "userActivity.data_create_times"
+msgstr "回数（データ作成）"
+
+msgid "userActivity.data_export_count"
+msgstr "ユーザー数（データエクスポート）"
+
+msgid "userActivity.data_export_times"
+msgstr "回数（データエクスポート）"
+
+msgid "userActivity.data_remove_count"
+msgstr "ユーザー数（データ削除）"
+
+msgid "userActivity.data_remove_times"
+msgstr "回数（データ削除）"
+
+msgid "userActivity.data_update_count"
+msgstr "ユーザー数（データ更新）"
+
+msgid "userActivity.data_update_times"
+msgstr "回数（データ更新）"
+
+msgid "userActivity.entity.metricsName"
+msgstr "オブジェクト別表示 - 活動詳細"
+
+msgid "userActivity.entity.reportName"
+msgstr "オブジェクト別表示 - 概要"
+
+msgid "userActivity.entityId"
+msgstr "オブジェクトID"
+
+msgid "userActivity.entityName"
+msgstr "オブジェクト"
+
+msgid "userActivity.fileName"
+msgstr "メンバー活動"
+
+msgid "userActivity.login_stats_count"
+msgstr "ユーザー数（ログイン）"
+
+msgid "userActivity.login_stats_times"
+msgstr "回数（ログイン）"
+
+msgid "userActivity.memberId"
+msgstr "メンバーID"
+
+msgid "userActivity.nickName"
+msgstr "メンバー"
+
+msgid "userActivity.time"
+msgstr "日付"
+
+msgid "userActivity.user.metricsName"
+msgstr "メンバー別表示 - 活動詳細"
+
+msgid "userActivity.user.reportName"
+msgstr "メンバー別表示 - 概要"
+
+msgid "vip.pack.ent"
+msgstr "エンタープライズ"
+
+msgid "vip.pack.free"
+msgstr "無料"
+
+msgid "vip.pack.lite"
+msgstr "ライト"
+
+msgid "vip.pack.oem"
+msgstr "カスタマイズ"
+
+msgid "vip.pack.pro"
+msgstr "プロフェッショナル"
+
+msgid "vip.pack.self_hosted"
+msgstr "専用"
+
+msgid "vip.pack.starter"
+msgstr "スターター"
+
+msgid "vip.pack.std"
+msgstr "標準"
+
+msgid "vip.pack.trial"
+msgstr "トライアル"
+
+msgid "vip.pack.user"
+msgstr "ユーザー数別"
+
+msgid "vip.pack.user_premium"
+msgstr "プレミアム"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""

@@ -1,0 +1,4234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.836Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.836Z\n"
+
+msgid "activity.fileName"
+msgstr "活躍資料"
+
+msgid "activity_stats.export.dismission"
+msgstr "（已離職）"
+
+msgid "activity_stats.export.removed"
+msgstr "（已刪除）"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "已刪除應用"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "已刪除表單"
+
+msgid "aggregate.compatMetricName"
+msgstr "升級適配指標"
+
+msgid "aggregate.exceed.limit"
+msgstr "公式長度超過限制"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "聚合欄位不允許與非聚合欄位互相計算"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "聚合欄位不可再次用於聚合"
+
+msgid "aggregate.main.subform.error"
+msgstr "主表欄位不允許與字表欄位互相計算"
+
+msgid "aggregate.param.be.number"
+msgstr "{{ name }}聚合函数的參數必須為數值類型"
+
+msgid "aggregate.param.be.one"
+msgstr "聚合函数的參數個數應該為一個"
+
+msgid "aggregate.return.number"
+msgstr "公式的返回值類型應該為數值"
+
+msgid "aggregate.support.same.form.op"
+msgstr "只支持同一個子表單內的欄位進行運算"
+
+msgid "automation.node.end"
+msgstr "結束節點"
+
+msgid "automation.node.start"
+msgstr "觸發節點"
+
+msgid "bpa.presetWidget.title0"
+msgstr "已建立（個）"
+
+msgid "bpa.presetWidget.title1"
+msgstr "進行中（個）"
+
+msgid "bpa.presetWidget.title10"
+msgstr "單條流程平均處理時間趨勢圖"
+
+msgid "bpa.presetWidget.title11"
+msgstr "流程節點平均處理時間趨勢圖"
+
+msgid "bpa.presetWidget.title2"
+msgstr "已完成（個）"
+
+msgid "bpa.presetWidget.title3"
+msgstr "手動結束（個）"
+
+msgid "bpa.presetWidget.title4"
+msgstr "單條流程平均處理時間（小時）"
+
+msgid "bpa.presetWidget.title5"
+msgstr "流程節點待辦數量分佈"
+
+msgid "bpa.presetWidget.title6"
+msgstr "流程節點平均處理時間"
+
+msgid "bpa.presetWidget.title7"
+msgstr "成員待辦數量分佈"
+
+msgid "bpa.presetWidget.title8"
+msgstr "流程節點不同成員待辦數量分佈"
+
+msgid "bpa.presetWidget.title9"
+msgstr "流程節點不同成員平均處理時間"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "耗時（小時）"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "待辦數量（個）"
+
+msgid "compare.not.support"
+msgstr "不合法的比較符號{{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr "不合法的比較符號{{ op }}請使用'=='來替代"
+
+msgid "compare.param.boolean"
+msgstr "布林"
+
+msgid "compare.param.datetime"
+msgstr "時間戳"
+
+msgid "compare.param.not.support"
+msgstr "{{ op }} 兩邊參數類型不能為{{ type1 }}和{{ type2 }}"
+
+msgid "compare.param.number"
+msgstr "數字"
+
+msgid "compare.param.string"
+msgstr "文本"
+
+msgid "concatenate.param.error"
+msgstr "原始表單欄位不存在"
+
+msgid "corp.currentDepartment"
+msgstr "當前使用者所處部門"
+
+msgid "corp.currentUser"
+msgstr "當前使用者"
+
+msgid "corp.joinCorpSuccess"
+msgstr "成功加入團隊"
+
+msgid "corp.log.agentDisable"
+msgstr "禁用外掛"
+
+msgid "corp.log.agentEnable"
+msgstr "啟用外掛"
+
+msgid "corp.log.agentUninstall"
+msgstr "刪除外掛"
+
+msgid "corp.log.aggregateCreate"
+msgstr "建立彙總表"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "遷移彙總表"
+
+msgid "corp.log.aggregateRemove"
+msgstr "刪除彙總表"
+
+msgid "corp.log.aggregateRename"
+msgstr "修改彙總表名稱"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "修改彙總表設計"
+
+msgid "corp.log.aiLabDisable"
+msgstr "關閉 AI 實驗室"
+
+msgid "corp.log.aiLabEnable"
+msgstr "加入 AI 實驗室"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "新增密鑰"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "刪除密鑰"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "禁用密鑰"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "啟用密鑰"
+
+msgid "corp.log.apiKeyName"
+msgstr "API Key名稱"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "修改密鑰"
+
+msgid "corp.log.apiName"
+msgstr "API 名稱"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "關閉應用附件管控"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "開啟應用附件管控"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "修改應用附件管控"
+
+msgid "corp.log.appCreate"
+msgstr "建立應用"
+
+msgid "corp.log.appEtlLog"
+msgstr "{{ etlName }}-更新日誌"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "調整應用首頁"
+
+msgid "corp.log.appLog"
+msgstr "應用日誌"
+
+msgid "corp.log.appLogExport"
+msgstr "匯出應用日誌"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "添加應用管理組"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "關閉應用管理組"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "開啟應用管理組"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "刪除應用管理組"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "修改應用管理組名稱"
+
+msgid "corp.log.appManagerAdd"
+msgstr "添加管理員"
+
+msgid "corp.log.appManagerRemove"
+msgstr "刪除管理員"
+
+msgid "corp.log.appRecover"
+msgstr "恢復應用"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "調整跨應用設定"
+
+msgid "corp.log.appRemove"
+msgstr "刪除應用"
+
+msgid "corp.log.appRename"
+msgstr "修改應用名稱"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "調整應用URL"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "關閉應用浮水印"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "開啟應用浮水印"
+
+msgid "corp.log.application"
+msgstr "所屬應用"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "關閉全域附件管控"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "開啟全域附件管控"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "關閉了待辦委託"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "開啟了待辦委託"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr "取消了一條待辦委託：{{ timeRange }}期間內的待辦，{{ principal }}委託給{{ agent }}"
+
+msgid "corp.log.businessContent"
+msgstr "查詢內容"
+
+msgid "corp.log.businessCount"
+msgstr "消耗次數"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "工商認證"
+
+msgid "corp.log.businessTime"
+msgstr "認證時間"
+
+msgid "corp.log.callTime"
+msgstr "調用時間"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "修改雲幣支付設定"
+
+msgid "corp.log.coinUsageApp"
+msgstr "應用"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "表單"
+
+msgid "corp.log.coinUsageLog"
+msgstr "雲幣使用日誌"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "欄位"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "新增外部企業邀請連結"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "刪除外部企業邀請連結"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "編輯外部企業邀請連結"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "新增外部連絡窗口角色"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "刪除外部連絡窗口角色"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "修改外部連絡窗口角色名稱"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "調整外部連絡窗口角色成員"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "調整通知封鎖"
+
+msgid "corp.log.corpRename"
+msgstr "修改企業名稱"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "關閉企業風格"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "開啟企業風格"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "修改企業風格"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "修改企業帳號 URL"
+
+msgid "corp.log.customLoginDisable"
+msgstr "關閉自訂登入頁"
+
+msgid "corp.log.customLoginEnable"
+msgstr "開啟自訂登入頁"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "修改企業工作台"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "調整儀表板權限"
+
+msgid "corp.log.dashCreate"
+msgstr "建立儀表板"
+
+msgid "corp.log.dashPublicLink"
+msgstr "調整儀表板公開連結"
+
+msgid "corp.log.dashRecover"
+msgstr "恢復儀表板"
+
+msgid "corp.log.dashRemove"
+msgstr "刪除儀表板"
+
+msgid "corp.log.dashRename"
+msgstr "修改儀表板名稱"
+
+msgid "corp.log.dashUpdate"
+msgstr "修改儀表板設計"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "批次列印資料"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "批次恢復資料"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "批次刪除資料"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "批次修改資料"
+
+msgid "corp.log.dataCreate"
+msgstr "建立資料"
+
+msgid "corp.log.dataExport"
+msgstr "匯出資料"
+
+msgid "corp.log.dataImport"
+msgstr "匯入-新增資料"
+
+msgid "corp.log.dataImportFile"
+msgstr "匯入附件"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "匯入-更新資料"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "匯入-更新和新增資料"
+
+msgid "corp.log.dataPrint"
+msgstr "列印資料"
+
+msgid "corp.log.dataPrintQr"
+msgstr "列印 QR Code/條碼"
+
+msgid "corp.log.dataRecover"
+msgstr "恢復資料"
+
+msgid "corp.log.dataRemove"
+msgstr "刪除資料"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "建立智慧助手"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "刪除智慧助手"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "開啟智慧助手"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "關閉智慧助手"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "修改智慧助手"
+
+msgid "corp.log.dataUpdate"
+msgstr "修改資料"
+
+msgid "corp.log.deptCreate"
+msgstr "新增部署"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "新增企業標籤"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "刪除企業標籤"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "調整企業標籤內企業"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "修改企業標籤名稱"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "修改部署主管"
+
+msgid "corp.log.deptRemove"
+msgstr "刪除部署"
+
+msgid "corp.log.deptRename"
+msgstr "修改部署名稱"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "自動更新"
+
+msgid "corp.log.etlCreate"
+msgstr "建立資料流"
+
+msgid "corp.log.etlCronExecute"
+msgstr "定時更新"
+
+msgid "corp.log.etlDuration"
+msgstr "更新時長"
+
+msgid "corp.log.etlEndTime"
+msgstr "結束時間"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "更新結果"
+
+msgid "corp.log.etlExecuteType"
+msgstr "更新方式"
+
+msgid "corp.log.etlJust"
+msgstr "少於1分鐘"
+
+msgid "corp.log.etlManualExecute"
+msgstr "手動更新"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }}分鐘"
+
+msgid "corp.log.etlRemove"
+msgstr "刪除資料流"
+
+msgid "corp.log.etlRename"
+msgstr "修改資料流名稱"
+
+msgid "corp.log.etlStartTime"
+msgstr "開始時間"
+
+msgid "corp.log.etlTime"
+msgstr "更新日期"
+
+msgid "corp.log.etlUpdate"
+msgstr "修改資料流設計"
+
+msgid "corp.log.fail"
+msgstr "失敗"
+
+msgid "corp.log.fileDownload"
+msgstr "下載文件"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "關閉流程分析"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "開啟流程分析"
+
+msgid "corp.log.flowUpdate"
+msgstr "修改流程設計"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "批次調整表單/儀表板權限"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "調整表單權限"
+
+msgid "corp.log.formCreate"
+msgstr "建立表單"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "刪除資料詳情頁"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "切換資料詳情頁"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "編輯資料詳情頁"
+
+msgid "corp.log.formOnlinePay"
+msgstr "調整表單在線支付"
+
+msgid "corp.log.formPublicLink"
+msgstr "調整表單公開連結"
+
+msgid "corp.log.formPublicQuery"
+msgstr "調整表單公開查詢"
+
+msgid "corp.log.formRecover"
+msgstr "恢復表單"
+
+msgid "corp.log.formRemove"
+msgstr "刪除表單"
+
+msgid "corp.log.formRename"
+msgstr "修改表單名稱"
+
+msgid "corp.log.formUpdate"
+msgstr "修改表單設計"
+
+msgid "corp.log.guestConnect"
+msgstr "邀請外部企業"
+
+msgid "corp.log.guestDockerExport"
+msgstr "匯出外部連絡窗口"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "修改外部連絡窗口資訊"
+
+msgid "corp.log.guestUpdate"
+msgstr "修改外部企業資訊"
+
+msgid "corp.log.hostDisconnect"
+msgstr "解除邀請我協作的企業的連接"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "新增我方連絡窗口"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "移除我方連絡窗口"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "修改我方連絡窗口資訊"
+
+msgid "corp.log.integrateUpdate"
+msgstr "修改綁定資訊"
+
+msgid "corp.log.ip"
+msgstr "IP位址"
+
+msgid "corp.log.kmsDisable"
+msgstr "關閉知識庫"
+
+msgid "corp.log.kmsEnable"
+msgstr "開啟知識庫"
+
+msgid "corp.log.loginLocation"
+msgstr "登入地"
+
+msgid "corp.log.loginLog"
+msgstr "登入日誌"
+
+msgid "corp.log.loginLogExport"
+msgstr "匯出登入日誌"
+
+msgid "corp.log.loginPlatform"
+msgstr "登入平台"
+
+msgid "corp.log.loginTime"
+msgstr "登入時間"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "新增普通管理組"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "刪除普通管理組"
+
+msgid "corp.log.manageGroupRename"
+msgstr "修改普通管理組名稱"
+
+msgid "corp.log.managersAdd"
+msgstr "新增管理員"
+
+msgid "corp.log.managersRemove"
+msgstr "刪除管理員"
+
+msgid "corp.log.memberExit"
+msgstr "主動退出了企業"
+
+msgid "corp.log.memberExport"
+msgstr "匯出通訊錄"
+
+msgid "corp.log.memberFreeze"
+msgstr "停用成員"
+
+msgid "corp.log.memberHardDelete"
+msgstr "刪除成員"
+
+msgid "corp.log.memberInvite"
+msgstr "邀請成員"
+
+msgid "corp.log.memberRecover"
+msgstr "啟用成員"
+
+msgid "corp.log.memberRemove"
+msgstr "轉為離職"
+
+msgid "corp.log.memberUpdate"
+msgstr "修改成員資訊"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "匯出角色"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "匯入角色"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "關閉訊息推播"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "開啟訊息推播"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "修改訊息推播"
+
+msgid "corp.log.oauthCreate"
+msgstr "新增授權"
+
+msgid "corp.log.oauthDelete"
+msgstr "解除授權"
+
+msgid "corp.log.ocrBankCard"
+msgstr "銀行卡"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "營業執照"
+
+msgid "corp.log.ocrContent"
+msgstr "辨識內容"
+
+msgid "corp.log.ocrCount"
+msgstr "消耗次數"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "駕駛證"
+
+msgid "corp.log.ocrGeneral"
+msgstr "通用文字"
+
+msgid "corp.log.ocrIdCard"
+msgstr "身份證"
+
+msgid "corp.log.ocrLog"
+msgstr "文字辨識"
+
+msgid "corp.log.ocrResult"
+msgstr "辨識結果"
+
+msgid "corp.log.ocrTime"
+msgstr "辨識時間"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "火車票"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "增值稅發票"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "行駛證"
+
+msgid "corp.log.openApiLog"
+msgstr "API調用日誌"
+
+msgid "corp.log.openApiLogExport"
+msgstr "匯出開放API日誌"
+
+msgid "corp.log.operateDetails"
+msgstr "操作詳情"
+
+msgid "corp.log.operateLog"
+msgstr "平台日誌"
+
+msgid "corp.log.operateLogExport"
+msgstr "匯出平台日誌"
+
+msgid "corp.log.operateObject"
+msgstr "操作物件"
+
+msgid "corp.log.operateTime"
+msgstr "操作時間"
+
+msgid "corp.log.operateType"
+msgstr "操作類型"
+
+msgid "corp.log.operator"
+msgstr "操作人"
+
+msgid "corp.log.orderCancel"
+msgstr "取消訂單"
+
+msgid "corp.log.orderCreate"
+msgstr "建立訂單"
+
+msgid "corp.log.orderDelete"
+msgstr "刪除訂單"
+
+msgid "corp.log.orderPay"
+msgstr "支付訂單"
+
+msgid "corp.log.orderReceipt"
+msgstr "訂單開票"
+
+msgid "corp.log.payUpdate"
+msgstr "設定支付服務"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "關閉權限管理"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "開啟權限管理"
+
+msgid "corp.log.pluginCount"
+msgstr "外掛觸發次數"
+
+msgid "corp.log.pluginCreate"
+msgstr "新建外掛"
+
+msgid "corp.log.pluginExport"
+msgstr "導出外掛"
+
+msgid "corp.log.pluginImport"
+msgstr "導入外掛"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "導入更新外掛"
+
+msgid "corp.log.pluginInstall"
+msgstr "安裝外掛"
+
+msgid "corp.log.pluginName"
+msgstr "外掛名稱"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "發佈外掛"
+
+msgid "corp.log.pluginUpdate"
+msgstr "修改外掛"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "外掛觸發"
+
+msgid "corp.log.registrant"
+msgstr "登入人"
+
+msgid "corp.log.returnStatus"
+msgstr "返回狀態"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "調整角色分組"
+
+msgid "corp.log.roleCreate"
+msgstr "建立角色"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "建立角色組"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "刪除角色組"
+
+msgid "corp.log.roleGroupRename"
+msgstr "修改角色組名稱"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "調整角色成員"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "設定分管部署"
+
+msgid "corp.log.roleRemove"
+msgstr "刪除角色"
+
+msgid "corp.log.roleRename"
+msgstr "修改角色名稱"
+
+msgid "corp.log.running"
+msgstr "運作中"
+
+msgid "corp.log.smsContent"
+msgstr "詳情"
+
+msgid "corp.log.smsCount"
+msgstr "消耗條數"
+
+msgid "corp.log.smsSendFailed"
+msgstr "發送失敗"
+
+msgid "corp.log.smsSendPhone"
+msgstr "手機號"
+
+msgid "corp.log.smsSendResult"
+msgstr "發送狀態"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "發送成功"
+
+msgid "corp.log.smsSendingLog"
+msgstr "簡訊發送"
+
+msgid "corp.log.smsTime"
+msgstr "時間"
+
+msgid "corp.log.spaceCreate"
+msgstr "建立知識庫"
+
+msgid "corp.log.spaceDelete"
+msgstr "刪除知識庫"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "新建知識庫權限組"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "刪除知識庫權限組"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "修改知識庫權限組"
+
+msgid "corp.log.spaceUpdate"
+msgstr "修改知識庫基本資訊"
+
+msgid "corp.log.success"
+msgstr "成功"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "設定產品可見範圍"
+
+msgid "corp.log.suiteDisable"
+msgstr "關閉產品"
+
+msgid "corp.log.suiteEnable"
+msgstr "開啟產品"
+
+msgid "corp.log.systemRobot"
+msgstr "系統機器人"
+
+msgid "corp.log.tenantVerify"
+msgstr "身份認證"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "修改時區"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "申請代管通訊錄"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "移交代管權限"
+
+msgid "corp.log.waiting"
+msgstr "等待中"
+
+msgid "corp.log.watermarkDisable"
+msgstr "關閉全域浮水印"
+
+msgid "corp.log.watermarkEnable"
+msgstr "開啟全域浮水印"
+
+msgid "corp.log.wxDisable"
+msgstr "關閉微信服務號集成"
+
+msgid "corp.log.wxEnable"
+msgstr "開啟微信服務號集成"
+
+msgid "corp.syncFailed"
+msgstr "自動同步失敗"
+
+msgid "corp.syncFailedContent"
+msgstr "企業通訊錄同步失敗。"
+
+msgid "corp.syncFailedSubject"
+msgstr "成員同步失敗"
+
+msgid "corp.syncSuccessContent"
+msgstr "企業通訊錄已完成同步。"
+
+msgid "corp.syncSuccessSubject"
+msgstr "成員同步成功"
+
+msgid "corp.systemManageGroup"
+msgstr "系統管理組"
+
+msgid "corp.unGrouped"
+msgstr "未分組"
+
+msgid "corpCoop.department"
+msgstr "外部組織"
+
+msgid "corpUsage.accessTime"
+msgstr "最近一次造訪時間"
+
+msgid "corpUsage.aggregate"
+msgstr "彙總表數"
+
+msgid "corpUsage.app"
+msgstr "應用數"
+
+msgid "corpUsage.app.cardName"
+msgstr "按應用查看-概覽"
+
+msgid "corpUsage.app.metricListName"
+msgstr "按應用查看-用量詳情"
+
+msgid "corpUsage.appId"
+msgstr "應用 ID"
+
+msgid "corpUsage.appName"
+msgstr "應用名稱"
+
+msgid "corpUsage.attachment"
+msgstr "附件上傳量"
+
+msgid "corpUsage.automation"
+msgstr "智慧助手 Pro 數"
+
+msgid "corpUsage.bpa"
+msgstr "流程分析數"
+
+msgid "corpUsage.createTime"
+msgstr "建立日期"
+
+msgid "corpUsage.creator"
+msgstr "建立者"
+
+msgid "corpUsage.creator.username"
+msgstr "建立者編號"
+
+msgid "corpUsage.dash"
+msgstr "儀表板數"
+
+msgid "corpUsage.dash.type"
+msgstr "儀表板"
+
+msgid "corpUsage.data"
+msgstr "資料總量"
+
+msgid "corpUsage.data_trigger"
+msgstr "智慧助手數"
+
+msgid "corpUsage.date"
+msgstr "日期"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "資料詳情"
+
+msgid "corpUsage.etl"
+msgstr "資料工廠數"
+
+msgid "corpUsage.fileName"
+msgstr "資源用量"
+
+msgid "corpUsage.form_coop"
+msgstr "普通表單數"
+
+msgid "corpUsage.form_coop.type"
+msgstr "普通表單"
+
+msgid "corpUsage.form_workflow"
+msgstr "流程表單數"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "流程表單 ID"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "流程表單名稱"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "流程表單"
+
+msgid "corpUsage.member.cardName"
+msgstr "按成員查看-概覽"
+
+msgid "corpUsage.member.metricListName"
+msgstr "按成員查看-用量詳情"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "未記錄"
+
+msgid "corpUsage.public_link"
+msgstr "連結開啟數"
+
+msgid "corpUsage.public_link.type"
+msgstr "物件類型"
+
+msgid "corpUsage.updateTime"
+msgstr "最近一次編輯時間"
+
+msgid "corp_coop.operate.create"
+msgstr "新增"
+
+msgid "corp_coop.operate.delete"
+msgstr "刪除"
+
+msgid "corp_coop.side.other"
+msgstr "對"
+
+msgid "corp_coop.side.our"
+msgstr "我"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "關閉了應用「{{ app_name }}」的應用附件管控"
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "開啟了應用「{{ app_name }}」的應用附件管控"
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "修改了應用「{{ app_name }}」的應用附件管控"
+
+msgid "corp_log.content.app_home_update"
+msgstr "調整了應用「{{ app_name }}」的應用首頁"
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "在「{{ appName }}」添加了應用管理組「{{ name }}」"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "在「{{ appName }}」刪除了應用管理組「{{ name }}」"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr "將「{{ appName }}」中應用管理組「{{ oriName }}」重命名為「{{ name }}」"
+
+msgid "corp_log.content.app_manager_add"
+msgstr "在「{{ appName }}」的應用管理組「{{ name }}」添加了成員：{{ members }}"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "在「{{ appName }}」的應用管理組「{{ name }}」刪除了成員：{{ members }}"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "調整了應用「{{ app_name }}」的跨應用設定"
+
+msgid "corp_log.content.app_url_update"
+msgstr "調整了應用「{{ app_name }}」的應用URL"
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "關閉了應用「{{ app_name }}」的應用浮水印"
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "開啟了應用「{{ app_name }}」的應用浮水印"
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "關閉了待辦委託"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "開啟了待辦委託"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr "取消了一條待辦委託：{{ timeRange }}期間內的待辦，{{ principal }}委託給{{ agent }}"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "調整了通知封鎖名單中的成員"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr "調整了通知封鎖名單中的成員和接收通知的應用範圍"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "調整了通知封鎖名單中的接收通知的應用範圍"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "關閉了{{ count }}個表單的流程分析"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "開啟了{{ count }}個表單的流程分析"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "關閉了表單「{{ flow_name }}」的流程分析"
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "開啟了表單「{{ flow_name }}」的流程分析"
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "批次調整了表單/儀表板權限"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "匯出了角色資訊"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "匯入了「{{ fullRoleNames }}」下的成員"
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "調整了角色「{{ role }}」內成員的分管部署"
+
+msgid "corp_log.content.role_rel_update"
+msgstr "調整了角色「{{ role }}」內成員「{{ nickname }}」的分管部署"
+
+msgid "corp_log.content.space_create"
+msgstr "建立了知識庫「{{ space_name }}」"
+
+msgid "corp_log.content.space_delete"
+msgstr "刪除了知識庫「{{ space_name }}」"
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "新建了知識庫權限組「{{ space_perm_group_name }}」"
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "刪除了知識庫權限組「{{ space_perm_group_name }}」"
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "修改了知識庫權限組「{{ space_perm_group_name }}」"
+
+msgid "corp_log.content.space_update"
+msgstr "修改了知識庫「{{ space_name }}」的基本資訊"
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "設定了「{{ name }}」的可見範圍"
+
+msgid "corp_log.content.suite_disable"
+msgstr "關閉了「{{ name }}」"
+
+msgid "corp_log.content.suite_enable"
+msgstr "啟用了「{{ name }}」"
+
+msgid "crm.upgrade.relatedData"
+msgstr "關聯資料"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "同意了{{ nickname }}({{ corpName }})的連接邀請"
+
+msgid "crop_log.content.agent_disable"
+msgstr "停用了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.agent_enable"
+msgstr "啟用了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "刪除了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr "建立了彙總表「{{ name }}」，復製自「{{ app_name }}」應用的「{{ ori_name }}」彙總表"
+
+msgid "crop_log.content.aggregate_create"
+msgstr "建立了彙總表「{{ name }}」"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "恢復了彙總表「{{ name }}」"
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "刪除了彙總表「{{ name }}」"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "將彙總表「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "修改了彙總表「{{ name }}」的設計"
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "升级了聚合表「{{ name }}」"
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "關閉了 AI 實驗室"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "加入了 AI 實驗室"
+
+msgid "crop_log.content.api_key_create"
+msgstr "新增了密鑰"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "新增了密鑰「{{ name }}」"
+
+msgid "crop_log.content.api_key_delete"
+msgstr "刪除了密鑰"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "刪除了密鑰「{{ name }}」"
+
+msgid "crop_log.content.api_key_disable"
+msgstr "停用了密鑰"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "停用了密鑰「{{ name }}」"
+
+msgid "crop_log.content.api_key_enable"
+msgstr "啟用了密鑰"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "啟用了密鑰「{{ name }}」"
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "修改了密鑰「{{ name }}」的「接口 授權範圍」"
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "修改了密鑰「{{ name }}」的「應用 授權範圍」"
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "修改了密鑰「{{ name }}」的「IP 白名單」"
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "修改了密鑰「{{ name }}」的「名稱」"
+
+msgid "crop_log.content.app_create"
+msgstr "建立了應用「{{ name }}」"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "建立了應用「{{ name }}」，復製自「{{ ori_name }}」"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "匯出了資料工廠日誌"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "從釘釘搭安裝了應用「{{ name }}」"
+
+msgid "crop_log.content.app_install_link"
+msgstr "從應用連結安裝了應用「{{ name }}」"
+
+msgid "crop_log.content.app_install_template"
+msgstr "從範本中心安裝了應用「{{ name }}」"
+
+msgid "crop_log.content.app_log_export"
+msgstr "匯出了應用日誌"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "關閉了應用管理組"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "開啟了應用管理組"
+
+msgid "crop_log.content.app_recover"
+msgstr "恢復了應用「{{ name }}」"
+
+msgid "crop_log.content.app_remove"
+msgstr "刪除了應用「{{ name }}」"
+
+msgid "crop_log.content.app_rename"
+msgstr "將應用「{{ ori_name }}」名稱重命名為「{{ name }}」"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "匯出了智慧助手日誌"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "關閉了全域附件管控"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "開啟了全域附件管控"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "修改了權限組「{{ name }}」權限設定"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "新建了權限組「{{ name }}」"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "刪除了權限組「{{ name }}」"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "將權限組「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "修改了權限組「{{ name }}」的成員範圍"
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "修改了雲幣支付設定"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "匯出了雲幣使用日誌"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "新增了外部企業邀請連結"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "刪除了外部企業邀請連結"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "編輯了外部企業邀請連結"
+
+msgid "crop_log.content.corp_rename"
+msgstr "將企業名稱「{{ old_corp_name }}」重命名為「{{ new_corp_name }}」"
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "關閉了企業風格"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "開啟了企業風格"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "修改了企業風格"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "修改了企業帳號 URL"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "新增了外部連絡窗口角色「{{ roleName }}」"
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "關閉了自訂登入頁"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "開啟了自訂登入頁"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "修改了企業工作台"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "調整了儀表板「{{ name }}」的發布範圍"
+
+msgid "crop_log.content.dash_create"
+msgstr "建立了儀表板「{{ name }}」"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr "建立了儀表板「{{ name }}」，復製自「{{ app_name }}」應用的「{{ ori_name }}」儀表板"
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "關閉儀表板公開連結匯出"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "開啟儀表板公開連結匯出"
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "關閉儀表板公開連結"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "開啟儀表板公開連結"
+
+msgid "crop_log.content.dash_recover"
+msgstr "恢復了儀表板「{{ name }}」"
+
+msgid "crop_log.content.dash_remove"
+msgstr "刪除了儀表板「{{ name }}」"
+
+msgid "crop_log.content.dash_rename"
+msgstr "將儀表板「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.dash_update"
+msgstr "修改了儀表板「{{ name }}」的設計"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "使用「{{ template_name }}」範本批次列印了資料"
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "批次恢復了{{ count }}筆資料"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "批次刪除了{{ count }}筆資料"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "從資料回收站批次刪除了{{ count }}筆資料"
+
+msgid "crop_log.content.data_batch_update"
+msgstr "批次修改了{{ total }}筆資料，成功{{ success }}條，失敗{{ failed }}條"
+
+msgid "crop_log.content.data_create"
+msgstr "建立了資料「{{ data_label }}」"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr "使用「{{ template_name }}」範本批次列印了「{{ table_name }}」的資料"
+
+msgid "crop_log.content.data_export"
+msgstr "匯出了「{{ entry_name }}」的資料"
+
+msgid "crop_log.content.data_import"
+msgstr "匯入新增了{{ count }}筆資料"
+
+msgid "crop_log.content.data_import_file"
+msgstr "匯入了{{ success }}個附件"
+
+msgid "crop_log.content.data_import_update"
+msgstr "匯入更新了{{ count }}筆資料"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr "匯入更新了{{ updata_datas_amount }}筆資料, 匯入新增了{{ insert_datas_amount }}筆資料"
+
+msgid "crop_log.content.data_print"
+msgstr "使用「{{ template_name }}」範本列印了資料「{{ data_label }}」"
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "批次列印了資料 QR Code"
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "批次列印了欄位條碼"
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "批次列印了欄位 QR Code"
+
+msgid "crop_log.content.data_recover"
+msgstr "恢復了資料「{{ data_label }}」"
+
+msgid "crop_log.content.data_remove"
+msgstr "刪除了資料「{{ data_label }}」"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "從資料回收站中刪除了資料「{{ data_label }}」"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr "建立了智慧助手「{{ name }}」，復製自「{{ app_name }}」應用的「{{ ori_name }}」智慧助手"
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "建立了智慧助手「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "刪除了智慧助手「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "開啟了智慧助手「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "關閉了智慧助手「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "修改了智慧助手「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr "修改了智慧助手「{{ ori_name }}」，並重命名為「{{ name }}」"
+
+msgid "crop_log.content.data_update"
+msgstr "修改了資料「{{ data_label }}」"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "刪除了外部連絡窗口角色「{{ roleName }}」"
+
+msgid "crop_log.content.dept_create"
+msgstr "新增了部署「{{ name }}」"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "新增了企業標籤「{{ dept_label_name }}」"
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "刪除了企業標籤「{{ dept_label_name }}」"
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "調整了企業標籤「{{ dept_label_name }}」內的企業"
+
+msgid "crop_log.content.dept_label_update"
+msgstr "將「{{ old_dept_label_name }}」重命名為「{{ new_dept_label_name }}」"
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "修改了部署「{{ name }}」的部署主管"
+
+msgid "crop_log.content.dept_remove"
+msgstr "刪除了部署「{{ name }}」"
+
+msgid "crop_log.content.dept_rename"
+msgstr "將部署「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "批次建立了{{ count }}名成員"
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "將「{ corpName }」的{{ count }}名成員轉為離職"
+
+msgid "crop_log.content.etl_copy"
+msgstr "建立了資料流「{{ name }}」，復製自「{{ app_name }}」應用的「{{ ori_name }}」資料流"
+
+msgid "crop_log.content.etl_create"
+msgstr "建立了資料流「{{ name }}」"
+
+msgid "crop_log.content.etl_remove"
+msgstr "刪除了資料流「{{ name }}」"
+
+msgid "crop_log.content.etl_rename"
+msgstr "將資料流「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.etl_update"
+msgstr "修改了資料流「{{ name }}」的設計"
+
+msgid "crop_log.content.fields_recover"
+msgstr "修改了表單「{{ name }}」的表單設計，從欄位回收站恢復了{{ count }}個欄位：{{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"修改了表單「{{ name }}」的表單設計，刪除了{{ delCount }}個欄位，從欄位回收站恢復了{{ recoverCount "
+"}}個欄位：{{ fields }}"
+
+msgid "crop_log.content.fields_remove"
+msgstr "修改了表單「{{ name }}」的表單設計，刪除了{{ count }}個欄位"
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "從欄位回收站徹底刪除了{{ count }}個欄位：{{ fields }}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr "清空了回收站，{{ count }}個欄位被徹底刪除"
+
+msgid "crop_log.content.file_batch_export"
+msgstr "下載了「{{ entry_name }}」的文件"
+
+msgid "crop_log.content.flow_update"
+msgstr "修改了表單「{{ name }}」的流程設計"
+
+msgid "crop_log.content.form_create"
+msgstr "建立了表單「{{ name }}」"
+
+msgid "crop_log.content.form_create_copy"
+msgstr "建立了表單「{{ name }}」，復製自「{{ app_name }}」應用的「{{ ori_name }}」表單"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "刪除自訂詳情頁"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "切換為自訂詳情頁"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "切換為系統預設詳情頁"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "編輯自訂詳情頁"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "關閉表單在線支付"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "開啟表單在線支付"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "修改表單在線支付"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "關閉公開連結"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "開啟公開連結"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "關閉表單公開連結"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "開啟表單公開連結"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "關閉表單公開查詢"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "開啟表單公開查詢"
+
+msgid "crop_log.content.form_recover"
+msgstr "恢復表單 {{ name }}"
+
+msgid "crop_log.content.form_remove"
+msgstr "刪除了表單「{{ name }}」"
+
+msgid "crop_log.content.form_rename"
+msgstr "將表單「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.form_update"
+msgstr "修改了表單「{{ name }}」的表單設計"
+
+msgid "crop_log.content.guest_connect"
+msgstr "批次邀請了{{ count }}家企業"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "匯出了全部客體連絡窗口"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr "修改外部連絡窗口「{{ old_guest_docker_nickname }}」資訊"
+
+msgid "crop_log.content.guest_update"
+msgstr "修改了外部企業資訊"
+
+msgid "crop_log.content.handover_work"
+msgstr "將{{ from }}的{{ works }}工作轉交給{{ to }}"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "與邀請我協作的{{ count }}個企業解除了連接"
+
+msgid "crop_log.content.host_connect"
+msgstr "邀請了{{ host_corp_name }}"
+
+msgid "crop_log.content.host_disconnect"
+msgstr "與邀請我協作的企業「{{ name }}」解除了連接"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "新增了{{ count }}名我方連絡窗口"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "移除了{{ count }}名我方連絡窗口"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "新增了我方連絡窗口「{{ name }}」"
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "移除了我方連絡窗口「{{ name }}」"
+
+msgid "crop_log.content.host_docker_update"
+msgstr "修改了我方連絡窗口「{{ name }}」的資訊"
+
+msgid "crop_log.content.integrate_update"
+msgstr "修改了綁定資訊"
+
+msgid "crop_log.content.kms_disable"
+msgstr "關閉了知識庫"
+
+msgid "crop_log.content.kms_enable"
+msgstr "開啟了知識庫"
+
+msgid "crop_log.content.login_log_export"
+msgstr "匯出了登入日誌"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "新增了普通管理組「{{ name }}」"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "刪除了普通管理組「{{ name }}」"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "將普通管理組「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.managers_add"
+msgstr "在管理組「{{ name }}」新增了成員：{{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "在管理組「{{ name }}」刪除了成員：{{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "將{{ count }}名成員轉為停用"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "將{{ count }}名離職成員徹底刪除"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "將{{ count }}名成員轉為啟用"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "將{{ count }}名成員轉為離職"
+
+msgid "crop_log.content.member_exit"
+msgstr "成員「{{ nickname }}」主動退出了企業"
+
+msgid "crop_log.content.member_export"
+msgstr "匯出了通訊錄資料"
+
+msgid "crop_log.content.member_freeze"
+msgstr "將「{{ nickname }}」轉為停用"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "將離職成員「{{ nickname }}」徹底刪除"
+
+msgid "crop_log.content.member_import"
+msgstr "批次邀請了{{ count }}名成員"
+
+msgid "crop_log.content.member_invite"
+msgstr "邀請了{{ nickname }}"
+
+msgid "crop_log.content.member_recover"
+msgstr "將「{{ nickname }}」轉為啟用"
+
+msgid "crop_log.content.member_remove"
+msgstr "將「{{ nickname }}」轉為離職"
+
+msgid "crop_log.content.member_update"
+msgstr "修改了{{ nickname }}的資訊"
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "關閉了訊息推播"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "開啟了訊息推播"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "修改了訊息推播"
+
+msgid "crop_log.content.oauth_create"
+msgstr "新增了對「{{ suite_name }}」的授權"
+
+msgid "crop_log.content.oauth_delete"
+msgstr "解除了對「{{ suite_name }}」的授權"
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "匯出了開放API日誌"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "匯出了平台日誌"
+
+msgid "crop_log.content.order_cancel"
+msgstr "取消了訂單"
+
+msgid "crop_log.content.order_create"
+msgstr "建立了訂單"
+
+msgid "crop_log.content.order_delete"
+msgstr "刪除了訂單"
+
+msgid "crop_log.content.order_pay"
+msgstr "支付了訂單"
+
+msgid "crop_log.content.order_receipt"
+msgstr "對訂單進行了開票"
+
+msgid "crop_log.content.pay_disable"
+msgstr "關閉支付服務"
+
+msgid "crop_log.content.pay_enable"
+msgstr "開啟支付服務"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "綁定銀聯商戶"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "刪除銀聯商戶"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "關閉了權限管理"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "開啟了權限管理"
+
+msgid "crop_log.content.plugin_create"
+msgstr "新建了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_delete"
+msgstr "刪除了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr "新建了外掛「{{ plugin_name }}」，復製自「{{ ori_plugin_name }}」"
+
+msgid "crop_log.content.plugin_export"
+msgstr "導出了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_import"
+msgstr "導入了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "導入更新了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_install"
+msgstr "安裝了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "申請發佈外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_update"
+msgstr "修改了外掛「{{ plugin_name }}」"
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "調整了外部連絡窗口角色「{{ roleName }}」內的成員"
+
+msgid "crop_log.content.role_change_group"
+msgstr "調整角色「{{ role_name }}」至分組「{{ new_group_name }}」"
+
+msgid "crop_log.content.role_create"
+msgstr "在角色組「{{ group_name }}」建立了角色「{{ name }}」"
+
+msgid "crop_log.content.role_group_create"
+msgstr "建立了角色組「{{ name }}」"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "刪除了角色組「{{ name }}」"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "將「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.role_member_update"
+msgstr "調整了角色「{{ name }}」的成員"
+
+msgid "crop_log.content.role_remove"
+msgstr "在角色組「{{ group_name }}」刪除了角色「{{ name }}」"
+
+msgid "crop_log.content.role_rename"
+msgstr "將「{{ ori_name }}」重命名為「{{ name }}」"
+
+msgid "crop_log.content.tenant_verify"
+msgstr "完成了身份認證"
+
+msgid "crop_log.content.timezone_update"
+msgstr "將系統時區由「{{ old_timezone }}」調整為「{{ new_timezone }}」"
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "申請代管「{{ name }}」的通訊錄"
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr "移交「{{ name }}」的代管權限"
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr "將外部連絡窗口角色「{{ oldRoleName }}」重命名為「{{ newRoleName }}」"
+
+msgid "crop_log.content.watermark_disable"
+msgstr "關閉了全域浮水印"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "開啟了全域浮水印"
+
+msgid "crop_log.content.wx_disable"
+msgstr "關閉了微信服務號集成"
+
+msgid "crop_log.content.wx_enable"
+msgstr "開啟了微信服務號集成"
+
+msgid "crop_log.link_text.view_details"
+msgstr "查看詳情"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} - 登入"
+
+msgid "dash.date.format.year.quarter"
+msgstr "yyyy/q季度"
+
+msgid "dash.date.format.year.week"
+msgstr "yyyy/ww週"
+
+msgid "dash.excel.export.subtotal"
+msgstr "小計"
+
+msgid "dash.excel.export.sum"
+msgstr "共計"
+
+msgid "dash.excel.export.total"
+msgstr "彙總"
+
+msgid "dash.percent"
+msgstr "占比"
+
+msgid "deptType.corpCoop"
+msgstr "互聯組織"
+
+msgid "deptType.internal"
+msgstr "內部組織"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "信箱有誤，請檢查"
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "信箱已存在"
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "成員使用者名僅支援字母數字和下劃線，且以字母開頭"
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "成員使用者名最短為 3 個字符，最長為 80 個字符"
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "請輸入成員使用者名"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "成員使用者名通訊錄中已存在"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr "使用者名已存在於其他租戶中，請確認是否為同個成員；若不相同，請修改使用者名；若相同，請邀請加入租戶"
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "成員姓名最長為 80 個字符"
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "請輸入成員姓名"
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "找不到對應的匯入策略"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "請輸入成員密碼"
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "手機號有誤，請檢查"
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "手機號已存在"
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "未知錯誤"
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "成員編號僅支援字母、數字、下劃線和‘.’"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "成員編號通訊錄中已存在"
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "找不到可複用的使用者或成員"
+
+msgid "email.title.aggregate_buffer"
+msgstr "「{{ _g_productName }}」彙總表數量超量提醒"
+
+msgid "email.title.aggregation_buffer"
+msgstr "「{{ _g_productName }}」聚合計算數量超量提醒"
+
+msgid "email.title.appTrialExpire"
+msgstr "「{{ _g_productName }}」試用到期通知"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "「{{ _g_productName }}」智慧助手Pro用量通知"
+
+msgid "email.title.bpa_buffer"
+msgstr "「{{ _g_productName }}」流程分析數量超量提醒"
+
+msgid "email.title.buffer_expired"
+msgstr "「{{ _g_productName }}」系統用量超出限制，暫停使用提醒"
+
+msgid "email.title.coinRunOut"
+msgstr "「{{ _g_productName }}」雲幣餘額已耗盡"
+
+msgid "email.title.coinRunningOut"
+msgstr "「{{ _g_productName }}」雲幣餘額即將耗盡"
+
+msgid "email.title.comment"
+msgstr "有@你的評論，請及時回覆"
+
+msgid "email.title.corpInvite"
+msgstr "「{{ _g_productName }}」協作邀請"
+
+msgid "email.title.dashAlert"
+msgstr "資料觸發預警"
+
+msgid "email.title.dashAlertLimit"
+msgstr "「{{ _g_productName }}」儀表板資料預警達到單日上限"
+
+msgid "email.title.docTrend"
+msgstr "「{{ _g_productName }}」文件動態"
+
+msgid "email.title.etl_buffer"
+msgstr "「{{ _g_productName }}」資料工廠數量超量提醒"
+
+msgid "email.title.formDataExceed"
+msgstr "「{{ _g_productName }}」單表資料量已超額"
+
+msgid "email.title.formDataUsage"
+msgstr "「{{ _g_productName }}」單表資料量即將超額"
+
+msgid "email.title.monthlyDataExceed"
+msgstr "「{{ _g_productName }}」單月資料量超額"
+
+msgid "email.title.systemLog"
+msgstr "「{{ _g_productName }}」系統日誌"
+
+msgid "email.title.tenantCoop"
+msgstr "「{{ _g_productName }}」企業協作"
+
+msgid "email.title.totalDataExceed"
+msgstr "「{{ _g_productName }}」總資料量已超額"
+
+msgid "email.title.totalDataUsage"
+msgstr "「{{ _g_productName }}」總資料量即將超額"
+
+msgid "email.title.trialExpire"
+msgstr "「{{ _g_productName }}」會員體驗即將到期"
+
+msgid "email.title.trigger_buffer"
+msgstr "「{{ _g_productName }}」智慧助手數量超量提醒"
+
+msgid "email.title.uploadUsage"
+msgstr "「{{ _g_productName }}」附件量即將超額"
+
+msgid "email.title.userChannelVerify"
+msgstr "「{{ _g_productName }}」郵件驗證"
+
+msgid "email.title.user_buffer"
+msgstr "「{{ _g_productName }}」成員數量超量提醒"
+
+msgid "email.title.vipExpire"
+msgstr "「{{ _g_productName }}」會員即將到期"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr "部分單元格長度超限，下列單元格內容被置空："
+
+msgid "error.export.excel.errorSheetName"
+msgstr "匯出報錯"
+
+msgid "error.export.excel.fileName"
+msgstr "失敗清單"
+
+msgid "event.appCreate"
+msgstr "應用建立"
+
+msgid "event.appPublishAccept"
+msgstr "應用發佈成功"
+
+msgid "event.appPublishFailed"
+msgstr "應用發佈失敗"
+
+msgid "event.appRemove"
+msgstr "應用刪除"
+
+msgid "event.corpAutoSync"
+msgstr "企業自動同步"
+
+msgid "event.corpManualSync"
+msgstr "企業手動同步"
+
+msgid "event.createDept"
+msgstr "新增部署"
+
+msgid "event.createManageGroup"
+msgstr "新增管理組"
+
+msgid "event.createRole"
+msgstr "新增角色"
+
+msgid "event.dataWebhook"
+msgstr "資料推播"
+
+msgid "event.entryWebhook"
+msgstr "表單配置推播"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "資料流程定時執行失敗"
+
+msgid "event.fileExportComplete"
+msgstr "匯出文件準備完成"
+
+msgid "event.fileExportFailed"
+msgstr "檔案匯出失敗"
+
+msgid "event.inviteToJoin"
+msgstr "邀請你加入"
+
+msgid "event.kms.spaceApply"
+msgstr "收到新的建立知識庫申請"
+
+msgid "event.memberHardDelete"
+msgstr "刪除成員"
+
+msgid "event.memberInvite"
+msgstr "成員邀請"
+
+msgid "event.memberRemove"
+msgstr "轉為離職"
+
+msgid "event.removeDept"
+msgstr "刪除部署"
+
+msgid "event.removeManageGroup"
+msgstr "刪除管理組"
+
+msgid "event.removeRole"
+msgstr "刪除角色"
+
+msgid "event.smsDataComment"
+msgstr "資料評論"
+
+msgid "event.smsFlowData"
+msgstr "流程通知"
+
+msgid "event.smsVerify"
+msgstr "簡訊驗證"
+
+msgid "event.systemLogNotify"
+msgstr "系統紀錄通知"
+
+msgid "event.timedReminder"
+msgstr "定時通知"
+
+msgid "event.updateManageGroupMembers"
+msgstr "修改管理組成員"
+
+msgid "excel.address.city"
+msgstr "(市)"
+
+msgid "excel.address.detail"
+msgstr "(詳細位址)"
+
+msgid "excel.address.district"
+msgstr "(縣/區)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(經緯度)"
+
+msgid "excel.address.province"
+msgstr "(省/自治區/直轄市)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "企業名稱"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "郵件"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "是否是企業建立者"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "姓名"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "手機號"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "角色"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "企業名稱"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "企業標籤"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "郵件"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "是否為建立者"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "姓名"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "手機"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "角色"
+
+msgid "excel.datetime.format.date"
+msgstr "年-月-日"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "年-月-日 時：分"
+
+msgid "excel.datetime.format.date.month"
+msgstr "年-月"
+
+msgid "excel.datetime.format.datetime"
+msgstr "年-月-日 時：分：秒"
+
+msgid "excel.filename.dataTable"
+msgstr "資料表"
+
+msgid "excel.filename.dataTemplate"
+msgstr "資料範本"
+
+msgid "excel.filename.table"
+msgstr "統計表"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」存在重名部署"
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "錯誤詳情"
+
+msgid "excel.importError.errorData.format"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」格式不正確"
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」未匹配到 ID"
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位需選擇{{ itemCount }}項"
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位最多選{{ maxItemCount }}項"
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位最少選{{ minItemCount }}項"
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位需選擇{{ minItemCount }}~{{ "
+"maxItemCount }}項"
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」未匹配到選項"
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr "【{{ formNames }}】表中存在重名「{{ value }}」，請按【欄位值#表單】的格式標註所要匯入的表單"
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr "【{{ formName }}】表中存在重名【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位"
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」未匹配到關聯表資料"
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」匹配到多條關聯表資料"
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】{{ repeatRemind }}"
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」未匹配到名稱"
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」存在重名成員"
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」需為{{ number }}"
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」需為小於等於{{ "
+"maxNumber }}的數"
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」需為大於等於{{ "
+"minNumber }}的數"
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」需為{{ minNumber "
+"}}~{{ maxNumber }}之間的數"
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】欄位「{{ value }}」未匹配到銷售階段"
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "匯入失敗資料"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」存在重名部署"
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」格式不正確"
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」未匹配到 ID"
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位需選擇{{ itemCount }}項"
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位最多選{{ maxItemCount }}項"
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位最少選{{ minItemCount }}項"
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位需選擇{{ minItemCount }}~{{ maxItemCount }}項"
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」未匹配到選項"
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」未匹配到名稱"
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」存在重名成員"
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」需為{{ number }}"
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」需為小於等於{{ maxNumber }}的數"
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」需為大於等於{{ minNumber }}的數"
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】欄位「{{ value }}」需為{{ minNumber }}~{{ maxNumber }}之間的數"
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】{{ repeatRemind }}"
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"【{{ colLabel }}.{{ subColLabel }}（對應表單欄位「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」）】為必填項"
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr "【{{ colLabel }}（對應表單欄位「{{ widgetLabel }}」）】為必填項"
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_錯誤報告_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "所處部署"
+
+msgid "excel.importError.repeatName.id"
+msgstr "部署/成員id"
+
+msgid "excel.importError.repeatName.name"
+msgstr "重名部署/成員"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "重名成員和部署ID"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "建議匯入樣式"
+
+msgid "excel.importError.repeatName.tip"
+msgstr "請按照【建議匯入樣式】替換原資料，詳情參考說明文件：https://help.jodoo.com/doc/12099"
+
+msgid "excel.mainDataLabel.header"
+msgstr "關聯的“{{ formName }}”資料"
+
+msgid "excel.member.dept"
+msgstr "部署"
+
+msgid "excel.member.email"
+msgstr "郵件"
+
+msgid "excel.member.exceed"
+msgstr "你本次匯出的人數超過上限，系統僅為你匯出前10萬筆資料"
+
+msgid "excel.member.filename"
+msgstr "內部通訊錄"
+
+msgid "excel.member.fullRoleName"
+msgstr "角色組及角色"
+
+msgid "excel.member.name"
+msgstr "姓名"
+
+msgid "excel.member.phone"
+msgstr "手機"
+
+msgid "excel.member.role"
+msgstr "角色"
+
+msgid "excel.member.role.rel.filename"
+msgstr "通訊錄角色"
+
+msgid "excel.member.status"
+msgstr "成員狀態"
+
+msgid "excel.member.username"
+msgstr "編號"
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "成員 id"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "重名成員"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "錯誤報告.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_錯誤報告_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "必填"
+
+msgid "filezip.filename.package"
+msgstr "{{ formName }}_附件壓縮包{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "流程發起時間"
+
+msgid "flow.creator"
+msgstr "流程發起人"
+
+msgid "flow.initiateFlow"
+msgstr "發起流程"
+
+msgid "flow.initiateFlow.desc"
+msgstr "在此分組內的成員可以發起流程"
+
+msgid "flow.manageAllFlow"
+msgstr "管理全部流程"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "在此分組內的成員可以管理全部流程"
+
+msgid "flow.node.approve"
+msgstr "簽核節點"
+
+msgid "flow.node.end"
+msgstr "流程結束節點"
+
+msgid "flow.node.start"
+msgstr "流程發起節點"
+
+msgid "flow.state.closed"
+msgstr "手動結束"
+
+msgid "flow.state.complete"
+msgstr "流轉完成"
+
+msgid "flow.state.inProcess"
+msgstr "進行中"
+
+msgid "flow.state.rejected"
+msgstr "否決"
+
+msgid "flow.viewAllFlow"
+msgstr "查看全部流程"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "在此分組內的成員可以查看全部流程"
+
+msgid "form.analysisField.avgDuration"
+msgstr "平均處理時間（小時）"
+
+msgid "form.analysisField.creator"
+msgstr "成員"
+
+msgid "form.analysisField.dataCount"
+msgstr "資料條數"
+
+msgid "form.analysisField.flowNode"
+msgstr "節點"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "流程結束時間"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "流程建立時間"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "節點流入時間"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "節點流出時間"
+
+msgid "form.data.tab.common.name"
+msgstr "基礎信息"
+
+msgid "form.default.field.options.firstText"
+msgstr "選項1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "選項1"
+
+msgid "form.default.field.options.secondText"
+msgstr "選項2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "選項2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "選項3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "選項3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "此項內容已存在，不允許重複送出"
+
+msgid "form.operate.batchPrint"
+msgstr "批次列印"
+
+msgid "form.operate.batchUpdate"
+msgstr "批次修改"
+
+msgid "form.operate.copy"
+msgstr "複製"
+
+msgid "form.operate.create"
+msgstr "新增"
+
+msgid "form.operate.delete"
+msgstr "刪除"
+
+msgid "form.operate.export"
+msgstr "匯出"
+
+msgid "form.operate.flowActivate"
+msgstr "啟動流程"
+
+msgid "form.operate.flowClose"
+msgstr "結束流程"
+
+msgid "form.operate.flowTransfer"
+msgstr "調整流程負責人"
+
+msgid "form.operate.import"
+msgstr "匯入"
+
+msgid "form.operate.read"
+msgstr "查看"
+
+msgid "form.operate.update"
+msgstr "編輯"
+
+msgid "form.subformField.id"
+msgstr "子表單id"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "當前負責人"
+
+msgid "form.sysField.createTime"
+msgstr "送出時間"
+
+msgid "form.sysField.creator"
+msgstr "送出人"
+
+msgid "form.sysField.dataId"
+msgstr "data_id"
+
+msgid "form.sysField.dataLabel"
+msgstr "標題"
+
+msgid "form.sysField.deleteTime"
+msgstr "刪除時間"
+
+msgid "form.sysField.deleter"
+msgstr "刪除人"
+
+msgid "form.sysField.ext"
+msgstr "連結參數"
+
+msgid "form.sysField.flowComment"
+msgstr "簽核意見"
+
+msgid "form.sysField.flowNodes"
+msgstr "當前節點"
+
+msgid "form.sysField.flowState"
+msgstr "流程狀態"
+
+msgid "form.sysField.flowVer"
+msgstr "流程版本"
+
+msgid "form.sysField.operator"
+msgstr "操作人"
+
+msgid "form.sysField.printOperator"
+msgstr "列印人"
+
+msgid "form.sysField.printTime"
+msgstr "列印時間"
+
+msgid "form.sysField.privateDataQr"
+msgstr "內部連結 QR Code"
+
+msgid "form.sysField.publicDataQr"
+msgstr "公開連結 QR Code"
+
+msgid "form.sysField.updateTime"
+msgstr "更新時間"
+
+msgid "form.sysField.updater"
+msgstr "修改人"
+
+msgid "form.sysField.wxAvatar"
+msgstr "微信大頭貼"
+
+msgid "form.sysField.wxNickname"
+msgstr "微信名字"
+
+msgid "form.sysField.wxOpenId"
+msgstr "微信OpenID"
+
+msgid "formView.allData.name"
+msgstr "全部資料"
+
+msgid "formView.untitled.name"
+msgstr "未命名檢視"
+
+msgid "formula.cal.type.error"
+msgstr "公式計算結果不符合資料類型"
+
+msgid "formula.express.error"
+msgstr "公式表達式不正確"
+
+msgid "function.not.support"
+msgstr "當前版本不支持此函数！"
+
+msgid "function.param.count.error"
+msgstr "{{ name }}函数參數的個數不正確"
+
+msgid "function.param.error"
+msgstr "{{ name }}函数參數不正確"
+
+msgid "function.param.notEmpty"
+msgstr "{{ name }}函数參數不能為空"
+
+msgid "function.param.type.error"
+msgstr "{{ name }}函数參數類型不正確"
+
+msgid "function.return.error"
+msgstr "{{ name }}函数返回值類型不明確"
+
+msgid "function.second.param.constant"
+msgstr "{{ name }}第二個參數只能為常量"
+
+msgid "function.two.param"
+msgstr "{{ name }}函数至少需要兩個參數"
+
+msgid "function.two.param.error"
+msgstr "{{ name }}函数第{{ i }}個參數的類型與第{{ preIdx }}個參數的類型不相同"
+
+msgid "function.which.param.error"
+msgstr "{{ name }}函数第{{ i }}個參數的類型不正確"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "{{ name }}函数的第{{ i }}個參數長度超出限制"
+
+msgid "handover.type.data"
+msgstr "「資料」"
+
+msgid "handover.type.entry"
+msgstr "「表單/儀表板」"
+
+msgid "handover.type.kms"
+msgstr "「知識庫」"
+
+msgid "handover.type.role"
+msgstr "「通訊錄」"
+
+msgid "handover.type.todo"
+msgstr "「流程待辦」"
+
+msgid "handover.type.workflow"
+msgstr "「流程負責人」"
+
+msgid "handover.work"
+msgstr "交接工作"
+
+msgid "kms.docTrend"
+msgstr "文件動態"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "在此分組內的成員可以填報資料、管理自己填報的資料"
+
+msgid "manage.addAndManageMyData.name"
+msgstr "新增並管理本人資料"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "在此分組內的成員可以填報資料、查看所有資料"
+
+msgid "manage.addAndViewAllData.name"
+msgstr "新增並查看全部資料"
+
+msgid "manage.manageAllData.desc"
+msgstr "在此分組內的成員可以管理全部資料、填報資料、但不可以匯入資料"
+
+msgid "manage.manageAllData.name"
+msgstr "管理全部資料"
+
+msgid "manage.mergeGroup"
+msgstr "全部有權限的資料"
+
+msgid "manage.onlyAddData.desc"
+msgstr "在此分組內的成員只可以填報資料"
+
+msgid "manage.onlyAddData.name"
+msgstr "僅新增資料"
+
+msgid "manage.viewAllData.desc"
+msgstr "在此分組內的成員可以查看所有資料"
+
+msgid "manage.viewAllData.name"
+msgstr "查看全部資料"
+
+msgid "managerActivity.app.metricsName"
+msgstr "按應用查看-活躍詳情"
+
+msgid "managerActivity.app.reportName"
+msgstr "按應用查看-概覽"
+
+msgid "managerActivity.appId"
+msgstr "應用ID"
+
+msgid "managerActivity.appName"
+msgstr "應用名稱"
+
+msgid "managerActivity.count"
+msgstr "編輯人數"
+
+msgid "managerActivity.fileName"
+msgstr "管理員活躍資料"
+
+msgid "managerActivity.managerId"
+msgstr "管理員編號"
+
+msgid "managerActivity.managerName"
+msgstr "管理員名稱"
+
+msgid "managerActivity.time"
+msgstr "時間"
+
+msgid "managerActivity.times"
+msgstr "編輯次數"
+
+msgid "managerActivity.user.metricsName"
+msgstr "按管理員查看-活躍詳情"
+
+msgid "managerActivity.user.reportName"
+msgstr "按管理員查看-概覽"
+
+msgid "math.param.error"
+msgstr "數學運算的資料類型應該為數字"
+
+msgid "member.status.deleted"
+msgstr "已刪除成員"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(已離職)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(已移除)"
+
+msgid "message.addOrRemoveApp"
+msgstr "新增/移除應用"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "新增/刪除部署或成員"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "新增/移除管理群組"
+
+msgid "message.addOrRemoveManager"
+msgstr "新增/移除管理員"
+
+msgid "message.alertName"
+msgstr "預警名稱"
+
+msgid "message.alertSource"
+msgstr "預警來源"
+
+msgid "message.anonymousUser"
+msgstr "匿名使用者"
+
+msgid "message.apiKeyOpLog"
+msgstr "API Key 操作記錄"
+
+msgid "message.appRename"
+msgstr "變更應用名稱"
+
+msgid "message.appUpdate"
+msgstr "應用變更"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr "系統管理員或建立者，已取消{{ principal }}在{{ timeRange }}期間，給你的流程待辦委託。"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr "系統管理員或建立者，已取消你在{{ timeRange }}期間給{{ agent }}的流程待辦委託。"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr "系統管理員或建立者已取消{{ principal }}給你的流程待辦委託"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr "系統管理員或建立者已取消你給{{ agent }}的流程待辦委託"
+
+msgid "message.bpm_delegation.description"
+msgstr "委託說明"
+
+msgid "message.bpm_delegation.principal"
+msgstr "委託人"
+
+msgid "message.bpm_delegation.range"
+msgstr "委託範圍"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "全部流程"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "部分流程"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "委託時間"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr "{{ principal }}，將{{ timeRange }}期間的流程待辦，全部委託給你簽核。"
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr "{{ principal }}，將{{ timeRange }}期間的流程待辦，全部委託給你簽核。委託說明：{{ description }}。"
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }}將其流程待辦委託給你"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr "{{ principal }}，已取消在{{ timeRange }}期間，給你的流程待辦委託。"
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }}已取消給你的流程待辦委託"
+
+msgid "message.comment.content"
+msgstr "評論內容"
+
+msgid "message.commentator"
+msgstr "評論人"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "企業名稱已存在"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "僅可指定 1 名建立者"
+
+msgid "message.corp.import.errCode.19011"
+msgstr "指定的建立者已經建立其他企業"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "沒有指定建立者"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "匯入成員總數超過{{ number }}個"
+
+msgid "message.corp.import.errCode.19014"
+msgstr "檔案內沒有可匯入的企業，請調整後重新上傳"
+
+msgid "message.corp.import.errCode.19020"
+msgstr "角色數量超過{{ number }}個，請調整後重新上傳"
+
+msgid "message.corp.import.errCode.19029"
+msgstr "檔案內企業超過{{ number }}個，請調整後重新上傳"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "企業名稱不能超過{{ number }}個字元"
+
+msgid "message.corp.import.errCode.6065"
+msgstr "企業標籤名稱不能超過{{ number }}個字元"
+
+msgid "message.corp.import.errCode.6066"
+msgstr "標籤數量超過{{ number }}個，請調整後重新上傳"
+
+msgid "message.corpCoop"
+msgstr "企業互聯"
+
+msgid "message.corpSyncResult"
+msgstr "成員同步結果"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{ operator }}給你分配了{{ account_num }}個客戶"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "客戶「{{ data_label }}」被自動回收"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{ operator }}變更了客戶「{{ data_label }}」的負責人"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{ operator }}變更了{{ account_num }}個客戶的負責人"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{ operator }}變更了客戶「{{ data_label }}」的協作者"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{ operator }}變更了{{ account_num }}個客戶的協作者"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{ operator }}回收了{{ account_num }}個客戶"
+
+msgid "message.crm.assignor"
+msgstr "分配人"
+
+msgid "message.crm.currentCollaborator"
+msgstr "當前協作者"
+
+msgid "message.crm.customer"
+msgstr "客戶"
+
+msgid "message.crm.followPlanComplete"
+msgstr "{{ operator }}完成了你的跟進計劃「{{ data_label }}」"
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{ operator }}完成了你的{{ plan_num }}條跟進計劃"
+
+msgid "message.crm.leads"
+msgstr "線索"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{ operator }}給你分配了{{ leads_num }}條線索"
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "線索「{{ data_label }}」被自動回收"
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{ operator }}變更了線索「{{ data_label }}」的負責人"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr "{{ operator }}變更了{{ leads_num }}條線索的負責人"
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{ operator }}變更了線索「{{ data_label }}」的協作者"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr "{{ operator }}變更了{{ leads_num }}條線索的協作者"
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{ operator }}回收了{{ leads_num }}條線索"
+
+msgid "message.crm.newCharger"
+msgstr "新負責人"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{ operator }}為你新增了一條跟進計劃「{{ data_label }}」"
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{ operator }}變更了潛在客戶「{{ data_label }}」的負責人"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr "{{ operator }}變更了{{ opportunity_num }}個潛在客戶的負責人"
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{ operator }}變更了潛在客戶「{{ data_label }}」的協作者"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr "{{ operator }}變更了{{ opportunity_num }}個潛在客戶的協作者"
+
+msgid "message.crm.opportunityWin"
+msgstr "潛在客戶「{{ data_label }}」已贏單"
+
+msgid "message.crm.rawCharger"
+msgstr "原負責人"
+
+msgid "message.crm.recycler"
+msgstr "回收人"
+
+msgid "message.cron.custom"
+msgstr "已到通知時間"
+
+msgid "message.cron.dataExpires"
+msgstr "有資料到期"
+
+msgid "message.dashName"
+msgstr "儀表板名稱"
+
+msgid "message.dataAlert"
+msgstr "資料預警"
+
+msgid "message.dataComment"
+msgstr "企業互聯"
+
+msgid "message.dataCreate"
+msgstr "有新資料送出"
+
+msgid "message.dataLabel"
+msgstr "資料標題"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "智慧助手執行失敗"
+
+msgid "message.emptyValue"
+msgstr "空"
+
+msgid "message.enterForm"
+msgstr "進入表單"
+
+msgid "message.entryName"
+msgstr "表單名稱"
+
+msgid "message.error.4402"
+msgstr "聚合計算校驗失敗"
+
+msgid "message.etlExecuteFailed"
+msgstr "資料流程執行失敗"
+
+msgid "message.etlSyncFailed"
+msgstr "資料流程同步失敗"
+
+msgid "message.flow.adminTransfer"
+msgstr "由系統管理員轉交給你1條待辦事項"
+
+msgid "message.flow.autoBack"
+msgstr "有未處理的流程事項被自動退回，請及時處理"
+
+msgid "message.flow.back"
+msgstr "送出的流程事項被退回"
+
+msgid "message.flow.batchTransfer"
+msgstr "由系統管理員轉交給你新的待辦事項"
+
+msgid "message.flow.cc"
+msgstr "有新的流程處理結果的副本傳送給你"
+
+msgid "message.flow.cc.entryName"
+msgstr "「{{ entryName }}」有新的流程處理結果副本給你"
+
+msgid "message.flow.cc.merge.entryName"
+msgstr "「{{ entryName }}」有{{ count }}條新的流程處理結果抄送給你"
+
+msgid "message.flow.dealtUrgently"
+msgstr "有一條流程急需處理"
+
+msgid "message.flow.memberTransfer"
+msgstr "由{{ operator }}轉交給你1條待辦事項"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」由{{ operator }}轉交給你1條待辦事項"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr "有新的流程催辦事項，請盡快處理"
+
+msgid "message.flow.sign"
+msgstr "由{{ operator }}加簽給你1條待辦事項"
+
+msgid "message.flow.signBeforeComplete"
+msgstr "前加簽處理已完成，你有新的流程待辦事項"
+
+msgid "message.flow.timeout"
+msgstr "你有待辦停留時間過長，請立即處理"
+
+msgid "message.flow.timeout.entryName"
+msgstr "「{{ entryName }}」有待辦未完成"
+
+msgid "message.flow.todo"
+msgstr "有新的流程待辦事項"
+
+msgid "message.flow.todo.entryName"
+msgstr "「{{ entryName }}」有新的流程待辦事項"
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "「{{ entryName }}」有{{ count }}條新的流程待辦事項"
+
+msgid "message.flowData"
+msgstr "外部節點負責人/副本收件者"
+
+msgid "message.kms.clickViewDetails"
+msgstr "點擊「查看詳情」查看文件。"
+
+msgid "message.kms.denyReason"
+msgstr "拒絕原因"
+
+msgid "message.kms.description"
+msgstr "知識庫描述"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr "{{ operator }}解決了文件「{{ document }}」的注釋評論"
+
+msgid "message.kms.docComment"
+msgstr "{{ operator }} 評論了文件「{{ document }}」"
+
+msgid "message.kms.docCreate"
+msgstr "{{ operator }} 新建了文件「{{ document }}」"
+
+msgid "message.kms.docEdit"
+msgstr "{{ operator }} 編輯了文件「{{ document }}」"
+
+msgid "message.kms.docLike"
+msgstr "{{ operator }} 說你的文件「{{ document }}」贊"
+
+msgid "message.kms.documentToBeViewed"
+msgstr "你有新的文件待查看。"
+
+msgid "message.kms.managerBecome"
+msgstr "你已被設為「{{ space_name }}」的管理員，快去建立文件、分享知識吧！"
+
+msgid "message.kms.spaceApply"
+msgstr "{{ applicant }}申請建立知識庫「{{ space_name }}」"
+
+msgid "message.kms.spaceApplyAgree"
+msgstr "申請建立知識庫成功，你已成為新知識庫「{{ space_name }}」的管理員"
+
+msgid "message.kms.spaceApplyDeny"
+msgstr "申請建立知識庫「{{ space_name }}」失敗，你可以嘗試完善知識庫描述再次申請"
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{ operator }} 通知你查看文件「{{ document }}」"
+
+msgid "message.latitude"
+msgstr "緯度"
+
+msgid "message.longitude"
+msgstr "經度"
+
+msgid "message.member.import.errCode.1005"
+msgstr "郵件已存在"
+
+msgid "message.member.import.errCode.1017"
+msgstr "成員編號僅支援字母、數字、下劃線和‘.’"
+
+msgid "message.member.import.errCode.1018"
+msgstr "郵件格式不正確"
+
+msgid "message.member.import.errCode.1019"
+msgstr "成員姓名最長為{{ length }}個字元"
+
+msgid "message.member.import.errCode.1024"
+msgstr "手機格式不正確"
+
+msgid "message.member.import.errCode.1027"
+msgstr "手機已存在"
+
+msgid "message.member.import.errCode.1082"
+msgstr "手機和郵件必填一項"
+
+msgid "message.member.import.errCode.1084"
+msgstr "成員編號必填"
+
+msgid "message.member.import.errCode.1085"
+msgstr "請輸入成員姓名"
+
+msgid "message.member.import.errCode.1087"
+msgstr "成員編號已存在"
+
+msgid "message.member.import.errCode.1092"
+msgstr "成員編號最長為{{ length }}個字元"
+
+msgid "message.member.import.errCode.unknown"
+msgstr "未知原因, 請重試"
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "該成員不在管理範圍內"
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "文件內同一角色存在重名成員"
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "該成員存在重名"
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "未填寫成員"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr "不支援匯入不存在或已離職的成員"
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "存在重名角色組"
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "請輸入角色組及角色名稱"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "不支援匯入未建立的角色組"
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "不支援匯入「同步的角色組」"
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "同一角色組下存在重名角色"
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "請用'/'隔開角色組和角色"
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "該角色不存在於当前角色組中"
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "該角色不在管理範圍內"
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "不支援匯入「同步的角色」"
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "未知原因，請重試"
+
+msgid "message.modified"
+msgstr "被修改"
+
+msgid "message.modifier"
+msgstr "修改人"
+
+msgid "message.notifyTime"
+msgstr "通知時間"
+
+msgid "message.remainTime.days"
+msgstr "有待辦未處理，剩餘處理時間僅剩{{ days }}天{{ hours }}小時{{ minutes }}分鐘，請及時處理"
+
+msgid "message.remainTime.hours"
+msgstr "有待辦未處理，剩餘處理時間僅剩{{ hours }}小時{{ minutes }}分鐘，請及時處理"
+
+msgid "message.remainTime.lessMinute"
+msgstr "有待辦未處理，剩餘處理時間不足1分鐘，請及時處理"
+
+msgid "message.remainTime.minutes"
+msgstr "有待辦未處理，剩餘處理時間僅剩{{ minutes }}分鐘，請及時處理"
+
+msgid "message.system"
+msgstr "系統"
+
+msgid "message.systemRobot"
+msgstr "系統機器人"
+
+msgid "message.title.accountApportion"
+msgstr "客戶分配通知"
+
+msgid "message.title.accountChangeCharger"
+msgstr "客戶負責人變更"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "客戶協作者變更"
+
+msgid "message.title.accountRecycle"
+msgstr "客戶回收通知"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "聯繫人負責人變更"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "聯繫人協作者變更"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "「{{ _g_productName }}」系統用量超出限制通知"
+
+msgid "message.title.email.corpCoop"
+msgstr "「{{ _g_productName }}」企業互聯通知"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "「{{ _g_productName }}」系統用量超出限制通知"
+
+msgid "message.title.excelImportComplete"
+msgstr "資料匯入完成"
+
+msgid "message.title.followPlanComplete"
+msgstr "你的跟進計劃已被他人完成"
+
+msgid "message.title.leadsApportion"
+msgstr "線索分配通知"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "線索負責人變更"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "線索協作者變更"
+
+msgid "message.title.leadsRecycle"
+msgstr "線索回收通知"
+
+msgid "message.title.newFollowPlan"
+msgstr "有新的跟進計劃指派"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "潛在客戶負責人變更"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "潛在客戶協作者變更"
+
+msgid "message.title.opportunityWin"
+msgstr "潛在客戶贏單通知"
+
+msgid "message.title.pluginExpire"
+msgstr "「{{ _g_productName }}」外掛即將到期"
+
+msgid "message.viewDash"
+msgstr "查看儀表板"
+
+msgid "message.viewDataDetails"
+msgstr "查看詳細資料"
+
+msgid "message.viewForm"
+msgstr "查看表單"
+
+msgid "not.support.op"
+msgstr "不支持的比較運算符 {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "你的瀏覽器好像有點過時了"
+
+msgid "notSupported.ie.subtitle"
+msgstr "為了正常使用，建議安裝以下現代瀏覽器或更新瀏覽器版本"
+
+msgid "op.param.error"
+msgstr "前綴運算的資料類型應該為數字"
+
+msgid "op.param.number"
+msgstr "{{ op }}運算符的運算欄位應該為數值類型"
+
+msgid "open_store.space.enterprise"
+msgstr "企業外掛"
+
+msgid "open_store.space.store"
+msgstr "官方外掛"
+
+msgid "page.title.aggregateEdit"
+msgstr "彙總表設計 | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "AI 助理"
+
+msgid "page.title.baseConfig"
+msgstr "表單設計-{{ entryName }} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "企業互聯 | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "企業管理 | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "自訂工作台"
+
+msgid "page.title.dashEdit"
+msgstr "儀表板設計-{{ entryName }} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "儀表板預覽 | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "智慧助手 | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "資料查看"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "登入{{ _g_productName }}"
+
+msgid "page.title.error"
+msgstr "出錯了"
+
+msgid "page.title.error.flow"
+msgstr "流程提示"
+
+msgid "page.title.error403"
+msgstr "沒有存取權限"
+
+msgid "page.title.error404"
+msgstr "找不到該頁面"
+
+msgid "page.title.etlEdit"
+msgstr "資料流程設計 | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "自訂詳情頁 | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "表單預覽 | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "範本中心"
+
+msgid "page.title.imageUpload"
+msgstr "圖片上傳"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "飛書綁定成功"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "飛書綁定"
+
+msgid "page.title.login_bind"
+msgstr "綁定信箱"
+
+msgid "page.title.networkTestView"
+msgstr "網路自助測試 | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "瀏覽器版本過低"
+
+msgid "page.title.oauth"
+msgstr "確認授權"
+
+msgid "page.title.openApiExplorer"
+msgstr "API調試台 | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "參數說明 | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "開放平台 | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "建立訂單 | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "支付訂單"
+
+msgid "page.title.orderPayFailed"
+msgstr "支付失敗"
+
+msgid "page.title.orderPaySuccess"
+msgstr "支付成功"
+
+msgid "page.title.passwordForget"
+msgstr "{{ _g_productName }}忘記密碼怎麼辦？"
+
+msgid "page.title.passwordReset"
+msgstr "密碼重設"
+
+msgid "page.title.personal"
+msgstr "個人設定 | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "列印範本製作"
+
+msgid "page.title.signature"
+msgstr "手寫簽名"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "授权登录"
+
+msgid "page.title.support"
+msgstr "聯絡我們 | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "身份認證 | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "綁定手機號碼/電子信箱"
+
+msgid "page.title.userCancelTitle"
+msgstr "該帳號註銷中"
+
+msgid "print.field.currentFlow"
+msgstr "當前節點"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{ formName }}_條碼_{{ timestamp }}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{ formName }}_ QR Code _{{ timestamp }}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "基本資訊"
+
+msgid "print.sys.fileFormat"
+msgstr "{{ filename }} 文件大小: {{ size }} 上傳時間: {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "系統列印"
+
+msgid "print.sys.wxInfo"
+msgstr "送出人微信資訊"
+
+msgid "print.system_template_name"
+msgstr "系統範本"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }}給你分配了客戶「{{ data_label }}」。"
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }}給你分配了{{ account_num }}個客戶。"
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }}變更了客戶「{{ data_label }}」的負責人。原負責人「{{ raw_charger }}」，新負責人「{{ "
+"new_charger }}」。"
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr "{{ operator }}變更了{{ account_num }}個客戶的負責人。"
+
+msgid "site.message.content.account_change_collaborator"
+msgstr "{{ operator }}變更了客戶「{{ data_label }}」的協作者。當前協作者「{{ collaborators }}」。"
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{ operator }}變更了{{ account_num }}個客戶的協作者。"
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }}回收了客戶「{{ data_label }}」。"
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "客戶「{{ data_label }}」被自動回收。"
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }}回收了{{ account_num }}個客戶。"
+
+msgid "site.message.content.aggregate_buffer"
+msgstr "你團隊「{{ corpName }}」的彙總表數量已超出「{{ vipLevel }}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"你團隊「{{ corpName }}」的聚合計算數量已超出「{{ vipLevel "
+"}}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.analytics_exceed"
+msgstr "你團隊「<%- corpName %>」的資料分析的可見範圍已超出人數限制，成員已無法造訪，請至產品中心調整可見範圍人數"
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }} 建立了 API Key"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }} 停用了 API Key"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }} 啟用了 API Key"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }} 刪除了 API Key"
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }} 建立了應用程式「{{ appName }}」"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr "抱歉，你的應用程式「{{ appName }}」發布失敗，具體原因如下:"
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "原因：{{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr "恭喜你，你已成功發佈了應用「{{ appName }}」，請前往範本中心查看"
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }} 刪除了應用程式「{{ appName }}」"
+
+msgid "site.message.content.app_rename"
+msgstr "{{ operator }} 將「{{ oriAppName }}」應用程式名稱修改為了「{{ newAppName }}」"
+
+msgid "site.message.content.app_template_approved"
+msgstr "範本「{{ templateName }}」稽核通過"
+
+msgid "site.message.content.app_template_publish"
+msgstr "{{ operator }}發佈了「{{ templateName }}」應用，範本已加入待稽核清單"
+
+msgid "site.message.content.app_template_rejected"
+msgstr "範本「{{ templateName }}」稽核不通過。 原因： {{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"你的團隊「{{ corpName }}」已執行智慧助手Pro{{ usage }}次，當前版本上限為每月{{ limit "
+"}}次，智慧助手Pro執行超額後將消耗雲幣以繼續使用。為避免影響業務運作，請確保雲幣餘額充足。"
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"你團隊「{{ corpName }}」的智慧助手Pro已經執行{{ usage }}次，總額度為{{ limit "
+"}}次/年，即將超限。超限後智慧助手Pro將無法執行或消耗雲幣執行，請前往「管理後台-版本資訊」查看使用詳情和加值雲幣。"
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr "你團隊「{{ corpName }}」的智慧助手Pro已經執行{{ usage }}次，總額度為{{ limit }}次/年，請及時關注。"
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"你團隊「{{ corpName }}」的流程分析數量已超出「{{ vipLevel "
+"}}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.buffer_expired"
+msgstr "你團隊「{{ corpName }}」的系統用量超出限制，系統已暫停使用，你可以至「企業管理-版本資訊」查看版本使用詳情和升級版本以恢復系統。"
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"你的團隊「{{ corpName }}」的雲幣餘額不足{{ limit "
+"}}，可能影響簡訊驗證、OCR辨識、附件上傳等功能。為避免影響業務運作，請盡快加值。"
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr "你的團隊「{{ corpName }}」的雲幣餘額即將耗盡，可能影響簡訊驗證、OCR辨識、附件上傳等功能。為避免影響業務運作，請盡快加值。"
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }} 在 {{ dataTitle }} 評論中@了你"
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "未命名資料"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "評論概覽： {{ messageComment }}"
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr "企業「{{ corpName }}」的成員{{ sender }} 在 {{ dataTitle }} 評論中@了你"
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "未命名資料"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "評論概覽： {{ messageComment }}"
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }}變更了聯繫人「{{ data_label }}」的負責人。原負責人「{{ raw_charger }}」，新負責人「{{ "
+"new_charger }}」。"
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr "{{ operator }}變更了{{ contacts_num }}位聯繫人的負責人。"
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr "{{ operator }}變更了聯繫人「{{ data_label }}」的協作者。當前協作者「{{ collaborators }}」。"
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{ operator }}變更了{{ contacts_num }}個聯繫人的協作者。"
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr "你團隊「{{ corpName }}」的連絡窗口不足，導致你和其他企業的業務協作失敗。"
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr "「{{ corpName }}」申請和你建立協作關系，關系建立後，我方對接人可以參與對方企業業務。"
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr "你團隊「{{ corpName }}」的企業連接數已超出「{{ vipLevel }}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr "你團隊「{{ corpName }}」的企業連接配額不足，導致你和其他企業的連接關係建立失敗。請增購連接配額後重試。"
+
+msgid "site.message.content.corp_invite"
+msgstr "你的好友想透過 {{ _g_productName }} 與你協作。你可加入他的團隊「{{ corpName }}」。該邀請7天內有效。 "
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"「{{ appName }}」應用裏的「{{ entryName }}」儀表板中，「{{ widgetName }}」的資料觸發預警：{{ "
+"thresholdName }}。"
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr "資料預警「{{ thresholdName }}」執行出錯，通知失敗。"
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "預警位置：{{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr "當前團隊觸發的儀表板資料預警已達到每日1000條的上限，今天將不再觸發任何預警。"
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr "資料預警「{{ thresholdName }}」預警條件失效，預警已自動關閉。"
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "預警位置：{{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr "資料預警「{{ thresholdName }}」多次執行出錯，預警已自動關閉。"
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "預警位置：{{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr "你團隊「{{ corpName }}」的總資料量已超出「{{ vipLevel }}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"你團隊「{{ corpName }}」的當月總資料量已用{{ usage }}筆，上限為 1000 "
+"筆，當月總資料量即將超額，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr "應用「{{ appName }}」中的智慧助手「{{ triggerName }}」已執行失败{{ failedCount }}次，请及时查看執行日志。"
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr "應用「{{ appName }}」中的智慧助手「{{ triggerName }}」執行失败，请及时查看執行日志。"
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"應用「{{ appName }}」中的智慧助手「{{ triggerName }}」已執行失败{{ failedCount "
+"}}次，今日将不再通知，请及时查看執行日志。"
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"你團隊「{{ corpName }}」的總資料量已用{{ usage }}筆，上限為{{ limit "
+"}}筆，總資料量即將超額，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }} 新增了部署 {{ deptName }}"
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }}匯入了 {{ deptSize }} 個部署。"
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }} 刪除了部署 {{ deptName }}"
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"和你建立協作關係的企業「{{ corpName }}」{{ op }}了{{ side }}方對接人：{{ nicknameList "
+"}}，請及時調整相關權限，以免影響業務展開。"
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"和你建立協作關系的企業「{{ corpName }}」{{ op }}了{{ side }}方對接人：{{ nicknameList "
+"}}，請及時調整相關權限，以免影響業務展開。"
+
+msgid "site.message.content.docker_modify_single"
+msgstr "和你建立協作關係的企業「{{ corpName }}」{{ op }}了{{ side }}方對接人：{{ nicknameList }}。"
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"你團隊「{{ corpName }}」的資料工廠數量已超出「{{ vipLevel "
+"}}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"應用程式「{{ appName }}」中的資料流程「{{ etlName }}」已連續{{ maxCount "
+"}}次更新失敗，已為你關閉更新規則並暫停更新。請確認更新失敗的原因並做相應調整，再重新開啟更新規則。"
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr "應用程式「{{ appName }}」中的資料流程「{{ etlName }}」更新失敗 "
+
+msgid "site.message.content.etl_sync_failed"
+msgstr "應用程式「{{ app_name }}」中的資料流程「{{ etl_name }}」輸出表資料同步失敗。"
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr "「{{ title }}」匯出失敗，匯出的成員資料超過上限。"
+
+msgid "site.message.content.excel_import_complete"
+msgstr "「{{ entryName }}」匯入成功{{ imported }}筆資料。"
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」匯入成功{{ imported }}筆資料，匯入失敗{{ failed "
+"}}筆資料，錯誤報告下載連結將於24小時後失效，請盡快下載。"
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "「{{ entryName }}」更新成功{{ updated }}筆資料。"
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」更新成功{{ updated }}筆資料，更新失敗{{ failed "
+"}}筆資料，錯誤報告下載連結將於24小時後失效，請盡快下載。"
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr "「{{ entryName }}」更新成功{{ updated }}筆資料，新增成功{{ imported }}筆資料。"
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」更新成功{{ updated }}筆資料，新增成功{{ imported }}筆資料，失敗{{ failed "
+"}}筆資料，錯誤報告下載連結將於24小時後失效，請盡快下載。"
+
+msgid "site.message.content.file_export_complete"
+msgstr "「{{ title }}」匯出文件已準備完成。檔案下載連結將於24小時後失效，請儘快下載。"
+
+msgid "site.message.content.file_export_data_limit"
+msgstr "「{{ title }}」匯出檔案過大。匯出時，資料不能超過16MB、10万列，100万格。請篩選後重新匯出。"
+
+msgid "site.message.content.file_export_failed"
+msgstr "「{{ title }}」匯出失敗。你可以稍後重試，或直接聯繫我們."
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr "「{{ title }}」匯出文件過大，匯出失敗。匯出時，附件總個數不能超過 1000，壓縮包不能超過 1 G，你可以嘗試分批匯出。"
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr "「{{ title }}」當前表格排序資料過多，請減少排序規則或匯出資料量後重試。"
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr "「{{ title }}」匯出文件過大。匯出時，資料不能超過 Excel 行數限制，合併單元格不能超過 100 萬個，請篩選後重新匯出。"
+
+msgid "site.message.content.flow_cc"
+msgstr "如需進一步操作，請盡快查看"
+
+msgid "site.message.content.flow_cc_merge"
+msgstr "如需進一步操作，請盡快查看"
+
+msgid "site.message.content.flow_forward"
+msgstr "{{ operator }} 提交了流程，請及時處理"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "由{{ flowCreatorName }}提交，請及時處理"
+
+msgid "site.message.content.flow_timeout"
+msgstr "由{{ flowCreatorName }}提交，請及時處理"
+
+msgid "site.message.content.follow_plan_complete"
+msgstr "{{ operator }}完成了你的跟進計劃「{{ data_label }}」。"
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }}完成了你的{{ plan_num }}條跟進計劃。"
+
+msgid "site.message.content.form_data_buffer"
+msgstr "你團隊「{{ corpName }}」的單表資料量已超出「{{ vipLevel }}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"你團隊「{{ corpName }}」的單表資料量已有資料{{ usage }}筆，上限為{{ limit "
+"}}筆，單表資料量即將超額，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.guest_corp_accept"
+msgstr "企業「{{ corpName }}」已經同意你的協作邀請，你可以給對方企業對接人分享應用/表單權限，展開業務協作。"
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr "與你協作的夥伴「{{ corpName }}」已同意你代管通訊錄權限的申請。"
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "企業「{{ corpName }}」解除了和你的協作關係。"
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr "你的協作者「{{ corpName }}」已主動接管通訊錄權限。"
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"你的協作者「{{ corpName "
+"}}」更換了使用模式，導致雙方協作關係解除，協作名額已經返還至你的帳號，業務協作暫時無法展開，請聯繫對方企業負責人重新建立協作關係。"
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"與你協作的夥伴「{{ corpName }}」申請代管你{{ _g_productName "
+"}}帳號的通訊錄權限，方便對方設定業務對接人，後續你可以主動接管通訊錄權限。"
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr "企業「{{ corpName }}」解除了和你的協作關係，請及時調整相關權限，以免影響業務展開。"
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr "和你建立協作關係的企業「{{ corpName }}」更換了使用模式，導致雙方協作關係解除，業務協作暫時無法展開，請聯繫對方企業負責人重新建立協作關係。"
+
+msgid "site.message.content.import_file_complete"
+msgstr "「{{ title }}」匯入{{success}}個附件，{{failed}}未匯入。"
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr "{{ operator }} 解決了文件「{{ document }}」的註釋評論"
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "評論概覽： {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }} 評論了文件「{{ document }}」"
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "評論概覽： {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }} 新建了文件「{{ document }}」"
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }} 編輯了文件「{{ document }}」"
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }} 說你的文件「{{ document }}」贊"
+
+msgid "site.message.content.kms_space_apply"
+msgstr "{{ applicant }} 申請建立知識庫「{{ space_name }}」"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr "申請建立知識庫成功，你已成為新知識庫「{{ space_name }}」的管理員 "
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr "申請建立知識庫「{{ space_name }}」失敗，你可以嘗試完善知識庫描述再次申請。"
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "拒絕原因：{{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr "你已被設為「{{ space_name }}」的管理員，快去建立文件、分享知識吧！"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{ operator }} 通知你查看文件「{{ document }}」"
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "文件概覽： {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }}給你分配了線索「{{ data_label }}」。"
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }}給你分配了{{ leads_num }}條線索。"
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }}變更了線索「{{ data_label }}」的負責人。原負責人「{{ raw_charger }}」，新負責人「{{ "
+"new_charger }}」。"
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr "{{ operator }}變更了{{ leads_num }}條線索的負責人。"
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr "{{ operator }}變更了線索「{{ data_label }}」的協作者。當前協作者「{{ collaborators }}」。"
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }}變更了{{ leads_num }}條線索的協作者。"
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }}回收了線索「{{ data_label }}」。"
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "線索「{{ data_label }}」被自動回收。"
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }}回收了{{ leads_num }}條線索。"
+
+msgid "site.message.content.manage_group_add_members"
+msgstr "{{ operator }} 在管理組 「{{ manageGroup }}」新增了成員：{{ members }}"
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{ operator }} 新增了普通管理組 「{{ manageGroup }}」"
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{ operator }} 刪除了普通管理組 「{{ manageGroup }}」"
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr "{{ operator }} 在管理組 「{{ manageGroup }}」刪除了成員：{{ members }}"
+
+msgid "site.message.content.manager_login"
+msgstr "管理員 {{ operator }} 登入了系統"
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }}匯入了 {{ memberSize }} 個成員。"
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }} 邀請了 {{ memberList }}"
+
+msgid "site.message.content.member_remove"
+msgstr "{{ operator }} 將成員 {{ memberList }} 轉為離職"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr "你團隊「{{ corpName }}」的系統用量已超出限制，為了不影響正常使用，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.message_webhook_disable"
+msgstr "你的訊息推播失敗條數已達100條，訊息推播已自動關閉，請及時排查原因並在「企業管理-訊息推播」調整配置。"
+
+msgid "site.message.content.message_webhook_failed"
+msgstr "你的訊息推播失敗，超過100條訊息推播失敗會自動關閉訊息推播，請及時排查原因並在「企業管理-訊息推播」調整配置。"
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr "你的訊息推播失敗條數已達{{ count }}條，超過100條訊息推播失敗會自動關閉訊息推播，請及時排查原因並在「企業管理-訊息推播」調整配置。"
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr "你團隊「{{ corpName }}」試用的多個應用即將到期，到期後資料保留，功能受到限制，請及時升級。如果你已啟用試用或購買進階版本，請忽略此通知。"
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{ operator }}為你新增了一條跟進計劃「{{ data_label }}」。"
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }} 新增了對「{{ suite_name }}」的授權"
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }} 解除了對「{{ suite_name }}」的授權"
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }}變更了潛在客戶「{{ data_label }}」的負責人。原負責人「{{ raw_charger }}」，新負責人「{{ "
+"new_charger }}」。"
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr "{{ operator }}變更了{{ opportunity_num }}個潛在客戶的負責人。"
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr "{{ operator }}變更了潛在客戶「{{ data_label }}」的協作者。當前協作者「{{ collaborators }}」。"
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr "{{ operator }}變更了{{ opportunity_num }}個潛在客戶的協作者。"
+
+msgid "site.message.content.opportunity_win"
+msgstr "潛在客戶「{{ data_label }}」已贏單。"
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"你團隊「{{ corpName }}」的「{{ pluginName }}」外掛將於{{ expireTime }}到期，僅剩餘{{ days "
+"}}天，到期後外掛將無法再繼續使用。如需繼續使用外掛，請聯繫我們續費。"
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"你團隊「{{ corpName }}」試用的「{{ appName }}」{{ days "
+"}}天后將到期，到期後資料保留，功能受到限制，請及時升級。如果你已啟用試用或購買進階版本，請忽略此通知。"
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"你團隊「{{ corpName "
+"}}」帳號中的雲幣已耗盡，簡訊驗證功能已不可用，已有部分成員的表單送出失敗。為了避免功能受限對你的業務產生影響，請你立即前往後台調整設計或加值雲幣，加值"
+"後簡訊驗證功能將不再受限。"
+
+msgid "site.message.content.team_invite"
+msgstr "你的好友 {{ nickname }} 想透過 {{ _g_productName }} 與你協作。你可加入他的團隊。該邀請7天內有效。"
+
+msgid "site.message.content.team_invite_notify"
+msgstr "你的好友 {{ nickname }} 想透過 {{ _g_productName }} 與你協作。詳情請查看訊息管理"
+
+msgid "site.message.content.team_invite_success"
+msgstr "你已成功加入團隊「{{ teamName }}」"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"你團隊「{{ corpName "
+"}}」的系統使用量已經超出免費版的限制。為保證試用到期後系統的正常使用，你可至「企業管理-"
+"版本資訊」查看方案使用詳情和升級方案，剩餘試用天數可延長任意方案的使用期限。"
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"你團隊「{{ corpName }}」的智慧助手數量已超出「{{ vipLevel "
+"}}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.upload_exceed"
+msgstr "你團隊「{{ corpName }}」的附件上傳量已超出「{{ vipLevel }}」限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"你團隊「{{ corpName }}」的帳號附件上傳量已用{{ usage }}，版本總附件上傳量為{{ limit "
+"}}，附件上傳量超額後將消耗雲幣使用。為避免影響業務運作，請確保雲幣餘額充足。"
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"你團隊「{{ corpName }}」的帳號附件上傳量已用{{ usage }}，版本總附件上傳量為{{ limit "
+"}}，附件上傳量超額後將消耗雲幣使用。當前雲幣餘額為{{ coinBalance }}個，為避免影響業務運作，請確保雲幣餘額充足。"
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"你團隊「{{ corpName }}」的帳號附件上傳量已用{{ usage }}，版本總附件上傳量為{{ limit "
+"}}，附件上傳量超額後將消耗雲幣使用。當前雲幣餘額不足{{ coinBalance }}，為避免影響業務運作，請儘快加值。"
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"你團隊「{{ corpName }}」的帳號附件上傳量已用{{ usage }} ，版本總附件上傳量為{{ limit }} "
+"，附件上傳量超額後將消耗雲幣使用。為避免影響業務運作，請你打開雲幣支付設定中的附件開關，並確保雲幣餘額充足。"
+
+msgid "site.message.content.user_buffer"
+msgstr "你團隊「{{ corpName }}」的成員數量已超出限制，你可以至「企業管理-版本資訊」查看方案使用詳情和升級方案。"
+
+msgid "site.message.content.webhook_failed_count"
+msgstr "你的表單「{{ entryName }}」資料推播失敗條數已達{{ count }}條，請排查原因儘快調整，並在表單設定中手動推播。"
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr "你的表單「{{ entryName }}」資料推播失敗條數已達{{ count }}條，資料推播已關閉，如有需要，請在表單設定中重新啟用。"
+
+msgid "site.message.content.webhook_failed_first"
+msgstr "你的表單「{{ entryName }}」資料推播失敗，請排查原因儘快調整，並在表單設定中手動推播。"
+
+msgid "site.message.content.webhook_form_type"
+msgstr "由於表單類型切換，你的表單「{{ entryName }}」將按照新的表單類型進行資料推播。"
+
+msgid "site.message.link_text.accept_application"
+msgstr "接受申請"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "接受邀請"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "下載錯誤報告"
+
+msgid "site.message.link_text.download_now"
+msgstr "立即下載"
+
+msgid "site.message.link_text.view_details"
+msgstr "查看詳情"
+
+msgid "site.message.title.dash_alert"
+msgstr "資料預警"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "企業範本"
+
+msgid "template_center.space.standard"
+msgstr "官方範本"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "通訊錄批次匯入範本"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "連接企業批次匯入範本"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "角色匯入範本"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "通訊錄批次建立範本"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "{{ _g_productName }}實名認證_認證證書"
+
+msgid "tenant.verify.files.corp"
+msgstr "企業名稱、相關證明材料等"
+
+msgid "tenant.verify.files.owner"
+msgstr "姓名、身份證/其他證件"
+
+msgid "tenant.verify.title.approved"
+msgstr "你送出的認證資訊已通過"
+
+msgid "tenant.verify.title.declined"
+msgstr "你送出的認證資訊未通過"
+
+msgid "tenant.verify.title.has_expired"
+msgstr "你所在企業的認證資訊已過期，公開連結已無法使用，請儘快認證"
+
+msgid "tenant.verify.title.will_expire"
+msgstr "你所在企業的認證資訊即將過期，爲不影響公開連結的使用，請儘快認證"
+
+msgid "tenant.verify.type.corp"
+msgstr "企業認證"
+
+msgid "tenant.verify.type.owner"
+msgstr "個人認證"
+
+msgid "type.not.match"
+msgstr "類型不匹配"
+
+msgid "ua.dingtalkMobile"
+msgstr "釘釘手機端"
+
+msgid "ua.dingtalkPC"
+msgstr "釘釘電腦端"
+
+msgid "ua.larkMobile"
+msgstr "飛書手機端"
+
+msgid "ua.larkPC"
+msgstr "飛書電腦端"
+
+msgid "ua.mobile"
+msgstr "手機網頁版"
+
+msgid "ua.pc"
+msgstr "電腦網頁版"
+
+msgid "ua.wechatMiniProgram"
+msgstr "小程式"
+
+msgid "ua.wechatMobile"
+msgstr "微信手機端"
+
+msgid "ua.wechatPC"
+msgstr "微信電腦端"
+
+msgid "ua.wxworkMobile"
+msgstr "企業微信手機端"
+
+msgid "ua.wxworkPC"
+msgstr "企業微信電腦端"
+
+msgid "user.defaultNickname"
+msgstr "未命名"
+
+msgid "userActivity.app.metricsName"
+msgstr "按應用查看-活躍詳情"
+
+msgid "userActivity.app.reportName"
+msgstr "按應用查看-概覽"
+
+msgid "userActivity.appId"
+msgstr "應用 ID"
+
+msgid "userActivity.appName"
+msgstr "應用"
+
+msgid "userActivity.app_access_count"
+msgstr "造訪人數"
+
+msgid "userActivity.app_access_times"
+msgstr "造訪次數"
+
+msgid "userActivity.data_create_count"
+msgstr "建立資料人數"
+
+msgid "userActivity.data_create_times"
+msgstr "建立資料次數"
+
+msgid "userActivity.data_export_count"
+msgstr "匯出資料人數"
+
+msgid "userActivity.data_export_times"
+msgstr "匯出資料次數"
+
+msgid "userActivity.data_remove_count"
+msgstr "刪除資料人數"
+
+msgid "userActivity.data_remove_times"
+msgstr "刪除資料次數"
+
+msgid "userActivity.data_update_count"
+msgstr "修改資料人數"
+
+msgid "userActivity.data_update_times"
+msgstr "修改資料次數"
+
+msgid "userActivity.entity.metricsName"
+msgstr "按物件查看-活躍詳情"
+
+msgid "userActivity.entity.reportName"
+msgstr "按物件查看-概覽"
+
+msgid "userActivity.entityId"
+msgstr "物件 ID"
+
+msgid "userActivity.entityName"
+msgstr "物件"
+
+msgid "userActivity.fileName"
+msgstr "成員活躍資料"
+
+msgid "userActivity.login_stats_count"
+msgstr "登入人數"
+
+msgid "userActivity.login_stats_times"
+msgstr "登入次數"
+
+msgid "userActivity.memberId"
+msgstr "成員編號"
+
+msgid "userActivity.nickName"
+msgstr "成員"
+
+msgid "userActivity.time"
+msgstr "時間"
+
+msgid "userActivity.user.metricsName"
+msgstr "按成員查看-活躍詳情"
+
+msgid "userActivity.user.reportName"
+msgstr "按成員查看-概覽"
+
+msgid "vip.pack.ent"
+msgstr "企業版"
+
+msgid "vip.pack.free"
+msgstr "免費版"
+
+msgid "vip.pack.lite"
+msgstr "青春版"
+
+msgid "vip.pack.oem"
+msgstr "客製化版"
+
+msgid "vip.pack.pro"
+msgstr "專業版"
+
+msgid "vip.pack.self_hosted"
+msgstr "獨享版"
+
+msgid "vip.pack.starter"
+msgstr "入門版"
+
+msgid "vip.pack.std"
+msgstr "標準版"
+
+msgid "vip.pack.trial"
+msgstr "體驗版"
+
+msgid "vip.pack.user"
+msgstr "按使用者數購買"
+
+msgid "vip.pack.user_premium"
+msgstr "旗艦版"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""

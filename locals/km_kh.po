@@ -1,0 +1,4576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.871Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.871Z\n"
+
+msgid "activity.fileName"
+msgstr "ទិន្នន័យសកម្មភាព"
+
+msgid "activity_stats.export.dismission"
+msgstr "(មិនសកម្ម)"
+
+msgid "activity_stats.export.removed"
+msgstr "(បានលុប)"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "កម្មវិធីដែលបានលុប"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "ទម្រង់ដែលបានលុប"
+
+msgid "aggregate.compatMetricName"
+msgstr "ធ្វើបច្ចុប្បន្នភាពសូចនាករសម្របខ្លួន"
+
+msgid "aggregate.exceed.limit"
+msgstr "ប្រវែងរូបមន្តលើសពីដែនកំណត់"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "មិនអាចគណនាវាលដែលបានផ្តុំ និងមិនបានផ្តុំបានទេ"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "វាលដែលបានផ្តុំមិនអាចប្រើសម្រាប់ការផ្តុំម្តងទៀតបានទេ"
+
+msgid "aggregate.main.subform.error"
+msgstr "មិនអាចគណនាវាលទម្រង់ចម្បង និងទម្រង់រងបានទេ"
+
+msgid "aggregate.param.be.number"
+msgstr "ប៉ារ៉ាម៉ែត្រនៃអនុគមន៍ផ្តុំ {{ name }} ត្រូវតែជាប្រភេទលេខ"
+
+msgid "aggregate.param.be.one"
+msgstr "ចំនួនប៉ារ៉ាម៉ែត្រសម្រាប់អនុគមន៍ផ្តុំគួរតែមាន 1"
+
+msgid "aggregate.return.number"
+msgstr "ប្រភេទនៃតម្លៃត្រឡប់របស់រូបមន្តគួរតែជាលេខ"
+
+msgid "aggregate.support.same.form.op"
+msgstr "អាចគណនាតែវាលពីទម្រង់រងដូចគ្នាប៉ុណ្ណោះ"
+
+msgid "automation.node.end"
+msgstr "ថ្នាំងបញ្ចប់"
+
+msgid "automation.node.start"
+msgstr "ថ្នាំងបង្កើត"
+
+msgid "bpa.presetWidget.title0"
+msgstr "បានបង្កើត"
+
+msgid "bpa.presetWidget.title1"
+msgstr "កំពុងដំណើរការ"
+
+msgid "bpa.presetWidget.title10"
+msgstr "តារាងបំណែងចែកពេលវេលាដំណើរការជាមធ្យមនៃដំណើរការតែមួយ"
+
+msgid "bpa.presetWidget.title11"
+msgstr "តារាងបំណែងចែកពេលវេលាដំណើរការជាមធ្យមនៃថ្នាក់ការងារ"
+
+msgid "bpa.presetWidget.title2"
+msgstr "បានបញ្ចប់"
+
+msgid "bpa.presetWidget.title3"
+msgstr "បញ្ចប់ដោយដៃ"
+
+msgid "bpa.presetWidget.title4"
+msgstr "តារាងបំណែងចែកពេលវេលាដំណើរការជាមធ្យមនៃដំណើរការតែមួយ (ម៉ោង)"
+
+msgid "bpa.presetWidget.title5"
+msgstr "ស្ថិតិអំពីថ្នាក់ការងារដែលកំពុងរង់ចាំ"
+
+msgid "bpa.presetWidget.title6"
+msgstr "ពេលវេលាដំណើរការជាមធ្យមនៃថ្នាក់ការងារ"
+
+msgid "bpa.presetWidget.title7"
+msgstr "ស្ថិតិភារកិច្ចសមាជិក"
+
+msgid "bpa.presetWidget.title8"
+msgstr "ស្ថិតិភារកិច្ចសមាជិកលើថ្នាក់ការងារ"
+
+msgid "bpa.presetWidget.title9"
+msgstr "ពេលវេលាដំណើរការជាមធ្យមរបស់សមាជិកលើថ្នាក់ការងារ"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "ពេលវេលាបានចំណាយ (ម៉ោង)"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "ភារកិច្ច"
+
+msgid "compare.not.support"
+msgstr "សញ្ញាប្រៀបធៀបមិនត្រឹមត្រូវ {{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr "សញ្ញាប្រៀបធៀបមិនត្រឹមត្រូវ {{ op }} ។ សូមប្រើ \"==\" ជំនួស"
+
+msgid "compare.param.boolean"
+msgstr "ប៊ូលីន"
+
+msgid "compare.param.datetime"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "compare.param.not.support"
+msgstr ""
+"ប្រភេទប៉ារ៉ាម៉ែត្រទាំងសងខាងនៃ {{ op }} មិនអាចជា {{ type1 }} ឬ {{ type2 }} "
+"បានទេ"
+
+msgid "compare.param.number"
+msgstr "លេខ"
+
+msgid "compare.param.string"
+msgstr "ខ្សែអក្សរ"
+
+msgid "concatenate.param.error"
+msgstr "វាលទម្រង់ដើមមិនមានទេ"
+
+msgid "corp.currentDepartment"
+msgstr "នាយកដ្ឋានអ្នកប្រើបច្ចុប្បន្ន"
+
+msgid "corp.currentUser"
+msgstr "អ្នកប្រើបច្ចុប្បន្ន"
+
+msgid "corp.joinCorpSuccess"
+msgstr "បានចូលរួមក្រុមដោយជោគជ័យ"
+
+msgid "corp.log.agentDisable"
+msgstr "បិទ Plugin"
+
+msgid "corp.log.agentEnable"
+msgstr "បើក Plugin"
+
+msgid "corp.log.agentUninstall"
+msgstr "យក Plugin ចេញ"
+
+msgid "corp.log.aggregateCreate"
+msgstr "បង្កើតតារាងសរុប"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "ផ្លាស់ទីតារាងសរុប"
+
+msgid "corp.log.aggregateRemove"
+msgstr "លុបតារាងសរុប"
+
+msgid "corp.log.aggregateRename"
+msgstr "ប្តូរឈ្មោះតារាងសរុប"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "ធ្វើបច្ចុប្បន្នភាពការរចនាតារាងសរុប"
+
+msgid "corp.log.aiLabDisable"
+msgstr "ការបិទ AI Lab"
+
+msgid "corp.log.aiLabEnable"
+msgstr "ការបើក AI Lab"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "បង្កើត API Key"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "លុប API Key"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "បិទ API Key"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "បើក API Key"
+
+msgid "corp.log.apiKeyName"
+msgstr "ឈ្មោះកូនសោ API"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "ធ្វើបច្ចុប្បន្នភាព Key"
+
+msgid "corp.log.apiName"
+msgstr "ឈ្មោះ API"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "បិទការគ្រប់គ្រងការភ្ជាប់កម្មវិធី"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "បើកការគ្រប់គ្រងការភ្ជាប់កម្មវិធី"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "កែប្រែការគ្រប់គ្រងឯកសារភ្ជាប់កម្មវិធី"
+
+msgid "corp.log.appCreate"
+msgstr "បង្កើតកម្មវិធី"
+
+msgid "corp.log.appEtlLog"
+msgstr "កំណត់ហេតុធ្វើបច្ចុប្បន្នភាព {{ etlName }}"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "លៃតម្រូវទំព័រដើមកម្មវិធី"
+
+msgid "corp.log.appLog"
+msgstr "កំណត់ហេតុកម្មវិធី"
+
+msgid "corp.log.appLogExport"
+msgstr "នាំចេញកំណត់ហេតុកម្មវិធី"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "បន្ថែមក្រុមគ្រប់គ្រងកម្មវិធី"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "បិទក្រុមអ្នកគ្រប់គ្រងកម្មវិធី"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "បើកក្រុមអ្នកគ្រប់គ្រងកម្មវិធី"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "លុបក្រុមគ្រប់គ្រងកម្មវិធី"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "ប្តូរឈ្មោះក្រុមគ្រប់គ្រងកម្មវិធី"
+
+msgid "corp.log.appManagerAdd"
+msgstr "បន្ថែមអ្នកគ្រប់គ្រង"
+
+msgid "corp.log.appManagerRemove"
+msgstr "លុបអ្នកគ្រប់គ្រង"
+
+msgid "corp.log.appRecover"
+msgstr "ស្តារកម្មវិធី"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "កែសម្រួលការកំណត់អន្តរកម្មវិធី"
+
+msgid "corp.log.appRemove"
+msgstr "លុបកម្មវិធី"
+
+msgid "corp.log.appRename"
+msgstr "ប្តូរឈ្មោះកម្មវិធី"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "កែសម្រួល URL កម្មវិធី"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "បិទដំណើរការសញ្ញាសម្គាល់កម្មវិធី"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "បើកដំណើរការសញ្ញាសម្គាល់កម្មវិធី"
+
+msgid "corp.log.application"
+msgstr "ពីកម្មវិធី"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "បិទការគ្រប់គ្រងឯកសារភ្ជាប់ជាសកល"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "បើកការគ្រប់គ្រងឯកសារភ្ជាប់ជាសកល"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "ការចាប់ផ្តើមផ្ទេរសិទ្ធិត្រូវបានបិទ"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "បើកដំណើរការប្រគល់សិទ្ធិ"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr ""
+"បានលុបចោលការប្រគល់សិទ្ធិ៖ ការប្រគល់សិទ្ធិពី {{ principal }} ទៅ {{ agent }} "
+"ក្នុងអំឡុងពេល {{ timeRange }}"
+
+msgid "corp.log.businessContent"
+msgstr "ព័ត៌មានអាជីវកម្ម"
+
+msgid "corp.log.businessCount"
+msgstr "ការប្រើប្រាស់ OCR"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "ការចុះឈ្មោះអាជីវកម្ម"
+
+msgid "corp.log.businessTime"
+msgstr "ពេលវេលាផ្ទៀងផ្ទាត់"
+
+msgid "corp.log.callTime"
+msgstr "ពេលវេលាហៅ"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "កែសម្រួលការកំណត់ការទូទាត់"
+
+msgid "corp.log.coinUsageApp"
+msgstr "កម្មវិធី"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "ធាតុចូល"
+
+msgid "corp.log.coinUsageLog"
+msgstr "កំណត់ហេតុការប្រើប្រាស់កាក់"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "វាល"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "បន្ថែមតំណអញ្ជើញសម្រាប់អាជីវកម្មខាងក្រៅ"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "លុបតំណអញ្ជើញសម្រាប់អាជីវកម្មខាងក្រៅ"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "កែសម្រួលតំណអញ្ជើញសម្រាប់អាជីវកម្មខាងក្រៅ"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "បន្ថែមតួនាទីទំនាក់ទំនងខាងក្រៅ"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "លុបតួនាទីទំនាក់ទំនងខាងក្រៅ"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "ប្តូរឈ្មោះតួនាទីទំនាក់ទំនងខាងក្រៅ"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "ផ្លាស់ប្តូរសមាជិកក្រោមតួនាទីទំនាក់ទំនងខាងក្រៅ"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "ធ្វើបច្ចុប្បន្នភាពប្លុកការជូនដំណឹង"
+
+msgid "corp.log.corpRename"
+msgstr "ប្តូរឈ្មោះអាជីវកម្ម"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "បិទស្ទីលអាជីវកម្ម"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "បើកស្ទីលអាជីវកម្ម"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "កែសម្រួលរចនាប័ទ្មអាជីវកម្ម"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "កែសម្រួល URL វេទិកាអាជីវកម្ម"
+
+msgid "corp.log.customLoginDisable"
+msgstr "បិទទំព័រចូលប្រើផ្ទាល់ខ្លួន"
+
+msgid "corp.log.customLoginEnable"
+msgstr "បើកទំព័រចូលប្រើផ្ទាល់ខ្លួន"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "កែសម្រួលកន្លែងធ្វើការអាជីវកម្ម"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "កែសិទ្ធិផ្ទាំងគ្រប់គ្រង"
+
+msgid "corp.log.dashCreate"
+msgstr "បង្កើតផ្ទាំងគ្រប់គ្រង"
+
+msgid "corp.log.dashPublicLink"
+msgstr "កែសម្រួលតំណសាធារណៈផ្ទាំងគ្រប់គ្រង"
+
+msgid "corp.log.dashRecover"
+msgstr "ស្តារផ្ទាំងគ្រប់គ្រង"
+
+msgid "corp.log.dashRemove"
+msgstr "លុបផ្ទាំងគ្រប់គ្រង"
+
+msgid "corp.log.dashRename"
+msgstr "ប្តូរឈ្មោះផ្ទាំងគ្រប់គ្រង"
+
+msgid "corp.log.dashUpdate"
+msgstr "កែសម្រួល"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "បោះពុម្ពកំណត់ត្រាជាក្រុម"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "ស្តារទិន្នន័យជាក្រុម"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "លុបទិន្នន័យជាក្រុម"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "កែសម្រួលទិន្នន័យជាក្រុម"
+
+msgid "corp.log.dataCreate"
+msgstr "បន្ថែមទិន្នន័យ"
+
+msgid "corp.log.dataExport"
+msgstr "នាំចេញទិន្នន័យ"
+
+msgid "corp.log.dataImport"
+msgstr "នាំចូល - បន្ថែមទិន្នន័យ"
+
+msgid "corp.log.dataImportFile"
+msgstr "នាំចូលឯកសារភ្ជាប់"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "នាំចូល - ធ្វើឱ្យទាន់សម័យទិន្នន័យ"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "នាំចូល - បន្ថែម និងធ្វើឱ្យទាន់សម័យទិន្នន័យ"
+
+msgid "corp.log.dataPrint"
+msgstr "បោះពុម្ពកំណត់ត្រា"
+
+msgid "corp.log.dataPrintQr"
+msgstr "បោះពុម្ពកូដ QR/បាកូដ"
+
+msgid "corp.log.dataRecover"
+msgstr "ស្តារទិន្នន័យ"
+
+msgid "corp.log.dataRemove"
+msgstr "លុបទិន្នន័យ"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "បង្កើតស្វ័យប្រវត្តិកម្ម"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "លុបស្វ័យប្រវត្តិកម្ម"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "បើកស្វ័យប្រវត្តិកម្ម"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "បិទស្វ័យប្រវត្តិកម្ម"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យស្វ័យប្រវត្តិកម្ម"
+
+msgid "corp.log.dataUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យទិន្នន័យ"
+
+msgid "corp.log.deptCreate"
+msgstr "បន្ថែមដេប៉ាតឺម៉ង់"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "បន្ថែមស្លាកអាជីវកម្ម"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "លុបស្លាកអាជីវកម្ម"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "លៃតម្រូវក្រុមហ៊ុនក្រោមស្លាកអាជីវកម្ម"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "កែសម្រួលឈ្មោះស្លាកអាជីវកម្ម"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យមេដេប៉ាតឺម៉ង់"
+
+msgid "corp.log.deptRemove"
+msgstr "លុបដេប៉ាតឺម៉ង់"
+
+msgid "corp.log.deptRename"
+msgstr "ប្តូរឈ្មោះដេប៉ាតឺម៉ង់"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "ធ្វើឱ្យទាន់សម័យស្វ័យប្រវត្តិ"
+
+msgid "corp.log.etlCreate"
+msgstr "បង្កើតស្ទ្រីមទិន្នន័យ"
+
+msgid "corp.log.etlCronExecute"
+msgstr "ធ្វើឱ្យទាន់សម័យ Cron"
+
+msgid "corp.log.etlDuration"
+msgstr "រយៈពេលធ្វើឱ្យទាន់សម័យ"
+
+msgid "corp.log.etlEndTime"
+msgstr "ពេលវេលាបញ្ចប់"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "លទ្ធផលធ្វើឱ្យទាន់សម័យ"
+
+msgid "corp.log.etlExecuteType"
+msgstr "វិធីសាស្រ្តធ្វើឱ្យទាន់សម័យ"
+
+msgid "corp.log.etlJust"
+msgstr "តិចជាង 1 នាទី"
+
+msgid "corp.log.etlManualExecute"
+msgstr "ធ្វើឱ្យទាន់សម័យដោយដៃ"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }} នាទី"
+
+msgid "corp.log.etlRemove"
+msgstr "លុបស្ទ្រីមទិន្នន័យ"
+
+msgid "corp.log.etlRename"
+msgstr "ប្តូរឈ្មោះស្ទ្រីមទិន្នន័យ"
+
+msgid "corp.log.etlStartTime"
+msgstr "ពេលវេលាចាប់ផ្តើម"
+
+msgid "corp.log.etlTime"
+msgstr "កាលបរិច្ឆេទធ្វើឱ្យទាន់សម័យ"
+
+msgid "corp.log.etlUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យរចនាសម្ព័ន្ធស្ទ្រីមទិន្នន័យ"
+
+msgid "corp.log.fail"
+msgstr "បរាជ័យ"
+
+msgid "corp.log.fileDownload"
+msgstr "ទាញយកឯកសារ"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "បិទដំណើរការ BPA"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "បើកដំណើរការ BPA"
+
+msgid "corp.log.flowUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យរចនាសម្ព័ន្ធលំហូរការងារ"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "លៃតម្រូវសិទ្ធិទម្រង់/ផ្ទាំងគ្រប់គ្រងជាក្រុម"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យការអនុញ្ញាតទម្រង់"
+
+msgid "corp.log.formCreate"
+msgstr "បង្កើតទម្រង់"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "លុបទំព័រព័ត៌មានលម្អិត"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "ផ្លាស់ប្តូរទំព័រព័ត៌មានលម្អិត"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "កែសម្រួលទំព័រព័ត៌មានលម្អិត"
+
+msgid "corp.log.formOnlinePay"
+msgstr "គ្រប់គ្រងការកំណត់ការទូទាត់"
+
+msgid "corp.log.formPublicLink"
+msgstr "ធ្វើឱ្យទាន់សម័យតំណសាធារណៈទម្រង់"
+
+msgid "corp.log.formPublicQuery"
+msgstr "ធ្វើឱ្យទាន់សម័យតំណសំណួរសាធារណៈទម្រង់"
+
+msgid "corp.log.formRecover"
+msgstr "ស្តារទម្រង់"
+
+msgid "corp.log.formRemove"
+msgstr "លុបទម្រង់"
+
+msgid "corp.log.formRename"
+msgstr "ប្តូរឈ្មោះទម្រង់"
+
+msgid "corp.log.formUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យរចនាសម្ព័ន្ធទម្រង់"
+
+msgid "corp.log.guestConnect"
+msgstr "អញ្ជើញអាជីវកម្មខាងក្រៅ"
+
+msgid "corp.log.guestDockerExport"
+msgstr "នាំចេញទំនាក់ទំនងខាងក្រៅ"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "កែសម្រួលព័ត៌មានទំនាក់ទំនងខាងក្រៅ"
+
+msgid "corp.log.guestUpdate"
+msgstr "កែសម្រួលព័ត៌មានអាជីវកម្មខាងក្រៅ"
+
+msgid "corp.log.hostDisconnect"
+msgstr "ផ្តាច់ការតភ្ជាប់ជាមួយអាជីវកម្ម"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "បន្ថែមទំនាក់ទំនងរបស់យើង"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "លុបទំនាក់ទំនងរបស់យើង"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "កែសម្រួលព័ត៌មានទំនាក់ទំនងរបស់យើង"
+
+msgid "corp.log.integrateUpdate"
+msgstr "កែសម្រួលព័ត៌មានភ្ជាប់"
+
+msgid "corp.log.ip"
+msgstr "អាសយដ្ឋាន IP"
+
+msgid "corp.log.kmsDisable"
+msgstr "បិទមូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.kmsEnable"
+msgstr "បើកមូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.loginLocation"
+msgstr "ទីតាំងចូលប្រព័ន្ធ"
+
+msgid "corp.log.loginLog"
+msgstr "ប្រវត្តិចូលប្រព័ន្ធ"
+
+msgid "corp.log.loginLogExport"
+msgstr "នាំចេញប្រវត្តិចូលប្រើ"
+
+msgid "corp.log.loginPlatform"
+msgstr "វេទិកាចូលប្រព័ន្ធ"
+
+msgid "corp.log.loginTime"
+msgstr "ពេលវេលាចូលប្រព័ន្ធ"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "បន្ថែមក្រុមអ្នកគ្រប់គ្រង"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "លុបក្រុមអ្នកគ្រប់គ្រង"
+
+msgid "corp.log.manageGroupRename"
+msgstr "ប្តូរឈ្មោះក្រុមអ្នកគ្រប់គ្រង"
+
+msgid "corp.log.managersAdd"
+msgstr "បន្ថែមអ្នកគ្រប់គ្រង"
+
+msgid "corp.log.managersRemove"
+msgstr "លុបអ្នកគ្រប់គ្រង"
+
+msgid "corp.log.memberExit"
+msgstr "ចាកចេញដោយស្ម័គ្រចិត្តពីអង្គការ"
+
+msgid "corp.log.memberExport"
+msgstr "នាំចេញទំនាក់ទំនង"
+
+msgid "corp.log.memberFreeze"
+msgstr "បិទសមាជិក"
+
+msgid "corp.log.memberHardDelete"
+msgstr "លុបសមាជិក"
+
+msgid "corp.log.memberInvite"
+msgstr "អញ្ជើញ"
+
+msgid "corp.log.memberRecover"
+msgstr "បើកសមាជិក"
+
+msgid "corp.log.memberRemove"
+msgstr "បិទសកម្មភាព"
+
+msgid "corp.log.memberUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យព័ត៌មានសមាជិក"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "នាំចេញតួនាទី"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "នាំចូលតួនាទី"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "បិទ Webhook (សារ)"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "បើក Webhook (សារ)"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "កែសម្រួល Webhook (សារ)"
+
+msgid "corp.log.oauthCreate"
+msgstr "បន្ថែមការអនុញ្ញាត"
+
+msgid "corp.log.oauthDelete"
+msgstr "បិទការអនុញ្ញាត"
+
+msgid "corp.log.ocrBankCard"
+msgstr "ប័ណ្ណធនាគារ"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "អាជ្ញាប័ណ្ណអាជីវកម្ម"
+
+msgid "corp.log.ocrContent"
+msgstr "ខ្លឹមសារ OCR"
+
+msgid "corp.log.ocrCount"
+msgstr "ការប្រើប្រាស់ OCR"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "អាជ្ញាប័ណ្ណបើកបរ"
+
+msgid "corp.log.ocrGeneral"
+msgstr "អត្ថបទទូទៅ"
+
+msgid "corp.log.ocrIdCard"
+msgstr "អត្តសញ្ញាណប័ណ្ណ"
+
+msgid "corp.log.ocrLog"
+msgstr "OCR"
+
+msgid "corp.log.ocrResult"
+msgstr "លទ្ធផល OCR"
+
+msgid "corp.log.ocrTime"
+msgstr "ពេលវេលា OCR"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "សំបុត្ររថភ្លើង"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "វិក័យប័ត្រពន្ធលើតម្លៃបន្ថែម"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "សំបុត្រចុះឈ្មោះយានយន្ត"
+
+msgid "corp.log.openApiLog"
+msgstr "កំណត់ហេតុការហៅ API"
+
+msgid "corp.log.openApiLogExport"
+msgstr "នាំចេញកំណត់ហេតុ Open API"
+
+msgid "corp.log.operateDetails"
+msgstr "ព័ត៌មានលម្អិត"
+
+msgid "corp.log.operateLog"
+msgstr "កំណត់ហេតុវេទិកា"
+
+msgid "corp.log.operateLogExport"
+msgstr "នាំចេញកំណត់ហេតុវេទិកា"
+
+msgid "corp.log.operateObject"
+msgstr "វត្ថុ"
+
+msgid "corp.log.operateTime"
+msgstr "ពេលវេលា"
+
+msgid "corp.log.operateType"
+msgstr "ប្រភេទ"
+
+msgid "corp.log.operator"
+msgstr "ប្រតិបត្តិករ"
+
+msgid "corp.log.orderCancel"
+msgstr "បោះបង់ការកម្មង់"
+
+msgid "corp.log.orderCreate"
+msgstr "បង្កើតការកម្មង់"
+
+msgid "corp.log.orderDelete"
+msgstr "លុបការកម្មង់"
+
+msgid "corp.log.orderPay"
+msgstr "បង់ប្រាក់ការកម្មង់"
+
+msgid "corp.log.orderReceipt"
+msgstr "វិក័យប័ត្រការកម្មង់"
+
+msgid "corp.log.payUpdate"
+msgstr "កំណត់សេវាកម្មទូទាត់"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "បិទការអនុញ្ញាតគ្រប់គ្រង"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "បើកការអនុញ្ញាតគ្រប់គ្រង"
+
+msgid "corp.log.pluginCount"
+msgstr "ការប្រើប្រាស់ផ្លាកអន្តរកម្ម"
+
+msgid "corp.log.pluginCreate"
+msgstr "បង្កើតផ្លាកអន្តរកម្ម"
+
+msgid "corp.log.pluginExport"
+msgstr "នាំចេញផ្លាកអន្តរកម្ម"
+
+msgid "corp.log.pluginImport"
+msgstr "នាំចូលផ្លាកអន្តរកម្ម"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "នាំចូល និងធ្វើឱ្យទាន់សម័យផ្លាកអន្តរកម្ម"
+
+msgid "corp.log.pluginInstall"
+msgstr "ដំឡើងផ្លាកអន្តរកម្ម"
+
+msgid "corp.log.pluginName"
+msgstr "ឈ្មោះផ្លាកអន្តរកម្ម"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "បោះពុម្ព Plugin"
+
+msgid "corp.log.pluginUpdate"
+msgstr "កែសម្រួល Plugin"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "ការប្រើផ្លាកអ៊ីន"
+
+msgid "corp.log.registrant"
+msgstr "សមាជិក"
+
+msgid "corp.log.returnStatus"
+msgstr "ស្ថានភាពត្រឡប់"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "ក្រុមតួនាទីឡើងវិញ"
+
+msgid "corp.log.roleCreate"
+msgstr "បង្កើតតួនាទី"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "បង្កើតក្រុមតួនាទី"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "លុបក្រុមតួនាទី"
+
+msgid "corp.log.roleGroupRename"
+msgstr "ប្តូរឈ្មោះក្រុមតួនាទី"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យសមាជិកក្នុងតួនាទី"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "ធ្វើឱ្យទាន់សម័យដេប៉ាតឺម៉ង់ដែលបានចាត់តាំង"
+
+msgid "corp.log.roleRemove"
+msgstr "លុបតួនាទី"
+
+msgid "corp.log.roleRename"
+msgstr "ប្តូរឈ្មោះតួនាទី"
+
+msgid "corp.log.running"
+msgstr "កំពុងដំណើរការ"
+
+msgid "corp.log.smsContent"
+msgstr "ព័ត៌មានលម្អិត"
+
+msgid "corp.log.smsCount"
+msgstr "បានប្រើ"
+
+msgid "corp.log.smsSendFailed"
+msgstr "ផ្ញើបរាជ័យ"
+
+msgid "corp.log.smsSendPhone"
+msgstr "លេខទូរស័ព្ទ"
+
+msgid "corp.log.smsSendResult"
+msgstr "ស្ថានភាពផ្ញើ"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "ផ្ញើដោយជោគជ័យ"
+
+msgid "corp.log.smsSendingLog"
+msgstr "ការផ្ញើសារ SMS"
+
+msgid "corp.log.smsTime"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "corp.log.spaceCreate"
+msgstr "បង្កើតមូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.spaceDelete"
+msgstr "លុបមូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "បង្កើតសំណុំសិទ្ធិសម្រាប់មូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "លុបសំណុំសិទ្ធិមូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "កែសម្រួលសំណុំសិទ្ធិមូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.spaceUpdate"
+msgstr "កែសម្រួលព័ត៌មានមូលដ្ឋានចំណេះដឹង"
+
+msgid "corp.log.success"
+msgstr "ជោគជ័យ"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "កំណត់ការអនុញ្ញាតផលិតផល"
+
+msgid "corp.log.suiteDisable"
+msgstr "បិទ"
+
+msgid "corp.log.suiteEnable"
+msgstr "បើក"
+
+msgid "corp.log.systemRobot"
+msgstr "រូបយន្តប្រព័ន្ធ"
+
+msgid "corp.log.tenantVerify"
+msgstr "ផ្ទៀងផ្ទាត់អត្តសញ្ញាណ"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "កែសម្រួលតំបន់ម៉ោង"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "ដាក់ពាក្យគ្រប់គ្រងទំនាក់ទំនងខាងក្រៅ"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "ផ្ទេរសិទ្ធិគ្រប់គ្រងទំនាក់ទំនង"
+
+msgid "corp.log.waiting"
+msgstr "កំពុងរង់ចាំ"
+
+msgid "corp.log.watermarkDisable"
+msgstr "បិទសញ្ញាទឹកសកល"
+
+msgid "corp.log.watermarkEnable"
+msgstr "បើកសញ្ញាទឹកសកល"
+
+msgid "corp.log.wxDisable"
+msgstr "បិទការបញ្ចូលគ្នាគណនីសេវា WeChat"
+
+msgid "corp.log.wxEnable"
+msgstr "បើកការបញ្ចូលគ្នាគណនីសេវា WeChat"
+
+msgid "corp.syncFailed"
+msgstr "ការធ្វើសមកាលកម្មស្វ័យប្រវត្តិបរាជ័យ"
+
+msgid "corp.syncFailedContent"
+msgstr "ការធ្វើសមកាលកម្មទំនាក់ទំនងអាជីវកម្មបរាជ័យ។"
+
+msgid "corp.syncFailedSubject"
+msgstr "បរាជ័យក្នុងការធ្វើសមកាលកម្មសមាជិក"
+
+msgid "corp.syncSuccessContent"
+msgstr "ទំនាក់ទំនងអាជីវកម្មត្រូវបានធ្វើសមកាលកម្ម។"
+
+msgid "corp.syncSuccessSubject"
+msgstr "សមាជិកធ្វើសមកាលកម្មដោយជោគជ័យ"
+
+msgid "corp.systemManageGroup"
+msgstr "ក្រុមអ្នកគ្រប់គ្រងជាន់ខ្ពស់"
+
+msgid "corp.unGrouped"
+msgstr "មិនបានដាក់ក្រុម"
+
+msgid "corpCoop.department"
+msgstr "អង្គការខាងក្រៅ"
+
+msgid "corpUsage.accessTime"
+msgstr "ចូលប្រើចុងក្រោយ"
+
+msgid "corpUsage.aggregate"
+msgstr "តារាងសរុប"
+
+msgid "corpUsage.app"
+msgstr "កម្មវិធី"
+
+msgid "corpUsage.app.cardName"
+msgstr "មើលតាមទិដ្ឋភាពទូទៅកម្មវិធី"
+
+msgid "corpUsage.app.metricListName"
+msgstr "មើលតាមព័ត៌មានលម្អិតការប្រើប្រាស់កម្មវិធី"
+
+msgid "corpUsage.appId"
+msgstr "លេខសំគាល់កម្មវិធី"
+
+msgid "corpUsage.appName"
+msgstr "ឈ្មោះកម្មវិធី"
+
+msgid "corpUsage.attachment"
+msgstr "ឯកសារភ្ជាប់ដែលបានផ្ទុកឡើង"
+
+msgid "corpUsage.automation"
+msgstr "ស្វ័យប្រវត្តិកម្ម Pro"
+
+msgid "corpUsage.bpa"
+msgstr "BPAs"
+
+msgid "corpUsage.createTime"
+msgstr "បានបង្កើតនៅ"
+
+msgid "corpUsage.creator"
+msgstr "ម្ចាស់"
+
+msgid "corpUsage.creator.username"
+msgstr "លេខសំគាល់ម្ចាស់"
+
+msgid "corpUsage.dash"
+msgstr "ផ្ទាំងគ្រប់គ្រង"
+
+msgid "corpUsage.dash.type"
+msgstr "ផ្ទាំងគ្រប់គ្រង"
+
+msgid "corpUsage.data"
+msgstr "ទិន្នន័យសរុប"
+
+msgid "corpUsage.data_trigger"
+msgstr "ស្វ័យប្រវត្តិកម្ម"
+
+msgid "corpUsage.date"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "ព័ត៌មានលម្អិតទិន្នន័យ"
+
+msgid "corpUsage.etl"
+msgstr "រោងចក្រទិន្នន័យ"
+
+msgid "corpUsage.fileName"
+msgstr "ការប្រើប្រាស់ធនធាន"
+
+msgid "corpUsage.form_coop"
+msgstr "ទម្រង់ធម្មតា"
+
+msgid "corpUsage.form_coop.type"
+msgstr "ទម្រង់ធម្មតា"
+
+msgid "corpUsage.form_workflow"
+msgstr "ទម្រង់លំហូរការងារ"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "លេខសំគាល់ទម្រង់លំហូរការងារ"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "ឈ្មោះទម្រង់លំហូរការងារ"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "ទម្រង់លំហូរការងារ"
+
+msgid "corpUsage.member.cardName"
+msgstr "មើលតាមទិដ្ឋភាពទូទៅសមាជិក"
+
+msgid "corpUsage.member.metricListName"
+msgstr "មើលតាមព័ត៌មានលម្អិតការប្រើប្រាស់សមាជិក"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "គ្មានទិន្នន័យ"
+
+msgid "corpUsage.public_link"
+msgstr "តំណសាធារណៈដែលបានបើក"
+
+msgid "corpUsage.public_link.type"
+msgstr "ប្រភេទវត្ថុ"
+
+msgid "corpUsage.updateTime"
+msgstr "កែសម្រួលចុងក្រោយ"
+
+msgid "corp_coop.operate.create"
+msgstr "បានបន្ថែម"
+
+msgid "corp_coop.operate.delete"
+msgstr "បានលុប"
+
+msgid "corp_coop.side.other"
+msgstr "របស់វា"
+
+msgid "corp_coop.side.our"
+msgstr "របស់អ្នក"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "បានបិទការគ្រប់គ្រងឯកសារភ្ជាប់កម្មវិធីសម្រាប់កម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "បានបើកការគ្រប់គ្រងឯកសារភ្ជាប់កម្មវិធីសម្រាប់កម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "បានកែប្រែការគ្រប់គ្រងឯកសារភ្ជាប់កម្មវិធីរបស់កម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.app_home_update"
+msgstr "បានលៃតម្រូវទំព័រដើមនៃកម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "បន្ថែមក្រុមគ្រប់គ្រងកម្មវិធី {{ name }} ក្នុង {{ appName }}"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "លុបក្រុមគ្រប់គ្រងកម្មវិធី {{ name }} ក្នុង {{ appName }}"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr ""
+"ប្តូរឈ្មោះក្រុមគ្រប់គ្រងកម្មវិធីពី {{ oriName }} ទៅ {{ name }} ក្នុង {{ "
+"appName }}"
+
+msgid "corp_log.content.app_manager_add"
+msgstr "បន្ថែមអ្នកគ្រប់គ្រងកម្មវិធី {{ members }} ក្នុង {{ name }} នៃ {{ appName }}"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "លុបអ្នកគ្រប់គ្រងកម្មវិធី {{ members }} ក្នុង {{ name }} នៃ {{ appName }}"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "បានកែសម្រួលការកំណត់អន្តរកម្មវិធីសម្រាប់កម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.app_url_update"
+msgstr "បានកែសម្រួល URL កម្មវិធីនៃកម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "បានបិទសញ្ញាសម្គាល់កម្មវិធីសម្រាប់កម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "បានបើកសញ្ញាសម្គាល់កម្មវិធីសម្រាប់កម្មវិធី \"{{ app_name }}\""
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "ការចាត់ចែងតំណាងត្រូវបានបិទ"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "ការចាត់ចែងតំណាងត្រូវបានបើក"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr ""
+"ការចាត់ចែងតំណាងត្រូវបានលុបចោល៖ ការចាត់ចែងពី {{ principal }} ទៅ {{ agent }} "
+"ក្នុងអំឡុងពេល {{ timeRange }}"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យសមាជិកក្នុងបញ្ជីបិទ"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យសមាជិកនិងជួរការជូនដំណឹងកម្មវិធីសម្រាប់បញ្ជីបិទ"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យជួរការជូនដំណឹងកម្មវិធីសម្រាប់បញ្ជីបិទ"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "បានបិទ BPA សម្រាប់ទម្រង់ {{ count }}"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "បានបើក BPA សម្រាប់ទម្រង់ {{ count }}"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "បានបិទ BPA សម្រាប់ទម្រង់ \"{{ flow_name }}\""
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "បានបើក BPA សម្រាប់ទម្រង់ \"{{ flow_name }}\""
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "បានលៃតម្រូវសិទ្ធិទម្រង់/ផ្ទាំងគ្រប់គ្រងជាក្រុម"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "បាននាំចូលព័ត៌មាននៃតួនាទី"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "បាននាំចូលសមាជិកទៅ \"{{ fullRoleNames }}\""
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr ""
+"ដេប៉ាតឺម៉ង់ដែលបានចាត់ចែងសម្រាប់សមាជិកក្នុង {{ role }} "
+"ត្រូវបានធ្វើឱ្យទាន់សម័យ"
+
+msgid "corp_log.content.role_rel_update"
+msgstr ""
+"ដេប៉ាតឺម៉ង់ដែលបានចាត់ចែងសម្រាប់ {{ nickname }} ក្នុង {{ role }} "
+"ត្រូវបានធ្វើឱ្យទាន់សម័យ"
+
+msgid "corp_log.content.space_create"
+msgstr "បានបង្កើតមូលដ្ឋានចំណេះដឹង \"{{ space_name }}\""
+
+msgid "corp_log.content.space_delete"
+msgstr "បានលុបមូលដ្ឋានចំណេះដឹង \"{{ space_name }}\""
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "បានបង្កើតសំណុំសិទ្ធិ \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "បានលុបសំណុំសិទ្ធិ \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "បានកែសម្រួលសំណុំសិទ្ធិ \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_update"
+msgstr "បានកែសម្រួលព័ត៌មានមូលដ្ឋាននៃមូលដ្ឋានចំណេះដឹង \"{{ space_name }}\""
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "កំណត់អ្នកដែលអាចប្រើ \"{{ name }}\""
+
+msgid "corp_log.content.suite_disable"
+msgstr "បិទការប្រើប្រាស់ \"{{ name }}\""
+
+msgid "corp_log.content.suite_enable"
+msgstr "បើកការប្រើប្រាស់ \"{{ name }}\""
+
+msgid "crm.upgrade.relatedData"
+msgstr "ស្វែងរក"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "ទទួលយកការអញ្ជើញពី {{ nickname }}({{ corpName }})"
+
+msgid "crop_log.content.agent_disable"
+msgstr "បានបិទផ្លានិច {{ plugin_name }}"
+
+msgid "crop_log.content.agent_enable"
+msgstr "បានបើកដំណើរការភ្នាក់ងារផ្លានិច {{ plugin_name }}"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "បានលុបចេញភ្នាក់ងារផ្លានិច {{ plugin_name }}"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr ""
+"បានបង្កើតតារាងសរុប {{name}}, ចម្លងពីតារាងសរុប {{ori_name}} ក្នុងកម្មវិធី "
+"{{app_name}}"
+
+msgid "crop_log.content.aggregate_create"
+msgstr "បានបង្កើតតារាងសរុប {{ name }}"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "បានស្ដារតារាងសរុប \"{{ name }}\""
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "បានលុបតារាងសរុប {{ name }}"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "បានប្តូរឈ្មោះតារាងសរុបពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យការរចនាតារាងសរុប {{ name }}"
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "បានធ្វើបច្ចុប្បន្នភាពតារាងសរុប \"{{ name }}\""
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "បានបិទមន្ទីរពិសោធន៍ AI"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "បានបើកមន្ទីរពិសោធន៍ AI"
+
+msgid "crop_log.content.api_key_create"
+msgstr "បានបន្ថែមកូនសោ API"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "បានបន្ថែមកូនសោ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_delete"
+msgstr "បានលុបកូនសោ API"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "បានលុបកូនសោ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_disable"
+msgstr "បានបិទកូនសោ API"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "បានបិទកូនសោ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_enable"
+msgstr "បានបើកដំណើរការកូនសោ API"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "បានបើកដំណើរការកូនសោ API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "បានធ្វើបច្ចុប្បន្នភាព \"វិសាលភាពអនុញ្ញាត API\" នៃកូនសោ \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "បានធ្វើបច្ចុប្បន្នភាព \"វិសាលភាពអនុញ្ញាតកម្មវិធី\" នៃកូនសោ \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "បានធ្វើបច្ចុប្បន្នភាព \"បញ្ជី IP ដែលអនុញ្ញាត\" នៃកូនសោ \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "បានធ្វើបច្ចុប្បន្នភាព \"ឈ្មោះ\" នៃកូនសោ \"{{ name }}\""
+
+msgid "crop_log.content.app_create"
+msgstr "បានបង្កើតកម្មវិធី {{ name }}"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "បានបង្កើតកម្មវិធី {{ name }} ដោយចម្លងពី {{ ori_name }}"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "បាននាំចេញកំណត់ហេតុ ETL"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "បានដំឡើងកម្មវិធី {{ name }} ពី DingDingDa"
+
+msgid "crop_log.content.app_install_link"
+msgstr "បានដំឡើងកម្មវិធី {{ name }} ពីតំណចែករំលែកកម្មវិធី"
+
+msgid "crop_log.content.app_install_template"
+msgstr "បានដំឡើងកម្មវិធី {{ name }} ពីមជ្ឈមណ្ឌលគំរូ"
+
+msgid "crop_log.content.app_log_export"
+msgstr "បាននាំចេញកំណត់ហេតុកម្មវិធី"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "បានបិទក្រុមអ្នកគ្រប់គ្រងកម្មវិធី"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "បានបើកក្រុមអ្នកគ្រប់គ្រងកម្មវិធី"
+
+msgid "crop_log.content.app_recover"
+msgstr "បានស្តារកម្មវិធី {{ name }}"
+
+msgid "crop_log.content.app_remove"
+msgstr "បានលុបកម្មវិធី {{ name }}"
+
+msgid "crop_log.content.app_rename"
+msgstr "បានប្តូរឈ្មោះកម្មវិធីពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "បាននាំចេញកំណត់ហេតុការបង្កើត"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "បិទការគ្រប់គ្រងឯកសារភ្ជាប់សកល"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "ការគ្រប់គ្រងឯកសារភ្ជាប់សកលត្រូវបានបើក"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យការកំណត់សំណុំសិទ្ធិ {{ name }}"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "បានបន្ថែមសំណុំសិទ្ធិ {{ name }}"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "បានលុបសំណុំសិទ្ធិ {{ name }}"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "បានប្តូរឈ្មោះសំណុំសិទ្ធិពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យសមាជិកសំណុំសិទ្ធិ {{ name }}"
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "បានកែសម្រួលការកំណត់ការទូទាត់គីឡូអ៊ីន"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "បាននាំចេញកំណត់ហេតុការប្រើប្រាស់គីឡូអ៊ីន"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "បានបន្ថែមតំណអញ្ជើញសម្រាប់សហគ្រាសខាងក្រៅ"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "បានលុបតំណអញ្ជើញសម្រាប់សហគ្រាសខាងក្រៅ"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "បានកែសម្រួលតំណអញ្ជើញសម្រាប់សហគ្រាសខាងក្រៅ"
+
+msgid "crop_log.content.corp_rename"
+msgstr "បានប្តូរឈ្មោះអាជីវកម្មពី \"{{ old_corp_name }}\" ទៅ \"{{ new_corp_name }}\""
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "បានបិទរចនាប័ទ្មអាជីវកម្ម"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "បានបើករចនាប័ទ្មអាជីវកម្ម"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "បានកែសម្រួលរចនាប័ទ្ធអាជីវកម្ម"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "បានកែសម្រួល URL វិបផតថលអាជីវកម្ម"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "បានបន្ថែមតួនាទីទំនាក់ទំនងខាងក្រៅ \"{{ roleName }}\""
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "បានបិទទំព័រចូលផ្ទាល់ខ្លួន"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "បានបើកទំព័រចូលផ្ទាល់ខ្លួន"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "បានកែសម្រួលកន្លែងធ្វើការអាជីវកម្ម"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យសំណុំសិទ្ធិផ្ទាំងគ្រប់គ្រង {{ name }}"
+
+msgid "crop_log.content.dash_create"
+msgstr "បានបង្កើតផ្ទាំងគ្រប់គ្រង {{ name }}"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr ""
+"បានបង្កើតផ្ទាំងគ្រប់គ្រង {{ name }} ដោយចម្លងពីផ្ទាំងគ្រប់គ្រង {{ ori_name "
+"}} នៃកម្មវិធី {{ app_name }}"
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "បានបិទការនាំចេញសាធារណៈផ្ទាំងគ្រប់គ្រង"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "បានបើកការនាំចេញសាធារណៈផ្ទាំងគ្រប់គ្រង"
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "បានបិទតំណសាធារណៈផ្ទាំងគ្រប់គ្រង"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "បានបើកតំណសាធារណៈផ្ទាំងគ្រប់គ្រង"
+
+msgid "crop_log.content.dash_recover"
+msgstr "បានស្តារផ្ទាំងគ្រប់គ្រង {{ name }}"
+
+msgid "crop_log.content.dash_remove"
+msgstr "បានលុបផ្ទាំងគ្រប់គ្រង {{ name }}"
+
+msgid "crop_log.content.dash_rename"
+msgstr "បានប្តូរឈ្មោះផ្ទាំងគ្រប់គ្រងពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.dash_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យការរចនាផ្ទាំងគ្រប់គ្រង {{ name }}"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "បានបោះពុម្ពកំណត់ត្រាជាក្រុមក្នុងគំរូ {{ template_name }}"
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "បានស្តារកំណត់ត្រា {{ count }} ជាក្រុម"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "បានលុបកំណត់ត្រា {{ count }} ជាក្រុម"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "បានលុបកំណត់ត្រា {{ count}} ជាក្រុមពីធុងសំរាមទិន្នន័យ"
+
+msgid "crop_log.content.data_batch_update"
+msgstr ""
+"បានធ្វើឱ្យទាន់សម័យកំណត់ត្រា {{ total }} ជាក្រុម បានជោគជ័យ {{ success }} "
+"បរាជ័យ {{ failed }}"
+
+msgid "crop_log.content.data_create"
+msgstr "បានបន្ថែមទិន្នន័យ {{ data_label }}"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr "បានបោះពុម្ពកំណត់ត្រា {{ table_name }} ជាក្រុមក្នុងគំរូ {{ template_name }}"
+
+msgid "crop_log.content.data_export"
+msgstr "បាននាំចេញទិន្នន័យរបស់ {{ entry_name }}"
+
+msgid "crop_log.content.data_import"
+msgstr "បានបន្ថែមកំណត់ត្រា {{ count }} ដោយនាំចូល"
+
+msgid "crop_log.content.data_import_file"
+msgstr "បាននាំចូលឯកសារភ្ជាប់ {{ success }}"
+
+msgid "crop_log.content.data_import_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យកំណត់ត្រា {{ count }} ដោយនាំចូល"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"បានធ្វើឱ្យទាន់សម័យកំណត់ត្រា {{ updata_datas_amount }} បន្ថែមកំណត់ត្រា {{ "
+"insert_datas_amount }} ដោយនាំចូល"
+
+msgid "crop_log.content.data_print"
+msgstr "បានបោះពុម្ពកំណត់ត្រា {{ data_label }} ក្នុងគំរូ {{ template_name }}"
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "បានបោះពុម្ពកូដ QR ទិន្នន័យជាក្រុម"
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "បានបោះពុម្ពបាកូដវាលជាក្រុម"
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "បានបោះពុម្ពកូដ QR វាលជាក្រុម"
+
+msgid "crop_log.content.data_recover"
+msgstr "បានស្តារទិន្នន័យ {{ data_label }}"
+
+msgid "crop_log.content.data_remove"
+msgstr "បានលុបទិន្នន័យ {{ data_label }}"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "បានលុបទិន្នន័យ {{ data_label }} ពីធុងសំរាមទិន្នន័យ"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr ""
+"បានបង្កើតស្វ័យប្រវត្តិកម្ម {{ name }} ដោយចម្លងពីស្វ័យប្រវត្តិកម្ម {{ "
+"ori_name }} ពីកម្មវិធី {{ app_name }}"
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "បានបង្កើតស្វ័យប្រវត្តិកម្ម {{ name }}"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "បានលុបស្វ័យប្រវត្តិកម្ម {{ name }}"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "បានបើកស្វ័យប្រវត្តិកម្ម {{ name }}"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "បានបិទស្វ័យប្រវត្តិកម្ម {{ name }}"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យស្វ័យប្រវត្តិកម្ម {{ name }}"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr ""
+"ស្វ័យប្រវត្តិកម្ម {{ ori_name }} ត្រូវបានធ្វើឱ្យទាន់សម័យ និងប្តូរឈ្មោះទៅ {{ "
+"name }}"
+
+msgid "crop_log.content.data_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យទិន្នន័យ {{ data_label }}"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "បានលុបតួនាទីទំនាក់ទំនងខាងក្រៅ \"{{ roleName }}\""
+
+msgid "crop_log.content.dept_create"
+msgstr "បានបន្ថែមដេប៉ាតឺម៉ង់ {{ name }}"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "បានបន្ថែមស្លាកសហគ្រាស \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "បានលុបស្លាកសហគ្រាស \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "បានកែសម្រួលក្រុមហ៊ុនក្រោមស្លាកសហគ្រាស \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_update"
+msgstr ""
+"បានប្តូរឈ្មោះស្លាកសហគ្រាសពី \"{{ old_dept_label_name }}\" ទៅ \"{{ "
+"new_dept_label_name }}\""
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យមេដេប៉ាតឺម៉ង់ {{ name }}"
+
+msgid "crop_log.content.dept_remove"
+msgstr "បានលុបដេប៉ាតឺម៉ង់ {{ name }}"
+
+msgid "crop_log.content.dept_rename"
+msgstr "បានប្តូរឈ្មោះដេប៉ាតឺម៉ង់ពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "បានបង្កើតសមាជិក {{ count }} នាក់ជាក្រុម។"
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "សមាជិក {{ count }} នាក់នៃ \"{{ roleName }}\" ត្រូវបានដកចេញ"
+
+msgid "crop_log.content.etl_copy"
+msgstr ""
+"បានបង្កើតស្ទ្រីមទិន្នន័យ {{ name }} ដោយចម្លងពីស្ទ្រីមទិន្នន័យ {{ ori_name "
+"}} នៃកម្មវិធី {{ app_name }}"
+
+msgid "crop_log.content.etl_create"
+msgstr "បានបង្កើតស្ទ្រីមទិន្នន័យ {{ name }}"
+
+msgid "crop_log.content.etl_remove"
+msgstr "បានលុបស្ទ្រីមទិន្នន័យ {{ name }}"
+
+msgid "crop_log.content.etl_rename"
+msgstr "ប្តូរឈ្មោះស្ទ្រីមទិន្នន័យពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.etl_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យការរចនាស្ទ្រីមទិន្នន័យ {{ name }}"
+
+msgid "crop_log.content.fields_recover"
+msgstr ""
+"បានធ្វើឱ្យទាន់សម័យការរចនាទម្រង់ {{ name }}, និងស្តារវាល {{ count }} "
+"ពីធុងសំរាមវាល: {{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"បានធ្វើឱ្យទាន់សម័យការរចនាទម្រង់ {{ name }}, លុបវាល {{ delCount }}, "
+"និងស្តារវាល {{ recoverCount }} ពីធុងសំរាមវាល: {{fields}}"
+
+msgid "crop_log.content.fields_remove"
+msgstr "បានធ្វើឱ្យទាន់សម័យការរចនាទម្រង់ {{ name }} និងលុបវាល {{ count }}"
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "បានលុបវាល {{ count }} ចេញពីធុងសំរាមវាលជាស្ថាពរ: {{ fields }}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr "ធុងសំរាមត្រូវបានសម្អាត, និងវាល {{ count }} ត្រូវបានលុបចោលជាស្ថាពរ"
+
+msgid "crop_log.content.file_batch_export"
+msgstr "បានទាញយកឯកសារពី {{ entry_name }}"
+
+msgid "crop_log.content.flow_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យការរចនាលំហូរការងារនៃទម្រង់ {{ name }}"
+
+msgid "crop_log.content.form_create"
+msgstr "បានបង្កើតទម្រង់ {{ name }}"
+
+msgid "crop_log.content.form_create_copy"
+msgstr ""
+"បានបង្កើតទម្រង់ {{ name }} ដោយចម្លងពីទម្រង់ {{ ori_name }} នៃកម្មវិធី {{ "
+"app_name }}"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "លុបទំព័រព័ត៌មានលម្អិតផ្ទាល់ខ្លួន"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "ផ្លាស់ប្តូរទៅទំព័រព័ត៌មានលម្អិតផ្ទាល់ខ្លួន"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "ផ្លាស់ប្តូរទៅទំព័រព័ត៌មានលម្អិតលំនាំដើមរបស់ប្រព័ន្ធ"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "កែសម្រួលទំព័រព័ត៌មានលម្អិតផ្ទាល់ខ្លួន"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "បិទការទូទាត់"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "បើកការទូទាត់"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "ផ្លាស់ប្តូរការកំណត់ការទូទាត់"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "បានបិទតំណសាធារណៈសម្រាប់កំណត់ត្រា"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "បានបើកតំណសាធារណៈសម្រាប់កំណត់ត្រា"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "បានបិទតំណសាធារណៈ"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "បានបើកតំណសាធារណៈ"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "បានបិទតំណសំណួរសាធារណៈ"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "បានបើកតំណសំណួរសាធារណៈ"
+
+msgid "crop_log.content.form_recover"
+msgstr "បានស្តារទម្រង់ {{ name }}"
+
+msgid "crop_log.content.form_remove"
+msgstr "បានលុបទម្រង់ {{ name }}"
+
+msgid "crop_log.content.form_rename"
+msgstr "បានប្តូរឈ្មោះទម្រង់ពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.form_update"
+msgstr "បានកែសម្រួលការរចនាទម្រង់សម្រាប់ទម្រង់ {{ name }}"
+
+msgid "crop_log.content.guest_connect"
+msgstr "បានអញ្ជើញសហគ្រាស {{ count }} ជាក្រុម"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "បាននាំចេញទំនាក់ទំនងខាងក្រៅទាំងអស់"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr "បានកែសម្រួលព័ត៌មានទំនាក់ទំនងខាងក្រៅ \"{{ old_guest_docker_nickname }}\""
+
+msgid "crop_log.content.guest_update"
+msgstr "បានកែសម្រួលព័ត៌មានសហគ្រាសខាងក្រៅ"
+
+msgid "crop_log.content.handover_work"
+msgstr "បានបញ្ជូន {{ works }} របស់ {{ from }} ទៅ {{ to }}"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "បានផ្តាច់ការតភ្ជាប់ជាមួយសហគ្រាស {{ count }} ដែលអញ្ជើញយើងឱ្យធ្វើការជាមួយ"
+
+msgid "crop_log.content.host_connect"
+msgstr "បានអញ្ជើញសហគ្រាសខាងក្រៅ {{ host_corp_name }}"
+
+msgid "crop_log.content.host_disconnect"
+msgstr "បានផ្តាច់ការតភ្ជាប់ជាមួយសហគ្រាស \"{{ name }}\" ដែលអញ្ជើញយើងឱ្យធ្វើការជាមួយ"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "បានបន្ថែមទំនាក់ទំនងរបស់យើង {{ count }} នាក់"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "បានដកទំនាក់ទំនងរបស់យើង {{ count }} នាក់"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "បានបន្ថែមទំនាក់ទំនងរបស់យើង \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "បានដកទំនាក់ទំនងរបស់យើង \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_update"
+msgstr "បានកែសម្រួលព័ត៌មានទំនាក់ទំនងរបស់យើង \"{{ name }}\""
+
+msgid "crop_log.content.integrate_update"
+msgstr "បានកែសម្រួលព័ត៌មានភ្ជាប់"
+
+msgid "crop_log.content.kms_disable"
+msgstr "បានបិទមូលដ្ឋានចំណេះដឹង"
+
+msgid "crop_log.content.kms_enable"
+msgstr "បានបើកមូលដ្ឋានចំណេះដឹង"
+
+msgid "crop_log.content.login_log_export"
+msgstr "បាននាំចេញប្រវត្តិចូល"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "បានបន្ថែមក្រុមអ្នកគ្រប់គ្រង {{ name }}"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "បានលុបក្រុមអ្នកគ្រប់គ្រង {{ name }}"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "បានប្តូរឈ្មោះក្រុមអ្នកគ្រប់គ្រងពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.managers_add"
+msgstr "បានបន្ថែមសមាជិកទៅក្រុមអ្នកគ្រប់គ្រង {{ name }}: {{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "បានលុបសមាជិកក្នុងក្រុមអ្នកគ្រប់គ្រង {{ name }}: {{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "បានបិទសកម្មភាពសមាជិក {{ count }} នាក់ជាក្រុម"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "បានលុបសមាជិកអសកម្ម {{ count }} នាក់ជាក្រុម"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "បានបើកសកម្មភាពសមាជិក {{ count }} នាក់ជាក្រុម"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "បានបិទសកម្មភាពសមាជិក {{ count }} នាក់ជាក្រុម"
+
+msgid "crop_log.content.member_exit"
+msgstr "សមាជិក \"{{ nickname }}\" បានចាកចេញដោយស្ម័គ្រចិត្តពីអង្គការ"
+
+msgid "crop_log.content.member_export"
+msgstr "បាននាំចេញសមាជិកពីទំនាក់ទំនង"
+
+msgid "crop_log.content.member_freeze"
+msgstr "បានបិទសកម្មភាព {{ nickname }}"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "បានលុបសមាជិកអសកម្ម {{ nickname }}"
+
+msgid "crop_log.content.member_import"
+msgstr "បានអញ្ជើញសមាជិក {{ count }} នាក់"
+
+msgid "crop_log.content.member_invite"
+msgstr "បានអញ្ជើញ {{ nickname }}"
+
+msgid "crop_log.content.member_recover"
+msgstr "បានបើកសកម្មភាព \"{{ nickname }}\""
+
+msgid "crop_log.content.member_remove"
+msgstr "បានបិទសកម្មភាព {{ nickname }}"
+
+msgid "crop_log.content.member_update"
+msgstr "បានធ្វើឱ្យទាន់សម័យព័ត៌មានរបស់ {{ nickname }}"
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "បានបិទ Webhook (សារ)"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "បានបើក Webhook (សារ)"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "បានកែសម្រួល Webhook (សារ)"
+
+msgid "crop_log.content.oauth_create"
+msgstr "បានបន្ថែមការអនុញ្ញាតសម្រាប់ \"{{ suite_name }}\""
+
+msgid "crop_log.content.oauth_delete"
+msgstr "បានដកហូតការអនុញ្ញាតសម្រាប់ \"{{ suite_name }}\""
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "បាននាំចេញកំណត់ហេតុ Open API"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "បាននាំចេញកំណត់ហេតុវេទិកា"
+
+msgid "crop_log.content.order_cancel"
+msgstr "បានបោះបង់ការកម្មង់"
+
+msgid "crop_log.content.order_create"
+msgstr "បានបង្កើតការកម្មង់"
+
+msgid "crop_log.content.order_delete"
+msgstr "បានលុបការកម្មង់"
+
+msgid "crop_log.content.order_pay"
+msgstr "បានទូទាត់ការកម្មង់"
+
+msgid "crop_log.content.order_receipt"
+msgstr "បានចេញវិក័យប័ត្រការកម្មង់"
+
+msgid "crop_log.content.pay_disable"
+msgstr "បិទសេវាកម្មទូទាត់"
+
+msgid "crop_log.content.pay_enable"
+msgstr "បើកសេវាកម្មទូទាត់"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "ភ្ជាប់អ្នកលក់ UnionPay"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "លុបអ្នកលក់ UnionPay"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "បានបិទការអនុញ្ញាតគ្រប់គ្រង"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "បានបើកការអនុញ្ញាតគ្រប់គ្រង"
+
+msgid "crop_log.content.plugin_create"
+msgstr "បានបង្កើតផ្លានិច “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_delete"
+msgstr "បានលុបផ្លានិច \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr "បានបង្កើតផ្លានិច \"{{ plugin_name }}\" និងចម្លងពី \"{{ ori_plugin_name }}\""
+
+msgid "crop_log.content.plugin_export"
+msgstr "បាននាំចេញផ្លានិច “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_import"
+msgstr "បាននាំចូលផ្លានិច “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "បាននាំចូល និងធ្វើបច្ចុប្បន្នភាពផ្លានិច “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_install"
+msgstr "បានដំឡើងផ្លានិច {{ plugin_name }}"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "បានដាក់ពាក្យសុំផ្សព្វផ្សាយផ្លានិច \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_update"
+msgstr "បានកែសម្រួលផ្លានិច \"{{ plugin_name }}\""
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "បានផ្លាស់ប្តូរសមាជិកក្រោមតួនាទីទំនាក់ទំនងខាងក្រៅ \"{{ roleName }}\""
+
+msgid "crop_log.content.role_change_group"
+msgstr "បានបន្ថែមតួនាទី \"{{ role_name }}\" ទៅក្រុម \"{{ new_group_name }}\""
+
+msgid "crop_log.content.role_create"
+msgstr "បានបង្កើតតួនាទី {{ name }} ក្នុងក្រុមតួនាទី {{ group_name }}"
+
+msgid "crop_log.content.role_group_create"
+msgstr "បានបង្កើតក្រុមតួនាទី {{ name }}"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "បានលុបក្រុមតួនាទី {{ name }}"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "បានប្តូរឈ្មោះក្រុមតួនាទីពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.role_member_update"
+msgstr "បានធ្វើបច្ចុប្បន្នភាពសមាជិកក្នុងតួនាទី {{ name }}"
+
+msgid "crop_log.content.role_remove"
+msgstr "បានលុបតួនាទី {{ name }} ក្នុងក្រុមតួនាទី {{ group_name }}"
+
+msgid "crop_log.content.role_rename"
+msgstr "បានប្តូរឈ្មោះតួនាទីពី {{ ori_name }} ទៅ {{ name }}"
+
+msgid "crop_log.content.tenant_verify"
+msgstr "បានផ្ទៀងផ្ទាត់អត្តសញ្ញាណ"
+
+msgid "crop_log.content.timezone_update"
+msgstr "បានផ្លាស់ប្តូរតំបន់ពេលវេលាពី \"{{ old_timezone }}\" ទៅ \"{{ new_timezone }}\""
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "បានដាក់ពាក្យគ្រប់គ្រងទំនាក់ទំនងសហគ្រាសដែលបានតភ្ជាប់ \"{{ name }}\""
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr "បានផ្ទេរសិទ្ធិគ្រប់គ្រងទំនាក់ទំនងសម្រាប់សហគ្រាសដែលបានតភ្ជាប់ \"{{ name }}\""
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr ""
+"បានប្តូរឈ្មោះតួនាទីទំនាក់ទំនងខាងក្រៅពី \"{{ oldRoleName }}\" ទៅ \"{{ "
+"newRoleName }}\""
+
+msgid "crop_log.content.watermark_disable"
+msgstr "បានបិទសញ្ញាសម្គាល់សាកល"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "បានបើកសញ្ញាសម្គាល់សាកល"
+
+msgid "crop_log.content.wx_disable"
+msgstr "បានបិទការរួមបញ្ចូលគណនីសេវា WeChat"
+
+msgid "crop_log.content.wx_enable"
+msgstr "បានបើកការរួមបញ្ចូលគណនីសេវា WeChat"
+
+msgid "crop_log.link_text.view_details"
+msgstr "មើលព័ត៌មានលម្អិត"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} - ចូលប្រព័ន្ធ"
+
+msgid "dash.date.format.year.quarter"
+msgstr "YYYY/ត្រីមាស qQ"
+
+msgid "dash.date.format.year.week"
+msgstr "YYYY/សប្តាហ៍ Www"
+
+msgid "dash.excel.export.subtotal"
+msgstr "សរុបរង"
+
+msgid "dash.excel.export.sum"
+msgstr "សរុបទូទៅ"
+
+msgid "dash.excel.export.total"
+msgstr "ការបូកសរុប"
+
+msgid "dash.percent"
+msgstr "ភាគរយ"
+
+msgid "deptType.corpCoop"
+msgstr "អតិថិជន និងអតិថិជន"
+
+msgid "deptType.internal"
+msgstr "សមាជិក"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "អាសយដ្ឋានអ៊ីមែលមិនត្រឹមត្រូវ។ សូមពិនិត្យ។"
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "អ៊ីមែលមានរួចហើយ។"
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "ឈ្មោះប្រើប្រាស់សមាជិកគាំទ្រតែអក្សរ លេខ និងសហសញ្ញា(_)។"
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "ឈ្មោះប្រើប្រាស់សមាជិកត្រូវមានប្រវែងពី ៣ ដល់ ៨០ តួអក្សរ។"
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "បញ្ចូលឈ្មោះប្រើប្រាស់សមាជិក"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "ឈ្មោះប្រើប្រាស់មានរួចហើយក្នុងទំនាក់ទំនង។"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"ឈ្មោះប្រើប្រាស់ត្រូវបានគេប្រើដោយអ្នកផ្ទេរផ្ទាល់ផ្សេង។ "
+"ផ្ទៀងផ្ទាត់ថាតើវាជារបស់សមាជិកដូចគ្នាឬទេ។ បើមែន ផ្ញើការអញ្ជើញឲ្យចូលរួម។ "
+"បើមិនមែន កែសម្រួលឈ្មោះប្រើប្រាស់។"
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "ឈ្មោះសមាជិកមានប្រវែងអតិបរមា ៨០តួអក្សរ។"
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "បញ្ចូលឈ្មោះសមាជិក។"
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "រកមិនឃើញគោលនយោបាយនាំចូលដែលសមស្របទេ"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "បញ្ចូលពាក្យសម្ងាត់។"
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "លេខទូរស័ព្ទមិនត្រឹមត្រូវ។ សូមពិនិត្យ។"
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "លេខទូរស័ព្ទមានរួចហើយ។"
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "កំហុសមិនស្គាល់។"
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "លេខសមាជិកគ្រាន់តែទ្រទ្រង់អក្សរ, លេខ, អ័ណ្ឌសកូរ និង '.'"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "លេខសមាជិកមានរួចហើយក្នុងទំនាក់ទំនង។"
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "រកមិនឃើញអ្នកប្រើប្រាស់ ឬសមាជិកដែលអាចប្រើប្រាស់ម្តងទៀតបានទេ"
+
+msgid "email.title.aggregate_buffer"
+msgstr "ការជូនដំណឹងប្រើប្រាស់លើសតារាងសរុបសម្រាប់ \"{{ _g_productName }}\""
+
+msgid "email.title.aggregation_buffer"
+msgstr "ការជូនដំណឹងប្រើប្រាស់លើសការបូកសរុបសម្រាប់ \"{{ _g_productName }}\""
+
+msgid "email.title.appTrialExpire"
+msgstr "{{ _g_productName }}: ការរំលឹកផុតកំណត់សាកល្បង"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "\"{{ _g_productName }}\" ការប្រើប្រាស់ស្វ័យប្រវត្តិកម្ម Pro"
+
+msgid "email.title.bpa_buffer"
+msgstr "ការជូនដំណឹងប្រើប្រាស់លើស BPA សម្រាប់ \"{{ _g_productName }}\""
+
+msgid "email.title.buffer_expired"
+msgstr ""
+"ការជូនដំណឹងសម្រាប់ \"{{ _g_productName }}\": "
+"លើសដែនកំណត់ប្រើប្រព័ន្ធនិងសេវាកម្មត្រូវបានផ្អាក"
+
+msgid "email.title.coinRunOut"
+msgstr "{{ _g_productName }}: អ្នកបានអស់ {{ _g_productName }} Coins"
+
+msgid "email.title.coinRunningOut"
+msgstr "{{ _g_productName }}: អ្នកជិតអស់ {{ _g_productName }} Coins"
+
+msgid "email.title.comment"
+msgstr "មានយោបល់ថ្មីបានលើកអ្នក។ សូមឆ្លើយតបទាន់ពេលវេលា"
+
+msgid "email.title.corpInvite"
+msgstr "{{ _g_productName }}: ការអញ្ជើញសហការ"
+
+msgid "email.title.dashAlert"
+msgstr "ការជូនដំណឹងដោយទិន្នន័យ"
+
+msgid "email.title.dashAlertLimit"
+msgstr ""
+"{{ _g_productName }}: "
+"ការជូនដំណឹងទិន្នន័យផ្ទាំងគ្រប់គ្រងឈានដល់ដែនកំណត់ប្រចាំថ្ងៃ"
+
+msgid "email.title.docTrend"
+msgstr "{{ _g_productName }}: ឯកសារធ្វើឱ្យទាន់សម័យ"
+
+msgid "email.title.etl_buffer"
+msgstr "ការជូនដំណឹងប្រើប្រាស់លើសរបស់ Data Factory សម្រាប់ \"{{ _g_productName }}\""
+
+msgid "email.title.formDataExceed"
+msgstr "{{ _g_productName }}: ទិន្នន័យក្នុងតារាងតែមួយបានលើសដែនកំណត់"
+
+msgid "email.title.formDataUsage"
+msgstr "{{ _g_productName }}: ទិន្នន័យក្នុងតារាងតែមួយជិតលើសដែនកំណត់"
+
+msgid "email.title.monthlyDataExceed"
+msgstr "{{ _g_productName }}: ទិន្នន័យឈានដល់ដែនកំណត់ប្រចាំខែ"
+
+msgid "email.title.systemLog"
+msgstr "{{ _g_productName }}: កំណត់ហេតុប្រព័ន្ធ"
+
+msgid "email.title.tenantCoop"
+msgstr "「{{ _g_productName }}」ការសហការសហគ្រាស"
+
+msgid "email.title.totalDataExceed"
+msgstr "{{ _g_productName }}: ទិន្នន័យសរុបបានលើសដែនកំណត់"
+
+msgid "email.title.totalDataUsage"
+msgstr "{{ _g_productName }}: ទិន្នន័យសរុបជិតលើសដែនកំណត់"
+
+msgid "email.title.trialExpire"
+msgstr "{{ _g_productName }}: ការសាកល្បង VIP របស់អ្នកជិតផុតកំណត់"
+
+msgid "email.title.trigger_buffer"
+msgstr "ការជូនដំណឹងប្រើប្រាស់លើសស្វ័យប្រវត្តិកម្មសម្រាប់ \"{{ _g_productName }}\""
+
+msgid "email.title.uploadUsage"
+msgstr "{{ _g_productName }}: ចំនួនឯកសារភ្ជាប់សរុបជិតលើសដែនកំណត់"
+
+msgid "email.title.userChannelVerify"
+msgstr "{{ _g_productName }}: ការផ្ទៀងផ្ទាត់អ៊ីមែល"
+
+msgid "email.title.user_buffer"
+msgstr "ការជូនដំណឹងប្រើប្រាស់លើសសមាជិកសម្រាប់ \"{{ _g_productName }}\""
+
+msgid "email.title.vipExpire"
+msgstr "{{ _g_productName }}: VIP របស់អ្នកជិតផុតកំណត់"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr ""
+"ប្រសិនបើមាតិកាក្នុងក្រឡាខ្លះលើសប្រវែងអតិបរមា "
+"ក្រឡាទាំងនេះអាចត្រូវបានធ្វើឱ្យទទេ៖"
+
+msgid "error.export.excel.errorSheetName"
+msgstr "កំហុសនាំចេញ"
+
+msgid "error.export.excel.fileName"
+msgstr "បញ្ជីបរាជ័យ"
+
+msgid "event.appCreate"
+msgstr "បង្កើតកម្មវិធី"
+
+msgid "event.appPublishAccept"
+msgstr "កម្មវិធីបានបោះពុម្ពដោយជោគជ័យ"
+
+msgid "event.appPublishFailed"
+msgstr "បរាជ័យក្នុងការបោះពុម្ពកម្មវិធី"
+
+msgid "event.appRemove"
+msgstr "លុបកម្មវិធី"
+
+msgid "event.corpAutoSync"
+msgstr "ធ្វើសមកាលកម្មអាជីវកម្មស្វ័យប្រវត្តិ"
+
+msgid "event.corpManualSync"
+msgstr "ធ្វើសមកាលកម្មអាជីវកម្មដោយដៃ"
+
+msgid "event.createDept"
+msgstr "បន្ថែមដេប៉ាតឺម៉ង់"
+
+msgid "event.createManageGroup"
+msgstr "បន្ថែមក្រុម"
+
+msgid "event.createRole"
+msgstr "បន្ថែមតួនាទី"
+
+msgid "event.dataWebhook"
+msgstr "Webhook"
+
+msgid "event.entryWebhook"
+msgstr "ការរុញការកំណត់រចនាសម្ព័ន្ធទម្រង់"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "បរាជ័យក្នុងការបើកដំណើរការស្ទ្រីមទិន្នន័យតាមកាលវិភាគ"
+
+msgid "event.fileExportComplete"
+msgstr "ឯកសាររួចរាល់"
+
+msgid "event.fileExportFailed"
+msgstr "បរាជ័យក្នុងការនាំចេញឯកសារ"
+
+msgid "event.inviteToJoin"
+msgstr "អញ្ជើញអ្នកចូលរួម"
+
+msgid "event.kms.spaceApply"
+msgstr "បានទទួលសំណើថ្មីដើម្បីបង្កើតមូលដ្ឋានចំណេះដឹង"
+
+msgid "event.memberHardDelete"
+msgstr "លុបសមាជិក"
+
+msgid "event.memberInvite"
+msgstr "អញ្ជើញសមាជិក"
+
+msgid "event.memberRemove"
+msgstr "បិទសកម្មភាព"
+
+msgid "event.removeDept"
+msgstr "លុបដេប៉ាតឺម៉ង់"
+
+msgid "event.removeManageGroup"
+msgstr "លុបក្រុមអ្នកគ្រប់គ្រង"
+
+msgid "event.removeRole"
+msgstr "លុបតួនាទី"
+
+msgid "event.smsDataComment"
+msgstr "យោបល់ទិន្នន័យ"
+
+msgid "event.smsFlowData"
+msgstr "ការរំលឹកលំហូរការងារ"
+
+msgid "event.smsVerify"
+msgstr "លេខកូដផ្ទៀងផ្ទាត់ SMS"
+
+msgid "event.systemLogNotify"
+msgstr "ការជូនដំណឹងកំណត់ហេតុប្រព័ន្ធ"
+
+msgid "event.timedReminder"
+msgstr "ការរំលឹក"
+
+msgid "event.updateManageGroupMembers"
+msgstr "ធ្វើឱ្យទាន់សម័យសមាជិកអ្នកគ្រប់គ្រង"
+
+msgid "excel.address.city"
+msgstr "(ទីក្រុង)"
+
+msgid "excel.address.detail"
+msgstr "(អាសយដ្ឋាន)"
+
+msgid "excel.address.district"
+msgstr "(ស្រុក/ខណ្ឌ)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(រយៈទទឹង និងរយៈបណ្តោយ)"
+
+msgid "excel.address.province"
+msgstr "(រដ្ឋ/ខេត្ត)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "ឈ្មោះអាជីវកម្ម"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "អ៊ីមែល"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "ជាម្ចាស់"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "ឈ្មោះ"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "លេខទូរស័ព្ទ"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "តួនាទី"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "ឈ្មោះអាជីវកម្ម"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "ស្លាក"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "អ៊ីមែល"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "ជាម្ចាស់"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "ឈ្មោះ"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "ទូរស័ព្ទចល័ត"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "តួនាទី"
+
+msgid "excel.datetime.format.date"
+msgstr "YYYY-MM-DD"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "YYYY-MM-DD HH:MM"
+
+msgid "excel.datetime.format.date.month"
+msgstr "YYYY-MM"
+
+msgid "excel.datetime.format.datetime"
+msgstr "YYYY-MM-DD HH:MM:SS"
+
+msgid "excel.filename.dataTable"
+msgstr "តារាងទិន្នន័យ"
+
+msgid "excel.filename.dataTemplate"
+msgstr "គំរូទិន្នន័យ"
+
+msgid "excel.filename.table"
+msgstr "តារាងស្ថិតិ"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"ឈ្មោះដេប៉ាតឺម៉ង់ស្ទួន \"{{ value }}\" ត្រូវបានរកឃើញក្នុងវាល \"{{ colLabel "
+"}}\"។ វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "ព័ត៌មានលម្អិតអំពីកំហុស"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"ទម្រង់មិនត្រឹមត្រូវសម្រាប់ \"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\"។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" មិនអាចផ្គូផ្គង ID ណាមួយបានទេ។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"ជ្រើសរើស {{ itemCount }} ជម្រើសក្នុងវាល \"{{ colLabel }}\"។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"អតិបរមា {{ maxItemCount }} ជម្រើសសម្រាប់វាល \"{{ colLabel }}\"។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"យ៉ាងហោចណាស់ {{ minItemCount }} ជម្រើសសម្រាប់វាល \"{{ colLabel }}\"។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"សូមជ្រើសរើសពី {{ minItemCount }} ដល់ {{ maxItemCount }} ជម្រើសសម្រាប់វាល "
+"\"{{ colLabel }}\"។ វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" មិនអាចផ្គូផ្គងជម្រើសណាមួយបានទេ។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"ទិន្នន័យស្ទួនសម្រាប់ \"{{ value }}\" ក្នុងទម្រង់ \"{{ formNames }}\"។ "
+"បញ្ចាក់ទម្រង់ដែលត្រូវនាំចូលក្នុងទម្រង់ \"តម្លៃវាល # ទម្រង់\"។"
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"ឈ្មោះវាលស្ទួន \"{{ colLabel }}\" ត្រូវបានរកឃើញក្នុងទម្រង់ \"{{ formName "
+"}}\"។ វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់បច្ចុប្បន្ន។"
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" "
+"មិនអាចផ្គូផ្គងទិន្នន័យណាមួយក្នុងទម្រង់ដែលពាក់ព័ន្ធបានទេ។ វាលនេះត្រូវនឹងវាល "
+"\"{{ widgetLabel }}\" ក្នុងទម្រង់បច្ចុប្បន្ន។"
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" "
+"ផ្គូផ្គងនឹងកំណត់ត្រាច្រើនក្នុងទម្រង់ដែលពាក់ព័ន្ធ។ វាលនេះត្រូវនឹងវាល \"{{ "
+"widgetLabel }}\" ក្នុងទម្រង់បច្ចុប្បន្ន។"
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr ""
+"ចំពោះវាល \"{{ colLabel }}\", {{ repeatRemind }}។ វាលនេះត្រូវនឹងវាល \"{{ "
+"widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" មិនអាចផ្គូផ្គងឈ្មោះណាមួយបានទេ។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"ឈ្មោះសមាជិកស្ទួន \"{{ value }}\" ត្រូវបានរកឃើញក្នុងវាល \"{{ colLabel }}\"។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" គួរតែជា \"{{ number }}\"។ "
+"វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" គួរតែតិចជាង ឬស្មើនឹង {{ "
+"maxNumber }}។ \"{{ colLabel }}\" ត្រូវនឹងវាល \"{{ widgetLabel }}\" "
+"ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" គួរតែធំជាង ឬស្មើនឹង {{ "
+"minNumber }}។ វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ colLabel }}\" គួរតែនៅចន្លោះ {{ minNumber }} "
+"និង {{ maxNumber }}។ វាលនេះត្រូវនឹងវាល \"{{ widgetLabel }}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាល \"{{ widgetName }}\" "
+"មិនអាចផ្គូផ្គងដំណាក់កាលលក់ណាមួយបានទេ។ វាលនេះត្រូវនឹងវាល \"{{ widgetLabel "
+"}}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "កំណត់ត្រាបរាជ័យ"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"ឈ្មោះដេប៉ាតឺម៉ង់ស្ទួន \"{{ value }}\" ត្រូវបានរកឃើញក្នុងវាលរង \"{{ "
+"subColLabel }}\" នៃទម្រង់រង \"{{ colLabel }}\"។ វាលរងនេះត្រូវនឹងវាលរង \"{{ "
+"subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"ទម្រង់មិនត្រឹមត្រូវសម្រាប់ \"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" "
+"នៃទម្រង់រង \"{{ colLabel }}\"។ វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel "
+"}}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel "
+"}}\" មិនអាចផ្គូផ្គង ID ណាមួយបានទេ។ វាលរងនេះត្រូវនឹងវាលរង \"{{ "
+"subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"ជ្រើសរើស {{ itemCount }} ជម្រើសក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង "
+"\"{{ colLabel }}\"។ វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel }}\" "
+"ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"អតិបរមា {{ maxItemCount }} ជម្រើសសម្រាប់វាលរង \"{{ subColLabel }}\" "
+"នៃទម្រង់រង \"{{ colLabel }}\"។ វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel "
+"}}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"យ៉ាងហោចណាស់ {{ minItemCount }} ជម្រើសសម្រាប់វាលរង \"{{ subColLabel }}\" "
+"នៃទម្រង់រង \"{{ colLabel }}\"។ វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel "
+"}}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"សូមជ្រើសរើសពី {{ minItemCount }} ដល់ {{ maxItemCount }} ជម្រើសសម្រាប់វាលរង "
+"\"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel }}\"។ វាលរងនេះត្រូវនឹងវាលរង "
+"\"{{ subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel "
+"}}\" មិនអាចផ្គូផ្គងជម្រើសណាមួយបានទេ។ វាលរងនេះត្រូវនឹងវាលរង \"{{ "
+"subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel "
+"}}\" មិនអាចផ្គូផ្គងឈ្មោះណាមួយបានទេ។ វាលរងនេះត្រូវនឹងវាលរង \"{{ "
+"subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"ឈ្មោះសមាជិកស្ទួន \"{{ value }}\" ត្រូវបានរកឃើញក្នុងវាលរង \"{{ subColLabel "
+"}}\" នៃទម្រង់រង \"{{ colLabel }}\"។ វាលរងនេះត្រូវនឹងវាលរង \"{{ "
+"subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel "
+"}}\" គួរតែជា \"{{ number }}\"។ វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel "
+"}}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel "
+"}}\" គួរតែតិចជាង ឬស្មើនឹង {{ maxNumber }}។ វាលរងនេះត្រូវនឹងវាលរង \"{{ "
+"subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel "
+"}}\" គួរតែធំជាង ឬស្មើនឹង {{ minNumber }}។ វាលរងនេះត្រូវនឹងវាលរង \"{{ "
+"subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"\"{{ value }}\" ក្នុងវាលរង \"{{ subColLabel }}\" នៃទម្រង់រង \"{{ colLabel "
+"}}\" គួរតែនៅចន្លោះ {{ minNumber }} និង {{ maxNumber }}។ "
+"វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel }}\" ក្នុងទម្រង់រង \"{{ "
+"widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"ចំពោះវាលរង \"{{ subColLabel }}\" ក្នុងទម្រង់រង \"{{ colLabel }}\", {{ "
+"repeatRemind }}។ វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel }}\" "
+"ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"វាលរង \"{{ subColLabel }}\" ក្នុងទម្រង់រង \"{{ colLabel }}\" "
+"ត្រូវបានទាមទារ។ វាលរងនេះត្រូវនឹងវាលរង \"{{ subWidgetLabel }}\" "
+"ក្នុងទម្រង់រង \"{{ widgetLabel }}\"។"
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr ""
+"វាល \"{{ colLabel }}\" ត្រូវបានទាមទារ។ វាលនេះត្រូវនឹងវាល \"{{ widgetLabel "
+"}}\" ក្នុងទម្រង់។"
+
+msgid "excel.importError.filename"
+msgstr "របាយការណ៍កំហុស {{ formName }}_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "ដេប៉ាតឺម៉ង់ដែលជាកម្មសិទ្ធ"
+
+msgid "excel.importError.repeatName.id"
+msgstr "ID ដេប៉ាតឺម៉ង់ និងសមាជិក"
+
+msgid "excel.importError.repeatName.name"
+msgstr "ឈ្មោះដេប៉ាតឺម៉ង់ និងសមាជិកស្ទួន"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "សមាជិកដែលមានឈ្មោះដូចគ្នា និង ID ដេប៉ាតឺម៉ង់"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "ផ្តល់អនុសាសន៍ឱ្យនាំចូលរចនាប័ទ្ម"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"ធ្វើតាមរចនាប័ទ្មនាំចូលដែលបានណែនាំដើម្បីជំនួសទិន្នន័យដើម។ "
+"សម្រាប់ព័ត៌មានលម្អិត សូមមើល៖ https://help.jodoo.com/doc/12099។"
+
+msgid "excel.mainDataLabel.header"
+msgstr "ទិន្នន័យ \"{{ formName }}\" (ទម្រង់មេ)"
+
+msgid "excel.member.dept"
+msgstr "ដេប៉ាតឺម៉ង់"
+
+msgid "excel.member.email"
+msgstr "អ៊ីមែល"
+
+msgid "excel.member.exceed"
+msgstr ""
+"ចំនួនសមាជិកដែលអ្នកចង់នាំចេញបានឈានដល់ដែនកំណត់អតិបរមា។ មានតែកំណត់ត្រា 100,000 "
+"ដំបូងប៉ុណ្ណោះដែលត្រូវបាននាំចេញ"
+
+msgid "excel.member.filename"
+msgstr "ទំនាក់ទំនងខាងក្នុង"
+
+msgid "excel.member.fullRoleName"
+msgstr "ក្រុមតួនាទី និងតួនាទី"
+
+msgid "excel.member.name"
+msgstr "ឈ្មោះ"
+
+msgid "excel.member.phone"
+msgstr "ទូរស័ព្ទចល័ត"
+
+msgid "excel.member.role"
+msgstr "តួនាទី"
+
+msgid "excel.member.role.rel.filename"
+msgstr "តួនាទីទំនាក់ទំនង"
+
+msgid "excel.member.status"
+msgstr "ស្ថានភាព"
+
+msgid "excel.member.username"
+msgstr "លេខ"
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "អត្តលេខសមាជិក"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "សមាជិកស្ទួន"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "របាយការណ៍កំហុស.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "របាយការណ៍កំហុស {{ uploadExcelName }}_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "ត្រូវការ"
+
+msgid "filezip.filename.package"
+msgstr "ឯកសារភ្ជាប់ {{ formName }}_{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "ពេលវេលាបង្កើតលំហូរការងារ"
+
+msgid "flow.creator"
+msgstr "អ្នកចាប់ផ្តើមលំហូរការងារ"
+
+msgid "flow.initiateFlow"
+msgstr "ចាប់ផ្តើមឥឡូវនេះ"
+
+msgid "flow.initiateFlow.desc"
+msgstr "សមាជិកក្រុមនេះអាចចាប់ផ្តើមលំហូរការងារ"
+
+msgid "flow.manageAllFlow"
+msgstr "គ្រប់គ្រងលំហូរការងារទាំងអស់"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "សមាជិកក្រុមនេះអាចគ្រប់គ្រងដំណើរការទាំងអស់"
+
+msgid "flow.node.approve"
+msgstr "ការអនុម័ត"
+
+msgid "flow.node.end"
+msgstr "បញ្ចប់"
+
+msgid "flow.node.start"
+msgstr "ចាប់ផ្តើម"
+
+msgid "flow.state.closed"
+msgstr "បញ្ចប់ដោយដៃ"
+
+msgid "flow.state.complete"
+msgstr "បានបញ្ចប់"
+
+msgid "flow.state.inProcess"
+msgstr "កំពុងដំណើរការ"
+
+msgid "flow.state.rejected"
+msgstr "បដិសេធ"
+
+msgid "flow.viewAllFlow"
+msgstr "មើលលំហូរការងារទាំងអស់"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "សមាជិកក្រុមនេះអាចមើលដំណើរការទាំងអស់"
+
+msgid "form.analysisField.avgDuration"
+msgstr "ពេលវេលាជាមធ្យមនៃដំណើរការ(ម៉ោង)"
+
+msgid "form.analysisField.creator"
+msgstr "សមាជិក"
+
+msgid "form.analysisField.dataCount"
+msgstr "ចំនួនទិន្នន័យ"
+
+msgid "form.analysisField.flowNode"
+msgstr "ថ្នាំង"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "ពេលវេលាបញ្ចប់លំហូរការងារ"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "ពេលវេលាបង្កើតលំហូរការងារ"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "ពេលវេលាទឹកចូលថ្នាំង"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "ពេលវេលាទឹកចេញថ្នាំង"
+
+msgid "form.data.tab.common.name"
+msgstr "ព័ត៌មានមូលដ្ឋាន"
+
+msgid "form.default.field.options.firstText"
+msgstr "ជម្រើស 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "ជម្រើស 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "ជម្រើស 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "ជម្រើស 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "ជម្រើស 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "ជម្រើស 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "មិនអនុញ្ញាតឱ្យមានតម្លៃស្ទួន"
+
+msgid "form.operate.batchPrint"
+msgstr "បោះពុម្ពជាក្រុម"
+
+msgid "form.operate.batchUpdate"
+msgstr "កែសម្រួលជាក្រុម"
+
+msgid "form.operate.copy"
+msgstr "ចម្លង"
+
+msgid "form.operate.create"
+msgstr "បន្ថែម"
+
+msgid "form.operate.delete"
+msgstr "លុប"
+
+msgid "form.operate.export"
+msgstr "នាំចេញ"
+
+msgid "form.operate.flowActivate"
+msgstr "ដំណើរការបើកដំណើរការ"
+
+msgid "form.operate.flowClose"
+msgstr "បញ្ចប់លំហូរការងារ"
+
+msgid "form.operate.flowTransfer"
+msgstr "ផ្លាស់ប្តូរអ្នកអនុម័តដំណើរការ"
+
+msgid "form.operate.import"
+msgstr "នាំចូល"
+
+msgid "form.operate.read"
+msgstr "មើល"
+
+msgid "form.operate.update"
+msgstr "កែសម្រួល"
+
+msgid "form.subformField.id"
+msgstr "អត្តសញ្ញាណទម្រង់រង"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "អ្នកអនុម័តបច្ចុប្បន្ន"
+
+msgid "form.sysField.createTime"
+msgstr "ពេលវេលាដាក់ស្នើ"
+
+msgid "form.sysField.creator"
+msgstr "អ្នកដាក់ស្នើ"
+
+msgid "form.sysField.dataId"
+msgstr "data_id"
+
+msgid "form.sysField.dataLabel"
+msgstr "ចំណងជើង"
+
+msgid "form.sysField.deleteTime"
+msgstr "ពេលវេលាលុប"
+
+msgid "form.sysField.deleter"
+msgstr "អ្នកប្រើប្រាស់ដែលបានលុប"
+
+msgid "form.sysField.ext"
+msgstr "ប៉ារ៉ាម៉ែត្រ URL"
+
+msgid "form.sysField.flowComment"
+msgstr "យោបល់អនុម័ត"
+
+msgid "form.sysField.flowNodes"
+msgstr "ថ្នាំងបច្ចុប្បន្ន"
+
+msgid "form.sysField.flowState"
+msgstr "ស្ថានភាពលំហូរការងារ"
+
+msgid "form.sysField.flowVer"
+msgstr "កំណែ"
+
+msgid "form.sysField.operator"
+msgstr "បានធ្វើដោយ"
+
+msgid "form.sysField.printOperator"
+msgstr "អ្នកប្រើប្រាស់ដែលបានបោះពុម្ព"
+
+msgid "form.sysField.printTime"
+msgstr "ពេលវេលាបោះពុម្ព"
+
+msgid "form.sysField.privateDataQr"
+msgstr "កូដ QR ទិន្នន័យ (ខាងក្នុង)"
+
+msgid "form.sysField.publicDataQr"
+msgstr "កូដ QR ទិន្នន័យ (សាធារណៈ)"
+
+msgid "form.sysField.updateTime"
+msgstr "ពេលវេលាធ្វើឱ្យទាន់សម័យ"
+
+msgid "form.sysField.updater"
+msgstr "អ្នកប្រើប្រាស់ដែលបានធ្វើឱ្យទាន់សម័យ"
+
+msgid "form.sysField.wxAvatar"
+msgstr "រូបអាវ៉ាតារ WeChat"
+
+msgid "form.sysField.wxNickname"
+msgstr "ឈ្មោះ WeChat"
+
+msgid "form.sysField.wxOpenId"
+msgstr "WeChat OpenID"
+
+msgid "formView.allData.name"
+msgstr "ទិន្នន័យទាំងអស់"
+
+msgid "formView.untitled.name"
+msgstr "មើលដោយគ្មានចំណងជើង"
+
+msgid "formula.cal.type.error"
+msgstr "លទ្ធផលគណនារូបមន្តមានប្រភេទទិន្នន័យមិនត្រឹមត្រូវ"
+
+msgid "formula.express.error"
+msgstr "កន្សោមរូបមន្តមិនត្រឹមត្រូវ"
+
+msgid "function.not.support"
+msgstr "មុខងារនេះមិនត្រូវបានគាំទ្រក្នុងគម្រោងសកម្មទេ!"
+
+msgid "function.param.count.error"
+msgstr "ចំនួនប៉ារ៉ាម៉ែត្រមិនត្រឹមត្រូវសម្រាប់អនុគមន៍ {{ name }}"
+
+msgid "function.param.error"
+msgstr "ប៉ារ៉ាម៉ែត្រមិនត្រឹមត្រូវសម្រាប់អនុគមន៍ {{ name }}"
+
+msgid "function.param.notEmpty"
+msgstr "ប៉ារ៉ាម៉ែត្រសម្រាប់អនុគមន៍ {{ name }} មិនអាចទទេបានទេ"
+
+msgid "function.param.type.error"
+msgstr "ប្រភេទប៉ារ៉ាម៉ែត្រមិនត្រឹមត្រូវសម្រាប់អនុគមន៍ {{ name }}"
+
+msgid "function.return.error"
+msgstr "មិនបានបញ្ជាក់ប្រភេទតម្លៃត្រឡប់សម្រាប់អនុគមន៍ {{ name }}"
+
+msgid "function.second.param.constant"
+msgstr "ប៉ារ៉ាម៉ែត្រទីពីរសម្រាប់អនុគមន៍ {{ name }} អាចជាថេរប៉ុណ្ណោះ"
+
+msgid "function.two.param"
+msgstr "ត្រូវការយ៉ាងហោចណាស់ 2 ប៉ារ៉ាម៉ែត្រសម្រាប់អនុគមន៍ {{ name }}"
+
+msgid "function.two.param.error"
+msgstr ""
+"ប្រភេទប៉ារ៉ាម៉ែត្រទី {{ i }} និងទី {{ preIdx }} សម្រាប់អនុគមន៍ {{ name }} "
+"មិនត្រូវគ្នា"
+
+msgid "function.which.param.error"
+msgstr "ប្រភេទប៉ារ៉ាម៉ែត្រទី {{ i }} មិនត្រឹមត្រូវសម្រាប់អនុគមន៍ {{ name }}"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "ប្រវែងប៉ារ៉ាម៉ែត្រទី {{ i }} លើសពីដែនកំណត់សម្រាប់អនុគមន៍ {{ name }}"
+
+msgid "handover.type.data"
+msgstr "[ទិន្នន័យ]"
+
+msgid "handover.type.entry"
+msgstr "[ទម្រង់/ផ្ទាំងគ្រប់គ្រង]"
+
+msgid "handover.type.kms"
+msgstr "[មូលដ្ឋានចំណេះដឹង]"
+
+msgid "handover.type.role"
+msgstr "[ទំនាក់ទំនង]"
+
+msgid "handover.type.todo"
+msgstr "[ភារកិច្ច]"
+
+msgid "handover.type.workflow"
+msgstr "[អ្នកអនុម័តលំហូរការងារ]"
+
+msgid "handover.work"
+msgstr "ប្រគល់បន្ត"
+
+msgid "kms.docTrend"
+msgstr "ឯកសារធ្វើឱ្យទាន់សម័យ"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "សមាជិកក្រុមនេះអាចបំពេញទិន្នន័យ និងគ្រប់គ្រងទិន្នន័យដែលបានបំពេញដោយខ្លួនឯង"
+
+msgid "manage.addAndManageMyData.name"
+msgstr "បន្ថែម និងគ្រប់គ្រងទិន្នន័យរបស់ខ្ញុំ"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "សមាជិកក្រុមនេះអាចបំពេញទិន្នន័យ និងមើលទិន្នន័យទាំងអស់"
+
+msgid "manage.addAndViewAllData.name"
+msgstr "បន្ថែម និងមើលទិន្នន័យទាំងអស់"
+
+msgid "manage.manageAllData.desc"
+msgstr ""
+"សមាជិកក្រុមនេះអាចគ្រប់គ្រងទិន្នន័យទាំងអស់ និងបំពេញទិន្នន័យ "
+"ប៉ុន្តែមិនអាចនាំចូលទិន្នន័យបានទេ"
+
+msgid "manage.manageAllData.name"
+msgstr "គ្រប់គ្រងទិន្នន័យទាំងអស់"
+
+msgid "manage.mergeGroup"
+msgstr "ទិន្នន័យទាំងអស់ដែលមានការអនុញ្ញាត"
+
+msgid "manage.onlyAddData.desc"
+msgstr "សមាជិកក្រុមនេះអាចបំពេញទិន្នន័យបានតែប៉ុណ្ណោះ"
+
+msgid "manage.onlyAddData.name"
+msgstr "ដាក់ស្នើតែប៉ុណ្ណោះ"
+
+msgid "manage.viewAllData.desc"
+msgstr "សមាជិកក្រុមនេះអាចមើលទិន្នន័យទាំងអស់"
+
+msgid "manage.viewAllData.name"
+msgstr "មើលទិន្នន័យទាំងអស់"
+
+msgid "managerActivity.app.metricsName"
+msgstr "មើលតាមព័ត៌មានលម្អិតសកម្មភាពកម្មវិធី"
+
+msgid "managerActivity.app.reportName"
+msgstr "មើលតាមទិដ្ឋភាពទូទៅកម្មវិធី"
+
+msgid "managerActivity.appId"
+msgstr "លេខសំគាល់កម្មវិធី"
+
+msgid "managerActivity.appName"
+msgstr "ឈ្មោះកម្មវិធី"
+
+msgid "managerActivity.count"
+msgstr "អ្នកប្រើ (កែសម្រួល)"
+
+msgid "managerActivity.fileName"
+msgstr "សកម្មភាពអ្នកគ្រប់គ្រង"
+
+msgid "managerActivity.managerId"
+msgstr "លេខសំគាល់អ្នកគ្រប់គ្រង"
+
+msgid "managerActivity.managerName"
+msgstr "ឈ្មោះអ្នកគ្រប់គ្រង"
+
+msgid "managerActivity.time"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "managerActivity.times"
+msgstr "ពេលវេលា (កែសម្រួល)"
+
+msgid "managerActivity.user.metricsName"
+msgstr "មើលតាមព័ត៌មានលម្អិតសកម្មភាពអ្នកគ្រប់គ្រង"
+
+msgid "managerActivity.user.reportName"
+msgstr "មើលតាមទិដ្ឋភាពទូទៅអ្នកគ្រប់គ្រង"
+
+msgid "math.param.error"
+msgstr "ប្រភេទទិន្នន័យនៃប្រតិបត្តិការគណិតវិទ្យាគួរតែជាលេខ"
+
+msgid "member.status.deleted"
+msgstr "សមាជិកដែលបានដកចេញ"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(មិនសកម្ម)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(ដកចេញ)"
+
+msgid "message.addOrRemoveApp"
+msgstr "បន្ថែម/លុបកម្មវិធី"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "បន្ថែម/លុបដេប៉ាតឺម៉ង់ ឬសមាជិក"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "បន្ថែម/លុបក្រុមអ្នកគ្រប់គ្រង"
+
+msgid "message.addOrRemoveManager"
+msgstr "បន្ថែម/លុបអ្នកគ្រប់គ្រង"
+
+msgid "message.alertName"
+msgstr "ចំណងជើងការជូនដំណឹង"
+
+msgid "message.alertSource"
+msgstr "ប្រភពនៃការជូនដំណឹង"
+
+msgid "message.anonymousUser"
+msgstr "អ្នកប្រើប្រាស់អនាមិក"
+
+msgid "message.apiKeyOpLog"
+msgstr "កំណត់ហេតុកូនសោ API"
+
+msgid "message.appRename"
+msgstr "ប្តូរឈ្មោះកម្មវិធី"
+
+msgid "message.appUpdate"
+msgstr "ការផ្លាស់ប្តូរកម្មវិធី"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr ""
+"អ្នកគ្រប់គ្រងប្រព័ន្ធ ឬអ្នកបង្កើតបានលុបចោលការផ្ទេរភារកិច្ចពី {{ principal "
+"}} ទៅអ្នកក្នុងអំឡុងពេល {{ timeRange }}"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr ""
+"អ្នកគ្រប់គ្រងប្រព័ន្ធ ឬអ្នកបង្កើតបានលុបចោលការផ្ទេរភារកិច្ចរបស់អ្នកទៅ {{ "
+"agent }} ក្នុងអំឡុងពេល {{ timeRange }}"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr ""
+"អ្នកគ្រប់គ្រងប្រព័ន្ធ ឬអ្នកបង្កើតបានលុបចោលការផ្ទេរភារកិច្ចពី {{ principal "
+"}} ទៅអ្នក"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr ""
+"អ្នកគ្រប់គ្រងប្រព័ន្ធ ឬអ្នកបង្កើតបានលុបចោលការផ្ទេរភារកិច្ចរបស់អ្នកទៅ {{ "
+"agent }}"
+
+msgid "message.bpm_delegation.description"
+msgstr "ការពិពណ៌នា"
+
+msgid "message.bpm_delegation.principal"
+msgstr "អ្នកផ្ទេរសិទ្ធិ"
+
+msgid "message.bpm_delegation.range"
+msgstr "វិសាលភាព"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "លំហូរការងារទាំងអស់"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "ដំណើរការមួយចំនួន"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "ពេលវេលា"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr ""
+"{{ principal }} បានផ្ទេរភារកិច្ចទាំងអស់ទៅអ្នកសម្រាប់ការអនុម័តក្នុងអំឡុងពេល "
+"{{ timeRange }}"
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }} បានផ្ទេរភារកិច្ចទាំងអស់ទៅអ្នកសម្រាប់ការអនុម័តក្នុងអំឡុងពេល "
+"{{ timeRange }}។ ការពិពណ៌នាអំពីការផ្ទេរ៖ {{ description }}"
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }} បានផ្ទេរភារកិច្ចរបស់ពួកគេទៅអ្នក"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr "{{ principal }} បានលុបចោលការផ្ទេរភារកិច្ចទៅអ្នកក្នុងអំឡុងពេល {{ timeRange }}"
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }} បានលុបចោលការផ្ទេរភារកិច្ចរបស់ពួកគេទៅអ្នក"
+
+msgid "message.comment.content"
+msgstr "ខ្លឹមសារយោបល់"
+
+msgid "message.commentator"
+msgstr "បានផ្តល់យោបល់ដោយ"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "ឈ្មោះអាជីវកម្មមានរួចហើយ"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "អនុញ្ញាតឱ្យមានម្ចាស់តែមួយប៉ុណ្ណោះ"
+
+msgid "message.corp.import.errCode.19011"
+msgstr "ម្ចាស់ដែលបានបញ្ជាក់បានបង្កើតក្រុមហ៊ុន/ក្រុមផ្សេងទៀតរួចហើយ"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "គ្មានម្ចាស់ដែលបានបញ្ជាក់"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "ចំនួនសមាជិកដែលបាននាំចូលលើសពី {{number}}"
+
+msgid "message.corp.import.errCode.19014"
+msgstr ""
+"មិនមានក្រុមហ៊ុនដៃគូដែលអាចនាំចូលក្នុងឯកសារទេ "
+"សូមនាំចូលម្តងទៀតបន្ទាប់ពីកែតម្រូវ"
+
+msgid "message.corp.import.errCode.19020"
+msgstr "ចំនួនតួនាទីដែលបាននាំចូលលើសពី {{number}} សូមនាំចូលម្តងទៀតបន្ទាប់ពីកែតម្រូវ"
+
+msgid "message.corp.import.errCode.19029"
+msgstr "ចំនួនដៃគូដែលបាននាំចូលលើសពី {{number}} សូមនាំចូលម្តងទៀតបន្ទាប់ពីកែតម្រូវ"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "ឈ្មោះអាជីវកម្មមិនគួរលើសពី {{ number }} តួអក្សរ"
+
+msgid "message.corp.import.errCode.6065"
+msgstr "អនុញ្ញាតឱ្យមានអតិបរមា {{number}} តួអក្សរក្នុងស្លាក"
+
+msgid "message.corp.import.errCode.6066"
+msgstr "ចំនួនស្លាកដែលបាននាំចូលលើសពី {{number}} សូមនាំចូលម្តងទៀតបន្ទាប់ពីកែតម្រូវ"
+
+msgid "message.corpCoop"
+msgstr "អតិថិជន និងដៃគូ"
+
+msgid "message.corpSyncResult"
+msgstr "ធ្វើសមកាលកម្មសមាជិក"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{operator}} បានចាត់ចែងអតិថិជន {{account_num}} នាក់ឱ្យអ្នក"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "អតិថិជន {{ data_label }} ត្រូវបានយកមកវិញដោយស្វ័យប្រវត្តិ"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកអនុម័តរបស់អតិថិជន {{ data_label }}"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរម្ចាស់របស់អតិថិជន {{ account_num }} នាក់"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការរបស់អតិថិជន {{ data_label }}"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការរបស់អតិថិជន {{ account_num }} នាក់"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{ operator }} បានយកអតិថិជន {{ account_num }} នាក់មកវិញ"
+
+msgid "message.crm.assignor"
+msgstr "អ្នកចាត់ចែង"
+
+msgid "message.crm.currentCollaborator"
+msgstr "អ្នកសហការបច្ចុប្បន្ន"
+
+msgid "message.crm.customer"
+msgstr "អតិថិជន"
+
+msgid "message.crm.followPlanComplete"
+msgstr "{{ operator }} បានបញ្ចប់ផែនការតាមដាន \"{{ data_label }}\" របស់អ្នក"
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{ operator }} បានបញ្ចប់ផែនការតាមដាន {{ plan_num }} របស់អ្នក"
+
+msgid "message.crm.leads"
+msgstr "អ្នកនាំមុខ"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{ operator }} បានចាត់ចែងអ្នកនាំមុខ {{ leads_num }} នាក់ឱ្យអ្នក"
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "អ្នកនាំមុខ \"{{ data_label }}\" ត្រូវបានយកមកវិញដោយស្វ័យប្រវត្តិ"
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកអនុម័តរបស់អ្នកនាំមុខ {{ data_label }}"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរម្ចាស់របស់អ្នកនាំមុខ {{ opportunity_num }} នាក់"
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការរបស់អ្នកនាំមុខ {{ data_label }}"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការរបស់អ្នកនាំមុខ {{ opportunity_num }} "
+"នាក់"
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{ operator }} បានយកអ្នកនាំមុខ {{ leads_num }} នាក់មកវិញ"
+
+msgid "message.crm.newCharger"
+msgstr "អ្នកអនុម័តថ្មី"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{operator}} បានបន្ថែមផែនការតាមដាន \"{{data_label}}\" សម្រាប់អ្នក"
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកអនុម័តរបស់ឱកាសអាជីវកម្ម {{ data_label }}"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr "{{operator}} បានផ្លាស់ប្តូរម្ចាស់របស់ឱកាសអាជីវកម្ម {{opportunity_num}} នាក់"
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការរបស់ឱកាសអាជីវកម្ម {{ data_label }}"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr ""
+"{{operator}} បានផ្លាស់ប្តូរអ្នកសហការរបស់ឱកាសអាជីវកម្ម {{opportunity_num}} "
+"នាក់"
+
+msgid "message.crm.opportunityWin"
+msgstr "ឱកាសអាជីវកម្ម \"{{ data_label }}\" ត្រូវបានឈ្នះ"
+
+msgid "message.crm.rawCharger"
+msgstr "អ្នកអនុម័តពីមុន"
+
+msgid "message.crm.recycler"
+msgstr "អ្នកយកមកវិញ"
+
+msgid "message.cron.custom"
+msgstr "ពេលវេលាការរំលឹកបានមកដល់"
+
+msgid "message.cron.dataExpires"
+msgstr "ទិន្នន័យហួសកំណត់"
+
+msgid "message.dashName"
+msgstr "ចំណងជើងផ្ទាំងគ្រប់គ្រង"
+
+msgid "message.dataAlert"
+msgstr "ការជូនដំណឹងទិន្នន័យ"
+
+msgid "message.dataComment"
+msgstr "អតិថិជន និងដៃគូ"
+
+msgid "message.dataCreate"
+msgstr "មានទិន្នន័យថ្មីត្រូវបានដាក់ស្នើ"
+
+msgid "message.dataLabel"
+msgstr "ចំណងជើងកំណត់ត្រា"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "ស្វ័យប្រវត្តិកម្មបរាជ័យ"
+
+msgid "message.emptyValue"
+msgstr "ទទេ"
+
+msgid "message.enterForm"
+msgstr "ទៅកាន់ទម្រង់"
+
+msgid "message.entryName"
+msgstr "ឈ្មោះទម្រង់"
+
+msgid "message.error.4402"
+msgstr "បរាជ័យក្នុងការផ្ទៀងផ្ទាត់ការគណនាបូកសរុប"
+
+msgid "message.etlExecuteFailed"
+msgstr "ភារកិច្ច ETL បរាជ័យ"
+
+msgid "message.etlSyncFailed"
+msgstr "បរាជ័យក្នុងការធ្វើសមកាលកម្មស្ទ្រីមទិន្នន័យ"
+
+msgid "message.flow.adminTransfer"
+msgstr "ភារកិច្ចត្រូវបានផ្ទេរមកអ្នកដោយអ្នកគ្រប់គ្រងជាន់ខ្ពស់"
+
+msgid "message.flow.autoBack"
+msgstr "ធាតុការងារដែលមិនទាន់ដំណើរការត្រូវបានប្រគល់មកវិញ។ សូមដោះស្រាយឱ្យទាន់ពេលវេលា"
+
+msgid "message.flow.back"
+msgstr "ធាតុការងារដែលបានដាក់ស្នើត្រូវបានប្រគល់មកវិញ"
+
+msgid "message.flow.batchTransfer"
+msgstr "ភារកិច្ចថ្មីត្រូវបានផ្ទេរមកអ្នកដោយអ្នកគ្រប់គ្រងជាន់ខ្ពស់"
+
+msgid "message.flow.cc"
+msgstr "អ្នកត្រូវបាន CC លើលទ្ធផលលំហូរការងារដែលបានដោះស្រាយថ្មី"
+
+msgid "message.flow.cc.entryName"
+msgstr "{{ entryName }} អ្នកត្រូវបាន CC លើលទ្ធផលលំហូរការងារដែលបានដោះស្រាយថ្មី"
+
+msgid "message.flow.cc.merge.entryName"
+msgstr "{{ entryName }} មានលទ្ធផលដំណើរការលំហូរថ្មី {{ count }} ត្រូវបាន CC ទៅអ្នក"
+
+msgid "message.flow.dealtUrgently"
+msgstr "លំហូរការងារមួយត្រូវការដោះស្រាយយ៉ាងបន្ទាន់"
+
+msgid "message.flow.memberTransfer"
+msgstr "ភារកិច្ចត្រូវបានផ្ទេរមកអ្នកដោយ {{ operator }}"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」ភារកិច្ចត្រូវបានផ្ទេរមកអ្នកដោយ {{ operator }}"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr "អ្នកមានភារកិច្ចបន្ទាន់ថ្មី។ សូមដោះស្រាយឱ្យបានលឿន"
+
+msgid "message.flow.sign"
+msgstr "ភារកិច្ចត្រូវបានផ្ទេរមកអ្នកដោយ {{ operator }}។"
+
+msgid "message.flow.signBeforeComplete"
+msgstr "អ្នកអនុម័តមុនបានដំណើរការថ្នាំង។ អ្នកមានភារកិច្ចលំហូរការងារថ្មីត្រូវបញ្ចប់។"
+
+msgid "message.flow.timeout"
+msgstr "អ្នកមានភារកិច្ចដែលពន្យារអស់រយៈពេលយូរ។ សូមដោះស្រាយភ្លាមៗ"
+
+msgid "message.flow.timeout.entryName"
+msgstr "{{ entryName }} មានភារកិច្ចដែលមិនទាន់បានបញ្ចប់"
+
+msgid "message.flow.todo"
+msgstr "អ្នកមានភារកិច្ចថ្មី"
+
+msgid "message.flow.todo.entryName"
+msgstr "{{ entryName }} អ្នកមានភារកិច្ចថ្មី"
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "{{ entryName }} មានធាតុអ្វីដែលត្រូវធ្វើថ្មី {{ count }}"
+
+msgid "message.flowData"
+msgstr "អ្នកអនុម័ត/សមាជិក CC ខាងក្រៅ"
+
+msgid "message.kms.clickViewDetails"
+msgstr "ចុច \"មើលព័ត៌មានលម្អិត\" ដើម្បីមើលឯកសារ។"
+
+msgid "message.kms.denyReason"
+msgstr "ហេតុផលនៃការបដិសេធ"
+
+msgid "message.kms.description"
+msgstr "ការពិពណ៌នាអំពីមូលដ្ឋានចំណេះដឹង"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr "{{ operator }} បានដោះស្រាយយោបល់ក្នុងឯកសារ \"{{ document }}\"។"
+
+msgid "message.kms.docComment"
+msgstr "{{operator}} បានផ្តល់យោបល់លើឯកសារ \"{{document}}\""
+
+msgid "message.kms.docCreate"
+msgstr "{{operator}} បានបង្កើតឯកសារ \"{{document}}\""
+
+msgid "message.kms.docEdit"
+msgstr "{{operator}} បានកែសម្រួលឯកសារ \"{{document}}\""
+
+msgid "message.kms.docLike"
+msgstr "{{operator}} បានចូលចិត្តឯកសារ \"{{document}}\""
+
+msgid "message.kms.documentToBeViewed"
+msgstr "អ្នកមានឯកសារថ្មីត្រូវមើល។"
+
+msgid "message.kms.managerBecome"
+msgstr ""
+"អ្នកឥឡូវជាអ្នកគ្រប់គ្រងមូលដ្ឋានចំណេះដឹង \"{{ space_name }}\"។ "
+"ចាប់ផ្តើមបង្កើតឯកសារ និងចែករំលែកគំនិតរបស់អ្នក!"
+
+msgid "message.kms.spaceApply"
+msgstr "{{applicant}} បានដាក់សំណើបង្កើតមូលដ្ឋានចំណេះដឹងឈ្មោះ \"{{space_name}}\""
+
+msgid "message.kms.spaceApplyAgree"
+msgstr ""
+"បានបង្កើតមូលដ្ឋានចំណេះដឹងដោយជោគជ័យ។ "
+"អ្នកឥឡូវជាអ្នកគ្រប់គ្រងមូលដ្ឋានចំណេះដឹងថ្មី \"{{ space_name }}\""
+
+msgid "message.kms.spaceApplyDeny"
+msgstr ""
+"បរាជ័យក្នុងការបង្កើតមូលដ្ឋានចំណេះដឹង \"{{ space_name }}\"។ "
+"សូមបំពេញការពិពណ៌នានិងដាក់សំណើម្តងទៀត"
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{operator}} រំលឹកអ្នកឱ្យមើលឯកសារ \"{{document}}\""
+
+msgid "message.latitude"
+msgstr "រយៈទទឹង"
+
+msgid "message.longitude"
+msgstr "រយៈបណ្តោយ"
+
+msgid "message.member.import.errCode.1005"
+msgstr "អ៊ីមែលមានរួចហើយ"
+
+msgid "message.member.import.errCode.1017"
+msgstr "លេខសមាជិកគ្រាន់តែទ្រទ្រង់អក្សរ, លេខ, អ័ណ្ឌសកូរ និង '.'"
+
+msgid "message.member.import.errCode.1018"
+msgstr "ទម្រង់អ៊ីមែលមិនត្រឹមត្រូវ"
+
+msgid "message.member.import.errCode.1019"
+msgstr "ឈ្មោះសមាជិកមិនគួរលើសពី {{ length }} តួអក្សរ"
+
+msgid "message.member.import.errCode.1024"
+msgstr "លេខទូរស័ព្ទមិនត្រឹមត្រូវ"
+
+msgid "message.member.import.errCode.1027"
+msgstr "លេខទូរស័ព្ទមានរួចហើយ"
+
+msgid "message.member.import.errCode.1082"
+msgstr "ត្រូវការផ្តល់អ៊ីមែល"
+
+msgid "message.member.import.errCode.1084"
+msgstr "ត្រូវការលេខសមាជិក"
+
+msgid "message.member.import.errCode.1085"
+msgstr "បញ្ចូលឈ្មោះសមាជិក"
+
+msgid "message.member.import.errCode.1087"
+msgstr "លេខសមាជិកមានរួចហើយ"
+
+msgid "message.member.import.errCode.1092"
+msgstr "លេខសមាជិកមិនគួរលើសពី {{ length }} តួអក្សរ"
+
+msgid "message.member.import.errCode.unknown"
+msgstr "មិនស្គាល់មូលហេតុ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ"
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "មិនមានសិទ្ធិគ្រប់គ្រងសមាជិក"
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "ឈ្មោះសមាជិកស្ទួនសម្រាប់តួនាទីតែមួយក្នុងឯកសារ"
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "ឈ្មោះសមាជិកស្ទួន"
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "មិនទាន់បំពេញសមាជិកនៅឡើយ"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr "មិនអាចនាំចូលសមាជិកដែលមិនមាន ឬបានលាលែង"
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "ឈ្មោះក្រុមតួនាទីស្ទួន"
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "បញ្ចូលឈ្មោះក្រុមតួនាទី និងតួនាទី"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "មិនអាចនាំចូលសមាជិកទៅក្រុមតួនាទីដែលមិនមាន"
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "មិនអាចនាំចូល \"ក្រុមតួនាទីដែលបានធ្វើសមកាលកម្ម\""
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "ឈ្មោះតួនាទីស្ទួនក្នុងក្រុមតួនាទីតែមួយ"
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "ដាក់សហសញ្ញា(/) រវាងឈ្មោះក្រុមតួនាទី និងតួនាទី"
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "តួនាទីមិនត្រូវបានរួមបញ្ចូលក្នុងក្រុមតួនាទី"
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "មិនមានសិទ្ធិគ្រប់គ្រងតួនាទី"
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "មិនអាចនាំចេញ \"តួនាទីដែលបានធ្វើសមកាលកម្ម\""
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "កំហុសមិនស្គាល់។ សូមព្យាយាមម្តងទៀត"
+
+msgid "message.modified"
+msgstr "បានកែប្រែ"
+
+msgid "message.modifier"
+msgstr "អ្នកប្រើប្រាស់ដែលបានកែប្រែ"
+
+msgid "message.notifyTime"
+msgstr "ពេលវេលារំលឹក"
+
+msgid "message.remainTime.days"
+msgstr ""
+"មានភារកិច្ចដែលមិនទាន់ដោះស្រាយ។ ពេលវេលានៅសល់៖ {{ days }} ថ្ងៃ, {{ hours }} "
+"ម៉ោង, {{ minutes }} នាទី។ សូមដោះស្រាយឱ្យទាន់ពេលវេលា"
+
+msgid "message.remainTime.hours"
+msgstr ""
+"មានភារកិច្ចដែលមិនទាន់ដោះស្រាយ។ ពេលវេលានៅសល់៖ តែ {{ hours }} ម៉ោង, {{ "
+"minutes }} នាទី។ សូមដោះស្រាយឱ្យទាន់ពេលវេលា"
+
+msgid "message.remainTime.lessMinute"
+msgstr ""
+"អ្នកមានភារកិច្ចដែលមិនទាន់ដោះស្រាយដែលនៅសល់តិចជាង 1 នាទី។ "
+"សូមដោះស្រាយឱ្យទាន់ពេលវេលា"
+
+msgid "message.remainTime.minutes"
+msgstr ""
+"អ្នកមានភារកិច្ចដែលមិនទាន់ដោះស្រាយដែលនៅសល់តែ {{ minutes }} នាទី។ "
+"សូមដោះស្រាយឱ្យទាន់ពេលវេលា"
+
+msgid "message.system"
+msgstr "ប្រព័ន្ធ"
+
+msgid "message.systemRobot"
+msgstr "រូបយន្តប្រព័ន្ធ"
+
+msgid "message.title.accountApportion"
+msgstr "ការជូនដំណឹងចាត់ចែងអតិថិជន"
+
+msgid "message.title.accountChangeCharger"
+msgstr "អ្នកដោះស្រាយអតិថិជនបានផ្លាស់ប្តូរ"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "អ្នកសហការអតិថិជនបានផ្លាស់ប្តូរ"
+
+msgid "message.title.accountRecycle"
+msgstr "ការជូនដំណឹងយកអតិថិជនមកវិញ"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "អ្នកដោះស្រាយទំនាក់ទំនងបានផ្លាស់ប្តូរ"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "អ្នកសហការទំនាក់ទំនងបានផ្លាស់ប្តូរ"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "{{ _g_productName }} ការជូនដំណឹងការប្រើប្រាស់ប្រព័ន្ធ"
+
+msgid "message.title.email.corpCoop"
+msgstr "{{ _g_productName }} ការជូនដំណឹងអតិថិជននិងដៃគូ"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "{{ _g_productName }} ការជូនដំណឹងការប្រើប្រាស់ប្រព័ន្ធ"
+
+msgid "message.title.excelImportComplete"
+msgstr "ការនាំចូលទិន្នន័យបានបញ្ចប់"
+
+msgid "message.title.followPlanComplete"
+msgstr "ផែនការតាមដានរបស់អ្នកត្រូវបានបញ្ចប់ដោយអ្នកដទៃ"
+
+msgid "message.title.leadsApportion"
+msgstr "ការជូនដំណឹងចាត់ចែងអ្នកនាំមុខ"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "អ្នកដោះស្រាយអ្នកនាំមុខបានផ្លាស់ប្តូរ"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "អ្នកសហការអ្នកនាំមុខបានផ្លាស់ប្តូរ"
+
+msgid "message.title.leadsRecycle"
+msgstr "ការជូនដំណឹងយកអ្នកនាំមុខមកវិញ"
+
+msgid "message.title.newFollowPlan"
+msgstr "ការចាត់ចែងផែនការតាមដានថ្មី"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "អ្នកដោះស្រាយ BO បានផ្លាស់ប្តូរ"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "អ្នកសហការ BO បានផ្លាស់ប្តូរ"
+
+msgid "message.title.opportunityWin"
+msgstr "ការរំលឹក BO ដែលឈ្នះ"
+
+msgid "message.title.pluginExpire"
+msgstr "ផ្លាកអន្តរកម្ម {{ _g_productName }} នឹងផុតកំណត់ឆាប់ៗនេះ"
+
+msgid "message.viewDash"
+msgstr "មើលផ្ទាំងគ្រប់គ្រង"
+
+msgid "message.viewDataDetails"
+msgstr "មើលទិន្នន័យលម្អិត"
+
+msgid "message.viewForm"
+msgstr "មើលទម្រង់"
+
+msgid "not.support.op"
+msgstr "មិនគាំទ្រប្រមាណវិធីប្រៀបធៀប {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "កម្មវិធីរុករករបស់អ្នកហាក់ដូចជាហួសសម័យ"
+
+msgid "notSupported.ie.subtitle"
+msgstr ""
+"ដើម្បីប្រើប្រាស់ធម្មតា សូមដំឡើងកម្មវិធីរុករកទំនើបខាងក្រោម "
+"ឬធ្វើឱ្យទាន់សម័យកម្មវិធីរុករករបស់អ្នក"
+
+msgid "op.param.error"
+msgstr "ប្រភេទទិន្នន័យនៃប្រតិបត្តិការ prefix គួរតែជាលេខ"
+
+msgid "op.param.number"
+msgstr "វាលប្រតិបត្តិការនៃប្រមាណវិធី {{op}} គួរតែជាលេខ"
+
+msgid "open_store.space.enterprise"
+msgstr "កម្មវិធីជំនួយក្នុងស្ថាប័ន"
+
+msgid "open_store.space.store"
+msgstr "កម្មវិធីជំនួយផ្លូវការ"
+
+msgid "page.title.aggregateEdit"
+msgstr "ការរចនាតារាងសរុប | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "ជំនួយការ AI"
+
+msgid "page.title.baseConfig"
+msgstr "ការរចនាទម្រង់-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "អតិថិជននិងដៃគូ | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "ការគ្រប់គ្រង | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "កន្លែងធ្វើការផ្ទាល់ខ្លួន"
+
+msgid "page.title.dashEdit"
+msgstr "ការរចនាផ្ទាំងគ្រប់គ្រង-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "មើលមុនផ្ទាំងគ្រប់គ្រង | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "ស្វ័យប្រវត្តិកម្ម | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "មើលទិន្នន័យ"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "ចូលទៅកាន់ {{ _g_productName }}"
+
+msgid "page.title.error"
+msgstr "មានបញ្ហាកើតឡើង"
+
+msgid "page.title.error.flow"
+msgstr "ការជូនដំណឹងលំហូរការងារ"
+
+msgid "page.title.error403"
+msgstr "ការចូលប្រើបានច្រានចោល"
+
+msgid "page.title.error404"
+msgstr "មិនមានទំព័រនេះទេ"
+
+msgid "page.title.etlEdit"
+msgstr "ការរចនាស្ទ្រីមទិន្នន័យ | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "ទំព័រលម្អិតផ្ទាល់ខ្លួន | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "មើលមុនទម្រង់ | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "មជ្ឈមណ្ឌលគំរូ"
+
+msgid "page.title.imageUpload"
+msgstr "ការផ្ទុករូបភាពឡើង"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "Lark ភ្ជាប់ដោយជោគជ័យ"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "ការភ្ជាប់ Lark"
+
+msgid "page.title.login_bind"
+msgstr "ភ្ជាប់អ៊ីមែល"
+
+msgid "page.title.networkTestView"
+msgstr "ការធ្វើតេស្តខ្លួនឯងបណ្ដាញ | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "កំណែរបស់កម្មវិធីអ៊ីនធឺណិតនេះមិនត្រូវបានគាំទ្រទៀតហើយ"
+
+msgid "page.title.oauth"
+msgstr "បញ្ជាក់ការអនុញ្ញាត"
+
+msgid "page.title.openApiExplorer"
+msgstr "កុងសូលបំបាត់កំហុស API | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "ការពិពណ៌នាប៉ារ៉ាម៉ែត្រ | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "វេទិកាបើក | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "បង្កើតការកម្មង់ | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "ទូទាត់ការកម្មង់"
+
+msgid "page.title.orderPayFailed"
+msgstr "ការទូទាត់បរាជ័យ"
+
+msgid "page.title.orderPaySuccess"
+msgstr "ការទូទាត់ជោគជ័យ"
+
+msgid "page.title.passwordForget"
+msgstr "ភ្លេចពាក្យសម្ងាត់ {{ _g_productName }}?"
+
+msgid "page.title.passwordReset"
+msgstr "កំណត់ពាក្យសម្ងាត់ឡើងវិញ"
+
+msgid "page.title.personal"
+msgstr "ការកំណត់ផ្ទាល់ខ្លួន | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "គំរូបោះពុម្ពរចនា"
+
+msgid "page.title.signature"
+msgstr "ហត្ថលេខា"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "ចូលដោយការអនុញ្ញាត"
+
+msgid "page.title.support"
+msgstr "ទាក់ទងពួកយើង | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "ការផ្ទៀងផ្ទាត់អត្តសញ្ញាណ | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "ភ្ជាប់លេខទូរស័ព្ទ/អ៊ីមែល"
+
+msgid "page.title.userCancelTitle"
+msgstr "គណនីកំពុងបិទ"
+
+msgid "print.field.currentFlow"
+msgstr "ថ្នាំងបច្ចុប្បន្ន"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{ formName }}បាកូដ{{ timestamp }}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{ formName }}បាកូដ{{ timestamp }}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "ព័ត៌មានមូលដ្ឋាន"
+
+msgid "print.sys.fileFormat"
+msgstr "{{file name}} ទំហំឯកសារ៖ {{size}} ពេលវេលាផ្ទុកឡើង៖ {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "ការបោះពុម្ពរបស់ប្រព័ន្ធ"
+
+msgid "print.sys.wxInfo"
+msgstr "ព័ត៌មានលម្អិត WeChat របស់អ្នកដែលបានដាក់ស្នើ"
+
+msgid "print.system_template_name"
+msgstr "គំរូលំនាំដើម"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }} បានចាត់ចែងអតិថិជន {{ data_label }} ទៅអ្នក"
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }} បានចាត់ចែងអតិថិជន {{ account_num }} នាក់ទៅអ្នក"
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរម្ចាស់អតិថិជន {{ data_label }}។ ពីមុន៖ {{ "
+"raw_charger }}។ ឥឡូវ៖ {{ new_charger }}"
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកទទួលខុសត្រូវអតិថិជន {{ account_num }} នាក់"
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការអតិថិជន {{ data_label }}។ "
+"អ្នកសហការបច្ចុប្បន្ន៖ {{ collaborators }}"
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការអតិថិជន {{ account_num }} នាក់"
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }} បានយកអតិថិជន \"{{ data_label }}\" មកវិញ"
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "អតិថិជន \"{{ data_label }}\" ត្រូវបានយកមកវិញដោយស្វ័យប្រវត្តិ"
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }} បានយកអតិថិជន {{ account_num }} នាក់មកវិញ"
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"ចំនួនតារាងសរុបសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"ចំនួនការបូកសរុបសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"ចំនួនមនុស្សដែលបានអនុញ្ញាតបានលើសពីកម្រិត។ "
+"ឥឡូវនេះការចូលប្រើការវិភាគទិន្នន័យត្រូវបានទប់ស្កាត់។ "
+"សូមដកសិទ្ធិវិភាគទិន្នន័យរបស់សមាជិកមួយចំនួននៅក្នុងមជ្ឈមណ្ឌលផលិតផល។"
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }} បានបង្កើតសោ API"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }} បានបិទសោ API"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }} បានបើកសោ API"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }} បានលុបសោ API"
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }} បានបង្កើតកម្មវិធី {{ appName }}"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr ""
+"សូមអភ័យទោស កម្មវិធីរបស់អ្នក {{ appName }} បរាជ័យក្នុងការបោះពុម្ព។ "
+"ហេតុផលមានដូចខាងក្រោម៖"
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "ហេតុផល៖ {{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr ""
+"អបអរសាទរ! អ្នកបានបោះពុម្ពកម្មវិធី {{ appName }} ដោយជោគជ័យ។ "
+"សូមមើលវានៅក្នុងមជ្ឈមណ្ឌលគំរូ។"
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }} បានលុបកម្មវិធី {{ appName }}"
+
+msgid "site.message.content.app_rename"
+msgstr "{{ operator }} បានប្តូរឈ្មោះកម្មវិធីពី {{ oriAppName }} ទៅ {{ newAppName }}"
+
+msgid "site.message.content.app_template_approved"
+msgstr "គំរូ \"{{ templateName }}\" ត្រូវបានអនុម័ត"
+
+msgid "site.message.content.app_template_publish"
+msgstr ""
+"{{ operator }} បានចេញផ្សាយកម្មវិធី \"{{ templateName }}\" "
+"កំពុងរង់ចាំការពិនិត្យ"
+
+msgid "site.message.content.app_template_rejected"
+msgstr "គំរូ \"{{ templateName }}\" មិនឆ្លងកាត់ការពិនិត្យ។ មូលហេតុ៖ {{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក បានប្រតិបត្តិ Automations Pro "
+"ចំនួន {{ usage }} ដង។ កម្រិតប្រចាំខែគឺ {{ limit }} "
+"នៅក្នុងផែនការបច្ចុប្បន្ន។ បើលើសកម្រិត កាក់នឹងត្រូវបានប្រើប្រាស់។ "
+"ដើម្បីការពារការរំខានដល់អាជីវកម្មរបស់អ្នក "
+"សូមធានាថាគណនីរបស់អ្នកមានកាក់គ្រប់គ្រាន់។"
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"ក្ក្រុមរបស់អ្នក \"{{ corpName }}\" បានឈានដល់ {{ usage }} ដំណើរការ "
+"Automation Pro។ កំណត់ប្រចាំឆ្នាំ {{ limit }} នឹងឆាប់ដល់។ បើលើសកំណត់ "
+"Automation Pro មិនអាចដំណើរការបានទេ ឬត្រូវការប្រើ Cloud Coins។ សូមចូលទៅ "
+"\"គ្រប់គ្រង - ព័ត៌មានផែនការ\" ដើម្បីមើលការប្រើប្រាស់ និងបញ្ចូល Cloud Coins។"
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"ក្រុមរបស់អ្នក \"{{ corpName }}\" បានឈានដល់ {{ usage }} ដំណើរការ Automation "
+"Pro។ ចំនួនដំណើរការអតិបរមាដែលអនុញ្ញាតប្រចាំឆ្នាំគឺ {{ limit }}។ "
+"សូមយកចិត្តទុកដាក់។"
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"ចំនួន BPA សម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក បានលើសពីកម្រិត "
+"\"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > ព័ត៌មានលម្អិតអំពីផែនការ\" "
+"ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"ការប្រើប្រាស់ប្រព័ន្ធសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត ហើយប្រព័ន្ធត្រូវបានផ្អាកបណ្តោះអាសន្ន។ សូមចូលទៅ "
+"\"ការគ្រប់គ្រង > ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត "
+"និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"សaldoរាប់ Cloud Coin របស់ក្រុមអ្នក {{ corpName }} តិចជាង {{ limit }}។ "
+"មុខងារដូចជាការផ្ទៀងផ្ទាត់តាម SMS ការស្គាល់ OCR "
+"និងការផ្ទុកឡើងឯកសារភ្ជាប់អាចនឹងត្រូវបានជះឥទ្ធិពល។ "
+"ដើម្បីជៀសវាងការរំខានដល់អាជីវកម្មរបស់អ្នក សូមសាកគណនីរបស់អ្នកឡើងវិញឱ្យបានមុន។"
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"សaldoរាប់ Cloud Coin របស់ក្រុមអ្នក {{ corpName }} ជិតអស់។ "
+"មុខងារដូចជាការផ្ទៀងផ្ទាត់តាម SMS ការស្គាល់ OCR "
+"និងការផ្ទុកឡើងឯកសារភ្ជាប់អាចនឹងត្រូវបានជះឥទ្ធិពល។ "
+"ដើម្បីជៀសវាងការរំខានដល់អាជីវកម្មរបស់អ្នក សូមសាកគណនីរបស់អ្នកឡើងវិញឱ្យបានមុន។"
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }} បានលើកអ្នកក្នុងមតិ {{ dataTitle }}។"
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "ទិន្នន័យគ្មានចំណងជើង"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "សេចក្តីសង្ខេបមតិ៖ {{ messageComment }}។"
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr "សមាជិកក្រុមហ៊ុន {{ corpName }} បានលើកអ្នកក្នុងមតិ {{ dataTitle }}។"
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "ទិន្នន័យគ្មានចំណងជើង"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "សេចក្តីសង្ខេបមតិ៖ {{ messageComment }}។"
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកទទួលខុសត្រូវនៃទំនាក់ទំនង {{ data_label }}។ "
+"ពីមុន៖ {{ raw_charger }}។ បច្ចុប្បន្ន៖ {{ new_charger }}។"
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកទទួលខុសត្រូវនៃទំនាក់ទំនង {{ contacts_num "
+"}}។"
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការនៃទំនាក់ទំនង {{ data_label }}។ "
+"អ្នកសហការបច្ចុប្បន្ន៖ {{ collaborators }}។"
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការនៃទំនាក់ទំនង {{ contacts_num }}។"
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr ""
+"បរាជ័យក្នុងការសហការជាមួយក្រុមហ៊ុន/ក្រុមផ្សេងទៀតលើអាជីវកម្ម។ "
+"ចំនួនអ្នកទំនាក់ទំនងសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នកមិនគ្រប់គ្រាន់។"
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"ក្រុមហ៊ុន {{ corpName }} ដែលអ្នកបានភ្ជាប់ "
+"បានដាក់ពាក្យស្នើសុំបង្កើតការសហការជាមួយអ្នក។ ក្រោយពីបង្កើតការសហការ "
+"ទំនាក់ទំនងរបស់អ្នកអាចចូលរួមក្នុងអាជីវកម្មរបស់ក្រុមហ៊ុន។"
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"ចំនួនអាជីវកម្មដែលបានភ្ជាប់សម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr ""
+"បរាជ័យក្នុងការភ្ជាប់ជាមួយក្រុមហ៊ុនផ្សេងៗ។ "
+"កូតាការភ្ជាប់សហគ្រាសសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នកមិនគ្រប់គ្រាន់។ សូមទិញបន្ថែម ហើយព្យាយាមម្តងទៀត។"
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+"មិត្តរបស់អ្នកកំពុងអញ្ជើញអ្នកឱ្យសហការតាមរយៈ {{ _g_productName }}។ "
+"ចូលរួមក្រុមរបស់គាត់ \"{{ corpName }}\"។ ការអញ្ជើញនឹងមានសុពលភាពរយៈពេល ៧ថ្ងៃ។"
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"នៅក្នុងផ្ទាំងគ្រប់គ្រង {{ entryName }} នៃកម្មវិធី {{ appName }} "
+"ទិន្នន័យក្នុង {{ widgetName }} បានបង្កណ្តាលឱ្យមានការព្រមានទិន្នន័យ {{ "
+"thresholdName }}។"
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr ""
+"ការរំលឹកបរាជ័យ ពីព្រោះការព្រមានទិន្នន័យ {{ thresholdName }} "
+"បរាជ័យក្នុងការប្រតិបត្តិ។"
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "ព្រមានពី {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr ""
+"ការជូនដំណឹងទិន្នន័យផ្ទាំងគ្រប់គ្រងបានឈានដល់ដែនកំណត់ប្រចាំថ្ងៃ ១,០០០។ "
+"នឹងមិនមានការជូនដំណឹងបន្ថែមទៀតនៅថ្ងៃនេះទេ"
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr ""
+"ដោយសារលក្ខខណ្ឌព្រមាននៃការព្រមានទិន្នន័យ {{ thresholdName }} បានអស់សុពលភាព "
+"ការព្រមានទិន្នន័យត្រូវបានបិទដោយស្វ័យប្រវត្តិ។"
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "ព្រមានពី {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr ""
+"ការព្រមានត្រូវបានបិទដោយស្វ័យប្រវត្តិ ពីព្រោះការព្រមានទិន្នន័យ {{ "
+"thresholdName }} បរាជ័យក្នុងការប្រតិបត្តិច្រើនដង។"
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "ព្រមានពី {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"បរិមាណទិន្នន័យសរុបសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក បានប្រើប្រាស់ {{ usage }} "
+"កំណត់ត្រាក្នុងខែនេះ ជិតដល់កម្រិត 1,000 កំណត់ត្រា។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិតអំពីការប្រើប្រាស់ "
+"និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"នៅក្នុងកម្មវិធី {{ appName }} ស្វ័យប្រវត្តិកម្ម {{ triggerName }} "
+"បរាជ័យក្នុងការបញ្ចូលសរុប {{ failedCount }} ដង។ "
+"សូមមើលប្រវត្តិការបញ្ចូលឱ្យបានទាន់ពេល។"
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"ស្វ័យប្រវត្តិកម្ម \"{{ triggerName }}\" នៅក្នុងកម្មវិធី \"{{ appName }}\" "
+"បរាជ័យក្នុងការប្រតិបត្តិ។ សូមពិនិត្យប្រវត្តិការបញ្ចូល។"
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"នៅក្នុងកម្មវិធី {{ appName }} ស្វ័យប្រវត្តិកម្ម {{ triggerName }} "
+"បរាជ័យក្នុងការបញ្ចូលសរុប {{ failedCount }} ដង។ "
+"នឹងមិនមានការរំលឹកបន្ថែមទៀតនៅថ្ងៃនេះទេ។ សូមមើលប្រវត្តិការបញ្ចូលឱ្យបានទាន់ពេល។"
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក បានប្រើប្រាស់សរុប {{ usage }} "
+"កំណត់ត្រា ជិតដល់កម្រិត {{ limit }}។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }} បានបន្ថែមដេប៉ាតឺម៉ង់ឈ្មោះ {{ deptName }}"
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }} បាននាំចូល {{ deptSize }} នាយកដ្ឋាន។"
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }} បានលុបដេប៉ាតឺម៉ង់ {{ deptName }}"
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"ក្រុមហ៊ុន {{ corpName }} ដែលបានបង្កើតការតភ្ជាប់ជាមួយអ្នកបាន {{ op }} "
+"ទំនាក់ទំនង {{ side }} {{ nicknameList }}។ "
+"សូមលៃតម្រូវសិទ្ធិដែលពាក់ព័ន្ធឱ្យបានទាន់ពេលវេលា "
+"ដើម្បីធានាការអភិវឌ្ឍអាជីវកម្មធម្មតា"
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"ក្រុមហ៊ុន {{ corpName }} ដែលបានបង្កើតការភ្ជាប់ជាមួយអ្នក បាន{{ op }} "
+"ទំនាក់ទំនង {{ side }} {{ nicknameList }}។ "
+"កែតម្រូវសិទ្ធិពាក់ព័ន្ធឱ្យទាន់ពេលវេលា ដើម្បីធានាការអភិវឌ្ឍអាជីវកម្មធម្មតា។"
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"ក្រុមហ៊ុន {{ corpName }} ដែលបានបង្កើតការតភ្ជាប់ជាមួយអ្នកបាន {{ op }} "
+"ទំនាក់ទំនង {{ side }} {{ nicknameList }}"
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"ចំនួនស្ទ្រីមទិន្នន័យសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"ស្ទ្រីមទិន្នន័យ \"{{ etlName }}\" នៅក្នុង \"{{ appName }}\" "
+"បរាជ័យក្នុងការធ្វើបច្ចុប្បន្នភាពសរុប {{ maxCount }} ដង។ "
+"ប្រព័ន្ធបានបិទក្បួនច្បាប់ធ្វើបច្ចុប្បន្នភាព "
+"ហើយការធ្វើបច្ចុប្បន្នភាពទាំងអស់ត្រូវបានផ្អាក។ សូមពិនិត្យមូលហេតុនៃការបរាជ័យ "
+"និងធ្វើការកែតម្រូវមុនពេលធ្វើឱ្យក្បួនច្បាប់ធ្វើបច្ចុប្បន្នភាពដំណើរការឡើងវិញ។"
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr ""
+"ស្ទ្រីមទិន្នន័យ \"{{ etlName }}\" នៅក្នុងកម្មវិធី \"{{ appName }}\" "
+"បរាជ័យក្នុងការធ្វើបច្ចុប្បន្នភាព។"
+
+msgid "site.message.content.etl_sync_failed"
+msgstr ""
+"ស្ទ្រីមទិន្នន័យ \"{{ etl_name }}\" ក្នុងកម្មវិធី \"{{ app_name }}\" "
+"បរាជ័យក្នុងការធ្វើសមកាលកម្មទិន្នន័យទៅតារាងលទ្ធផល"
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr ""
+"នាំចេញ \"{{ title }}\" បរាជ័យ។ "
+"ទិន្នន័យសមាជិកដែលបាននាំចេញលើសពីដែនកំណត់អតិបរមា"
+
+msgid "site.message.content.excel_import_complete"
+msgstr "{{ entryName }} បាននាំចូលទិន្នន័យ {{ imported }} ដោយជោគជ័យ។"
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"{{ entryName }} បាននាំចូលទិន្នន័យ {{ imported }} ដោយជោគជ័យ "
+"ប៉ុន្តែបរាជ័យក្នុងការនាំចូលទិន្នន័យ {{ failed }}។ "
+"តំណទាញយករបាយការខុសនឹងផុតកំណត់ក្នុងរយៈពេល ២៤ម៉ោង។ សូមទាញយកវាឱ្យបានមុន។"
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "\"{{ entryName }}\" បានធ្វើបច្ចុប្បន្នភាពទិន្នន័យ {{ updated }} ដោយជោគជ័យ។"
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"{{ entryName }} បានធ្វើបច្ចុប្បន្នភាពទិន្នន័យ {{ updated }} ដោយជោគជ័យ "
+"ប៉ុន្តែបរាជ័យក្នុងការធ្វើបច្ចុប្បន្នភាពទិន្នន័យ {{ failed }}។ "
+"តំណទាញយករបាយការខុសនឹងផុតកំណត់ក្នុងរយៈពេល ២៤ម៉ោង។ សូមទាញយកវាឱ្យបានមុន។"
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"{{ entryName }} បានធ្វើបច្ចុប្បន្នភាពទិន្នន័យ {{ updated }} "
+"និងនាំចូលទិន្នន័យ {{ imported }} ដោយជោគជ័យ។"
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"{{ entryName }} បានធ្វើបច្ចុប្បន្នភាពទិន្នន័យ {{ updated }} ដោយជោគជ័យ "
+"នាំចូលទិន្នន័យ {{ imported }} ដោយជោគជ័យ ប៉ុន្តែបរាជ័យក្នុងការនាំចូលទិន្នន័យ "
+"{{ failed }}។ តំណទាញយករបាយការខុសនឹងផុតកំណត់ក្នុងរយៈពេល ២៤ម៉ោង។ "
+"សូមទាញយកវាឱ្យបានមុន។"
+
+msgid "site.message.content.file_export_complete"
+msgstr ""
+"\"{{ title }}\" រួចរាល់សម្រាប់ទាញយក។ តំណទាញយកនឹងផុតកំណត់ក្រោយ ២៤ ម៉ោង។ "
+"សូមទាញយកឱ្យបានលឿន"
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"\"{{ title }}\" ឯកសារនាំចេញធំពេក។ នៅពេលនាំចេញ ទិន្នន័យមិនអាចលើសពី 16MB, "
+"100,000 ជួរ និង 1,000,000 ក្រឡាទេ។ សូមតម្រង និងនាំចេញម្តងទៀត"
+
+msgid "site.message.content.file_export_failed"
+msgstr "នាំចេញ \"{{ title }}\" បរាជ័យ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ ឬទាក់ទងមកយើងខ្ញុំ"
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"នាំចេញបរាជ័យ។ ទំហំឯកសារ {widget} ធំពេក។ អាចនាំចេញឯកសារភ្ជាប់អតិបរមា ១,០០០ "
+"ហើយឯកសារបង្ហាប់មិនអាចលើសពី ១ GB។ សូមព្យាយាមនាំចេញជាក្រុមតូចៗ"
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"នាំចេញបរាជ័យ។ ច្បាប់តម្រៀបច្រើនពេកសម្រាប់ទិន្នន័យក្នុងទម្រង់ {{ title }}។ "
+"សូមកាត់បន្ថយច្បាប់តម្រៀប ឬបរិមាណទិន្នន័យដែលត្រូវនាំចេញ ហើយនាំចេញម្តងទៀត"
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"នាំចេញបរាជ័យ។ ទំហំឯកសារ {{ title }} ធំពេក។ អាចនាំចេញក្រឡារួមអតិបរមា "
+"១,០០០,០០០ ហើយទិន្នន័យមិនអាចលើសដែនកំណត់ជួររបស់ Excel។ សូមតម្រងទិន្នន័យ "
+"និងនាំចេញម្តងទៀត"
+
+msgid "site.message.content.flow_cc"
+msgstr "បើតម្រូវឲ្យមានសកម្មភាពបន្ថែម សូមពិនិត្យវាឲ្យបានមុន។"
+
+msgid "site.message.content.flow_cc_merge"
+msgstr "បើតម្រូវឲ្យមានសកម្មភាពបន្ថែម សូមពិនិត្យវាឲ្យបានមុន។"
+
+msgid "site.message.content.flow_forward"
+msgstr "{{ operator }} បានដាក់ស្នើដំណើរការ សូមដោះស្រាយឱ្យទាន់ពេលវេលា"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "បានដាក់ស្នើដោយ {{ flowCreatorName }} សូមដោះស្រាយឱ្យបានលឿន"
+
+msgid "site.message.content.flow_timeout"
+msgstr "បានដាក់ស្នើដោយ {{ flowCreatorName }} សូមដោះស្រាយវាឱ្យបានទាន់ពេលវេលា។"
+
+msgid "site.message.content.follow_plan_complete"
+msgstr "{{ operator }} បានបញ្ចប់ផែនការតាមដានរបស់អ្នក \"{{ data_label }}\""
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }} បានបញ្ចប់ {{ plan_num }} នៃផែនការតាមដានរបស់អ្នក។"
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"បរិមាណទិន្នន័យក្នុងមួយទម្រង់សម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក បានប្រើប្រាស់ {{ usage }} "
+"កំណត់ត្រាក្នុងមួយទម្រង់ ជិតដល់កម្រិត {{ limit }}។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.guest_corp_accept"
+msgstr ""
+"ក្រុមហ៊ុន \"{{ corpName }}\" បានទទួលយកការអញ្ជើញរបស់អ្នក។ "
+"ចែករំលែកសិទ្ធិកម្មវិធី/"
+"ទម្រង់ជាមួយអ្នកទំនាក់ទំនងរបស់ពួកគេសម្រាប់ការសហការនាពេលអនាគត។"
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr ""
+"ដៃគូភ្ជាប់របស់អ្នក \"{{ corpName }}\" "
+"បានអនុម័តសំណើរបស់អ្នកសម្រាប់ការគ្រប់គ្រងទំនាក់ទំនងរួម។"
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "ក្រុមហ៊ុន \"{{ corpName }}\" ត្រូវបានផ្តាច់ការតភ្ជាប់ពីអ្នក"
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr "ដៃគូដែលភ្ជាប់ជាមួយអ្នក \"{{ corpName }}\" បានទទួលយកសិទ្ធិនៃទំនាក់ទំនង"
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"ដៃគូភ្ជាប់របស់អ្នក \"{{ corpName }}\" បានផ្លាស់ប្តូររបៀបប្រើប្រាស់ "
+"ដូច្នេះការភ្ជាប់របស់អ្នកត្រូវបានបញ្ចប់ "
+"ហើយបរិមាណភ្ជាប់ត្រូវបានត្រឡប់ទៅគណនីអ្នកវិញ។ "
+"សូមទាក់ទងអ្នកទទួលខុសត្រូវដើម្បីកសាងការភ្ជាប់ឡើងវិញ។"
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"ដៃគូរបស់អ្នក \"{{ corpName }}\" "
+"បានស្នើសុំសិទ្ធិគ្រប់គ្រងទំនាក់ទំនងក្នុងគណនី \"{{ _g_productName }}\" "
+"របស់អ្នក ដើម្បីឱ្យពួកគេអាចកំណត់ទំនាក់ទំនងអាជីវកម្ម។ បើចាំបាច់ "
+"អ្នកអាចទទួលយកសិទ្ធិគ្រប់គ្រងទំនាក់ទំនងនៅពេលក្រោយដោយខ្លួនឯង។"
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr ""
+"ក្រុមហ៊ុន \"{{ corpName }}\" បានបញ្ចប់ការសហការជាមួយអ្នក។ "
+"សូមលៃតម្រូវសិទ្ធិដែលត្រូវគ្នាដើម្បីជៀសវាងឥទ្ធិពលដល់អាជីវកម្មរបស់អ្នក"
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr ""
+"ដៃគូភ្ជាប់របស់អ្នក \"{{ corpName }}\" បានផ្លាស់ប្តូររបៀបប្រើប្រាស់ "
+"ដូច្នេះការភ្ជាប់របស់អ្នកត្រូវបានបញ្ចប់។ "
+"សូមទាក់ទងអ្នកទទួលខុសត្រូវដើម្បីកសាងការភ្ជាប់ឡើងវិញ។"
+
+msgid "site.message.content.import_file_complete"
+msgstr "បាននាំចូលឯកសារភ្ជាប់ {{success}} សម្រាប់ \"{{ title }}\"។ បរាជ័យ {{failed}}"
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr "{{ operator }} បានដោះស្រាយមតិក្នុងឯកសារ \"{{ document }}\"។"
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "សេចក្តីសង្ខេបមតិ៖ {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }} បានផ្តល់មតិលើឯកសារ \"{{ document }}\"។"
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "សេចក្តីសង្ខេបមតិ៖ {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }} បានបង្កើតឯកសារឈ្មោះ \"{{ document }}\""
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }} បានកែសម្រួលឯកសារ \"{{ document }}\""
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }} បានចូលចិត្តឯកសារ \"{{ document }}\""
+
+msgid "site.message.content.kms_space_apply"
+msgstr "{{ applicant }} ដាក់ពាក្យបង្កើតមូលដ្ឋានចំណេះដឹង {{ space_name }}"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr ""
+"បានបង្កើតមូលដ្ឋានចំណេះដឹងដោយជោគជ័យ។ "
+"អ្នកឥឡូវជាអ្នកគ្រប់គ្រងមូលដ្ឋានចំណេះដឹងថ្មី \"{{ space_name }}\""
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr ""
+"បរាជ័យក្នុងការបង្កើតមូលដ្ឋានចំណេះដឹង {{ space_name }}។ "
+"កែលម្អការពិពណ៌នារបស់វាហើយព្យាយាមម្តងទៀត។"
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "ហេតុផលបដិសេធ៖ {{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr ""
+"អ្នកឥឡូវជាអ្នកគ្រប់គ្រងមូលដ្ឋានចំណេះដឹង \"{{ space_name }}\"។ "
+"ចាប់ផ្តើមបង្កើតឯកសារ និងចែករំលែកគំនិតរបស់អ្នក!"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{ operator }} បានរំលឹកអ្នកឱ្យមើលឯកសារ \"{{ document }}\"។"
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "សេចក្តីសង្ខេបឯកសារ៖ {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }} បានចាត់ចែងអ្នកនាំមុខ \"{{ data_label }}\" ទៅអ្នក"
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }} បានចាត់ចែងអ្នកនាំមុខ {{ leads_num }} នាក់ទៅអ្នក"
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរម្ចាស់អ្នកនាំមុខ \"{{ data_label }}\"។ ពីមុន៖ "
+"\"{{ raw_charger }}\"។ ឥឡូវ៖ \"{{ new_charger }}\""
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកទទួលខុសត្រូវអ្នកនាំមុខ {{ leads_num }} នាក់"
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការអ្នកនាំមុខ \"{{ data_label }}\"។ "
+"អ្នកសហការបច្ចុប្បន្ន៖ \"{{ collaborators }}\""
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការអ្នកនាំមុខ {{ leads_num }} នាក់"
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }} បានយកអ្នកនាំមុខ \"{{ data_label }}\" មកវិញ"
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "អ្នកនាំមុខ \"{{ data_label }}\" ត្រូវបានយកមកវិញដោយស្វ័យប្រវត្តិ"
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }} បានយកអ្នកនាំមុខ {{ leads_num }} នាក់មកវិញ"
+
+msgid "site.message.content.manage_group_add_members"
+msgstr ""
+"{{ operator }} បានបន្ថែម {{ members }} ទៅក្រុមអ្នកគ្រប់គ្រង \"{{ "
+"manageGroup }}\""
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{ operator }} បានបន្ថែមក្រុមអ្នកគ្រប់គ្រងឈ្មោះ \"{{ manageGroup }}\""
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{ operator }} បានលុបក្រុមអ្នកគ្រប់គ្រងឈ្មោះ \"{{ manageGroup }}\""
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr ""
+"{{ operator }} បានដក {{ members }} ចេញពីក្រុមអ្នកគ្រប់គ្រង \"{{ manageGroup "
+"}}\""
+
+msgid "site.message.content.manager_login"
+msgstr "អ្នកគ្រប់គ្រង {{ operator }} បានចូលប្រព័ន្ធ។"
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }} បាននាំចូលសមាជិក {{ memberSize }} នាក់"
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }} បានអញ្ជើញ {{ memberList }}"
+
+msgid "site.message.content.member_remove"
+msgstr "{{ operator }} បានកំណត់សមាជិក {{ memberList }} ជាបានលាលែង"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"ការប្រើប្រាស់ប្រព័ន្ធសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត។ ដើម្បីបន្តដោយមិនមានការរំខាន។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"ការផ្ញើសាររបស់អ្នកបរាជ័យ ១០០ ដង ហើយ webhook(សារ) ត្រូវបានបិទស្វ័យប្រវត្តិ "
+"សូមពិនិត្យមូលហេតុ និងកែសម្រួលការកំណត់នៅក្នុង \"ការគ្រប់គ្រង - Webhook(សារ)\""
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"ការផ្ញើសាររបស់អ្នកបរាជ័យ។ ប្រសិនបើមានសារបរាជ័យលើសពី ១០០ ដង webhook(សារ) "
+"នឹងត្រូវបានបិទស្វ័យប្រវត្តិ។ សូមពិនិត្យមូលហេតុឱ្យបានទាន់ពេលវេលា "
+"និងកែសម្រួលការកំណត់នៅក្នុង \"ការគ្រប់គ្រង - Webhook(សារ)\""
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"ការផ្ញើសាររបស់អ្នកបរាជ័យ {{ count }} ដង។ ប្រសិនបើមានសារបរាជ័យលើសពី ១០០ ដង "
+"webhook(សារ) នឹងត្រូវបានបិទស្វ័យប្រវត្តិ សូមពិនិត្យមូលហេតុឱ្យបានទាន់ពេលវេលា "
+"និងកែសម្រួលការកំណត់នៅក្នុង \"ការគ្រប់គ្រង - Webhook(សារ)\""
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"កម្មវិធីមួយចំនួនដែលក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នកបានសាកល្បងដោយឥតគិតថ្លៃ ជិតដល់ពេលផុតកំណត់។ នៅពេលផុតកំណត់ "
+"ទិន្នន័យនឹងត្រូវបានរក្សាទុក ប៉ុន្តែមុខងារនឹងត្រូវបានដាក់កម្រិត "
+"ដូច្នេះសូមធ្វើអាប់ដេតផែនការរបស់អ្នកឱ្យបានទាន់ពេលវេលា។ បើអ្នកបានជាវសាកល្បង "
+"ឬបានទិញផែនការបុព្វលាភរួចហើយ សូមមិនអើពើនឹងការជូនដំណឹងនេះទេ។"
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{ operator }} បានបន្ថែមផែនការតាមដាន \"{{ data_label }}\" សម្រាប់អ្នក"
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }} បានបន្ថែមការអនុញ្ញាតសម្រាប់ \"{{ suite_name }}\"។"
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }} បានដកហូតការអនុញ្ញាតសម្រាប់ \"{{ suite_name }}\"។"
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរម្ចាស់ឱកាសអាជីវកម្ម \"{{ data_label }}\"។ "
+"ពីមុន៖ {{ raw_charger }}។ ឥឡូវ៖ {{ new_charger }}"
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr "{{ operator }} បានផ្លាស់ប្តូរម្ចាស់ឱកាសអាជីវកម្ម {{ opportunity_num }} នាក់"
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការឱកាសអាជីវកម្ម \"{{ data_label }}\"។ "
+"បច្ចុប្បន្ន៖ {{ collaborators }}"
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr ""
+"{{ operator }} បានផ្លាស់ប្តូរអ្នកសហការឱកាសអាជីវកម្ម {{ opportunity_num }} "
+"នាក់"
+
+msgid "site.message.content.opportunity_win"
+msgstr "ឱកាសអាជីវកម្ម \"{{ data_label }}\" ត្រូវបានឈ្នះ"
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"ផ្លាដែន \"{{ pluginName }}\" នៅក្នុងក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក នឹងផុតកំណត់នៅថ្ងៃ {{ expireTime }} "
+"ហើយផ្លាដែននឹងត្រូវបានបិទបន្ទាប់ពី {{ days }} ថ្ងៃ។ "
+"បើអ្នកចង់ធ្វើឱ្យវាថ្មីទៀត សូមទាក់ទងមកយើងខ្ញុំ។"
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"កម្មវិធី \"{{ appName }}\" ដែលក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នកបានសាកល្បងដោយឥតគិតថ្លៃ នឹងផុតកំណត់ក្នុងរយៈពេល {{ days }} ថ្ងៃ។ "
+"នៅពេលផុតកំណត់ ទិន្នន័យនឹងត្រូវបានរក្សាទុក "
+"ប៉ុន្តែមុខងារនឹងត្រូវបានដាក់កម្រិត "
+"ដូច្នេះសូមធ្វើអាប់ដេតផែនការរបស់អ្នកឱ្យបានទាន់ពេលវេលា។ បើអ្នកបានជាវសាកល្បង "
+"ឬបានទិញផែនការបុព្វលាភរួចហើយ សូមមិនអើពើនឹងការជូនដំណឹងនេះទេ។"
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"កាក់ពពកនៅក្នុងគណនីក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក បានអស់។ "
+"មុខងារផ្ទៀងផ្ទាត់តាម SMS លែងអាចប្រើបាន "
+"ហើយសមាជិកមួយចំនួនបរាជ័យក្នុងការដាក់ស្នើទិន្នន័យ។ "
+"ដើម្បីការពារការរំខានដល់អាជីវកម្មរបស់អ្នក សូមកែតម្រូវការរចនា ឬសាកកាក់ឡើងវិញ។ "
+"នៅពេលសាករួច មុខងារនឹងលែងមានការដាក់កម្រិតទៀតហើយ។"
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"មិត្តរបស់អ្នក {{ nickname }} កំពុងអញ្ជើញអ្នកឱ្យសហការតាមរយៈ {{ "
+"_g_productName }}។ ចូលរួមក្រុមរបស់គាត់។ ការអញ្ជើញនឹងមានសុពលភាពរយៈពេល ៧ថ្ងៃ។"
+
+msgid "site.message.content.team_invite_notify"
+msgstr ""
+"មិត្តអ្នក {{ nickname }} ចង់សហការជាមួយអ្នកលើ {{ _g_productName }}។ "
+"សូមចូលទៅកាន់សារដើម្បីមើលព័ត៌មានលម្អិត"
+
+msgid "site.message.content.team_invite_success"
+msgstr "អ្នកបានចូលរួម {{ teamName }} ដោយជោគជ័យ"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"ការប្រើប្រាស់ប្រព័ន្ធសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិតផែនការឥតគិតថ្លៃ។ "
+"ដើម្បីធានាការប្រើប្រាស់ប្រព័ន្ធដោយមិនដាច់ដោយឡែកបន្ទាប់ពីអំឡុងពេលសាកល្បង "
+"សូមចូលទៅ \"ការគ្រប់គ្រង > ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត "
+"និងធ្វើអាប់ដេតផែនការ។ "
+"ថ្ងៃសាកល្បងដែលនៅសល់អាចត្រូវបានពន្យារសម្រាប់ផែនការណាមួយ។"
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"ចំនួនស្វ័យប្រវត្តិកម្មសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"ចំនួនឯកសារភ្ជាប់ដែលបានផ្ទុកឡើងសម្រាប់ក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក បានលើសពីកម្រិត \"{{ vipLevel }}\"។ សូមចូលទៅ \"ការគ្រប់គ្រង > "
+"ព័ត៌មានលម្អិតអំពីផែនការ\" ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"ចំនួនឯកសារភ្ជាប់ដែលបានផ្ទុកឡើងនៅក្នុងគណនីក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក បានឈានដល់ {{ usage }} ក្នុងចំណោមកម្រិតសរុប {{ limit }}។ "
+"បើលើសកម្រិត កាក់ពពកនឹងត្រូវបានប្រើប្រាស់។ "
+"ដើម្បីការពារការរំខានដល់អាជីវកម្មរបស់អ្នក "
+"សូមធានាថាគណនីរបស់អ្នកមានកាក់គ្រប់គ្រាន់។"
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"ចំនួនឯកសារភ្ជាប់ដែលបានផ្ទុកឡើងនៅក្នុងគណនីក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក បានឈានដល់ {{ usage }} ក្នុងចំណោមកម្រិតសរុប {{ limit }}។ "
+"បើលើសកម្រិត កាក់ពពកនឹងត្រូវបានប្រើប្រាស់។ ឥឡូវអ្នកមាន {{ coinBalance }} "
+"កាក់។ ដើម្បីការពារការរំខានដល់អាជីវកម្មរបស់អ្នក "
+"សូមធានាថាគណនីរបស់អ្នកមានកាក់គ្រប់គ្រាន់។"
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"ចំនួនឯកសារភ្ជាប់ដែលបានផ្ទុកឡើងនៅក្នុងគណនីក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក បានឈានដល់ {{ usage }} ក្នុងចំណោមកម្រិតសរុប {{ limit }}។ "
+"បើលើសកម្រិត កាក់ពពកនឹងត្រូវបានប្រើប្រាស់។ ឥឡូវអ្នកមានមិនលើសពី {{ "
+"coinBalance }} កាក់ទេ។ ដើម្បីការពារការរំខានដល់អាជីវកម្មរបស់អ្នក "
+"សូមសាកកាក់ឡើងវិញឱ្យបានមុន។"
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"ចំនួនឯកសារភ្ជាប់ដែលបានផ្ទុកឡើងនៅក្នុងគណនីក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" "
+"របស់អ្នក បានឈានដល់ {{ usage }} ក្នុងចំណោមកម្រិតសរុប {{ limit }}។ "
+"បើលើសកម្រិត កាក់ពពកនឹងត្រូវបានប្រើប្រាស់។ "
+"ដើម្បីការពារការរំខានដល់អាជីវកម្មរបស់អ្នក សូមបើក "
+"\"ការផ្ទុកឯកសារលើសកម្រិតនឹងចំណាយកាក់\" ក្នុងការកំណត់ការទូទាត់ "
+"និងធានាថាគណនីរបស់អ្នកមានកាក់គ្រប់គ្រាន់។"
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"ចំនួនសមាជិកនៅក្នុងក្រុមហ៊ុន/ក្រុម \"{{ corpName }}\" របស់អ្នក "
+"បានលើសពីកម្រិត។ សូមចូលទៅ \"ការគ្រប់គ្រង > ព័ត៌មានលម្អិតអំពីផែនការ\" "
+"ដើម្បីមើលព័ត៌មានលម្អិត និងធ្វើអាប់ដេតផែនការ។"
+
+msgid "site.message.content.webhook_failed_count"
+msgstr ""
+"ចំនួន Webhook បរាជ័យនៅក្នុងទម្រង់ {{ entryName }} របស់អ្នក បានឈានដល់ {{ "
+"count }}។ សូមពិនិត្យ និងកែតម្រូវឱ្យបានមុន។"
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"ចំនួន Webhook បរាជ័យនៅក្នុងទម្រង់ {{ entryName }} របស់អ្នក បានឈានដល់ {{ "
+"count }} ហើយ Webhook ត្រូវបានបិទ។ សូមបើកវាឡើងវិញបើចាំបាច់។"
+
+msgid "site.message.content.webhook_failed_first"
+msgstr ""
+"Webhook បរាជ័យនៅក្នុងទម្រង់ {{ entryName }} របស់អ្នក។ សូមពិនិត្យ "
+"និងកែតម្រូវឱ្យបានមុន។"
+
+msgid "site.message.content.webhook_form_type"
+msgstr ""
+"ដោយសារការផ្លាស់ប្តូរប្រភេទទម្រង់ Webhook "
+"នៅក្នុងទម្រង់របស់អ្នកនឹងផ្ញើទិន្នន័យតាមប្រភេទទម្រង់ថ្មី។"
+
+msgid "site.message.link_text.accept_application"
+msgstr "ទទួលយក"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "ទទួលយក"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "ទាញយករបាយការណ៍កំហុស"
+
+msgid "site.message.link_text.download_now"
+msgstr "ទាញយកឥឡូវនេះ"
+
+msgid "site.message.link_text.view_details"
+msgstr "មើលព័ត៌មានលម្អិត"
+
+msgid "site.message.title.dash_alert"
+msgstr "ការព្រមានទិន្នន័យ"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "គំរូសហគ្រាស"
+
+msgid "template_center.space.standard"
+msgstr "គំរូផ្លូវការ"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "គំរូនាំចូលទំនាក់ទំនងច្រើន"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "គំរូនាំចូលអ្នកសហការជាក្រុម"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "គំរូនាំចូលតួនាទី"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "គំរូបង្កើតទំនាក់ទំនងជាក្រុម"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "កម្មវិធីផ្ទៀងផ្ទាត់អត្តសញ្ញាណ {{ _g_productName }}"
+
+msgid "tenant.verify.files.corp"
+msgstr "ឈ្មោះសហគ្រាស ឯកសារគាំទ្រពាក់ព័ន្ធ ជាដើម"
+
+msgid "tenant.verify.files.owner"
+msgstr "ឈ្មោះ អត្តសញ្ញាណប័ណ្ណ/ឯកសារផ្សេងៗ"
+
+msgid "tenant.verify.title.approved"
+msgstr "ព័ត៌មានផ្ទៀងផ្ទាត់ដែលអ្នកដាក់ស្នើត្រូវបានអនុម័ត"
+
+msgid "tenant.verify.title.declined"
+msgstr "ព័ត៌មានផ្ទៀងផ្ទាត់ដែលអ្នកដាក់ស្នើត្រូវបានបដិសេធ"
+
+msgid "tenant.verify.title.has_expired"
+msgstr ""
+"ការផ្ទៀងផ្ទាត់របស់ក្រុមហ៊ុនអ្នកបានផុតកំណត់ ហើយតំណសាធារណៈលែងអាចចូលប្រើបាន។ "
+"សូមផ្ទៀងផ្ទាត់ឱ្យបានលឿន"
+
+msgid "tenant.verify.title.will_expire"
+msgstr ""
+"ការផ្ទៀងផ្ទាត់របស់ក្រុមហ៊ុនអ្នកជិតផុតកំណត់។ "
+"ដើម្បីធានាការចូលប្រើតំណសាធារណៈបន្ត សូមផ្ទៀងផ្ទាត់ឱ្យបានលឿន"
+
+msgid "tenant.verify.type.corp"
+msgstr "សហគ្រាស"
+
+msgid "tenant.verify.type.owner"
+msgstr "ផ្ទាល់ខ្លួន"
+
+msgid "type.not.match"
+msgstr "ប្រភេទមិនត្រឹមត្រូវ"
+
+msgid "ua.dingtalkMobile"
+msgstr "DingTalk ទូរស័ព្ទ"
+
+msgid "ua.dingtalkPC"
+msgstr "DingTalk កុំព្យូទ័រ"
+
+msgid "ua.larkMobile"
+msgstr "Lark ទូរស័ព្ទ"
+
+msgid "ua.larkPC"
+msgstr "Lark កុំព្យូទ័រ"
+
+msgid "ua.mobile"
+msgstr "អ៊ីនធឺណិតទូរស័ព្ទ"
+
+msgid "ua.pc"
+msgstr "អ៊ីនធឺណិតកុំព្យូទ័រ"
+
+msgid "ua.wechatMiniProgram"
+msgstr "កម្មវិធីតូច"
+
+msgid "ua.wechatMobile"
+msgstr "WeChat ទូរស័ព្ទ"
+
+msgid "ua.wechatPC"
+msgstr "WeChat កុំព្យូទ័រ"
+
+msgid "ua.wxworkMobile"
+msgstr "WeCom ទូរស័ព្ទ"
+
+msgid "ua.wxworkPC"
+msgstr "WeCom កុំព្យូទ័រ"
+
+msgid "user.defaultNickname"
+msgstr "គ្មានចំណងជើង"
+
+msgid "userActivity.app.metricsName"
+msgstr "មើលតាមព័ត៌មានលម្អិតសកម្មភាពកម្មវិធី"
+
+msgid "userActivity.app.reportName"
+msgstr "មើលតាមទិដ្ឋភាពទូទៅកម្មវិធី"
+
+msgid "userActivity.appId"
+msgstr "លេខសំគាល់កម្មវិធី"
+
+msgid "userActivity.appName"
+msgstr "កម្មវិធី"
+
+msgid "userActivity.app_access_count"
+msgstr "អ្នកប្រើ (ចូលប្រើ)"
+
+msgid "userActivity.app_access_times"
+msgstr "ពេលវេលា (ចូលប្រើ)"
+
+msgid "userActivity.data_create_count"
+msgstr "អ្នកប្រើ (បង្កើតទិន្នន័យ)"
+
+msgid "userActivity.data_create_times"
+msgstr "ពេលវេលា (បង្កើតទិន្នន័យ)"
+
+msgid "userActivity.data_export_count"
+msgstr "អ្នកប្រើ (នាំចេញទិន្នន័យ)"
+
+msgid "userActivity.data_export_times"
+msgstr "ពេលវេលា (នាំចេញទិន្នន័យ)"
+
+msgid "userActivity.data_remove_count"
+msgstr "អ្នកប្រើ (លុបទិន្នន័យ)"
+
+msgid "userActivity.data_remove_times"
+msgstr "ពេលវេលា (លុបទិន្នន័យ)"
+
+msgid "userActivity.data_update_count"
+msgstr "អ្នកប្រើ (ធ្វើបច្ចុប្បន្នភាពទិន្នន័យ)"
+
+msgid "userActivity.data_update_times"
+msgstr "ពេលវេលា (ធ្វើបច្ចុប្បន្នភាពទិន្នន័យ)"
+
+msgid "userActivity.entity.metricsName"
+msgstr "មើលតាមព័ត៌មានលម្អិតសកម្មភាពវត្ថុ"
+
+msgid "userActivity.entity.reportName"
+msgstr "មើលតាមទិដ្ឋភាពទូទៅវត្ថុ"
+
+msgid "userActivity.entityId"
+msgstr "លេខសំគាល់វត្ថុ"
+
+msgid "userActivity.entityName"
+msgstr "វត្ថុ"
+
+msgid "userActivity.fileName"
+msgstr "សកម្មភាពសមាជិក"
+
+msgid "userActivity.login_stats_count"
+msgstr "អ្នកប្រើ (ចូលប្រើ)"
+
+msgid "userActivity.login_stats_times"
+msgstr "ពេលវេលា (ចូលប្រើ)"
+
+msgid "userActivity.memberId"
+msgstr "លេខសំគាល់សមាជិក"
+
+msgid "userActivity.nickName"
+msgstr "សមាជិក"
+
+msgid "userActivity.time"
+msgstr "កាលបរិច្ឆេទ"
+
+msgid "userActivity.user.metricsName"
+msgstr "មើលតាមព័ត៌មានលម្អិតសកម្មភាពសមាជិក"
+
+msgid "userActivity.user.reportName"
+msgstr "មើលតាមទិដ្ឋភាពទូទៅសមាជិក"
+
+msgid "vip.pack.ent"
+msgstr "សហគ្រាស"
+
+msgid "vip.pack.free"
+msgstr "ឥតគិតថ្លៃ"
+
+msgid "vip.pack.lite"
+msgstr "សំខាន់"
+
+msgid "vip.pack.oem"
+msgstr "ផ្ទាល់ខ្លួន"
+
+msgid "vip.pack.pro"
+msgstr "វិជ្ជាជីវៈ"
+
+msgid "vip.pack.self_hosted"
+msgstr "ផ្តាច់មុខ"
+
+msgid "vip.pack.starter"
+msgstr "ចាប់ផ្តើម"
+
+msgid "vip.pack.std"
+msgstr "អាជីវកម្ម"
+
+msgid "vip.pack.trial"
+msgstr "សាកល្បង"
+
+msgid "vip.pack.user"
+msgstr "តាមចំនួនអ្នកប្រើប្រាស់"
+
+msgid "vip.pack.user_premium"
+msgstr "បុព្វលាភ"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""

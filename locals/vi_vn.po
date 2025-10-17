@@ -1,0 +1,4470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.862Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.862Z\n"
+
+msgid "activity.fileName"
+msgstr "Dữ liệu hoạt động"
+
+msgid "activity_stats.export.dismission"
+msgstr "(Đã nghỉ việc)"
+
+msgid "activity_stats.export.removed"
+msgstr "(Đã xóa)"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "Ứng dụng đã xóa"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "Biểu mẫu đã xóa"
+
+msgid "aggregate.compatMetricName"
+msgstr "Nâng cấp các chỉ số thích ứng"
+
+msgid "aggregate.exceed.limit"
+msgstr "Độ dài công thức vượt quá giới hạn"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "Trường tổng hợp không được phép tính toán với trường không tổng hợp"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "Trường tổng hợp không thể dùng lại để tổng hợp"
+
+msgid "aggregate.main.subform.error"
+msgstr "Trường bảng chính không được phép tính toán với trường bảng phụ"
+
+msgid "aggregate.param.be.number"
+msgstr "Tham số của hàm tổng hợp {{ name }} phải là kiểu số"
+
+msgid "aggregate.param.be.one"
+msgstr "Số lượng tham số của hàm tổng hợp phải là 1"
+
+msgid "aggregate.return.number"
+msgstr "Kiểu trả về của công thức phải là số"
+
+msgid "aggregate.support.same.form.op"
+msgstr "Chỉ hỗ trợ tính toán các trường trong cùng một bảng phụ"
+
+msgid "automation.node.end"
+msgstr "Nút kết thúc"
+
+msgid "automation.node.start"
+msgstr "Nút kích hoạt"
+
+msgid "bpa.presetWidget.title0"
+msgstr "Đã tạo (cái)"
+
+msgid "bpa.presetWidget.title1"
+msgstr "Đang thực hiện (cái)"
+
+msgid "bpa.presetWidget.title10"
+msgstr "Biểu đồ xu hướng thời gian xử lý trung bình của một quy trình"
+
+msgid "bpa.presetWidget.title11"
+msgstr "Biểu đồ xu hướng thời gian xử lý trung bình của nút quy trình"
+
+msgid "bpa.presetWidget.title2"
+msgstr "Đã hoàn thành (cái)"
+
+msgid "bpa.presetWidget.title3"
+msgstr "Kết thúc thủ công (cái)"
+
+msgid "bpa.presetWidget.title4"
+msgstr "Thời gian xử lý trung bình của một quy trình (giờ)"
+
+msgid "bpa.presetWidget.title5"
+msgstr "Phân bố số lượng công việc chờ của nút quy trình"
+
+msgid "bpa.presetWidget.title6"
+msgstr "Thời gian xử lý trung bình của nút quy trình"
+
+msgid "bpa.presetWidget.title7"
+msgstr "Phân bố số lượng công việc chờ của thành viên"
+
+msgid "bpa.presetWidget.title8"
+msgstr "Phân bố số lượng công việc chờ của các thành viên tại nút quy trình"
+
+msgid "bpa.presetWidget.title9"
+msgstr "Thời gian xử lý trung bình của thành viên tại nút quy trình"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "Thời gian tiêu tốn (giờ)"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "Số lượng công việc chờ (cái)"
+
+msgid "compare.not.support"
+msgstr "Ký hiệu so sánh {{ op }} không hợp lệ"
+
+msgid "compare.not.support.by.replace"
+msgstr "Ký hiệu so sánh {{ op }} không hợp lệ, vui lòng dùng '=='"
+
+msgid "compare.param.boolean"
+msgstr "Kiểu Boolean"
+
+msgid "compare.param.datetime"
+msgstr "Dấu thời gian"
+
+msgid "compare.param.not.support"
+msgstr "Tham số hai bên {{ op }} không được là {{ type1 }} và {{ type2 }}"
+
+msgid "compare.param.number"
+msgstr "Kiểu số"
+
+msgid "compare.param.string"
+msgstr "Chuỗi văn bản"
+
+msgid "concatenate.param.error"
+msgstr "Trường biểu mẫu gốc không tồn tại"
+
+msgid "corp.currentDepartment"
+msgstr "Phòng ban của người dùng hiện tại"
+
+msgid "corp.currentUser"
+msgstr "Người dùng hiện tại"
+
+msgid "corp.joinCorpSuccess"
+msgstr "Tham gia đội nhóm thành công"
+
+msgid "corp.log.agentDisable"
+msgstr "Tắt plugin"
+
+msgid "corp.log.agentEnable"
+msgstr "Bật plugin"
+
+msgid "corp.log.agentUninstall"
+msgstr "Xóa plugin"
+
+msgid "corp.log.aggregateCreate"
+msgstr "Tạo bảng tổng hợp"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "Di chuyển bảng tổng hợp"
+
+msgid "corp.log.aggregateRemove"
+msgstr "Xóa bảng tổng hợp"
+
+msgid "corp.log.aggregateRename"
+msgstr "Sửa tên bảng tổng hợp"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "Cập nhật thiết kế bảng tổng hợp"
+
+msgid "corp.log.aiLabDisable"
+msgstr "Đóng cửa phòng thí nghiệm AI"
+
+msgid "corp.log.aiLabEnable"
+msgstr "Mở phòng thí nghiệm AI"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "Thêm khóa API"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "Xóa khóa API"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "Tắt khóa API"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "Bật khóa API"
+
+msgid "corp.log.apiKeyName"
+msgstr "Tên API Key"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "Cập nhật khóa API"
+
+msgid "corp.log.apiName"
+msgstr "Tên giao diện"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "Tắt kiểm soát tệp đính kèm ứng dụng"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "Bật kiểm soát tệp đính kèm ứng dụng"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "Sửa đổi điều khiển đính kèm ứng dụng"
+
+msgid "corp.log.appCreate"
+msgstr "Tạo ứng dụng"
+
+msgid "corp.log.appEtlLog"
+msgstr "Nhật ký cập nhật {{ etlName }}"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "Điều chỉnh trang chủ ứng dụng"
+
+msgid "corp.log.appLog"
+msgstr "Nhật ký ứng dụng"
+
+msgid "corp.log.appLogExport"
+msgstr "Xuất nhật ký ứng dụng"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "Thêm nhóm quản lý ứng dụng"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "Tắt nhóm quản lý ứng dụng"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "Bật nhóm quản lý ứng dụng"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "Xóa nhóm quản lý ứng dụng"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "Sửa tên nhóm quản lý ứng dụng"
+
+msgid "corp.log.appManagerAdd"
+msgstr "Thêm quản trị viên"
+
+msgid "corp.log.appManagerRemove"
+msgstr "Xóa quản trị viên"
+
+msgid "corp.log.appRecover"
+msgstr "Khôi phục ứng dụng"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "Sửa cài đặt đa ứng dụng"
+
+msgid "corp.log.appRemove"
+msgstr "Xóa ứng dụng"
+
+msgid "corp.log.appRename"
+msgstr "Sửa tên ứng dụng"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "Sửa URL ứng dụng"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "Tắt watermark ứng dụng"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "Bật watermark ứng dụng"
+
+msgid "corp.log.application"
+msgstr "Thuộc ứng dụng"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "Tắt kiểm soát tệp đính kèm toàn cầu"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "Bật kiểm soát tệp đính kèm toàn cầu"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "Tắt ủy quyền công việc chờ"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "Bật ủy quyền công việc chờ"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr "Hủy ủy quyền: từ {{ principal }} đến {{ agent }} trong {{ timeRange }}"
+
+msgid "corp.log.businessContent"
+msgstr "Nội dung tra cứu"
+
+msgid "corp.log.businessCount"
+msgstr "Số lần tiêu thụ"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "Xác thực doanh nghiệp"
+
+msgid "corp.log.businessTime"
+msgstr "Thời gian xác thực"
+
+msgid "corp.log.callTime"
+msgstr "Thời gian gọi"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "Sửa cài đặt thanh toán cloud coin"
+
+msgid "corp.log.coinUsageApp"
+msgstr "Ứng dụng"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "Biểu mẫu"
+
+msgid "corp.log.coinUsageLog"
+msgstr "Nhật ký sử dụng cloud coin"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "Trường"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "Thêm liên kết mời doanh nghiệp bên ngoài"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "Xóa liên kết mời doanh nghiệp bên ngoài"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "Sửa liên kết mời doanh nghiệp bên ngoài"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "Thêm vai trò người liên hệ bên ngoài"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "Xóa vai trò người liên hệ bên ngoài"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "Sửa tên vai trò người liên hệ bên ngoài"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "Thay đổi thành viên trong vai trò người liên hệ bên ngoài"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "Cập nhật chặn thông báo"
+
+msgid "corp.log.corpRename"
+msgstr "Sửa tên doanh nghiệp"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "Tắt phong cách doanh nghiệp"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "Bật phong cách doanh nghiệp"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "Sửa phong cách doanh nghiệp"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "Sửa URL tài khoản doanh nghiệp"
+
+msgid "corp.log.customLoginDisable"
+msgstr "Tắt trang đăng nhập tùy chỉnh"
+
+msgid "corp.log.customLoginEnable"
+msgstr "Bật trang đăng nhập tùy chỉnh"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "Sửa bảng làm việc doanh nghiệp"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "Cập nhật quyền bảng điều khiển"
+
+msgid "corp.log.dashCreate"
+msgstr "Tạo bảng điều khiển"
+
+msgid "corp.log.dashPublicLink"
+msgstr "Cập nhật liên kết công khai bảng điều khiển"
+
+msgid "corp.log.dashRecover"
+msgstr "Khôi phục bảng điều khiển"
+
+msgid "corp.log.dashRemove"
+msgstr "Xóa bảng điều khiển"
+
+msgid "corp.log.dashRename"
+msgstr "Sửa tên bảng điều khiển"
+
+msgid "corp.log.dashUpdate"
+msgstr "Sửa thiết kế bảng điều khiển"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "In dữ liệu hàng loạt"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "Khôi phục dữ liệu hàng loạt"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "Xóa dữ liệu hàng loạt"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "Sửa dữ liệu hàng loạt"
+
+msgid "corp.log.dataCreate"
+msgstr "Thêm dữ liệu"
+
+msgid "corp.log.dataExport"
+msgstr "Xuất dữ liệu"
+
+msgid "corp.log.dataImport"
+msgstr "Nhập - Thêm dữ liệu"
+
+msgid "corp.log.dataImportFile"
+msgstr "Nhập tệp đính kèm"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "Nhập - Cập nhật dữ liệu"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "Nhập - Thêm và cập nhật dữ liệu"
+
+msgid "corp.log.dataPrint"
+msgstr "In dữ liệu"
+
+msgid "corp.log.dataPrintQr"
+msgstr "In mã QR/mã vạch"
+
+msgid "corp.log.dataRecover"
+msgstr "Khôi phục dữ liệu"
+
+msgid "corp.log.dataRemove"
+msgstr "Xóa dữ liệu"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "Tạo trợ lý thông minh"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "Xóa trợ lý thông minh"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "Bật trợ lý thông minh"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "Tắt trợ lý thông minh"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "Cập nhật trợ lý thông minh"
+
+msgid "corp.log.dataUpdate"
+msgstr "Cập nhật dữ liệu"
+
+msgid "corp.log.deptCreate"
+msgstr "Thêm phòng ban"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "Thêm nhãn doanh nghiệp"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "Xóa nhãn doanh nghiệp"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "Điều chỉnh doanh nghiệp trong nhãn"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "Sửa tên nhãn doanh nghiệp"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "Cập nhật trưởng phòng ban"
+
+msgid "corp.log.deptRemove"
+msgstr "Xóa phòng ban"
+
+msgid "corp.log.deptRename"
+msgstr "Sửa tên phòng ban"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "Cập nhật tự động"
+
+msgid "corp.log.etlCreate"
+msgstr "Tạo luồng dữ liệu"
+
+msgid "corp.log.etlCronExecute"
+msgstr "Cập nhật định kỳ"
+
+msgid "corp.log.etlDuration"
+msgstr "Thời lượng cập nhật"
+
+msgid "corp.log.etlEndTime"
+msgstr "Thời gian kết thúc"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "Kết quả cập nhật"
+
+msgid "corp.log.etlExecuteType"
+msgstr "Phương thức cập nhật"
+
+msgid "corp.log.etlJust"
+msgstr "Dưới 1 phút"
+
+msgid "corp.log.etlManualExecute"
+msgstr "Cập nhật thủ công"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }} phút"
+
+msgid "corp.log.etlRemove"
+msgstr "Xóa luồng dữ liệu"
+
+msgid "corp.log.etlRename"
+msgstr "Sửa tên luồng dữ liệu"
+
+msgid "corp.log.etlStartTime"
+msgstr "Thời gian bắt đầu"
+
+msgid "corp.log.etlTime"
+msgstr "Ngày cập nhật"
+
+msgid "corp.log.etlUpdate"
+msgstr "Cập nhật thiết kế luồng dữ liệu"
+
+msgid "corp.log.fail"
+msgstr "Thất bại"
+
+msgid "corp.log.fileDownload"
+msgstr "Tải tệp xuống"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "Tắt phân tích quy trình"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "Bật phân tích quy trình"
+
+msgid "corp.log.flowUpdate"
+msgstr "Cập nhật thiết kế quy trình"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "Điều chỉnh quyền biểu mẫu/bảng điều khiển hàng loạt"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "Cập nhật quyền biểu mẫu"
+
+msgid "corp.log.formCreate"
+msgstr "Tạo biểu mẫu"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "Xóa trang chi tiết dữ liệu"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "Chuyển đổi trang chi tiết dữ liệu"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "Chỉnh sửa trang chi tiết dữ liệu"
+
+msgid "corp.log.formOnlinePay"
+msgstr "Quản lý cài đặt thanh toán biểu mẫu"
+
+msgid "corp.log.formPublicLink"
+msgstr "Cập nhật liên kết công khai biểu mẫu"
+
+msgid "corp.log.formPublicQuery"
+msgstr "Cập nhật truy vấn công khai biểu mẫu"
+
+msgid "corp.log.formRecover"
+msgstr "Khôi phục biểu mẫu"
+
+msgid "corp.log.formRemove"
+msgstr "Xóa biểu mẫu"
+
+msgid "corp.log.formRename"
+msgstr "Sửa tên biểu mẫu"
+
+msgid "corp.log.formUpdate"
+msgstr "Cập nhật thiết kế biểu mẫu"
+
+msgid "corp.log.guestConnect"
+msgstr "Mời doanh nghiệp bên ngoài"
+
+msgid "corp.log.guestDockerExport"
+msgstr "Xuất người liên hệ bên ngoài"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "Sửa thông tin người liên hệ bên ngoài"
+
+msgid "corp.log.guestUpdate"
+msgstr "Sửa thông tin doanh nghiệp bên ngoài"
+
+msgid "corp.log.hostDisconnect"
+msgstr "Ngắt kết nối với doanh nghiệp mời hợp tác"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "Thêm người liên hệ của chúng ta"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "Xóa người liên hệ của chúng ta"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "Sửa thông tin người liên hệ của chúng ta"
+
+msgid "corp.log.integrateUpdate"
+msgstr "Sửa thông tin liên kết"
+
+msgid "corp.log.ip"
+msgstr "Địa chỉ IP"
+
+msgid "corp.log.kmsDisable"
+msgstr "Tắt thư viện kiến thức"
+
+msgid "corp.log.kmsEnable"
+msgstr "Bật thư viện kiến thức"
+
+msgid "corp.log.loginLocation"
+msgstr "Địa điểm đăng nhập"
+
+msgid "corp.log.loginLog"
+msgstr "Nhật ký đăng nhập"
+
+msgid "corp.log.loginLogExport"
+msgstr "Xuất nhật ký đăng nhập"
+
+msgid "corp.log.loginPlatform"
+msgstr "Nền tảng đăng nhập"
+
+msgid "corp.log.loginTime"
+msgstr "Thời gian đăng nhập"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "Thêm nhóm quản lý thường"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "Xóa nhóm quản lý thường"
+
+msgid "corp.log.manageGroupRename"
+msgstr "Sửa tên nhóm quản lý thường"
+
+msgid "corp.log.managersAdd"
+msgstr "Thêm quản trị viên"
+
+msgid "corp.log.managersRemove"
+msgstr "Xóa quản trị viên"
+
+msgid "corp.log.memberExit"
+msgstr "Rời doanh nghiệp tự nguyện"
+
+msgid "corp.log.memberExport"
+msgstr "Xuất danh bạ"
+
+msgid "corp.log.memberFreeze"
+msgstr "Tắt thành viên"
+
+msgid "corp.log.memberHardDelete"
+msgstr "Xóa thành viên"
+
+msgid "corp.log.memberInvite"
+msgstr "Mời thành viên"
+
+msgid "corp.log.memberRecover"
+msgstr "Bật thành viên"
+
+msgid "corp.log.memberRemove"
+msgstr "Chuyển thành nghỉ việc"
+
+msgid "corp.log.memberUpdate"
+msgstr "Cập nhật thông tin thành viên"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "Xuất vai trò"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "Nhập vai trò"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "Tắt đẩy thông báo"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "Bật đẩy thông báo"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "Sửa đẩy thông báo"
+
+msgid "corp.log.oauthCreate"
+msgstr "Thêm ủy quyền"
+
+msgid "corp.log.oauthDelete"
+msgstr "Hủy ủy quyền"
+
+msgid "corp.log.ocrBankCard"
+msgstr "Thẻ ngân hàng"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "Giấy phép kinh doanh"
+
+msgid "corp.log.ocrContent"
+msgstr "Nội dung nhận diện"
+
+msgid "corp.log.ocrCount"
+msgstr "Số lần tiêu thụ"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "Bằng lái xe"
+
+msgid "corp.log.ocrGeneral"
+msgstr "Văn bản chung"
+
+msgid "corp.log.ocrIdCard"
+msgstr "Thẻ căn cước"
+
+msgid "corp.log.ocrLog"
+msgstr "Nhận diện văn bản"
+
+msgid "corp.log.ocrResult"
+msgstr "Kết quả nhận diện"
+
+msgid "corp.log.ocrTime"
+msgstr "Thời gian nhận diện"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "Vé tàu"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "Hóa đơn VAT"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "Giấy đăng ký xe"
+
+msgid "corp.log.openApiLog"
+msgstr "Nhật ký gọi API"
+
+msgid "corp.log.openApiLogExport"
+msgstr "Xuất nhật ký API mở"
+
+msgid "corp.log.operateDetails"
+msgstr "Chi tiết thao tác"
+
+msgid "corp.log.operateLog"
+msgstr "Nhật ký nền tảng"
+
+msgid "corp.log.operateLogExport"
+msgstr "Xuất nhật ký nền tảng"
+
+msgid "corp.log.operateObject"
+msgstr "Đối tượng thao tác"
+
+msgid "corp.log.operateTime"
+msgstr "Thời gian thao tác"
+
+msgid "corp.log.operateType"
+msgstr "Loại thao tác"
+
+msgid "corp.log.operator"
+msgstr "Người thực hiện"
+
+msgid "corp.log.orderCancel"
+msgstr "Hủy đơn hàng"
+
+msgid "corp.log.orderCreate"
+msgstr "Tạo đơn hàng"
+
+msgid "corp.log.orderDelete"
+msgstr "Xóa đơn hàng"
+
+msgid "corp.log.orderPay"
+msgstr "Thanh toán đơn hàng"
+
+msgid "corp.log.orderReceipt"
+msgstr "Xuất hóa đơn đơn hàng"
+
+msgid "corp.log.payUpdate"
+msgstr "Thiết lập dịch vụ thanh toán"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "Tắt quản lý quyền"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "Bật quản lý quyền"
+
+msgid "corp.log.pluginCount"
+msgstr "Số lần kích hoạt plugin"
+
+msgid "corp.log.pluginCreate"
+msgstr "Tạo plugin mới"
+
+msgid "corp.log.pluginExport"
+msgstr "Xuất plugin"
+
+msgid "corp.log.pluginImport"
+msgstr "Nhập plugin"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "Nhập và cập nhật plugin"
+
+msgid "corp.log.pluginInstall"
+msgstr "Cài đặt plugin"
+
+msgid "corp.log.pluginName"
+msgstr "Tên plugin"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "Phát hành plugin"
+
+msgid "corp.log.pluginUpdate"
+msgstr "Sửa plugin"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "Kích hoạt plugin"
+
+msgid "corp.log.registrant"
+msgstr "Người đăng nhập"
+
+msgid "corp.log.returnStatus"
+msgstr "Trạng thái trả về"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "Sắp xếp lại nhóm vai trò"
+
+msgid "corp.log.roleCreate"
+msgstr "Tạo vai trò"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "Tạo nhóm vai trò"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "Xóa nhóm vai trò"
+
+msgid "corp.log.roleGroupRename"
+msgstr "Sửa tên nhóm vai trò"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "Cập nhật thành viên trong vai trò"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "Cập nhật phòng ban phụ trách"
+
+msgid "corp.log.roleRemove"
+msgstr "Xóa vai trò"
+
+msgid "corp.log.roleRename"
+msgstr "Sửa tên vai trò"
+
+msgid "corp.log.running"
+msgstr "Đang chạy"
+
+msgid "corp.log.smsContent"
+msgstr "Chi tiết"
+
+msgid "corp.log.smsCount"
+msgstr "Số lượng tiêu thụ"
+
+msgid "corp.log.smsSendFailed"
+msgstr "Gửi thất bại"
+
+msgid "corp.log.smsSendPhone"
+msgstr "Số điện thoại"
+
+msgid "corp.log.smsSendResult"
+msgstr "Trạng thái gửi"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "Gửi thành công"
+
+msgid "corp.log.smsSendingLog"
+msgstr "Gửi SMS"
+
+msgid "corp.log.smsTime"
+msgstr "Thời gian"
+
+msgid "corp.log.spaceCreate"
+msgstr "Tạo thư viện kiến thức"
+
+msgid "corp.log.spaceDelete"
+msgstr "Xóa thư viện kiến thức"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "Tạo nhóm quyền thư viện kiến thức"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "Xóa nhóm quyền thư viện kiến thức"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "Sửa nhóm quyền thư viện kiến thức"
+
+msgid "corp.log.spaceUpdate"
+msgstr "Sửa thông tin cơ bản thư viện kiến thức"
+
+msgid "corp.log.success"
+msgstr "Thành công"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "Thiết lập phạm vi hiển thị sản phẩm"
+
+msgid "corp.log.suiteDisable"
+msgstr "Tắt sản phẩm"
+
+msgid "corp.log.suiteEnable"
+msgstr "Bật sản phẩm"
+
+msgid "corp.log.systemRobot"
+msgstr "Robot hệ thống"
+
+msgid "corp.log.tenantVerify"
+msgstr "Xác thực danh tính"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "Sửa múi giờ"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "Yêu cầu quản lý danh bạ"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "Chuyển quyền quản lý danh bạ"
+
+msgid "corp.log.waiting"
+msgstr "Đang chờ"
+
+msgid "corp.log.watermarkDisable"
+msgstr "Tắt watermark toàn cục"
+
+msgid "corp.log.watermarkEnable"
+msgstr "Bật watermark toàn cục"
+
+msgid "corp.log.wxDisable"
+msgstr "Tắt tích hợp tài khoản dịch vụ WeChat"
+
+msgid "corp.log.wxEnable"
+msgstr "Bật tích hợp tài khoản dịch vụ WeChat"
+
+msgid "corp.syncFailed"
+msgstr "Đồng bộ tự động thất bại"
+
+msgid "corp.syncFailedContent"
+msgstr "Đồng bộ danh bạ doanh nghiệp thất bại."
+
+msgid "corp.syncFailedSubject"
+msgstr "Thành viên đồng bộ thất bại"
+
+msgid "corp.syncSuccessContent"
+msgstr "Danh bạ doanh nghiệp đã đồng bộ xong"
+
+msgid "corp.syncSuccessSubject"
+msgstr "Thành viên đồng bộ thành công"
+
+msgid "corp.systemManageGroup"
+msgstr "Nhóm quản trị hệ thống"
+
+msgid "corp.unGrouped"
+msgstr "Chưa phân nhóm"
+
+msgid "corpCoop.department"
+msgstr "Tổ chức bên ngoài"
+
+msgid "corpUsage.accessTime"
+msgstr "Thời gian truy cập cuối"
+
+msgid "corpUsage.aggregate"
+msgstr "Số bảng tổng hợp"
+
+msgid "corpUsage.app"
+msgstr "Số ứng dụng"
+
+msgid "corpUsage.app.cardName"
+msgstr "Xem theo ứng dụng - Tổng quan"
+
+msgid "corpUsage.app.metricListName"
+msgstr "Xem theo ứng dụng - Chi tiết sử dụng"
+
+msgid "corpUsage.appId"
+msgstr "ID ứng dụng"
+
+msgid "corpUsage.appName"
+msgstr "Tên ứng dụng"
+
+msgid "corpUsage.attachment"
+msgstr "Dung lượng tệp đính kèm"
+
+msgid "corpUsage.automation"
+msgstr "Số trợ lý thông minh Pro"
+
+msgid "corpUsage.bpa"
+msgstr "Số phân tích quy trình"
+
+msgid "corpUsage.createTime"
+msgstr "Ngày tạo"
+
+msgid "corpUsage.creator"
+msgstr "Người tạo"
+
+msgid "corpUsage.creator.username"
+msgstr "ID người tạo"
+
+msgid "corpUsage.dash"
+msgstr "Số bảng điều khiển"
+
+msgid "corpUsage.dash.type"
+msgstr "Bảng điều khiển"
+
+msgid "corpUsage.data"
+msgstr "Tổng dữ liệu"
+
+msgid "corpUsage.data_trigger"
+msgstr "Số trợ lý thông minh"
+
+msgid "corpUsage.date"
+msgstr "Ngày"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "Chi tiết dữ liệu"
+
+msgid "corpUsage.etl"
+msgstr "Số nhà máy dữ liệu"
+
+msgid "corpUsage.fileName"
+msgstr "Mức sử dụng tài nguyên"
+
+msgid "corpUsage.form_coop"
+msgstr "Số biểu mẫu thường"
+
+msgid "corpUsage.form_coop.type"
+msgstr "Biểu mẫu thường"
+
+msgid "corpUsage.form_workflow"
+msgstr "Số biểu mẫu quy trình"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "ID biểu mẫu quy trình"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "Tên biểu mẫu quy trình"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "Biểu mẫu quy trình"
+
+msgid "corpUsage.member.cardName"
+msgstr "Xem theo thành viên - Tổng quan"
+
+msgid "corpUsage.member.metricListName"
+msgstr "Xem theo thành viên - Chi tiết sử dụng"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "Chưa ghi nhận"
+
+msgid "corpUsage.public_link"
+msgstr "Số liên kết công khai bật"
+
+msgid "corpUsage.public_link.type"
+msgstr "Kiểu đối tượng"
+
+msgid "corpUsage.updateTime"
+msgstr "Thời gian chỉnh sửa cuối"
+
+msgid "corp_coop.operate.create"
+msgstr "Thêm"
+
+msgid "corp_coop.operate.delete"
+msgstr "Xóa"
+
+msgid "corp_coop.side.other"
+msgstr "Của họ"
+
+msgid "corp_coop.side.our"
+msgstr "Của bạn"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "Đã tắt kiểm soát tệp đính kèm ứng dụng cho ứng dụng \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "Đã bật kiểm soát tệp đính kèm ứng dụng cho ứng dụng \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "Đã sửa đổi điều khiển đính kèm ứng dụng của ứng dụng \"{{ app_name }}\""
+
+msgid "corp_log.content.app_home_update"
+msgstr "Điều chỉnh trang chủ ứng dụng 「{{ app_name }}」"
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "Thêm nhóm quản lý ứng dụng 「{{ name }}」 trong 「{{ appName }}」"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "Xóa nhóm quản lý ứng dụng 「{{ name }}」 trong 「{{ appName }}」"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr ""
+"Đổi tên nhóm quản lý ứng dụng từ 「{{ oriName }}」 thành 「{{ name }}」 trong "
+"「{{ appName }}」"
+
+msgid "corp_log.content.app_manager_add"
+msgstr ""
+"Thêm thành viên 「{{ members }}」 vào nhóm quản lý ứng dụng 「{{ name }}」 "
+"trong 「{{ appName }}」"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr ""
+"Xóa thành viên 「{{ members }}」 khỏi nhóm quản lý ứng dụng 「{{ name }}」 "
+"trong 「{{ appName }}」"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "Sửa cài đặt đa ứng dụng của ứng dụng 「{{ app_name }}」"
+
+msgid "corp_log.content.app_url_update"
+msgstr "Sửa URL ứng dụng 「{{ app_name }}」"
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "Tắt watermark ứng dụng 「{{ app_name }}」"
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "Bật watermark ứng dụng 「{{ app_name }}」"
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "Tắt ủy quyền công việc chờ"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "Bật ủy quyền công việc chờ"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr "Hủy ủy quyền: từ {{ principal }} đến {{ agent }} trong {{ timeRange }}"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "Cập nhật thành viên trong danh sách chặn nhắc nhở"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr "Cập nhật thành viên và phạm vi ứng dụng nhận nhắc nhở trong danh sách chặn"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "Cập nhật phạm vi ứng dụng nhận nhắc nhở trong danh sách chặn"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "Tắt phân tích quy trình cho {{ count }} biểu mẫu"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "Bật phân tích quy trình cho {{ count }} biểu mẫu"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "Tắt phân tích quy trình cho biểu mẫu 「{{ flow_name }}」"
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "Bật phân tích quy trình cho biểu mẫu 「{{ flow_name }}」"
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "Điều chỉnh quyền biểu mẫu/bảng điều khiển hàng loạt"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "Xuất thông tin vai trò"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "Nhập thành viên trong 「{{ fullRoleNames }}」"
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "Cập nhật phòng ban phụ trách của thành viên trong vai trò 「{{ role }}」"
+
+msgid "corp_log.content.role_rel_update"
+msgstr "Cập nhật phòng ban phụ trách của 「{{ nickname }}」 trong vai trò 「{{ role }}」"
+
+msgid "corp_log.content.space_create"
+msgstr "Tạo thư viện kiến thức 「{{ space_name }}」"
+
+msgid "corp_log.content.space_delete"
+msgstr "Xóa thư viện kiến thức 「{{ space_name }}」"
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "Tạo nhóm quyền thư viện kiến thức 「{{ space_perm_group_name }}」"
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "Xóa nhóm quyền thư viện kiến thức 「{{ space_perm_group_name }}」"
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "Sửa nhóm quyền thư viện kiến thức 「{{ space_perm_group_name }}」"
+
+msgid "corp_log.content.space_update"
+msgstr "Sửa thông tin cơ bản của thư viện kiến thức 「{{ space_name }}」"
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "Thiết lập phạm vi hiển thị của 「{{ name }}」"
+
+msgid "corp_log.content.suite_disable"
+msgstr "Tắt 「{{ name }}」"
+
+msgid "corp_log.content.suite_enable"
+msgstr "Bật 「{{ name }}」"
+
+msgid "crm.upgrade.relatedData"
+msgstr "Dữ liệu liên quan"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "Chấp nhận lời mời kết nối của {{ nickname }}({{ corpName }})"
+
+msgid "crop_log.content.agent_disable"
+msgstr "Tắt plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.agent_enable"
+msgstr "Bật plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "Gỡ cài đặt plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr ""
+"Tạo bảng tổng hợp 「{{ name }}」, sao chép từ bảng tổng hợp 「{{ ori_name }}」 "
+"của ứng dụng 「{{ app_name }}」"
+
+msgid "crop_log.content.aggregate_create"
+msgstr "Tạo bảng tổng hợp 「{{ name }}」"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "Đã khôi phục bảng tổng hợp \"{{ name }}\""
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "Xóa bảng tổng hợp 「{{ name }}」"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "Đổi tên bảng tổng hợp từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "Sửa thiết kế bảng tổng hợp 「{{ name }}」"
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "Đã nâng cấp bảng tổng hợp \"{{ name }}\""
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "Phòng thí nghiệm AI đóng cửa"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "Mở phòng thí nghiệm AI"
+
+msgid "crop_log.content.api_key_create"
+msgstr "Thêm khóa API"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "Thêm khóa API 「{{ name }}」"
+
+msgid "crop_log.content.api_key_delete"
+msgstr "Xóa khóa API"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "Xóa khóa API 「{{ name }}」"
+
+msgid "crop_log.content.api_key_disable"
+msgstr "Tắt khóa API"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "Tắt khóa API 「{{ name }}」"
+
+msgid "crop_log.content.api_key_enable"
+msgstr "Bật khóa API"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "Bật khóa API 「{{ name }}」"
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "Sửa 「Phạm vi ủy quyền API」 của khóa API 「{{ name }}」"
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "Sửa 「Phạm vi ủy quyền ứng dụng」 của khóa API 「{{ name }}」"
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "Sửa 「Danh sách trắng IP」 của khóa API 「{{ name }}」"
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "Sửa 「Tên」 của khóa API 「{{ name }}」"
+
+msgid "crop_log.content.app_create"
+msgstr "Tạo ứng dụng 「{{ name }}」"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "Tạo ứng dụng 「{{ name }}」, sao chép từ 「{{ ori_name }}」"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "Xuất nhật ký nhà máy dữ liệu"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "Cài ứng dụng 「{{ name }}」 từ DingDingDa"
+
+msgid "crop_log.content.app_install_link"
+msgstr "Cài ứng dụng 「{{ name }}」 từ liên kết chia sẻ ứng dụng"
+
+msgid "crop_log.content.app_install_template"
+msgstr "Cài ứng dụng 「{{ name }}」 từ trung tâm mẫu"
+
+msgid "crop_log.content.app_log_export"
+msgstr "Xuất nhật ký ứng dụng"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "Tắt nhóm quản lý ứng dụng"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "Bật nhóm quản lý ứng dụng"
+
+msgid "crop_log.content.app_recover"
+msgstr "Khôi phục ứng dụng 「{{ name }}」"
+
+msgid "crop_log.content.app_remove"
+msgstr "Xóa ứng dụng 「{{ name }}」"
+
+msgid "crop_log.content.app_rename"
+msgstr "Đổi tên ứng dụng từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "Xuất nhật ký trợ lý thông minh"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "Kiểm soát đính kèm toàn cầu đã bị tắt"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "Kiểm soát đính kèm toàn cầu được bật"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "Sửa cài đặt quyền của nhóm quyền 「{{ name }}」"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "Thêm nhóm quyền 「{{ name }}」"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "Xóa nhóm quyền 「{{ name }}」"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "Đổi tên nhóm quyền từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "Sửa phạm vi thành viên của nhóm quyền 「{{ name }}」"
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "Sửa cài đặt thanh toán cloud coin"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "Xuất nhật ký sử dụng cloud coin"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "Thêm liên kết mời doanh nghiệp bên ngoài"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "Xóa liên kết mời doanh nghiệp bên ngoài"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "Sửa liên kết mời doanh nghiệp bên ngoài"
+
+msgid "crop_log.content.corp_rename"
+msgstr "Đổi tên doanh nghiệp từ 「{{ old_corp_name }}」 thành 「{{ new_corp_name }}」"
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "Tắt phong cách doanh nghiệp"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "Bật phong cách doanh nghiệp"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "Sửa phong cách doanh nghiệp"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "Sửa URL tài khoản doanh nghiệp"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "Thêm vai trò người liên hệ bên ngoài 「{{ roleName }}」"
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "Tắt trang đăng nhập tùy chỉnh"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "Bật trang đăng nhập tùy chỉnh"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "Sửa bảng làm việc doanh nghiệp"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "Cập nhật phạm vi phát hành bảng điều khiển 「{{ name }}」"
+
+msgid "crop_log.content.dash_create"
+msgstr "Tạo bảng điều khiển 「{{ name }}」"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr ""
+"Tạo bảng điều khiển 「{{ name }}」, sao chép từ bảng điều khiển 「{{ ori_name "
+"}}」 của ứng dụng 「{{ app_name }}」"
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "Tắt xuất liên kết công khai bảng điều khiển"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "Bật xuất liên kết công khai bảng điều khiển"
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "Tắt liên kết công khai bảng điều khiển"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "Bật liên kết công khai bảng điều khiển"
+
+msgid "crop_log.content.dash_recover"
+msgstr "Khôi phục bảng điều khiển 「{{ name }}」"
+
+msgid "crop_log.content.dash_remove"
+msgstr "Xóa bảng điều khiển 「{{ name }}」"
+
+msgid "crop_log.content.dash_rename"
+msgstr "Đổi tên bảng điều khiển từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.dash_update"
+msgstr "Sửa thiết kế bảng điều khiển 「{{ name }}」"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "In hàng loạt dữ liệu bằng mẫu 「{{ template_name }}」"
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "Khôi phục hàng loạt {{ count }} dữ liệu"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "Xóa hàng loạt {{ count }} dữ liệu"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "Xóa hàng loạt {{ count }} dữ liệu từ thùng rác dữ liệu"
+
+msgid "crop_log.content.data_batch_update"
+msgstr ""
+"Sửa hàng loạt {{ total }} dữ liệu, thành công {{ success }}, thất bại {{ "
+"failed }}"
+
+msgid "crop_log.content.data_create"
+msgstr "Thêm dữ liệu 「{{ data_label }}」"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr "In hàng loạt dữ liệu của 「{{ table_name }}」 bằng mẫu 「{{ template_name }}」"
+
+msgid "crop_log.content.data_export"
+msgstr "Xuất dữ liệu của 「{{ entry_name }}」"
+
+msgid "crop_log.content.data_import"
+msgstr "Nhập thêm {{ count }} dữ liệu"
+
+msgid "crop_log.content.data_import_file"
+msgstr "Nhập {{ success }} tệp đính kèm"
+
+msgid "crop_log.content.data_import_update"
+msgstr "Nhập cập nhật {{ count }} dữ liệu"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"Nhập cập nhật {{ updata_datas_amount }} dữ liệu, thêm {{ "
+"insert_datas_amount }} dữ liệu"
+
+msgid "crop_log.content.data_print"
+msgstr "In dữ liệu 「{{ data_label }}」 bằng mẫu 「{{ template_name }}」"
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "In hàng loạt mã QR dữ liệu"
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "In hàng loạt mã vạch trường"
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "In hàng loạt mã QR trường"
+
+msgid "crop_log.content.data_recover"
+msgstr "Khôi phục dữ liệu 「{{ data_label }}」"
+
+msgid "crop_log.content.data_remove"
+msgstr "Xóa dữ liệu 「{{ data_label }}」"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "Xóa dữ liệu 「{{ data_label }}」 từ thùng rác dữ liệu"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr ""
+"Tạo trợ lý thông minh 「{{ name }}」, sao chép từ trợ lý thông minh 「{{ "
+"ori_name }}」 của ứng dụng 「{{ app_name }}」"
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "Tạo trợ lý thông minh 「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "Xóa trợ lý thông minh 「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "Bật trợ lý thông minh 「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "Tắt trợ lý thông minh 「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "Sửa trợ lý thông minh 「{{ name }}」"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr "Sửa và đổi tên trợ lý thông minh từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.data_update"
+msgstr "Sửa dữ liệu 「{{ data_label }}」"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "Xóa vai trò người liên hệ bên ngoài 「{{ roleName }}」"
+
+msgid "crop_log.content.dept_create"
+msgstr "Thêm phòng ban 「{{ name }}」"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "Thêm nhãn doanh nghiệp 「{{ dept_label_name }}」"
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "Xóa nhãn doanh nghiệp 「{{ dept_label_name }}」"
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "Điều chỉnh doanh nghiệp trong nhãn 「{{ dept_label_name }}」"
+
+msgid "crop_log.content.dept_label_update"
+msgstr ""
+"Đổi tên nhãn từ 「{{ old_dept_label_name }}」 thành 「{{ new_dept_label_name "
+"}}」"
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "Sửa trưởng phòng ban 「{{ name }}」"
+
+msgid "crop_log.content.dept_remove"
+msgstr "Xóa phòng ban 「{{ name }}」"
+
+msgid "crop_log.content.dept_rename"
+msgstr "Đổi tên phòng ban từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "Tạo hàng loạt {{ count }} thành viên"
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "Chuyển {{ count }} thành viên của 「{{ corpName }}」 thành nghỉ việc"
+
+msgid "crop_log.content.etl_copy"
+msgstr ""
+"Tạo luồng dữ liệu 「{{ name }}」, sao chép từ luồng dữ liệu 「{{ ori_name }}」 "
+"của ứng dụng 「{{ app_name }}」"
+
+msgid "crop_log.content.etl_create"
+msgstr "Tạo luồng dữ liệu 「{{ name }}」"
+
+msgid "crop_log.content.etl_remove"
+msgstr "Xóa luồng dữ liệu 「{{ name }}」"
+
+msgid "crop_log.content.etl_rename"
+msgstr "Đổi tên luồng dữ liệu từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.etl_update"
+msgstr "Sửa thiết kế luồng dữ liệu 「{{ name }}」"
+
+msgid "crop_log.content.fields_recover"
+msgstr ""
+"Sửa thiết kế biểu mẫu 「{{ name }}」, khôi phục {{ count }} trường từ thùng "
+"rác: {{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"Sửa thiết kế biểu mẫu 「{{ name }}」, xóa {{ delCount }} trường, khôi phục {{ "
+"recoverCount }} trường: {{ fields }}"
+
+msgid "crop_log.content.fields_remove"
+msgstr "Sửa thiết kế biểu mẫu 「{{ name }}」, xóa {{ count }} trường"
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "Xóa vĩnh viễn {{ count }} trường từ thùng rác: {{ fields }}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr "Dọn sạch thùng rác, {{ count }} trường bị xóa vĩnh viễn"
+
+msgid "crop_log.content.file_batch_export"
+msgstr "Tải tệp từ 「{{ entry_name }}」"
+
+msgid "crop_log.content.flow_update"
+msgstr "Sửa thiết kế quy trình của biểu mẫu 「{{ name }}」"
+
+msgid "crop_log.content.form_create"
+msgstr "Tạo biểu mẫu 「{{ name }}」"
+
+msgid "crop_log.content.form_create_copy"
+msgstr ""
+"Tạo biểu mẫu 「{{ name }}」, sao chép từ biểu mẫu 「{{ ori_name }}」 của ứng "
+"dụng 「{{ app_name }}」"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "Xóa trang chi tiết tùy chỉnh"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "Chuyển sang trang chi tiết tùy chỉnh"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "Chuyển sang trang chi tiết mặc định của hệ thống"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "Chỉnh sửa trang chi tiết tùy chỉnh"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "Tắt thanh toán trực tuyến biểu mẫu"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "Bật thanh toán trực tuyến biểu mẫu"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "Sửa thanh toán trực tuyến biểu mẫu"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "Tắt liên kết công khai dữ liệu"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "Bật liên kết công khai dữ liệu"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "Tắt liên kết công khai biểu mẫu"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "Bật liên kết công khai biểu mẫu"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "Tắt truy vấn công khai biểu mẫu"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "Bật truy vấn công khai biểu mẫu"
+
+msgid "crop_log.content.form_recover"
+msgstr "Khôi phục biểu mẫu 「{{ name }}」"
+
+msgid "crop_log.content.form_remove"
+msgstr "Xóa biểu mẫu 「{{ name }}」"
+
+msgid "crop_log.content.form_rename"
+msgstr "Đổi tên biểu mẫu từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.form_update"
+msgstr "Sửa thiết kế biểu mẫu 「{{ name }}」"
+
+msgid "crop_log.content.guest_connect"
+msgstr "Mời hàng loạt {{ count }} doanh nghiệp"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "Xuất tất cả người liên hệ bên ngoài"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr "Sửa thông tin người liên hệ bên ngoài 「{{ old_guest_docker_nickname }}」"
+
+msgid "crop_log.content.guest_update"
+msgstr "Sửa thông tin doanh nghiệp bên ngoài"
+
+msgid "crop_log.content.handover_work"
+msgstr "Chuyển giao công việc {{ works }} của {{ from }} cho {{ to }}"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "Ngắt kết nối với {{ count }} doanh nghiệp mời hợp tác"
+
+msgid "crop_log.content.host_connect"
+msgstr "Mời doanh nghiệp bên ngoài {{ host_corp_name }}"
+
+msgid "crop_log.content.host_disconnect"
+msgstr "Ngắt kết nối với doanh nghiệp 「{{ name }}」 mời hợp tác"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "Thêm {{ count }} người liên hệ của chúng ta"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "Xóa {{ count }} người liên hệ của chúng ta"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "Thêm người liên hệ của chúng ta 「{{ name }}」"
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "Xóa người liên hệ của chúng ta 「{{ name }}」"
+
+msgid "crop_log.content.host_docker_update"
+msgstr "Sửa thông tin người liên hệ của chúng ta 「{{ name }}」"
+
+msgid "crop_log.content.integrate_update"
+msgstr "Sửa thông tin liên kết"
+
+msgid "crop_log.content.kms_disable"
+msgstr "Tắt thư viện kiến thức"
+
+msgid "crop_log.content.kms_enable"
+msgstr "Bật thư viện kiến thức"
+
+msgid "crop_log.content.login_log_export"
+msgstr "Xuất nhật ký đăng nhập"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "Thêm nhóm quản lý thường 「{{ name }}」"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "Xóa nhóm quản lý thường 「{{ name }}」"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "Đổi tên nhóm quản lý thường từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.managers_add"
+msgstr "Thêm thành viên vào nhóm quản lý 「{{ name }}」: {{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "Xóa thành viên khỏi nhóm quản lý 「{{ name }}」: {{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "Chuyển hàng loạt {{ count }} thành viên thành tắt"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "Xóa vĩnh viễn {{ count }} thành viên nghỉ việc"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "Chuyển hàng loạt {{ count }} thành viên thành bật"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "Chuyển hàng loạt {{ count }} thành viên thành nghỉ việc"
+
+msgid "crop_log.content.member_exit"
+msgstr "Thành viên 「{{ nickname }}」 tự nguyện rời doanh nghiệp"
+
+msgid "crop_log.content.member_export"
+msgstr "Xuất dữ liệu danh bạ"
+
+msgid "crop_log.content.member_freeze"
+msgstr "Chuyển 「{{ nickname }}」 thành tắt"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "Xóa vĩnh viễn thành viên nghỉ việc 「{{ nickname }}」"
+
+msgid "crop_log.content.member_import"
+msgstr "Mời hàng loạt {{ count }} thành viên"
+
+msgid "crop_log.content.member_invite"
+msgstr "Mời {{ nickname }}"
+
+msgid "crop_log.content.member_recover"
+msgstr "Chuyển 「{{ nickname }}」 thành bật"
+
+msgid "crop_log.content.member_remove"
+msgstr "Chuyển 「{{ nickname }}」 thành nghỉ việc"
+
+msgid "crop_log.content.member_update"
+msgstr "Sửa thông tin của {{ nickname }}"
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "Tắt đẩy thông báo"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "Bật đẩy thông báo"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "Sửa đẩy thông báo"
+
+msgid "crop_log.content.oauth_create"
+msgstr "Thêm ủy quyền cho 「{{ suite_name }}」"
+
+msgid "crop_log.content.oauth_delete"
+msgstr "Hủy ủy quyền cho 「{{ suite_name }}」"
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "Xuất nhật ký API mở"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "Xuất nhật ký nền tảng"
+
+msgid "crop_log.content.order_cancel"
+msgstr "Hủy đơn hàng"
+
+msgid "crop_log.content.order_create"
+msgstr "Tạo đơn hàng"
+
+msgid "crop_log.content.order_delete"
+msgstr "Xóa đơn hàng"
+
+msgid "crop_log.content.order_pay"
+msgstr "Thanh toán đơn hàng"
+
+msgid "crop_log.content.order_receipt"
+msgstr "Xuất hóa đơn đơn hàng"
+
+msgid "crop_log.content.pay_disable"
+msgstr "Tắt dịch vụ thanh toán"
+
+msgid "crop_log.content.pay_enable"
+msgstr "Bật dịch vụ thanh toán"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "Liên kết merchant UnionPay"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "Xóa merchant UnionPay"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "Tắt quản lý quyền"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "Bật quản lý quyền"
+
+msgid "crop_log.content.plugin_create"
+msgstr "Tạo plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_delete"
+msgstr "Xóa plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr "Tạo plugin 「{{ plugin_name }}」, sao chép từ 「{{ ori_plugin_name }}」"
+
+msgid "crop_log.content.plugin_export"
+msgstr "Xuất plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_import"
+msgstr "Nhập plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "Nhập và cập nhật plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_install"
+msgstr "Cài plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "Yêu cầu phát hành plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.plugin_update"
+msgstr "Sửa plugin 「{{ plugin_name }}」"
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "Thay đổi thành viên trong vai trò người liên hệ bên ngoài 「{{ roleName }}」"
+
+msgid "crop_log.content.role_change_group"
+msgstr "Chuyển vai trò 「{{ role_name }}」 vào nhóm 「{{ new_group_name }}」"
+
+msgid "crop_log.content.role_create"
+msgstr "Tạo vai trò 「{{ name }}」 trong nhóm vai trò 「{{ group_name }}」"
+
+msgid "crop_log.content.role_group_create"
+msgstr "Tạo nhóm vai trò 「{{ name }}」"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "Xóa nhóm vai trò 「{{ name }}」"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "Đổi tên nhóm vai trò từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.role_member_update"
+msgstr "Cập nhật thành viên trong vai trò 「{{ name }}」"
+
+msgid "crop_log.content.role_remove"
+msgstr "Xóa vai trò 「{{ name }}」 trong nhóm vai trò 「{{ group_name }}」"
+
+msgid "crop_log.content.role_rename"
+msgstr "Đổi tên vai trò từ 「{{ ori_name }}」 thành 「{{ name }}」"
+
+msgid "crop_log.content.tenant_verify"
+msgstr "Hoàn thành xác thực danh tính"
+
+msgid "crop_log.content.timezone_update"
+msgstr "Thay đổi múi giờ từ 「{{ old_timezone }}」 thành 「{{ new_timezone }}」"
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "Yêu cầu quản lý danh bạ của 「{{ name }}」"
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr "Chuyển quyền quản lý danh bạ của 「{{ name }}」"
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr ""
+"Đổi tên vai trò người liên hệ bên ngoài từ 「{{ oldRoleName }}」 thành 「{{ "
+"newRoleName }}」"
+
+msgid "crop_log.content.watermark_disable"
+msgstr "Tắt watermark toàn cục"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "Bật watermark toàn cục"
+
+msgid "crop_log.content.wx_disable"
+msgstr "Tắt tích hợp tài khoản dịch vụ WeChat"
+
+msgid "crop_log.content.wx_enable"
+msgstr "Bật tích hợp tài khoản dịch vụ WeChat"
+
+msgid "crop_log.link_text.view_details"
+msgstr "Xem chi tiết"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} - Đăng nhập"
+
+msgid "dash.date.format.year.quarter"
+msgstr "Năm/quý yyyy/q"
+
+msgid "dash.date.format.year.week"
+msgstr "Năm/tuần yyyy/ww"
+
+msgid "dash.excel.export.subtotal"
+msgstr "Tổng phụ"
+
+msgid "dash.excel.export.sum"
+msgstr "Tổng cộng"
+
+msgid "dash.excel.export.total"
+msgstr "Tổng hợp"
+
+msgid "dash.percent"
+msgstr "Tỷ lệ phần trăm"
+
+msgid "deptType.corpCoop"
+msgstr "Tổ chức liên kết"
+
+msgid "deptType.internal"
+msgstr "Tổ chức nội bộ"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "Email sai, vui lòng kiểm tra"
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "Email đã tồn tại"
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "Tên người dùng chỉ hỗ trợ chữ cái, số, dấu gạch dưới và bắt đầu bằng chữ cái"
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "Tên người dùng từ 3 đến 80 ký tự"
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "Vui lòng nhập tên người dùng thành viên"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "Tên người dùng đã tồn tại trong danh bạ"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"Tên người dùng đã tồn tại ở tenant khác, xác nhận xem có phải cùng thành "
+"viên; nếu không, sửa tên; nếu có, mời vào tenant"
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "Tên thành viên tối đa 80 ký tự"
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "Vui lòng nhập tên thành viên"
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "Không tìm thấy chính sách nhập khẩu tương ứng"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "Vui lòng nhập mật khẩu thành viên"
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "Số điện thoại sai, vui lòng kiểm tra"
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "Số điện thoại đã tồn tại"
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "Lỗi không xác định"
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "Số thành viên chỉ hỗ trợ chữ cái, chữ số, dấu gạch dưới và '.'"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "Số thành viên đã tồn tại trong danh bạ"
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "Không tìm thấy người dùng hoặc thành viên có thể tái sử dụng"
+
+msgid "email.title.aggregate_buffer"
+msgstr "Nhắc nhở vượt dung lượng bảng tổng hợp 「{{ _g_productName }}」"
+
+msgid "email.title.aggregation_buffer"
+msgstr "Nhắc nhở vượt dung lượng tính toán tổng hợp 「{{ _g_productName }}」"
+
+msgid "email.title.appTrialExpire"
+msgstr "Nhắc nhở hết hạn thử nghiệm 「{{ _g_productName }}」"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "Dung lượng sử dụng trợ lý thông minh Pro 「{{ _g_productName }}」"
+
+msgid "email.title.bpa_buffer"
+msgstr "Nhắc nhở vượt dung lượng phân tích quy trình 「{{ _g_productName }}」"
+
+msgid "email.title.buffer_expired"
+msgstr "Nhắc nhở tạm dừng sử dụng do vượt giới hạn hệ thống 「{{ _g_productName }}」"
+
+msgid "email.title.coinRunOut"
+msgstr "Cloud coin của 「{{ _g_productName }}」 đã hết"
+
+msgid "email.title.coinRunningOut"
+msgstr "Cloud coin của 「{{ _g_productName }}」 sắp hết"
+
+msgid "email.title.comment"
+msgstr "Có bình luận @ bạn, vui lòng trả lời kịp thời"
+
+msgid "email.title.corpInvite"
+msgstr "Lời mời hợp tác 「{{ _g_productName }}」"
+
+msgid "email.title.dashAlert"
+msgstr "Cảnh báo kích hoạt dữ liệu"
+
+msgid "email.title.dashAlertLimit"
+msgstr "Cảnh báo dữ liệu bảng điều khiển 「{{ _g_productName }}」 đạt giới hạn ngày"
+
+msgid "email.title.docTrend"
+msgstr "Cập nhật tài liệu 「{{ _g_productName }}」"
+
+msgid "email.title.etl_buffer"
+msgstr "Nhắc nhở vượt dung lượng nhà máy dữ liệu 「{{ _g_productName }}」"
+
+msgid "email.title.formDataExceed"
+msgstr "Dung lượng dữ liệu bảng đơn 「{{ _g_productName }}」 vượt quá"
+
+msgid "email.title.formDataUsage"
+msgstr "Dung lượng dữ liệu bảng đơn 「{{ _g_productName }}」 sắp vượt quá"
+
+msgid "email.title.monthlyDataExceed"
+msgstr "Dung lượng dữ liệu tháng 「{{ _g_productName }}」 vượt quá"
+
+msgid "email.title.systemLog"
+msgstr "Nhật ký hệ thống 「{{ _g_productName }}」"
+
+msgid "email.title.tenantCoop"
+msgstr "Hợp tác doanh nghiệp 「{{ _g_productName }}」"
+
+msgid "email.title.totalDataExceed"
+msgstr "Tổng dung lượng dữ liệu 「{{ _g_productName }}」 vượt quá"
+
+msgid "email.title.totalDataUsage"
+msgstr "Tổng dung lượng dữ liệu 「{{ _g_productName }}」 sắp vượt quá"
+
+msgid "email.title.trialExpire"
+msgstr "Trải nghiệm thành viên 「{{ _g_productName }}」 sắp hết hạn"
+
+msgid "email.title.trigger_buffer"
+msgstr "Nhắc nhở vượt dung lượng trợ lý thông minh 「{{ _g_productName }}」"
+
+msgid "email.title.uploadUsage"
+msgstr "Dung lượng tệp đính kèm 「{{ _g_productName }}」 sắp vượt quá"
+
+msgid "email.title.userChannelVerify"
+msgstr "Xác minh email 「{{ _g_productName }}」"
+
+msgid "email.title.user_buffer"
+msgstr "Nhắc nhở vượt dung lượng thành viên 「{{ _g_productName }}」"
+
+msgid "email.title.vipExpire"
+msgstr "Thành viên 「{{ _g_productName }}」 sắp hết hạn"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr "Nội dung một số ô vượt độ dài tối đa, các ô sau bị để trống:"
+
+msgid "error.export.excel.errorSheetName"
+msgstr "Lỗi xuất dữ liệu"
+
+msgid "error.export.excel.fileName"
+msgstr "Danh sách thất bại"
+
+msgid "event.appCreate"
+msgstr "Tạo ứng dụng"
+
+msgid "event.appPublishAccept"
+msgstr "Ứng dụng phát hành thành công"
+
+msgid "event.appPublishFailed"
+msgstr "Phát hành ứng dụng thất bại"
+
+msgid "event.appRemove"
+msgstr "Xóa ứng dụng"
+
+msgid "event.corpAutoSync"
+msgstr "Đồng bộ doanh nghiệp tự động"
+
+msgid "event.corpManualSync"
+msgstr "Đồng bộ doanh nghiệp thủ công"
+
+msgid "event.createDept"
+msgstr "Thêm phòng ban"
+
+msgid "event.createManageGroup"
+msgstr "Thêm nhóm quản lý"
+
+msgid "event.createRole"
+msgstr "Thêm vai trò"
+
+msgid "event.dataWebhook"
+msgstr "Đẩy dữ liệu"
+
+msgid "event.entryWebhook"
+msgstr "Đẩy cấu hình biểu mẫu"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "Thực thi định kỳ luồng dữ liệu thất bại"
+
+msgid "event.fileExportComplete"
+msgstr "Tệp xuất đã sẵn sàng"
+
+msgid "event.fileExportFailed"
+msgstr "Xuất tệp thất bại"
+
+msgid "event.inviteToJoin"
+msgstr "Mời bạn tham gia"
+
+msgid "event.kms.spaceApply"
+msgstr "Nhận yêu cầu tạo thư viện kiến thức mới"
+
+msgid "event.memberHardDelete"
+msgstr "Xóa thành viên"
+
+msgid "event.memberInvite"
+msgstr "Mời thành viên"
+
+msgid "event.memberRemove"
+msgstr "Chuyển thành nghỉ việc"
+
+msgid "event.removeDept"
+msgstr "Xóa phòng ban"
+
+msgid "event.removeManageGroup"
+msgstr "Xóa nhóm quản lý"
+
+msgid "event.removeRole"
+msgstr "Xóa vai trò"
+
+msgid "event.smsDataComment"
+msgstr "Bình luận dữ liệu"
+
+msgid "event.smsFlowData"
+msgstr "Nhắc nhở quy trình"
+
+msgid "event.smsVerify"
+msgstr "Xác minh SMS"
+
+msgid "event.systemLogNotify"
+msgstr "Nhắc nhở nhật ký hệ thống"
+
+msgid "event.timedReminder"
+msgstr "Nhắc nhở định kỳ"
+
+msgid "event.updateManageGroupMembers"
+msgstr "Cập nhật thành viên nhóm quản lý"
+
+msgid "excel.address.city"
+msgstr "(Thành phố)"
+
+msgid "excel.address.detail"
+msgstr "(Địa chỉ chi tiết)"
+
+msgid "excel.address.district"
+msgstr "(Huyện/Quận)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(Kinh độ, vĩ độ)"
+
+msgid "excel.address.province"
+msgstr "(Tỉnh/Thành phố trực thuộc)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "Tên doanh nghiệp"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "Email"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "Có phải người tạo doanh nghiệp không"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "Tên"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "Số điện thoại"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "Vai trò"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "Tên doanh nghiệp"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "Nhãn doanh nghiệp"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "Email"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "Có phải người tạo không"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "Tên"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "Số điện thoại"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "Vai trò"
+
+msgid "excel.datetime.format.date"
+msgstr "Năm-Tháng-Ngày"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "Năm-Tháng-Ngày Giờ:Phút"
+
+msgid "excel.datetime.format.date.month"
+msgstr "Năm-Tháng"
+
+msgid "excel.datetime.format.datetime"
+msgstr "Năm-Tháng-Ngày Giờ:Phút:Giây"
+
+msgid "excel.filename.dataTable"
+msgstr "Bảng dữ liệu"
+
+msgid "excel.filename.dataTemplate"
+msgstr "Mẫu dữ liệu"
+
+msgid "excel.filename.table"
+msgstr "Bảng thống kê"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 có phòng ban trùng tên"
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "Chi tiết lỗi"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 sai định dạng"
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 không khớp ID"
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 cần chọn {{ "
+"itemCount }} mục"
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 chọn tối đa {{ "
+"maxItemCount }} mục"
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 phải chọn ít nhất "
+"{{ minItemCount }} mục"
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 cần chọn từ {{ "
+"minItemCount }} đến {{ maxItemCount }} mục"
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 không khớp tùy chọn"
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"Dữ liệu trùng tên 「{{ value }}」 trong 「{{ formNames }}」, vui lòng ghi chú "
+"theo định dạng [Giá trị trường#Biểu mẫu]"
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 trùng tên trong "
+"bảng 「{{ formName }}」"
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 không khớp dữ liệu bảng liên kết"
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 khớp nhiều dữ liệu bảng liên kết"
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr "Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 {{ repeatRemind }}"
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 không khớp tên"
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 có thành viên trùng tên"
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 phải là {{ number }}"
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 phải nhỏ hơn hoặc bằng {{ maxNumber }}"
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 phải lớn hơn hoặc bằng {{ minNumber }}"
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 phải từ {{ minNumber }} đến {{ maxNumber }}"
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 giá trị 「{{ value "
+"}}」 không khớp giai đoạn bán hàng"
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "Dữ liệu nhập thất bại"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 có phòng ban trùng tên"
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 sai định dạng"
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 không khớp ID"
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 cần chọn {{ itemCount }} mục"
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 chọn tối đa {{ maxItemCount }} mục"
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 phải chọn ít nhất {{ minItemCount }} mục"
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 cần chọn từ {{ minItemCount }} đến {{ maxItemCount }} "
+"mục"
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 không khớp tùy chọn"
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 không khớp tên"
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 có thành viên trùng tên"
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 phải là {{ number }}"
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 phải nhỏ hơn hoặc bằng {{ "
+"maxNumber }}"
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 phải lớn hơn hoặc bằng {{ "
+"minNumber }}"
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 giá trị 「{{ value }}」 phải từ {{ minNumber }} đến {{ "
+"maxNumber }}"
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 {{ repeatRemind }}"
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"Trường 「{{ colLabel }}.{{ subColLabel }} (tương ứng 「{{ widgetLabel }}.{{ "
+"subWidgetLabel }}」)」 là bắt buộc"
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr "Trường 「{{ colLabel }} (tương ứng 「{{ widgetLabel }}」)」 là bắt buộc"
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_Báo cáo lỗi_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "Phòng ban thuộc về"
+
+msgid "excel.importError.repeatName.id"
+msgstr "ID phòng ban/thành viên"
+
+msgid "excel.importError.repeatName.name"
+msgstr "Phòng ban/thành viên trùng tên"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "ID thành viên và phòng ban trùng tên"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "Đề xuất kiểu nhập"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"Vui lòng thay dữ liệu gốc theo [Kiểu nhập đề xuất], xem chi tiết tại: "
+"https://hc.jiandaoyun.com/doc/12099"
+
+msgid "excel.mainDataLabel.header"
+msgstr "Dữ liệu liên kết \"{{ formName }}\""
+
+msgid "excel.member.dept"
+msgstr "Phòng ban"
+
+msgid "excel.member.email"
+msgstr "Email"
+
+msgid "excel.member.exceed"
+msgstr ""
+"Số người xuất của bạn vượt giới hạn, hệ thống chỉ xuất 100.000 bản ghi đầu "
+"tiên"
+
+msgid "excel.member.filename"
+msgstr "Danh bạ nội bộ"
+
+msgid "excel.member.fullRoleName"
+msgstr "Nhóm vai trò và vai trò"
+
+msgid "excel.member.name"
+msgstr "Tên"
+
+msgid "excel.member.phone"
+msgstr "Số điện thoại"
+
+msgid "excel.member.role"
+msgstr "Vai trò"
+
+msgid "excel.member.role.rel.filename"
+msgstr "Vai trò danh bạ"
+
+msgid "excel.member.status"
+msgstr "Trạng thái thành viên"
+
+msgid "excel.member.username"
+msgstr "Số thứ tự"
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "ID thành viên"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "Thành viên trùng tên"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "Báo cáo lỗi.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_Báo cáo lỗi_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "Bắt buộc"
+
+msgid "filezip.filename.package"
+msgstr "{{ formName }}_Tệp nén đính kèm{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "Thời gian khởi tạo quy trình"
+
+msgid "flow.creator"
+msgstr "Người khởi tạo quy trình"
+
+msgid "flow.initiateFlow"
+msgstr "Khởi tạo quy trình"
+
+msgid "flow.initiateFlow.desc"
+msgstr "Thành viên trong nhóm này có thể khởi tạo quy trình"
+
+msgid "flow.manageAllFlow"
+msgstr "Quản lý tất cả quy trình"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "Thành viên trong nhóm này có thể quản lý tất cả quy trình"
+
+msgid "flow.node.approve"
+msgstr "Nút phê duyệt"
+
+msgid "flow.node.end"
+msgstr "Nút kết thúc quy trình"
+
+msgid "flow.node.start"
+msgstr "Nút bắt đầu quy trình"
+
+msgid "flow.state.closed"
+msgstr "Kết thúc thủ công"
+
+msgid "flow.state.complete"
+msgstr "Hoàn thành luân chuyển"
+
+msgid "flow.state.inProcess"
+msgstr "Đang thực hiện"
+
+msgid "flow.state.rejected"
+msgstr "Từ chối"
+
+msgid "flow.viewAllFlow"
+msgstr "Xem tất cả quy trình"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "Thành viên trong nhóm này có thể xem tất cả quy trình"
+
+msgid "form.analysisField.avgDuration"
+msgstr "Thời gian xử lý trung bình (giờ)"
+
+msgid "form.analysisField.creator"
+msgstr "Thành viên"
+
+msgid "form.analysisField.dataCount"
+msgstr "Số lượng dữ liệu"
+
+msgid "form.analysisField.flowNode"
+msgstr "Nút"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "Thời gian kết thúc quy trình"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "Thời gian tạo quy trình"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "Thời gian流入 nút"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "Thời gian流出 nút"
+
+msgid "form.data.tab.common.name"
+msgstr "Thông tin cơ bản"
+
+msgid "form.default.field.options.firstText"
+msgstr "Tùy chọn 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "Tùy chọn 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "Tùy chọn 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "Tùy chọn 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "Tùy chọn 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "Tùy chọn 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "Nội dung này đã tồn tại, không cho phép gửi trùng"
+
+msgid "form.operate.batchPrint"
+msgstr "In hàng loạt"
+
+msgid "form.operate.batchUpdate"
+msgstr "Sửa hàng loạt"
+
+msgid "form.operate.copy"
+msgstr "Sao chép"
+
+msgid "form.operate.create"
+msgstr "Thêm"
+
+msgid "form.operate.delete"
+msgstr "Xóa"
+
+msgid "form.operate.export"
+msgstr "Xuất"
+
+msgid "form.operate.flowActivate"
+msgstr "Kích hoạt quy trình"
+
+msgid "form.operate.flowClose"
+msgstr "Kết thúc quy trình"
+
+msgid "form.operate.flowTransfer"
+msgstr "Thay đổi người phụ trách quy trình"
+
+msgid "form.operate.import"
+msgstr "Nhập"
+
+msgid "form.operate.read"
+msgstr "Xem"
+
+msgid "form.operate.update"
+msgstr "Sửa"
+
+msgid "form.subformField.id"
+msgstr "ID bảng phụ"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "Người phụ trách hiện tại"
+
+msgid "form.sysField.createTime"
+msgstr "Thời gian gửi"
+
+msgid "form.sysField.creator"
+msgstr "Người gửi"
+
+msgid "form.sysField.dataId"
+msgstr "data_id"
+
+msgid "form.sysField.dataLabel"
+msgstr "Tiêu đề"
+
+msgid "form.sysField.deleteTime"
+msgstr "Thời gian xóa"
+
+msgid "form.sysField.deleter"
+msgstr "Người xóa"
+
+msgid "form.sysField.ext"
+msgstr "Trường mở rộng"
+
+msgid "form.sysField.flowComment"
+msgstr "Ý kiến phê duyệt"
+
+msgid "form.sysField.flowNodes"
+msgstr "Nút hiện tại"
+
+msgid "form.sysField.flowState"
+msgstr "Trạng thái quy trình"
+
+msgid "form.sysField.flowVer"
+msgstr "Phiên bản quy trình"
+
+msgid "form.sysField.operator"
+msgstr "Người thao tác"
+
+msgid "form.sysField.printOperator"
+msgstr "Người in"
+
+msgid "form.sysField.printTime"
+msgstr "Thời gian in"
+
+msgid "form.sysField.privateDataQr"
+msgstr "Mã QR nội bộ dữ liệu"
+
+msgid "form.sysField.publicDataQr"
+msgstr "Mã QR công khai dữ liệu"
+
+msgid "form.sysField.updateTime"
+msgstr "Thời gian cập nhật"
+
+msgid "form.sysField.updater"
+msgstr "Người cập nhật"
+
+msgid "form.sysField.wxAvatar"
+msgstr "Ảnh đại diện WeChat"
+
+msgid "form.sysField.wxNickname"
+msgstr "Tên WeChat"
+
+msgid "form.sysField.wxOpenId"
+msgstr "OpenID WeChat"
+
+msgid "formView.allData.name"
+msgstr "Tất cả dữ liệu"
+
+msgid "formView.untitled.name"
+msgstr "Chế độ xem chưa đặt tên"
+
+msgid "formula.cal.type.error"
+msgstr "Kết quả tính toán công thức không khớp kiểu dữ liệu"
+
+msgid "formula.express.error"
+msgstr "Biểu thức công thức không đúng"
+
+msgid "function.not.support"
+msgstr "Phiên bản hiện tại không hỗ trợ hàm này!"
+
+msgid "function.param.count.error"
+msgstr "Số lượng tham số của hàm {{ name }} không đúng"
+
+msgid "function.param.error"
+msgstr "Tham số của hàm {{ name }} không đúng"
+
+msgid "function.param.notEmpty"
+msgstr "Tham số của hàm {{ name }} không được để trống"
+
+msgid "function.param.type.error"
+msgstr "Kiểu tham số của hàm {{ name }} không đúng"
+
+msgid "function.return.error"
+msgstr "Kiểu trả về của hàm {{ name }} không rõ ràng"
+
+msgid "function.second.param.constant"
+msgstr "Tham số thứ hai của hàm {{ name }} chỉ được là hằng số"
+
+msgid "function.two.param"
+msgstr "Hàm {{ name }} cần ít nhất 2 tham số"
+
+msgid "function.two.param.error"
+msgstr ""
+"Kiểu của tham số thứ {{ i }} và thứ {{ preIdx }} của hàm {{ name }} không "
+"khớp"
+
+msgid "function.which.param.error"
+msgstr "Kiểu của tham số thứ {{ i }} của hàm {{ name }} không đúng"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "Độ dài tham số thứ {{ i }} của hàm {{ name }} vượt quá giới hạn"
+
+msgid "handover.type.data"
+msgstr "「Dữ liệu」"
+
+msgid "handover.type.entry"
+msgstr "「Biểu mẫu/Bảng điều khiển」"
+
+msgid "handover.type.kms"
+msgstr "「Thư viện kiến thức」"
+
+msgid "handover.type.role"
+msgstr "「Danh bạ」"
+
+msgid "handover.type.todo"
+msgstr "「Công việc chờ quy trình」"
+
+msgid "handover.type.workflow"
+msgstr "「Người phụ trách quy trình」"
+
+msgid "handover.work"
+msgstr "Chuyển giao công việc"
+
+msgid "kms.docTrend"
+msgstr "Cập nhật tài liệu"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "Thành viên trong nhóm này có thể điền dữ liệu, quản lý dữ liệu của mình"
+
+msgid "manage.addAndManageMyData.name"
+msgstr "Thêm và quản lý dữ liệu của tôi"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "Thành viên trong nhóm này có thể điền và xem tất cả dữ liệu"
+
+msgid "manage.addAndViewAllData.name"
+msgstr "Thêm và xem tất cả dữ liệu"
+
+msgid "manage.manageAllData.desc"
+msgstr ""
+"Thành viên trong nhóm này có thể quản lý tất cả dữ liệu, điền dữ liệu nhưng "
+"không nhập dữ liệu"
+
+msgid "manage.manageAllData.name"
+msgstr "Quản lý tất cả dữ liệu"
+
+msgid "manage.mergeGroup"
+msgstr "Tất cả dữ liệu có quyền"
+
+msgid "manage.onlyAddData.desc"
+msgstr "Thành viên trong nhóm này chỉ có thể điền dữ liệu"
+
+msgid "manage.onlyAddData.name"
+msgstr "Chỉ gửi dữ liệu"
+
+msgid "manage.viewAllData.desc"
+msgstr "Thành viên trong nhóm này có thể xem tất cả dữ liệu"
+
+msgid "manage.viewAllData.name"
+msgstr "Xem tất cả dữ liệu"
+
+msgid "managerActivity.app.metricsName"
+msgstr "Xem theo ứng dụng - Chi tiết hoạt động"
+
+msgid "managerActivity.app.reportName"
+msgstr "Xem theo ứng dụng - Tổng quan"
+
+msgid "managerActivity.appId"
+msgstr "ID ứng dụng"
+
+msgid "managerActivity.appName"
+msgstr "Tên ứng dụng"
+
+msgid "managerActivity.count"
+msgstr "Số người chỉnh sửa"
+
+msgid "managerActivity.fileName"
+msgstr "Dữ liệu hoạt động của quản trị viên"
+
+msgid "managerActivity.managerId"
+msgstr "ID quản trị viên"
+
+msgid "managerActivity.managerName"
+msgstr "Tên quản trị viên"
+
+msgid "managerActivity.time"
+msgstr "Thời gian"
+
+msgid "managerActivity.times"
+msgstr "Số lần chỉnh sửa"
+
+msgid "managerActivity.user.metricsName"
+msgstr "Xem theo quản trị viên - Chi tiết hoạt động"
+
+msgid "managerActivity.user.reportName"
+msgstr "Xem theo quản trị viên - Tổng quan"
+
+msgid "math.param.error"
+msgstr "Kiểu dữ liệu của phép toán số học phải là số"
+
+msgid "member.status.deleted"
+msgstr "Thành viên đã xóa"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(đã nghỉ việc)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(đã xóa)"
+
+msgid "message.addOrRemoveApp"
+msgstr "Thêm/Xóa ứng dụng"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "Thêm/Xóa phòng ban hoặc thành viên"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "Thêm/Xóa nhóm quản lý"
+
+msgid "message.addOrRemoveManager"
+msgstr "Thêm/Xóa quản trị viên"
+
+msgid "message.alertName"
+msgstr "Tên cảnh báo"
+
+msgid "message.alertSource"
+msgstr "Nguồn cảnh báo"
+
+msgid "message.anonymousUser"
+msgstr "Người dùng ẩn danh"
+
+msgid "message.apiKeyOpLog"
+msgstr "Nhật ký thao tác API Key"
+
+msgid "message.appRename"
+msgstr "Sửa tên ứng dụng"
+
+msgid "message.appUpdate"
+msgstr "Thay đổi ứng dụng"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr ""
+"Quản trị viên hệ thống hoặc người tạo đã hủy ủy quyền công việc chờ của {{ "
+"principal }} cho bạn trong {{ timeRange }}"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr ""
+"Quản trị viên hệ thống hoặc người tạo đã hủy ủy quyền công việc chờ của bạn "
+"cho {{ agent }} trong {{ timeRange }}"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr ""
+"Quản trị viên hệ thống hoặc người tạo đã hủy ủy quyền công việc chờ từ {{ "
+"principal }} cho bạn"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr ""
+"Quản trị viên hệ thống hoặc người tạo đã hủy ủy quyền công việc chờ của bạn "
+"cho {{ agent }}"
+
+msgid "message.bpm_delegation.description"
+msgstr "Mô tả ủy quyền"
+
+msgid "message.bpm_delegation.principal"
+msgstr "Người ủy quyền"
+
+msgid "message.bpm_delegation.range"
+msgstr "Phạm vi ủy quyền"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "Tất cả quy trình"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "Một phần quy trình"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "Thời gian ủy quyền"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr ""
+"{{ principal }} đã ủy quyền toàn bộ công việc chờ trong {{ timeRange }} cho "
+"bạn phê duyệt"
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }} đã ủy quyền toàn bộ công việc chờ trong {{ timeRange }} cho "
+"bạn phê duyệt. Mô tả: {{ description }}"
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }} đã ủy quyền công việc chờ cho bạn"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr "{{ principal }} đã hủy ủy quyền công việc chờ cho bạn trong {{ timeRange }}"
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }} đã hủy ủy quyền công việc chờ cho bạn"
+
+msgid "message.comment.content"
+msgstr "Nội dung bình luận"
+
+msgid "message.commentator"
+msgstr "Người bình luận"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "Tên doanh nghiệp đã tồn tại"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "Chỉ được chỉ định 1 người tạo"
+
+msgid "message.corp.import.errCode.19011"
+msgstr "Người tạo đã chỉ định đã tạo doanh nghiệp khác"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "Không có người tạo được chỉ định"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "Tổng số thành viên nhập vượt quá {{ number }}"
+
+msgid "message.corp.import.errCode.19014"
+msgstr "Không có doanh nghiệp nào để nhập trong tệp, vui lòng điều chỉnh và tải lại"
+
+msgid "message.corp.import.errCode.19020"
+msgstr "Số lượng vai trò vượt quá {{ number }}, vui lòng điều chỉnh và tải lại"
+
+msgid "message.corp.import.errCode.19029"
+msgstr ""
+"Số doanh nghiệp trong tệp vượt quá {{ number }}, vui lòng điều chỉnh và tải "
+"lại"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "Tên doanh nghiệp không vượt quá {{ number }} ký tự"
+
+msgid "message.corp.import.errCode.6065"
+msgstr "Tên nhãn doanh nghiệp không vượt quá {{ number }} ký tự"
+
+msgid "message.corp.import.errCode.6066"
+msgstr "Số lượng nhãn vượt quá {{ number }}, vui lòng điều chỉnh và tải lại"
+
+msgid "message.corpCoop"
+msgstr "Kết nối doanh nghiệp"
+
+msgid "message.corpSyncResult"
+msgstr "Kết quả đồng bộ thành viên"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{ operator }} đã phân bổ {{ account_num }} khách hàng cho bạn"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "Khách hàng 「{{ data_label }}」 đã bị thu hồi tự động"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{ operator }} đã thay đổi người phụ trách khách hàng 「{{ data_label }}」"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{ operator }} đã thay đổi người phụ trách của {{ account_num }} khách hàng"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{ operator }} đã thay đổi người cộng tác của khách hàng 「{{ data_label }}」"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{ operator }} đã thay đổi người cộng tác của {{ account_num }} khách hàng"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{ operator }} đã thu hồi {{ account_num }} khách hàng"
+
+msgid "message.crm.assignor"
+msgstr "Người phân bổ"
+
+msgid "message.crm.currentCollaborator"
+msgstr "Người cộng tác hiện tại"
+
+msgid "message.crm.customer"
+msgstr "Khách hàng"
+
+msgid "message.crm.followPlanComplete"
+msgstr "{{ operator }} đã hoàn thành kế hoạch theo dõi 「{{ data_label }}」 của bạn"
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{ operator }} đã hoàn thành {{ plan_num }} kế hoạch theo dõi của bạn"
+
+msgid "message.crm.leads"
+msgstr "Đầu mối"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{ operator }} đã phân bổ {{ leads_num }} đầu mối cho bạn"
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "Đầu mối 「{{ data_label }}」 đã bị thu hồi tự động"
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{ operator }} đã thay đổi người phụ trách đầu mối 「{{ data_label }}」"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr "{{ operator }} đã thay đổi người phụ trách của {{ leads_num }} đầu mối"
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{ operator }} đã thay đổi người cộng tác của đầu mối 「{{ data_label }}」"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr "{{ operator }} đã thay đổi người cộng tác của {{ leads_num }} đầu mối"
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{ operator }} đã thu hồi {{ leads_num }} đầu mối"
+
+msgid "message.crm.newCharger"
+msgstr "Người phụ trách mới"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{ operator }} đã thêm kế hoạch theo dõi 「{{ data_label }}」 cho bạn"
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{ operator }} đã thay đổi người phụ trách cơ hội 「{{ data_label }}」"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr "{{ operator }} đã thay đổi người phụ trách của {{ opportunity_num }} cơ hội"
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{ operator }} đã thay đổi người cộng tác của cơ hội 「{{ data_label }}」"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr "{{ operator }} đã thay đổi người cộng tác của {{ opportunity_num }} cơ hội"
+
+msgid "message.crm.opportunityWin"
+msgstr "Cơ hội 「{{ data_label }}」 đã thắng"
+
+msgid "message.crm.rawCharger"
+msgstr "Người phụ trách cũ"
+
+msgid "message.crm.recycler"
+msgstr "Người thu hồi"
+
+msgid "message.cron.custom"
+msgstr "Đã đến giờ nhắc nhở"
+
+msgid "message.cron.dataExpires"
+msgstr "Có dữ liệu hết hạn"
+
+msgid "message.dashName"
+msgstr "Tên bảng điều khiển"
+
+msgid "message.dataAlert"
+msgstr "Cảnh báo dữ liệu"
+
+msgid "message.dataComment"
+msgstr "Kết nối doanh nghiệp"
+
+msgid "message.dataCreate"
+msgstr "Có dữ liệu mới gửi"
+
+msgid "message.dataLabel"
+msgstr "Tiêu đề dữ liệu"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "Trợ lý thông minh thực thi thất bại"
+
+msgid "message.emptyValue"
+msgstr "Trống"
+
+msgid "message.enterForm"
+msgstr "Vào biểu mẫu"
+
+msgid "message.entryName"
+msgstr "Tên biểu mẫu"
+
+msgid "message.error.4402"
+msgstr "Kiểm tra tính toán tổng hợp thất bại"
+
+msgid "message.etlExecuteFailed"
+msgstr "Thực thi luồng dữ liệu thất bại"
+
+msgid "message.etlSyncFailed"
+msgstr "Đồng bộ luồng dữ liệu thất bại"
+
+msgid "message.flow.adminTransfer"
+msgstr "Quản trị viên hệ thống chuyển giao 1 công việc chờ cho bạn"
+
+msgid "message.flow.autoBack"
+msgstr ""
+"Có công việc quy trình chưa xử lý bị trả lại tự động, vui lòng xử lý kịp "
+"thời"
+
+msgid "message.flow.back"
+msgstr "Công việc quy trình gửi đã bị trả lại"
+
+msgid "message.flow.batchTransfer"
+msgstr "Quản trị viên hệ thống chuyển giao công việc chờ mới cho bạn"
+
+msgid "message.flow.cc"
+msgstr "Có kết quả xử lý quy trình mới gửi bản sao cho bạn"
+
+msgid "message.flow.cc.entryName"
+msgstr "「{{ entryName }}」 có kết quả xử lý quy trình mới gửi bản sao cho bạn"
+
+msgid "message.flow.cc.merge.entryName"
+msgstr ""
+"「{{ entryName }}」 có {{ count }} kết quả xử lý quy trình mới gửi bản sao "
+"cho bạn"
+
+msgid "message.flow.dealtUrgently"
+msgstr "Có một quy trình cần xử lý gấp"
+
+msgid "message.flow.memberTransfer"
+msgstr "{{ operator }} chuyển giao 1 công việc chờ cho bạn"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」 {{ operator }} chuyển giao 1 công việc chờ cho bạn"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr "Có công việc quy trình thúc giục mới, vui lòng xử lý sớm"
+
+msgid "message.flow.sign"
+msgstr "{{ operator }} thêm chữ ký cho bạn 1 công việc chờ"
+
+msgid "message.flow.signBeforeComplete"
+msgstr "Xử lý trước chữ ký đã hoàn thành, bạn có công việc quy trình mới"
+
+msgid "message.flow.timeout"
+msgstr "Bạn có công việc chờ quá lâu, vui lòng xử lý ngay"
+
+msgid "message.flow.timeout.entryName"
+msgstr "「{{ entryName }}」 có công việc chờ chưa hoàn thành"
+
+msgid "message.flow.todo"
+msgstr "Có công việc quy trình mới"
+
+msgid "message.flow.todo.entryName"
+msgstr "「{{ entryName }}」 có công việc quy trình mới"
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "「{{ entryName }}」 có {{ count }} công việc quy trình mới"
+
+msgid "message.flowData"
+msgstr "Người phụ trách/CC ngoài nút"
+
+msgid "message.kms.clickViewDetails"
+msgstr "Nhấn 「Xem chi tiết」 để xem tài liệu"
+
+msgid "message.kms.denyReason"
+msgstr "Lý do từ chối"
+
+msgid "message.kms.description"
+msgstr "Mô tả thư viện kiến thức"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr ""
+"{{ operator }} đã giải quyết bình luận chú thích trong tài liệu 「{{ "
+"document }}」"
+
+msgid "message.kms.docComment"
+msgstr "{{ operator }} đã bình luận tài liệu 「{{ document }}」"
+
+msgid "message.kms.docCreate"
+msgstr "{{ operator }} đã tạo tài liệu 「{{ document }}」"
+
+msgid "message.kms.docEdit"
+msgstr "{{ operator }} đã sửa tài liệu 「{{ document }}」"
+
+msgid "message.kms.docLike"
+msgstr "{{ operator }} đã thích tài liệu 「{{ document }}」"
+
+msgid "message.kms.documentToBeViewed"
+msgstr "Bạn có tài liệu mới cần xem"
+
+msgid "message.kms.managerBecome"
+msgstr ""
+"Bạn đã được đặt làm quản trị viên của 「{{ space_name }}」, hãy tạo tài liệu "
+"và chia sẻ kiến thức!"
+
+msgid "message.kms.spaceApply"
+msgstr "{{ applicant }} yêu cầu tạo thư viện kiến thức 「{{ space_name }}」"
+
+msgid "message.kms.spaceApplyAgree"
+msgstr ""
+"Yêu cầu tạo thư viện kiến thức thành công, bạn đã trở thành quản trị viên "
+"của 「{{ space_name }}」"
+
+msgid "message.kms.spaceApplyDeny"
+msgstr ""
+"Yêu cầu tạo thư viện kiến thức 「{{ space_name }}」 thất bại, bạn có thể hoàn "
+"thiện mô tả và yêu cầu lại"
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{ operator }} nhắc bạn xem tài liệu 「{{ document }}」"
+
+msgid "message.latitude"
+msgstr "Vĩ độ"
+
+msgid "message.longitude"
+msgstr "Kinh độ"
+
+msgid "message.member.import.errCode.1005"
+msgstr "Email đã tồn tại"
+
+msgid "message.member.import.errCode.1017"
+msgstr "Số thành viên chỉ hỗ trợ chữ cái, chữ số, dấu gạch dưới và '.'"
+
+msgid "message.member.import.errCode.1018"
+msgstr "Định dạng email không đúng"
+
+msgid "message.member.import.errCode.1019"
+msgstr "Tên thành viên tối đa {{ length }} ký tự"
+
+msgid "message.member.import.errCode.1024"
+msgstr "Định dạng số điện thoại không đúng"
+
+msgid "message.member.import.errCode.1027"
+msgstr "Số điện thoại đã tồn tại"
+
+msgid "message.member.import.errCode.1082"
+msgstr "Phải điền số điện thoại hoặc email"
+
+msgid "message.member.import.errCode.1084"
+msgstr "Số thành viên bắt buộc"
+
+msgid "message.member.import.errCode.1085"
+msgstr "Vui lòng nhập tên thành viên"
+
+msgid "message.member.import.errCode.1087"
+msgstr "Số thành viên đã tồn tại"
+
+msgid "message.member.import.errCode.1092"
+msgstr "Số thành viên tối đa {{ length }} ký tự"
+
+msgid "message.member.import.errCode.unknown"
+msgstr "Lý do không xác định, vui lòng thử lại"
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "Thành viên không thuộc phạm vi quản lý"
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "Có thành viên trùng tên trong cùng vai trò trong tệp"
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "Thành viên trùng tên"
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "Chưa điền thành viên"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr "Không hỗ trợ nhập thành viên không tồn tại hoặc đã nghỉ việc"
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "Có nhóm vai trò trùng tên"
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "Vui lòng nhập tên nhóm vai trò và vai trò"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "Không hỗ trợ nhập nhóm vai trò chưa tạo"
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "Không hỗ trợ nhập 「nhóm vai trò đồng bộ」"
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "Có vai trò trùng tên trong cùng nhóm"
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "Dùng '/' để phân cách nhóm vai trò và vai trò"
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "Vai trò không tồn tại trong nhóm vai trò hiện tại"
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "Vai trò không thuộc phạm vi quản lý"
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "Không hỗ trợ nhập 「vai trò đồng bộ」"
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "Lý do không xác định, thử lại"
+
+msgid "message.modified"
+msgstr "Đã sửa"
+
+msgid "message.modifier"
+msgstr "Người sửa"
+
+msgid "message.notifyTime"
+msgstr "Thời gian nhắc nhở"
+
+msgid "message.remainTime.days"
+msgstr ""
+"Có công việc chưa xử lý, còn lại {{ days }} ngày {{ hours }} giờ {{ minutes "
+"}} phút, vui lòng xử lý kịp thời"
+
+msgid "message.remainTime.hours"
+msgstr ""
+"Có công việc chưa xử lý, còn lại {{ hours }} giờ {{ minutes }} phút, vui "
+"lòng xử lý kịp thời"
+
+msgid "message.remainTime.lessMinute"
+msgstr "Có công việc chưa xử lý, còn dưới 1 phút, vui lòng xử lý kịp thời"
+
+msgid "message.remainTime.minutes"
+msgstr "Có công việc chưa xử lý, còn lại {{ minutes }} phút, vui lòng xử lý kịp thời"
+
+msgid "message.system"
+msgstr "Hệ thống"
+
+msgid "message.systemRobot"
+msgstr "Robot hệ thống"
+
+msgid "message.title.accountApportion"
+msgstr "Thông báo phân bổ khách hàng"
+
+msgid "message.title.accountChangeCharger"
+msgstr "Thay đổi người phụ trách khách hàng"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "Thay đổi người cộng tác khách hàng"
+
+msgid "message.title.accountRecycle"
+msgstr "Thông báo thu hồi khách hàng"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "Thay đổi người phụ trách liên hệ"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "Thay đổi người cộng tác liên hệ"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "Nhắc nhở vượt dung lượng hệ thống 「{{ _g_productName }}」"
+
+msgid "message.title.email.corpCoop"
+msgstr "Thông báo kết nối doanh nghiệp 「{{ _g_productName }}」"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "Nhắc nhở vượt dung lượng hệ thống 「{{ _g_productName }}」"
+
+msgid "message.title.excelImportComplete"
+msgstr "Hoàn thành nhập dữ liệu"
+
+msgid "message.title.followPlanComplete"
+msgstr "Kế hoạch theo dõi của bạn đã được người khác hoàn thành"
+
+msgid "message.title.leadsApportion"
+msgstr "Thông báo phân bổ đầu mối"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "Thay đổi người phụ trách đầu mối"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "Thay đổi người cộng tác đầu mối"
+
+msgid "message.title.leadsRecycle"
+msgstr "Thông báo thu hồi đầu mối"
+
+msgid "message.title.newFollowPlan"
+msgstr "Có phân công kế hoạch theo dõi mới"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "Thay đổi người phụ trách cơ hội"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "Thay đổi người cộng tác cơ hội"
+
+msgid "message.title.opportunityWin"
+msgstr "Thông báo thắng cơ hội"
+
+msgid "message.title.pluginExpire"
+msgstr "Plugin 「{{ _g_productName }}」 sắp hết hạn"
+
+msgid "message.viewDash"
+msgstr "Xem bảng điều khiển"
+
+msgid "message.viewDataDetails"
+msgstr "Xem dữ liệu chi tiết"
+
+msgid "message.viewForm"
+msgstr "Xem biểu mẫu"
+
+msgid "not.support.op"
+msgstr "Toán tử so sánh {{ op }} không hỗ trợ"
+
+msgid "notSupported.ie.description"
+msgstr "Trình duyệt của bạn có vẻ lỗi thời"
+
+msgid "notSupported.ie.subtitle"
+msgstr "Để dùng bình thường, cài hoặc cập nhật các trình duyệt hiện đại sau"
+
+msgid "op.param.error"
+msgstr "Kiểu dữ liệu của phép toán tiền tố phải là số"
+
+msgid "op.param.number"
+msgstr "Trường toán tử {{ op }} phải là kiểu số"
+
+msgid "open_store.space.enterprise"
+msgstr "Plugin nội bộ"
+
+msgid "open_store.space.store"
+msgstr "Plugin chính thức"
+
+msgid "page.title.aggregateEdit"
+msgstr "Thiết kế bảng tổng hợp | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "Trợ lý AI"
+
+msgid "page.title.baseConfig"
+msgstr "Thiết kế biểu mẫu-{{ entryName }} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "Kết nối doanh nghiệp | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "Quản lý后台 | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "Bảng làm việc tùy chỉnh"
+
+msgid "page.title.dashEdit"
+msgstr "Thiết kế bảng điều khiển-{{ entryName }} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "Xem trước bảng điều khiển | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "Trợ lý thông minh | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "Xem dữ liệu"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "Đăng nhập {{ _g_productName }}"
+
+msgid "page.title.error"
+msgstr "Có lỗi xảy ra"
+
+msgid "page.title.error.flow"
+msgstr "Nhắc nhở quy trình"
+
+msgid "page.title.error403"
+msgstr "Không có quyền truy cập"
+
+msgid "page.title.error404"
+msgstr "Không tìm thấy trang"
+
+msgid "page.title.etlEdit"
+msgstr "Thiết kế luồng dữ liệu | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "Trang chi tiết tùy chỉnh | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "Xem trước biểu mẫu | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "Trung tâm giải pháp"
+
+msgid "page.title.imageUpload"
+msgstr "Tải lên hình ảnh"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "Liên kết Lark thành công"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "Liên kết Lark"
+
+msgid "page.title.login_bind"
+msgstr "Liên kết Email"
+
+msgid "page.title.networkTestView"
+msgstr "Kiểm tra mạng tự phục vụ | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "Phiên bản trình duyệt quá thấp"
+
+msgid "page.title.oauth"
+msgstr "Xác nhận ủy quyền"
+
+msgid "page.title.openApiExplorer"
+msgstr "Bảng Gỡ Lỗi API | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "Mô tả tham số | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "Nền tảng mở | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "Tạo đơn hàng | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "Thanh toán đơn hàng"
+
+msgid "page.title.orderPayFailed"
+msgstr "Thanh toán thất bại"
+
+msgid "page.title.orderPaySuccess"
+msgstr "Thanh toán thành công"
+
+msgid "page.title.passwordForget"
+msgstr "Quên mật khẩu {{ _g_productName }}?"
+
+msgid "page.title.passwordReset"
+msgstr "Đặt lại mật khẩu"
+
+msgid "page.title.personal"
+msgstr "Cài đặt cá nhân | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "Tạo mẫu in"
+
+msgid "page.title.signature"
+msgstr "Chữ ký tay"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "Đăng nhập với sự ủy quyền"
+
+msgid "page.title.support"
+msgstr "Liên hệ chúng tôi | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "Xác thực danh tính | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "Liên kết số điện thoại/email"
+
+msgid "page.title.userCancelTitle"
+msgstr "Tài khoản đang hủy"
+
+msgid "print.field.currentFlow"
+msgstr "Nút hiện tại"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{ formName }}_Mã vạch_{{ timestamp }}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{ formName }}_Mã QR_{{ timestamp }}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "Thông tin cơ bản"
+
+msgid "print.sys.fileFormat"
+msgstr ""
+"{{ filename }} Kích thước tệp: {{ size }} Thời gian tải lên: {{ uploadTime "
+"}}"
+
+msgid "print.sys.name"
+msgstr "In hệ thống"
+
+msgid "print.sys.wxInfo"
+msgstr "Thông tin WeChat của người gửi"
+
+msgid "print.system_template_name"
+msgstr "Mẫu hệ thống"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }} đã phân bổ khách hàng 「{{ data_label }}」 cho bạn"
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }} đã phân bổ {{ account_num }} khách hàng cho bạn"
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }} đã thay đổi người phụ trách khách hàng 「{{ data_label }}」. "
+"Trước: 「{{ raw_charger }}」, Hiện tại: 「{{ new_charger }}」"
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr "{{ operator }} đã thay đổi người phụ trách của {{ account_num }} khách hàng"
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{ operator }} đã thay đổi người cộng tác của khách hàng 「{{ data_label "
+"}}」. Hiện tại: 「{{ collaborators }}」"
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{ operator }} đã thay đổi người cộng tác của {{ account_num }} khách hàng"
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }} đã thu hồi khách hàng 「{{ data_label }}」"
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "Khách hàng 「{{ data_label }}」 bị thu hồi tự động"
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }} đã thu hồi {{ account_num }} khách hàng"
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"Số bảng tổng hợp của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel }}」, xem "
+"chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"Số tính toán tổng hợp của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel }}」, "
+"xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"Phạm vi hiển thị phân tích dữ liệu của 「{{ corpName }}」 vượt giới hạn số "
+"người, thành viên không truy cập được, điều chỉnh số người tại trung tâm "
+"sản phẩm"
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }} đã tạo API Key"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }} đã tắt API Key"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }} đã bật API Key"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }} đã xóa API Key"
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }} đã tạo ứng dụng 「{{ appName }}」"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr "Rất tiếc, ứng dụng 「{{ appName }}」 của bạn phát hành thất bại, lý do:"
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "Lý do: {{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr ""
+"Chúc mừng, bạn đã phát hành ứng dụng 「{{ appName }}」 thành công, xem tại "
+"trung tâm mẫu"
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }} đã xóa ứng dụng 「{{ appName }}」"
+
+msgid "site.message.content.app_rename"
+msgstr ""
+"{{ operator }} đã sửa tên ứng dụng từ 「{{ oriAppName }}」 thành 「{{ "
+"newAppName }}」"
+
+msgid "site.message.content.app_template_approved"
+msgstr "Mẫu 「{{ templateName }}」 đã được duyệt"
+
+msgid "site.message.content.app_template_publish"
+msgstr ""
+"{{ operator }} đã phát hành ứng dụng 「{{ templateName }}」, mẫu đã vào danh "
+"sách chờ duyệt"
+
+msgid "site.message.content.app_template_rejected"
+msgstr "Mẫu 「{{ templateName }}」 không được duyệt. Lý do: {{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"Trợ lý thông minh Pro của 「{{ corpName }}」 đã dùng {{ usage }} lần, giới "
+"hạn tháng {{ limit }} lần, vượt quá sẽ tiêu cloud coin. Đảm bảo đủ cloud "
+"coin để tránh ảnh hưởng"
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"Nhóm của bạn \"{{ corpName }}\" đã đạt {{ usage }} lần thực hiện Automation "
+"Pro. Giới hạn hàng năm {{ limit }} sắp bị vượt quá. Khi vượt quá giới hạn, "
+"Automation Pro sẽ không thể thực hiện hoặc sẽ cần Cloud Coins. Vui lòng vào "
+"\"Quản lý - Chi tiết gói\" để xem chi tiết sử dụng và nạp Cloud Coins."
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"Nhóm của bạn \"{{ corpName }}\" đã đạt {{ usage }} lần thực hiện Automation "
+"Pro. Số lần thực hiện tối đa được phép hàng năm là {{ limit }}. Vui lòng "
+"chú ý."
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"Số phân tích quy trình của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel }}」, "
+"xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"Dung lượng hệ thống của 「{{ corpName }}」 vượt giới hạn, hệ thống tạm dừng, "
+"xem chi tiết và nâng cấp tại 「Quản lý后台 - Thông tin phiên bản」 để khôi phục"
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"Cloud coin của 「{{ corpName }}」 dưới {{ limit }}, có thể ảnh hưởng SMS, "
+"OCR, tải tệp. Nạp ngay để tránh ảnh hưởng"
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"Cloud coin của 「{{ corpName }}」 sắp hết, có thể ảnh hưởng SMS, OCR, tải "
+"tệp. Nạp ngay để tránh ảnh hưởng"
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }} đã @ bạn trong bình luận {{ dataTitle }}"
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "Dữ liệu chưa đặt tên"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "Tổng quan bình luận: {{ messageComment }}"
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr ""
+"Thành viên {{ sender }} của doanh nghiệp 「{{ corpName }}」 đã @ bạn trong "
+"bình luận {{ dataTitle }}"
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "Dữ liệu chưa đặt tên"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "Tổng quan bình luận: {{ messageComment }}"
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }} đã thay đổi người phụ trách liên hệ 「{{ data_label }}」. "
+"Trước: 「{{ raw_charger }}」, Hiện tại: 「{{ new_charger }}」"
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr "{{ operator }} đã thay đổi người phụ trách của {{ contacts_num }} liên hệ"
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{ operator }} đã thay đổi người cộng tác của liên hệ 「{{ data_label }}」. "
+"Hiện tại: 「{{ collaborators }}」"
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{ operator }} đã thay đổi người cộng tác của {{ contacts_num }} liên hệ"
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr ""
+"Số người liên hệ doanh nghiệp của 「{{ corpName }}」 không đủ, hợp tác kinh "
+"doanh với doanh nghiệp khác thất bại"
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"Doanh nghiệp liên kết 「{{ corpName }}」 của bạn yêu cầu kết nối, sau khi kết "
+"nối, người liên hệ của bạn có thể tham gia kinh doanh của họ"
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"Số kết nối doanh nghiệp của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel "
+"}}」, xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr ""
+"Hạn mức kết nối doanh nghiệp của 「{{ corpName }}」 không đủ, kết nối với "
+"doanh nghiệp khác thất bại. Mua thêm hạn mức và thử lại"
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+"Bạn của bạn muốn hợp tác qua {{ _g_productName }}, tham gia đội 「{{ "
+"corpName }}」 của họ. Lời mời có hiệu lực 7 ngày "
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"Dữ liệu trong 「{{ widgetName }}」 của bảng điều khiển 「{{ entryName }}」 "
+"trong ứng dụng 「{{ appName }}」 kích hoạt cảnh báo: {{ thresholdName }}"
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr "Cảnh báo dữ liệu 「{{ thresholdName }}」 thực thi lỗi, nhắc nhở thất bại"
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "Vị trí cảnh báo: {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr ""
+"Cảnh báo dữ liệu bảng điều khiển của đội bạn đã đạt giới hạn 1000/ngày, hôm "
+"nay không kích hoạt thêm cảnh báo"
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr ""
+"Cảnh báo dữ liệu 「{{ thresholdName }}」 điều kiện không hợp lệ, đã tự động "
+"tắt"
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "Vị trí cảnh báo: {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr "Cảnh báo dữ liệu 「{{ thresholdName }}」 lỗi nhiều lần, đã tự động tắt"
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "Vị trí cảnh báo: {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"Tổng dữ liệu của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel }}」, xem chi "
+"tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"Tổng dữ liệu tháng của 「{{ corpName }}」 đã dùng {{ usage }} mục, giới hạn "
+"1000, sắp vượt quá, xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin "
+"phiên bản」"
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"Trợ lý thông minh 「{{ triggerName }}」 trong ứng dụng 「{{ appName }}」 thất "
+"bại {{ failedCount }} lần, xem nhật ký thực thi kịp thời"
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"Trợ lý thông minh 「{{ triggerName }}」 trong ứng dụng 「{{ appName }}」 thực "
+"thi thất bại, xem nhật ký thực thi kịp thời"
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"Trợ lý thông minh 「{{ triggerName }}」 trong ứng dụng 「{{ appName }}」 thất "
+"bại {{ failedCount }} lần, hôm nay không nhắc lại, xem nhật ký thực thi"
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"Tổng dữ liệu của 「{{ corpName }}」 đã dùng {{ usage }} mục, giới hạn {{ "
+"limit }}, sắp vượt quá, xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông "
+"tin phiên bản」"
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }} đã thêm phòng ban {{ deptName }}"
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }} đã nhập {{ deptSize }} phòng ban"
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }} đã xóa phòng ban {{ deptName }}"
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"Doanh nghiệp liên kết 「{{ corpName }}」 đã {{ op }} người liên hệ {{ side "
+"}}: {{ nicknameList }}, điều chỉnh quyền kịp thời để tránh ảnh hưởng kinh "
+"doanh"
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"Doanh nghiệp liên kết 「{{ corpName }}」 đã {{ op }} người liên hệ {{ side "
+"}}: {{ nicknameList }}, điều chỉnh quyền kịp thời để tránh ảnh hưởng kinh "
+"doanh"
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"Doanh nghiệp liên kết 「{{ corpName }}」 đã {{ op }} người liên hệ {{ side "
+"}}: {{ nicknameList }}"
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"Số nhà máy dữ liệu của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel }}」, xem "
+"chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"Luồng dữ liệu 「{{ etlName }}」 trong ứng dụng 「{{ appName }}」 thất bại {{ "
+"maxCount }} lần liên tục, đã tắt quy tắc cập nhật và tạm dừng. Xác nhận lý "
+"do thất bại, điều chỉnh và bật lại quy tắc"
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr ""
+"Luồng dữ liệu 「{{ etlName }}」 trong ứng dụng 「{{ appName }}」 cập nhật thất "
+"bại "
+
+msgid "site.message.content.etl_sync_failed"
+msgstr ""
+"Luồng dữ liệu 「{{ etl_name }}」 trong ứng dụng 「{{ app_name }}」 đồng bộ dữ "
+"liệu bảng đầu ra thất bại"
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr "「{{ title }}」 xuất thất bại, dữ liệu thành viên vượt giới hạn"
+
+msgid "site.message.content.excel_import_complete"
+msgstr "「{{ entryName }}」 nhập thành công {{ imported }} dữ liệu"
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」 nhập thành công {{ imported }} dữ liệu, thất bại {{ "
+"failed }} dữ liệu, liên kết tải báo cáo lỗi hết hạn sau 24 giờ, tải sớm"
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "「{{ entryName }}」 cập nhật thành công {{ updated }} dữ liệu"
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」 cập nhật thành công {{ updated }} dữ liệu, thất bại {{ "
+"failed }} dữ liệu, liên kết tải báo cáo lỗi hết hạn sau 24 giờ, tải sớm"
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"「{{ entryName }}」 cập nhật thành công {{ updated }} dữ liệu, thêm thành "
+"công {{ imported }} dữ liệu"
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"「{{ entryName }}」 cập nhật thành công {{ updated }} dữ liệu, thêm thành "
+"công {{ imported }} dữ liệu, thất bại {{ failed }} dữ liệu, liên kết tải "
+"báo cáo lỗi hết hạn sau 24 giờ, tải sớm"
+
+msgid "site.message.content.file_export_complete"
+msgstr ""
+"Tệp xuất 「{{ title }}」 đã sẵn sàng. Liên kết tải sẽ hết hạn sau 24 giờ, tải "
+"sớm"
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"「{{ title }}」 tệp xuất quá lớn. Dữ liệu không vượt 16MB, 10 vạn dòng, 100 "
+"vạn ô. Lọc lại và xuất"
+
+msgid "site.message.content.file_export_failed"
+msgstr "「{{ title }}」 xuất thất bại. Thử lại sau hoặc liên hệ chúng tôi"
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"「{{ title }}」 tệp xuất quá lớn, thất bại. Giới hạn 1000 tệp đính kèm, nén "
+"không quá 1G, thử xuất từng phần"
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"「{{ title }}」 bảng hiện tại có quá nhiều dữ liệu sắp xếp, giảm quy tắc hoặc "
+"lượng dữ liệu và thử lại"
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"「{{ title }}」 tệp xuất quá lớn. Dữ liệu không vượt giới hạn dòng Excel, ô "
+"gộp không quá 1 triệu, lọc lại và xuất"
+
+msgid "site.message.content.flow_cc"
+msgstr "Nếu cần thao tác thêm, vui lòng xem sớm"
+
+msgid "site.message.content.flow_cc_merge"
+msgstr "Nếu cần thao tác thêm, vui lòng xem sớm"
+
+msgid "site.message.content.flow_forward"
+msgstr "{{ operator }} đã gửi quy trình, vui lòng xử lý kịp thời"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "{{ flowCreatorName }} đã gửi, vui lòng xử lý kịp thời"
+
+msgid "site.message.content.flow_timeout"
+msgstr "{{ flowCreatorName }} đã gửi, vui lòng xử lý kịp thời"
+
+msgid "site.message.content.follow_plan_complete"
+msgstr "{{ operator }} đã hoàn thành kế hoạch theo dõi 「{{ data_label }}」 của bạn"
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }} đã hoàn thành {{ plan_num }} kế hoạch theo dõi của bạn"
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"Dữ liệu bảng đơn của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel }}」, xem "
+"chi tiết và nâng cấp gói tại 「Quản lý - Thông tin phiên bản」"
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"Dữ liệu bảng đơn của 「{{ corpName }}」 đã dùng {{ usage }} mục, giới hạn {{ "
+"limit }}, sắp vượt quá, xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông "
+"tin phiên bản」"
+
+msgid "site.message.content.guest_corp_accept"
+msgstr ""
+"Doanh nghiệp 「{{ corpName }}」 đã chấp nhận yêu cầu kết nối, bạn có thể chia "
+"sẻ quyền ứng dụng/biểu mẫu với người liên hệ để hợp tác"
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr "Đối tác liên kết 「{{ corpName }}」 đã đồng ý bạn quản lý danh bạ"
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "Doanh nghiệp 「{{ corpName }}」 đã ngắt kết nối với bạn"
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr "Doanh nghiệp liên kết 「{{ corpName }}」 của bạn đã chủ động quản lý danh bạ"
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"Doanh nghiệp liên kết 「{{ corpName }}」 thay đổi chế độ sử dụng, ngắt kết "
+"nối, hạn mức kết nối đã trả lại tài khoản, hợp tác tạm dừng, liên hệ người "
+"phụ trách để kết nối lại"
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"Đối tác liên kết 「{{ corpName }}」 yêu cầu quản lý danh bạ tài khoản {{ "
+"_g_productName }} của bạn, để họ thiết lập người liên hệ, bạn có thể chủ "
+"động quản lý lại sau"
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr ""
+"Doanh nghiệp 「{{ corpName }}」 đã ngắt kết nối với bạn, điều chỉnh quyền kịp "
+"thời để tránh ảnh hưởng kinh doanh"
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr ""
+"Doanh nghiệp liên kết 「{{ corpName }}」 thay đổi chế độ sử dụng, ngắt kết "
+"nối, hợp tác tạm dừng, liên hệ người phụ trách để kết nối lại"
+
+msgid "site.message.content.import_file_complete"
+msgstr "「{{ title }}」 nhập thành công {{success}} tệp đính kèm, {{failed}} thất bại"
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr ""
+"{{ operator }} đã giải quyết bình luận chú thích trong tài liệu 「{{ "
+"document }}」"
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "Tổng quan bình luận: {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }} đã bình luận tài liệu 「{{ document }}」"
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "Tổng quan bình luận: {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }} đã tạo tài liệu 「{{ document }}」"
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }} đã sửa tài liệu 「{{ document }}」"
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }} đã thích tài liệu 「{{ document }}」"
+
+msgid "site.message.content.kms_space_apply"
+msgstr "{{ applicant }} yêu cầu tạo thư viện kiến thức 「{{ space_name }}」"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr ""
+"Yêu cầu tạo thư viện kiến thức thành công, bạn là quản trị viên của 「{{ "
+"space_name }}」 "
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr ""
+"Yêu cầu tạo thư viện kiến thức 「{{ space_name }}」 thất bại, hoàn thiện mô "
+"tả và yêu cầu lại"
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "Lý do từ chối: {{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr ""
+"Bạn được đặt làm quản trị viên của 「{{ space_name }}」, tạo tài liệu và chia "
+"sẻ kiến thức ngay!"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{ operator }} nhắc bạn xem tài liệu 「{{ document }}」"
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "Tổng quan tài liệu: {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }} đã phân bổ đầu mối 「{{ data_label }}」 cho bạn"
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }} đã phân bổ {{ leads_num }} đầu mối cho bạn"
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }} đã thay đổi người phụ trách đầu mối 「{{ data_label }}」. "
+"Trước: 「{{ raw_charger }}」, Hiện tại: 「{{ new_charger }}」"
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr "{{ operator }} đã thay đổi người phụ trách của {{ leads_num }} đầu mối"
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{ operator }} đã thay đổi người cộng tác của đầu mối 「{{ data_label }}」. "
+"Hiện tại: 「{{ collaborators }}」"
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }} đã thay đổi người cộng tác của {{ leads_num }} đầu mối"
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }} đã thu hồi đầu mối 「{{ data_label }}」"
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "Đầu mối 「{{ data_label }}」 bị thu hồi tự động"
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }} đã thu hồi {{ leads_num }} đầu mối"
+
+msgid "site.message.content.manage_group_add_members"
+msgstr ""
+"{{ operator }} đã thêm thành viên 「{{ members }}」 vào nhóm quản lý 「{{ "
+"manageGroup }}」"
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{ operator }} đã thêm nhóm quản lý thường 「{{ manageGroup }}」"
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{ operator }} đã xóa nhóm quản lý thường 「{{ manageGroup }}」"
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr ""
+"{{ operator }} đã xóa thành viên 「{{ members }}」 khỏi nhóm quản lý 「{{ "
+"manageGroup }}」"
+
+msgid "site.message.content.manager_login"
+msgstr "Quản trị viên {{ operator }} đã đăng nhập hệ thống"
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }} đã nhập {{ memberSize }} thành viên"
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }} đã mời {{ memberList }}"
+
+msgid "site.message.content.member_remove"
+msgstr "{{ operator }} đã chuyển thành viên {{ memberList }} thành nghỉ việc"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"Dung lượng hệ thống của 「{{ corpName }}」 vượt giới hạn, để dùng bình "
+"thường, xem chi tiết và nâng cấp tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"Đẩy tin nhắn thất bại 100 lần, đã tự động tắt, kiểm tra lý do và điều chỉnh "
+"tại 「Quản lý后台 - Đẩy tin nhắn」"
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"Đẩy tin nhắn của bạn thất bại, vượt 100 tin thất bại sẽ tự động tắt đẩy "
+"tin, kiểm tra lý do và điều chỉnh tại 「Quản lý后台 - Đẩy tin nhắn」"
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"Đẩy tin nhắn thất bại {{ count }} lần, vượt 100 tin thất bại sẽ tự động "
+"tắt, kiểm tra lý do và điều chỉnh tại 「Quản lý后台 - Đẩy tin nhắn」"
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"Nhiều ứng dụng thử nghiệm của 「{{ corpName }}」 sắp hết hạn, dữ liệu giữ lại "
+"nhưng chức năng bị hạn chế, nâng cấp kịp thời. Nếu đã mua hoặc thử nghiệm "
+"cao cấp, bỏ qua thông báo này"
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{ operator }} đã thêm kế hoạch theo dõi 「{{ data_label }}」 cho bạn"
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }} đã thêm ủy quyền cho 「{{ suite_name }}」"
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }} đã hủy ủy quyền cho 「{{ suite_name }}」"
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }} đã thay đổi người phụ trách cơ hội 「{{ data_label }}」. "
+"Trước: 「{{ raw_charger }}」, Hiện tại: 「{{ new_charger }}」"
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr "{{ operator }} đã thay đổi người phụ trách của {{ opportunity_num }} cơ hội"
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{ operator }} đã thay đổi người cộng tác của cơ hội 「{{ data_label }}」. "
+"Hiện tại: 「{{ collaborators }}」"
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr "{{ operator }} đã thay đổi người cộng tác của {{ opportunity_num }} cơ hội"
+
+msgid "site.message.content.opportunity_win"
+msgstr "Cơ hội 「{{ data_label }}」 đã thắng"
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"Plugin 「{{ pluginName }}」 của 「{{ corpName }}」 sẽ hết hạn vào {{ expireTime "
+"}}, còn {{ days }} ngày, sau đó không dùng được. Liên hệ chúng tôi để gia "
+"hạn"
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"Ứng dụng thử nghiệm 「{{ appName }}」 của 「{{ corpName }}」 sẽ hết hạn sau {{ "
+"days }} ngày, dữ liệu giữ lại nhưng chức năng bị hạn chế, nâng cấp kịp "
+"thời. Nếu đã mua hoặc thử nghiệm cao cấp, bỏ qua thông báo này"
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"Cloud coin trong tài khoản 「{{ corpName }}」 của bạn đã hết, chức năng xác "
+"minh SMS không dùng được, một số thành viên gửi biểu mẫu thất bại. Để tránh "
+"ảnh hưởng, điều chỉnh thiết kế hoặc nạp cloud coin ngay, sau khi nạp chức "
+"năng sẽ hoạt động bình thường"
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"Bạn của bạn {{ nickname }} muốn hợp tác qua {{ _g_productName }}, tham gia "
+"đội của họ. Lời mời có hiệu lực 7 ngày"
+
+msgid "site.message.content.team_invite_notify"
+msgstr ""
+"Bạn của bạn {{ nickname }} muốn hợp tác qua {{ _g_productName }}, xem chi "
+"tiết tại quản lý tin nhắn"
+
+msgid "site.message.content.team_invite_success"
+msgstr "Bạn đã tham gia đội 「{{ teamName }}」 thành công"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"Dung lượng hệ thống của 「{{ corpName }}」 vượt giới hạn miễn phí. Để đảm bảo "
+"dùng bình thường sau thử nghiệm, xem chi tiết và nâng cấp tại 「Quản lý后台 - "
+"Thông tin phiên bản」, ngày thử nghiệm còn lại có thể gia hạn gói bất kỳ"
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"Số trợ lý thông minh của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel }}」, "
+"xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"Dung lượng tệp đính kèm của 「{{ corpName }}」 vượt giới hạn 「{{ vipLevel "
+"}}」, xem chi tiết và nâng cấp gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"Dung lượng tệp đính kèm của 「{{ corpName }}」 đã dùng {{ usage }}, giới hạn "
+"{{ limit }}, vượt quá sẽ tiêu cloud coin. Đảm bảo đủ cloud coin để tránh "
+"ảnh hưởng"
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"Dung lượng tệp đính kèm của 「{{ corpName }}」 đã dùng {{ usage }}, giới hạn "
+"{{ limit }}, vượt quá sẽ tiêu cloud coin. Hiện có {{ coinBalance }} cloud "
+"coin, đảm bảo đủ để tránh ảnh hưởng"
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"Dung lượng tệp đính kèm của 「{{ corpName }}」 đã dùng {{ usage }}, giới hạn "
+"{{ limit }}, vượt quá sẽ tiêu cloud coin. Hiện không đủ {{ coinBalance }}, "
+"nạp ngay để tránh ảnh hưởng"
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"Dung lượng tệp đính kèm của 「{{ corpName }}」 đã dùng {{ usage }}, giới hạn "
+"{{ limit }}, vượt quá sẽ tiêu cloud coin. Bật tùy chọn tiêu cloud coin "
+"trong cài đặt thanh toán và đảm bảo đủ cloud coin"
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"Số thành viên của 「{{ corpName }}」 vượt giới hạn, xem chi tiết và nâng cấp "
+"gói tại 「Quản lý后台 - Thông tin phiên bản」"
+
+msgid "site.message.content.webhook_failed_count"
+msgstr ""
+"Đẩy dữ liệu biểu mẫu 「{{ entryName }}」 thất bại {{ count }} lần, vui lòng "
+"kiểm tra và điều chỉnh sớm, đẩy thủ công trong cài đặt biểu mẫu"
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"Đẩy dữ liệu biểu mẫu 「{{ entryName }}」 thất bại {{ count }} lần, đã tắt đẩy "
+"dữ liệu, bật lại trong cài đặt biểu mẫu nếu cần"
+
+msgid "site.message.content.webhook_failed_first"
+msgstr ""
+"Đẩy dữ liệu biểu mẫu 「{{ entryName }}」 của bạn thất bại, vui lòng kiểm tra "
+"và điều chỉnh sớm, đẩy thủ công trong cài đặt biểu mẫu"
+
+msgid "site.message.content.webhook_form_type"
+msgstr "Do chuyển loại biểu mẫu, 「{{ entryName }}」 sẽ đẩy dữ liệu theo loại mới"
+
+msgid "site.message.link_text.accept_application"
+msgstr "Chấp nhận yêu cầu"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "Chấp nhận"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "Tải báo cáo lỗi"
+
+msgid "site.message.link_text.download_now"
+msgstr "Tải xuống ngay"
+
+msgid "site.message.link_text.view_details"
+msgstr "Xem chi tiết"
+
+msgid "site.message.title.dash_alert"
+msgstr "Cảnh báo dữ liệu"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "Mẫu doanh nghiệp"
+
+msgid "template_center.space.standard"
+msgstr "Mẫu chính thức"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "Mẫu nhập hàng loạt danh bạ"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "Mẫu nhập hàng loạt doanh nghiệp liên kết"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "Mẫu nhập vai trò"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "Mẫu tạo hàng loạt danh bạ"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "Đơn xác thực danh tính {{ _g_productName }}"
+
+msgid "tenant.verify.files.corp"
+msgstr "Tên doanh nghiệp, tài liệu chứng minh liên quan, v.v."
+
+msgid "tenant.verify.files.owner"
+msgstr "Tên, chứng minh thư/hộ chiếu"
+
+msgid "tenant.verify.title.approved"
+msgstr "Thông tin xác thực bạn gửi đã được duyệt"
+
+msgid "tenant.verify.title.declined"
+msgstr "Thông tin xác thực bạn gửi không được duyệt"
+
+msgid "tenant.verify.title.has_expired"
+msgstr ""
+"Thông tin xác thực doanh nghiệp của bạn đã hết hạn, liên kết công khai "
+"không dùng được, xác thực lại sớm"
+
+msgid "tenant.verify.title.will_expire"
+msgstr ""
+"Thông tin xác thực doanh nghiệp của bạn sắp hết hạn, xác thực lại sớm để "
+"không ảnh hưởng liên kết công khai"
+
+msgid "tenant.verify.type.corp"
+msgstr "Doanh nghiệp"
+
+msgid "tenant.verify.type.owner"
+msgstr "Cá nhân"
+
+msgid "type.not.match"
+msgstr "Kiểu không khớp"
+
+msgid "ua.dingtalkMobile"
+msgstr "DingTalk di động"
+
+msgid "ua.dingtalkPC"
+msgstr "DingTalk PC"
+
+msgid "ua.larkMobile"
+msgstr "Lark di động"
+
+msgid "ua.larkPC"
+msgstr "Lark PC"
+
+msgid "ua.mobile"
+msgstr "Web di động"
+
+msgid "ua.pc"
+msgstr "Web PC"
+
+msgid "ua.wechatMiniProgram"
+msgstr "Mini Program"
+
+msgid "ua.wechatMobile"
+msgstr "WeChat di động"
+
+msgid "ua.wechatPC"
+msgstr "WeChat PC"
+
+msgid "ua.wxworkMobile"
+msgstr "WeCom di động"
+
+msgid "ua.wxworkPC"
+msgstr "WeCom PC"
+
+msgid "user.defaultNickname"
+msgstr "Chưa đặt tên"
+
+msgid "userActivity.app.metricsName"
+msgstr "Xem theo ứng dụng - Chi tiết hoạt động"
+
+msgid "userActivity.app.reportName"
+msgstr "Xem theo ứng dụng - Tổng quan"
+
+msgid "userActivity.appId"
+msgstr "ID ứng dụng"
+
+msgid "userActivity.appName"
+msgstr "Ứng dụng"
+
+msgid "userActivity.app_access_count"
+msgstr "Số người truy cập"
+
+msgid "userActivity.app_access_times"
+msgstr "Số lần truy cập"
+
+msgid "userActivity.data_create_count"
+msgstr "Số người tạo dữ liệu"
+
+msgid "userActivity.data_create_times"
+msgstr "Số lần tạo dữ liệu"
+
+msgid "userActivity.data_export_count"
+msgstr "Số người xuất dữ liệu"
+
+msgid "userActivity.data_export_times"
+msgstr "Số lần xuất dữ liệu"
+
+msgid "userActivity.data_remove_count"
+msgstr "Số người xóa dữ liệu"
+
+msgid "userActivity.data_remove_times"
+msgstr "Số lần xóa dữ liệu"
+
+msgid "userActivity.data_update_count"
+msgstr "Số người sửa dữ liệu"
+
+msgid "userActivity.data_update_times"
+msgstr "Số lần sửa dữ liệu"
+
+msgid "userActivity.entity.metricsName"
+msgstr "Xem theo đối tượng - Chi tiết hoạt động"
+
+msgid "userActivity.entity.reportName"
+msgstr "Xem theo đối tượng - Tổng quan"
+
+msgid "userActivity.entityId"
+msgstr "ID đối tượng"
+
+msgid "userActivity.entityName"
+msgstr "Đối tượng"
+
+msgid "userActivity.fileName"
+msgstr "Dữ liệu hoạt động của thành viên"
+
+msgid "userActivity.login_stats_count"
+msgstr "Số người đăng nhập"
+
+msgid "userActivity.login_stats_times"
+msgstr "Số lần đăng nhập"
+
+msgid "userActivity.memberId"
+msgstr "ID thành viên"
+
+msgid "userActivity.nickName"
+msgstr "Thành viên"
+
+msgid "userActivity.time"
+msgstr "Thời gian"
+
+msgid "userActivity.user.metricsName"
+msgstr "Xem theo thành viên - Chi tiết hoạt động"
+
+msgid "userActivity.user.reportName"
+msgstr "Xem theo thành viên - Tổng quan"
+
+msgid "vip.pack.ent"
+msgstr "Phiên bản doanh nghiệp"
+
+msgid "vip.pack.free"
+msgstr "Miễn phí"
+
+msgid "vip.pack.lite"
+msgstr "Phiên bản trẻ"
+
+msgid "vip.pack.oem"
+msgstr "Tùy chỉnh"
+
+msgid "vip.pack.pro"
+msgstr "Chuyên nghiệp"
+
+msgid "vip.pack.self_hosted"
+msgstr "Độc quyền"
+
+msgid "vip.pack.starter"
+msgstr "Phiên bản cơ bản"
+
+msgid "vip.pack.std"
+msgstr "Tiêu chuẩn"
+
+msgid "vip.pack.trial"
+msgstr "Thử nghiệm"
+
+msgid "vip.pack.user"
+msgstr "Mua theo số người dùng"
+
+msgid "vip.pack.user_premium"
+msgstr "Cao cấp"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""

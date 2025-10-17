@@ -1,0 +1,4616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.866Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.866Z\n"
+
+msgid "activity.fileName"
+msgstr "Data Aktivitas"
+
+msgid "activity_stats.export.dismission"
+msgstr "(Tidak aktif)"
+
+msgid "activity_stats.export.removed"
+msgstr "(Dihapus)"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "Aplikasi yang Dihapus"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "Formulir yang Dihapus"
+
+msgid "aggregate.compatMetricName"
+msgstr "Meningkatkan indikator adaptasi"
+
+msgid "aggregate.exceed.limit"
+msgstr "Panjang rumus melebihi batas"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "Tidak dapat menghitung bidang agregat dan non-agregat"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "Bidang agregat tidak dapat digunakan untuk agregasi lagi"
+
+msgid "aggregate.main.subform.error"
+msgstr "Tidak dapat menghitung bidang formulir utama dan subformulir"
+
+msgid "aggregate.param.be.number"
+msgstr "Parameter fungsi agregasi {{ name }} harus bertipe numerik"
+
+msgid "aggregate.param.be.one"
+msgstr "Jumlah parameter untuk fungsi agregasi harus 1"
+
+msgid "aggregate.return.number"
+msgstr "Tipe pengembalian rumus harus berupa Angka"
+
+msgid "aggregate.support.same.form.op"
+msgstr "Hanya bidang dari SubForm yang sama yang dapat dihitung"
+
+msgid "automation.node.end"
+msgstr "Simpul Akhir"
+
+msgid "automation.node.start"
+msgstr "Node Pemicu"
+
+msgid "bpa.presetWidget.title0"
+msgstr "Dibuat"
+
+msgid "bpa.presetWidget.title1"
+msgstr "Sedang berlangsung"
+
+msgid "bpa.presetWidget.title10"
+msgstr "Grafik tren waktu pemrosesan rata-rata dari satu proses"
+
+msgid "bpa.presetWidget.title11"
+msgstr "Grafik tren waktu pemrosesan rata-rata dari node tugas"
+
+msgid "bpa.presetWidget.title2"
+msgstr "Selesai"
+
+msgid "bpa.presetWidget.title3"
+msgstr "Akhiri Secara Manual"
+
+msgid "bpa.presetWidget.title4"
+msgstr "Grafik tren waktu pemrosesan rata-rata dari satu proses (jam)"
+
+msgid "bpa.presetWidget.title5"
+msgstr "Statistik tentang node tugas yang tertunda"
+
+msgid "bpa.presetWidget.title6"
+msgstr "Waktu pemrosesan rata-rata dari sebuah node tugas"
+
+msgid "bpa.presetWidget.title7"
+msgstr "Statistik tugas anggota"
+
+msgid "bpa.presetWidget.title8"
+msgstr "Statistik tugas anggota pada simpul tugas"
+
+msgid "bpa.presetWidget.title9"
+msgstr "Rata-rata waktu pemrosesan anggota dari sebuah node tugas"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "Waktu yang dihabiskan (jam)"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "Tugas"
+
+msgid "compare.not.support"
+msgstr "Tanda perbandingan ilegal {{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr "Tanda perbandingan ilegal {{ op }}. Harap gunakan \"==\" sebagai gantinya"
+
+msgid "compare.param.boolean"
+msgstr "Bahasa Boolean"
+
+msgid "compare.param.datetime"
+msgstr "Tanggal"
+
+msgid "compare.param.not.support"
+msgstr ""
+"Tipe parameter pada kedua sisi {{ op }} tidak boleh berupa {{ type1 }} atau "
+"{{ type2 }}"
+
+msgid "compare.param.number"
+msgstr "Nomor"
+
+msgid "compare.param.string"
+msgstr "Rangkaian"
+
+msgid "concatenate.param.error"
+msgstr "Bidang formulir asli tidak ada"
+
+msgid "corp.currentDepartment"
+msgstr "Departemen Pengguna Saat Ini"
+
+msgid "corp.currentUser"
+msgstr "Pengguna Saat Ini"
+
+msgid "corp.joinCorpSuccess"
+msgstr "Berhasil bergabung dengan tim"
+
+msgid "corp.log.agentDisable"
+msgstr "Nonaktifkan Plugin"
+
+msgid "corp.log.agentEnable"
+msgstr "Aktifkan Plugin"
+
+msgid "corp.log.agentUninstall"
+msgstr "Hapus Plugin"
+
+msgid "corp.log.aggregateCreate"
+msgstr "Buat Tabel Agregat"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "Migrasi Tabel Agregat"
+
+msgid "corp.log.aggregateRemove"
+msgstr "Hapus Tabel Agregat"
+
+msgid "corp.log.aggregateRename"
+msgstr "Ubah Nama Tabel Agregat"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "Perbarui Desain Tabel Agregat"
+
+msgid "corp.log.aiLabDisable"
+msgstr "Menutup Lab AI"
+
+msgid "corp.log.aiLabEnable"
+msgstr "Membuka Lab AI"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "Buat Kunci API"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "Hapus Kunci API"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "Nonaktifkan Kunci API"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "Aktifkan Kunci API"
+
+msgid "corp.log.apiKeyName"
+msgstr "Nama Kunci API"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "Perbarui Kunci"
+
+msgid "corp.log.apiName"
+msgstr "Nama API"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "Matikan kontrol lampiran aplikasi"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "Aktifkan kontrol lampiran aplikasi"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "Ubah kontrol lampiran aplikasi"
+
+msgid "corp.log.appCreate"
+msgstr "Buat Aplikasi"
+
+msgid "corp.log.appEtlLog"
+msgstr "{{ etlName }}-Log Pembaruan"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "Sesuaikan Beranda Aplikasi"
+
+msgid "corp.log.appLog"
+msgstr "Log Aplikasi"
+
+msgid "corp.log.appLogExport"
+msgstr "Ekspor Log Aplikasi"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "Tambahkan Grup Pengelola Aplikasi"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "Nonaktifkan Grup Admin Aplikasi"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "Aktifkan Grup Admin Aplikasi"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "Hapus Grup Pengelola Aplikasi"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "Ubah Nama Grup Pengelola Aplikasi"
+
+msgid "corp.log.appManagerAdd"
+msgstr "Tambahkan Manajer"
+
+msgid "corp.log.appManagerRemove"
+msgstr "Hapus Manajer"
+
+msgid "corp.log.appRecover"
+msgstr "Pulihkan Aplikasi"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "Edit Pengaturan Lintas Aplikasi"
+
+msgid "corp.log.appRemove"
+msgstr "Hapus Aplikasi"
+
+msgid "corp.log.appRename"
+msgstr "Ganti Nama Aplikasi"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "Edit URL Aplikasi"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "Nonaktifkan Tanda Air Aplikasi"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "Aktifkan Tanda Air Aplikasi"
+
+msgid "corp.log.application"
+msgstr "Dari Aplikasi"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "Matikan kontrol lampiran global"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "Aktifkan kontrol lampiran global"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "Delegasi Inisiasi dinonaktifkan"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "Aktifkan Delegasi Inisiasi"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr ""
+"Delegasi telah dibatalkan: Delegasi dari {{ principal }} ke {{ agent }} "
+"selama {{ timeRange }}"
+
+msgid "corp.log.businessContent"
+msgstr "Informasi Bisnis"
+
+msgid "corp.log.businessCount"
+msgstr "Penggunaan OCR"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "Registrasi Bisnis"
+
+msgid "corp.log.businessTime"
+msgstr "Waktu Verifikasi"
+
+msgid "corp.log.callTime"
+msgstr "Waktu Panggilan"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "Edit Pengaturan Pembayaran"
+
+msgid "corp.log.coinUsageApp"
+msgstr "Aplikasi"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "Pintu masuk"
+
+msgid "corp.log.coinUsageLog"
+msgstr "Catatan Penggunaan Koin"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "Lapangan"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "Tambahkan Tautan Undangan untuk Bisnis Eksternal"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "Hapus Tautan Undangan untuk Bisnis Eksternal"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "Edit Tautan Undangan untuk Bisnis Eksternal"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "Tambahkan Peran Kontak Eksternal"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "Hapus Peran Kontak Eksternal"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "Ubah Nama Peran Kontak Eksternal"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "Ubah Anggota di bawah Peran Kontak Eksternal"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "Perbarui Blok Pemberitahuan"
+
+msgid "corp.log.corpRename"
+msgstr "Ganti Nama Bisnis"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "Nonaktifkan Gaya Bisnis"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "Aktifkan Gaya Bisnis"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "Edit Gaya Bisnis"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "Edit URL Portal Bisnis"
+
+msgid "corp.log.customLoginDisable"
+msgstr "Nonaktifkan Halaman Login Kustom"
+
+msgid "corp.log.customLoginEnable"
+msgstr "Aktifkan Halaman Login Kustom"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "Edit Ruang Kerja Bisnis"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "Edit Izin Dasbor"
+
+msgid "corp.log.dashCreate"
+msgstr "Buat Dasbor"
+
+msgid "corp.log.dashPublicLink"
+msgstr "Edit Tautan Publik Dasbor"
+
+msgid "corp.log.dashRecover"
+msgstr "Pulihkan Dasbor"
+
+msgid "corp.log.dashRemove"
+msgstr "Hapus Dasbor"
+
+msgid "corp.log.dashRename"
+msgstr "Ganti Nama Dasbor"
+
+msgid "corp.log.dashUpdate"
+msgstr "Sunting"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "Catatan Cetak Batch"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "Memulihkan Data Secara Batch"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "Hapus Data Secara Batch"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "Edit Data Secara Batch"
+
+msgid "corp.log.dataCreate"
+msgstr "Tambahkan Data"
+
+msgid "corp.log.dataExport"
+msgstr "Ekspor data"
+
+msgid "corp.log.dataImport"
+msgstr "Impor - Tambahkan Data"
+
+msgid "corp.log.dataImportFile"
+msgstr "Impor Lampiran"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "Impor - Perbarui Data"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "Impor - Tambahkan dan Perbarui Data"
+
+msgid "corp.log.dataPrint"
+msgstr "Cetak Rekaman"
+
+msgid "corp.log.dataPrintQr"
+msgstr "Cetak Kode QR/Barcode"
+
+msgid "corp.log.dataRecover"
+msgstr "Memulihkan Data"
+
+msgid "corp.log.dataRemove"
+msgstr "Hapus Data"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "Buat Otomatisasi"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "Hapus Otomatisasi"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "Aktifkan Otomatisasi"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "Nonaktifkan Otomatisasi"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "Perbarui Otomatisasi"
+
+msgid "corp.log.dataUpdate"
+msgstr "Perbarui Data"
+
+msgid "corp.log.deptCreate"
+msgstr "Tambahkan Departemen"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "Tambahkan Tag Bisnis"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "Hapus Tag Bisnis"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "Sesuaikan Perusahaan di bawah Tag Bisnis"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "Edit Nama Tag Bisnis"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "Perbarui Kepala Departemen"
+
+msgid "corp.log.deptRemove"
+msgstr "Hapus Departemen"
+
+msgid "corp.log.deptRename"
+msgstr "Ganti Nama Departemen"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "Pembaruan Otomatis"
+
+msgid "corp.log.etlCreate"
+msgstr "Buat Aliran Data"
+
+msgid "corp.log.etlCronExecute"
+msgstr "Pembaruan Cron"
+
+msgid "corp.log.etlDuration"
+msgstr "Durasi Pembaruan"
+
+msgid "corp.log.etlEndTime"
+msgstr "Akhir Zaman"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "Hasil Pembaruan"
+
+msgid "corp.log.etlExecuteType"
+msgstr "Metode Pembaruan"
+
+msgid "corp.log.etlJust"
+msgstr "Kurang dari 1 menit"
+
+msgid "corp.log.etlManualExecute"
+msgstr "Pembaruan Manual"
+
+msgid "corp.log.etlMin"
+msgstr "{{ menit }} Menit"
+
+msgid "corp.log.etlRemove"
+msgstr "Hapus Aliran Data"
+
+msgid "corp.log.etlRename"
+msgstr "Ubah Nama Aliran Data"
+
+msgid "corp.log.etlStartTime"
+msgstr "Waktu Mulai"
+
+msgid "corp.log.etlTime"
+msgstr "Tanggal Diperbarui"
+
+msgid "corp.log.etlUpdate"
+msgstr "Perbarui Desain Aliran Data"
+
+msgid "corp.log.fail"
+msgstr "Gagal"
+
+msgid "corp.log.fileDownload"
+msgstr "Unduh Berkas"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "Nonaktifkan BPA"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "Aktifkan BPA"
+
+msgid "corp.log.flowUpdate"
+msgstr "Perbarui Desain Alur Kerja"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "Formulir Penyesuaian Batch/Izin Dasbor"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "Perbarui Formulir Izin"
+
+msgid "corp.log.formCreate"
+msgstr "Buat Formulir"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "Hapus halaman detail data"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "Beralih halaman detail data"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "Edit halaman detail data"
+
+msgid "corp.log.formOnlinePay"
+msgstr "Kelola Pengaturan Pembayaran"
+
+msgid "corp.log.formPublicLink"
+msgstr "Perbarui Tautan Publik Formulir"
+
+msgid "corp.log.formPublicQuery"
+msgstr "Perbarui Tautan Kueri Publik Formulir"
+
+msgid "corp.log.formRecover"
+msgstr "Pulihkan Formulir"
+
+msgid "corp.log.formRemove"
+msgstr "Hapus Formulir"
+
+msgid "corp.log.formRename"
+msgstr "Ganti Nama Formulir"
+
+msgid "corp.log.formUpdate"
+msgstr "Perbarui Desain Formulir"
+
+msgid "corp.log.guestConnect"
+msgstr "Undang Bisnis Eksternal"
+
+msgid "corp.log.guestDockerExport"
+msgstr "Ekspor Kontak Eksternal"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "Edit Info Kontak Eksternal"
+
+msgid "corp.log.guestUpdate"
+msgstr "Edit Info Bisnis Eksternal"
+
+msgid "corp.log.hostDisconnect"
+msgstr "Putuskan hubungan dengan bisnis"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "Tambahkan Kontak Kami"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "Hapus Kontak Kami"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "Edit Info Kontak Kami"
+
+msgid "corp.log.integrateUpdate"
+msgstr "Edit Informasi Pengikatan"
+
+msgid "corp.log.ip"
+msgstr "Alamat IP"
+
+msgid "corp.log.kmsDisable"
+msgstr "Nonaktifkan Basis Pengetahuan"
+
+msgid "corp.log.kmsEnable"
+msgstr "Aktifkan Basis Pengetahuan"
+
+msgid "corp.log.loginLocation"
+msgstr "Lokasi Masuk"
+
+msgid "corp.log.loginLog"
+msgstr "Riwayat Masuk"
+
+msgid "corp.log.loginLogExport"
+msgstr "Ekspor Riwayat Login"
+
+msgid "corp.log.loginPlatform"
+msgstr "Platform Masuk"
+
+msgid "corp.log.loginTime"
+msgstr "Waktu Masuk"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "Tambahkan Grup Admin"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "Hapus Grup Admin"
+
+msgid "corp.log.manageGroupRename"
+msgstr "Ganti Nama Grup Admin"
+
+msgid "corp.log.managersAdd"
+msgstr "Tambahkan Admin"
+
+msgid "corp.log.managersRemove"
+msgstr "Hapus Admin"
+
+msgid "corp.log.memberExit"
+msgstr "Secara sukarela meninggalkan organisasi"
+
+msgid "corp.log.memberExport"
+msgstr "Ekspor Kontak"
+
+msgid "corp.log.memberFreeze"
+msgstr "Nonaktifkan Anggota"
+
+msgid "corp.log.memberHardDelete"
+msgstr "Hapus Anggota"
+
+msgid "corp.log.memberInvite"
+msgstr "Mengundang"
+
+msgid "corp.log.memberRecover"
+msgstr "Aktifkan Anggota"
+
+msgid "corp.log.memberRemove"
+msgstr "Menonaktifkan"
+
+msgid "corp.log.memberUpdate"
+msgstr "Perbarui Info Anggota"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "Peran Ekspor"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "Peran Impor"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "Nonaktifkan Webhook (Pesan)"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "Aktifkan Webhook (Pesan)"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "Edit Webhook (Pesan)"
+
+msgid "corp.log.oauthCreate"
+msgstr "Tambahkan Otorisasi"
+
+msgid "corp.log.oauthDelete"
+msgstr "Nonaktifkan Otorisasi"
+
+msgid "corp.log.ocrBankCard"
+msgstr "Kartu Bank"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "Lisensi Bisnis"
+
+msgid "corp.log.ocrContent"
+msgstr "Konten OCR"
+
+msgid "corp.log.ocrCount"
+msgstr "Penggunaan OCR"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "SIM"
+
+msgid "corp.log.ocrGeneral"
+msgstr "Teks Umum"
+
+msgid "corp.log.ocrIdCard"
+msgstr "Kartu Identitas"
+
+msgid "corp.log.ocrLog"
+msgstr "OCR"
+
+msgid "corp.log.ocrResult"
+msgstr "Hasil OCR"
+
+msgid "corp.log.ocrTime"
+msgstr "Waktu OCR"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "Tiket Kereta Api"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "Faktur Pajak Pertambahan Nilai"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "STNK"
+
+msgid "corp.log.openApiLog"
+msgstr "Log Panggilan API"
+
+msgid "corp.log.openApiLogExport"
+msgstr "Ekspor Log API Terbuka"
+
+msgid "corp.log.operateDetails"
+msgstr "Rincian"
+
+msgid "corp.log.operateLog"
+msgstr "Catatan Platform"
+
+msgid "corp.log.operateLogExport"
+msgstr "Ekspor Log Platform"
+
+msgid "corp.log.operateObject"
+msgstr "Obyek"
+
+msgid "corp.log.operateTime"
+msgstr "Waktu"
+
+msgid "corp.log.operateType"
+msgstr "Jenis"
+
+msgid "corp.log.operator"
+msgstr "Operator"
+
+msgid "corp.log.orderCancel"
+msgstr "Batalkan Pesanan"
+
+msgid "corp.log.orderCreate"
+msgstr "Buat Pesanan"
+
+msgid "corp.log.orderDelete"
+msgstr "Hapus Pesanan"
+
+msgid "corp.log.orderPay"
+msgstr "Perintah Pembayaran"
+
+msgid "corp.log.orderReceipt"
+msgstr "Pesanan Faktur"
+
+msgid "corp.log.payUpdate"
+msgstr "Siapkan Layanan Pembayaran"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "Nonaktifkan Izin Kelola"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "Aktifkan Izin Kelola"
+
+msgid "corp.log.pluginCount"
+msgstr "Penggunaan Plugin"
+
+msgid "corp.log.pluginCreate"
+msgstr "Buat Plugin"
+
+msgid "corp.log.pluginExport"
+msgstr "Plugin Ekspor"
+
+msgid "corp.log.pluginImport"
+msgstr "Impor Plugin"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "Impor dan Perbarui Plugin"
+
+msgid "corp.log.pluginInstall"
+msgstr "Instal Plugin"
+
+msgid "corp.log.pluginName"
+msgstr "Nama Plugin"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "Publikasikan Plugin"
+
+msgid "corp.log.pluginUpdate"
+msgstr "Edit Plugin"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "Penggunaan Plugin"
+
+msgid "corp.log.registrant"
+msgstr "Anggota"
+
+msgid "corp.log.returnStatus"
+msgstr "Status Pengembalian"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "Peran Kelompokkan Kembali"
+
+msgid "corp.log.roleCreate"
+msgstr "Buat Peran"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "Buat Grup Peran"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "Hapus Grup Peran"
+
+msgid "corp.log.roleGroupRename"
+msgstr "Ubah Nama Grup Peran"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "Perbarui Anggota dalam Peran"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "Perbarui Dept. yang Ditugaskan."
+
+msgid "corp.log.roleRemove"
+msgstr "Hapus Peran"
+
+msgid "corp.log.roleRename"
+msgstr "Ubah Nama Peran"
+
+msgid "corp.log.running"
+msgstr "Berlari"
+
+msgid "corp.log.smsContent"
+msgstr "Rincian"
+
+msgid "corp.log.smsCount"
+msgstr "Digunakan"
+
+msgid "corp.log.smsSendFailed"
+msgstr "Pengiriman gagal"
+
+msgid "corp.log.smsSendPhone"
+msgstr "Nomor Ponsel"
+
+msgid "corp.log.smsSendResult"
+msgstr "Mengirim Status"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "Berhasil dikirim"
+
+msgid "corp.log.smsSendingLog"
+msgstr "Pengiriman SMS"
+
+msgid "corp.log.smsTime"
+msgstr "Tanggal"
+
+msgid "corp.log.spaceCreate"
+msgstr "Buat Basis Pengetahuan"
+
+msgid "corp.log.spaceDelete"
+msgstr "Hapus Basis Pengetahuan"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "Buat Set Izin untuk Basis Pengetahuan"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "Hapus Set Izin untuk Basis Pengetahuan"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "Edit Set Izin untuk Basis Pengetahuan"
+
+msgid "corp.log.spaceUpdate"
+msgstr "Edit Info Basis Pengetahuan"
+
+msgid "corp.log.success"
+msgstr "Kesuksesan"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "Siapkan izin produk"
+
+msgid "corp.log.suiteDisable"
+msgstr "Cacat"
+
+msgid "corp.log.suiteEnable"
+msgstr "Memungkinkan"
+
+msgid "corp.log.systemRobot"
+msgstr "Robot Sistem"
+
+msgid "corp.log.tenantVerify"
+msgstr "Otentikasi Identitas"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "Edit Zona Waktu"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "Terapkan untuk Mengelola Kontak Eksternal"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "Izin Transfer Kontak Pengelolaan"
+
+msgid "corp.log.waiting"
+msgstr "Menunggu"
+
+msgid "corp.log.watermarkDisable"
+msgstr "Nonaktifkan Tanda Air Global"
+
+msgid "corp.log.watermarkEnable"
+msgstr "Aktifkan Tanda Air Global"
+
+msgid "corp.log.wxDisable"
+msgstr "Nonaktifkan Integrasi Akun Layanan WeChat"
+
+msgid "corp.log.wxEnable"
+msgstr "Aktifkan Integrasi Akun Layanan WeChat"
+
+msgid "corp.syncFailed"
+msgstr "Sinkronisasi otomatis gagal"
+
+msgid "corp.syncFailedContent"
+msgstr "Sinkronisasi kontak bisnis gagal."
+
+msgid "corp.syncFailedSubject"
+msgstr "Gagal menyinkronkan anggota"
+
+msgid "corp.syncSuccessContent"
+msgstr "Kontak bisnis telah disinkronkan."
+
+msgid "corp.syncSuccessSubject"
+msgstr "Anggota berhasil disinkronisasikan"
+
+msgid "corp.systemManageGroup"
+msgstr "Grup Admin Super"
+
+msgid "corp.unGrouped"
+msgstr "Tidak dikelompokkan"
+
+msgid "corpCoop.department"
+msgstr "Organisasi Eksternal"
+
+msgid "corpUsage.accessTime"
+msgstr "Terakhir Diakses"
+
+msgid "corpUsage.aggregate"
+msgstr "Tabel Agregat"
+
+msgid "corpUsage.app"
+msgstr "Aplikasi"
+
+msgid "corpUsage.app.cardName"
+msgstr "Lihat berdasarkan Ikhtisar Aplikasi"
+
+msgid "corpUsage.app.metricListName"
+msgstr "Lihat berdasarkan Aplikasi - Detail Penggunaan"
+
+msgid "corpUsage.appId"
+msgstr "ID Aplikasi"
+
+msgid "corpUsage.appName"
+msgstr "Nama Aplikasi"
+
+msgid "corpUsage.attachment"
+msgstr "Lampiran yang diunggah"
+
+msgid "corpUsage.automation"
+msgstr "Otomatisasi Pro"
+
+msgid "corpUsage.bpa"
+msgstr "BPA (Bahan Kimia Terlarang)"
+
+msgid "corpUsage.createTime"
+msgstr "Dibuat pada"
+
+msgid "corpUsage.creator"
+msgstr "Pemilik"
+
+msgid "corpUsage.creator.username"
+msgstr "ID Pemilik"
+
+msgid "corpUsage.dash"
+msgstr "Dasbor"
+
+msgid "corpUsage.dash.type"
+msgstr "Dasbor"
+
+msgid "corpUsage.data"
+msgstr "Jumlah Data"
+
+msgid "corpUsage.data_trigger"
+msgstr "Otomatisasi"
+
+msgid "corpUsage.date"
+msgstr "Tanggal"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "Rincian Data"
+
+msgid "corpUsage.etl"
+msgstr "Pabrik Data"
+
+msgid "corpUsage.fileName"
+msgstr "Penggunaan Sumber Daya"
+
+msgid "corpUsage.form_coop"
+msgstr "Bentuk Reguler"
+
+msgid "corpUsage.form_coop.type"
+msgstr "Bentuk Reguler"
+
+msgid "corpUsage.form_workflow"
+msgstr "Formulir Alur Kerja"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "ID Formulir Alur Kerja"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "Nama Formulir Alur Kerja"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "Formulir Alur Kerja"
+
+msgid "corpUsage.member.cardName"
+msgstr "Lihat Berdasarkan Anggota - Gambaran Umum"
+
+msgid "corpUsage.member.metricListName"
+msgstr "Lihat Berdasarkan Anggota - Detail Penggunaan"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "Tidak Ada Data"
+
+msgid "corpUsage.public_link"
+msgstr "Tautan Publik Diaktifkan"
+
+msgid "corpUsage.public_link.type"
+msgstr "Jenis Objek"
+
+msgid "corpUsage.updateTime"
+msgstr "Terakhir Diedit"
+
+msgid "corp_coop.operate.create"
+msgstr "ditambahkan"
+
+msgid "corp_coop.operate.delete"
+msgstr "dihapus"
+
+msgid "corp_coop.side.other"
+msgstr "-nya"
+
+msgid "corp_coop.side.our"
+msgstr "milikmu"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "Kontrol lampiran aplikasi dinonaktifkan untuk aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "Mengaktifkan kontrol lampiran aplikasi untuk aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "Mengubah kontrol lampiran aplikasi dari aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.app_home_update"
+msgstr "Menyesuaikan beranda aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "Tambahkan Grup Pengelola Aplikasi {{ name }} di {{ appName }}"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "Hapus Grup Pengelola Aplikasi {{ name }} di {{ appName }}"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr ""
+"Ubah Nama Grup Pengelola Aplikasi dari {{ oriName }} menjadi {{ name }} di "
+"{{ appName }}"
+
+msgid "corp_log.content.app_manager_add"
+msgstr "Tambahkan Manajer Aplikasi {{members}} di {{name}} dari {{appName}}"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "Hapus Manajer Aplikasi {{members}} di {{name}} dari {{appName}}"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "Mengedit pengaturan lintas aplikasi untuk aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.app_url_update"
+msgstr "Mengedit URL aplikasi dari aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "Tanda Air Aplikasi Dinonaktifkan untuk aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "Mengaktifkan Tanda Air Aplikasi untuk aplikasi \"{{ app_name }}\""
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "Delegasi Inisiasi dinonaktifkan"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "Delegasi Inisiasi diaktifkan"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr ""
+"Delegasi telah dibatalkan: Delegasi dari {{ principal }} ke {{ agent }} "
+"selama {{ timeRange }}"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "Anggota yang diperbarui dalam daftar blokir"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr ""
+"Anggota yang diperbarui dan rentang pemberitahuan aplikasi untuk daftar "
+"blokir"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "Rentang notifikasi aplikasi yang diperbarui untuk daftar blokir"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "BPA dinonaktifkan untuk {{ count }} formulir"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "BPA Diaktifkan untuk {{ count }} formulir"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "BPA dinonaktifkan untuk formulir \"{{ flow_name }}\""
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "Mengaktifkan BPA untuk formulir \"{{ flow_name }}\""
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "Menyesuaikan izin formulir/dasbor secara berkelompok"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "Mengimpor info peran"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "Anggota yang diimpor ke \"{{ fullRoleNames }}\""
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "Dept. yang ditugaskan untuk anggota di {{ role }} telah diperbarui."
+
+msgid "corp_log.content.role_rel_update"
+msgstr "Dept. yang ditugaskan untuk {{ nickname }} di {{ role }} telah diperbarui."
+
+msgid "corp_log.content.space_create"
+msgstr "Membuat basis pengetahuan \"{{ space_name }}\""
+
+msgid "corp_log.content.space_delete"
+msgstr "Menghapus basis pengetahuan \"{{ space_name }}\""
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "Membuat set izin \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "Menghapus set izin \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "Mengedit set izin \"{{ space_perm_group_name }}\""
+
+msgid "corp_log.content.space_update"
+msgstr "Mengedit info dasar basis pengetahuan \"{{ space_name }}\""
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "Mengatur siapa yang dapat menggunakan \"{{ name }}\""
+
+msgid "corp_log.content.suite_disable"
+msgstr "Nonaktifkan \"{{ nama }}\""
+
+msgid "corp_log.content.suite_enable"
+msgstr "Aktifkan \"{{ nama }}\""
+
+msgid "crm.upgrade.relatedData"
+msgstr "Pencarian"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "Terima undangan dari {{ nickname}}({{ corpName }})"
+
+msgid "crop_log.content.agent_disable"
+msgstr "Plugin Dinonaktifkan {{ plugin_name }}"
+
+msgid "crop_log.content.agent_enable"
+msgstr "Agen Plugin Diaktifkan {{ plugin_name }}"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "Agen Plugin yang Dihapus {{ plugin_name }}"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr ""
+"Membuat tabel agregat {{name}}, disalin dari tabel agregat {{ori_name}} di "
+"aplikasi {{app_name}}"
+
+msgid "crop_log.content.aggregate_create"
+msgstr "Membuat tabel agregat {{ name }}"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "Tabel agregat \"{{ name }}\" telah dipulihkan"
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "Tabel agregat yang dihapus {{ nama }}"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "Mengganti nama tabel agregat {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "Memperbarui desain tabel agregat {{ name }}"
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "Tabel agregat \"{{ name }}\" telah ditingkatkan"
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "Lab AI tertutup"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "Membuka lab AI"
+
+msgid "crop_log.content.api_key_create"
+msgstr "Menambahkan Kunci API"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "Menambahkan Kunci API \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_delete"
+msgstr "Kunci API yang Dihapus"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "Kunci API yang Dihapus \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_disable"
+msgstr "Kunci API Dinonaktifkan"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "Kunci API \"{{ suite_name }}\" dinonaktifkan"
+
+msgid "crop_log.content.api_key_enable"
+msgstr "Kunci API Diaktifkan"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "Kunci API yang Diaktifkan \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "Perbarui \"Lingkup Otorisasi Api\" dari Kunci \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "Perbarui \"Ruang Lingkup Otorisasi Aplikasi\" dari Kunci \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "Perbarui \"Daftar Putih IP\" dari Kunci \"{{ name }}\""
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "Perbarui \"Nama\" dari Kunci \"{{ name }}\""
+
+msgid "crop_log.content.app_create"
+msgstr "Aplikasi yang dibuat {{ name }}"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "Membuat aplikasi {{ name }} dengan menyalin dari {{ ori_name }}"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "Log ETL yang diekspor"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "Aplikasi yang diinstal {{name}} dari DingDingDa"
+
+msgid "crop_log.content.app_install_link"
+msgstr "Aplikasi yang diinstal {{ name }} dari tautan berbagi aplikasi"
+
+msgid "crop_log.content.app_install_template"
+msgstr "Aplikasi yang diinstal {{ name }} dari pusat template"
+
+msgid "crop_log.content.app_log_export"
+msgstr "Log Aplikasi yang Diekspor"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "Grup Admin Aplikasi yang Dinonaktifkan"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "Grup Admin Aplikasi Diaktifkan"
+
+msgid "crop_log.content.app_recover"
+msgstr "Aplikasi yang dipulihkan {{ name }}"
+
+msgid "crop_log.content.app_remove"
+msgstr "Aplikasi yang dihapus {{name}}"
+
+msgid "crop_log.content.app_rename"
+msgstr "Mengganti nama aplikasi {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "Log Pemicu yang Diekspor"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "Nonaktifkan kontrol lampiran global"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "Kontrol lampiran global diaktifkan"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "Memperbarui set izin {{ name }} Pengaturan"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "Menambahkan set izin {{ name }}"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "Set izin yang dihapus {{name}}"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "Mengganti nama set izin {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "Memperbarui anggota set izin {{ name }}"
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "Mengedit pengaturan pembayaran koin cloud"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "Log Penggunaan Koin yang Diekspor"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "Menambahkan tautan undangan untuk bisnis eksternal"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "Menghapus tautan undangan untuk bisnis eksternal"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "Mengedit tautan undangan untuk bisnis eksternal"
+
+msgid "crop_log.content.corp_rename"
+msgstr "Mengganti nama bisnis \"{{ old_corp_name }}\" menjadi \"{{ new_corp_name }}\""
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "Gaya Bisnis Penyandang Disabilitas"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "Gaya Bisnis yang Diaktifkan"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "Gaya Bisnis yang Diedit"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "Mengedit URL portal bisnis"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "Menambahkan peran kontak eksternal \"{{ roleName }}\""
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "Halaman Login Kustom Dinonaktifkan"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "Halaman Login Kustom Diaktifkan"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "Ruang Kerja Bisnis yang Diedit"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "Memperbarui set izin dasbor {{ name }}"
+
+msgid "crop_log.content.dash_create"
+msgstr "Membuat dasbor {{ name }}"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr ""
+" Membuat dasbor {{ name }} dengan menyalin dari dasbor {{ ori_name }} dari "
+"aplikasi {{ app_name }}"
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "Menonaktifkan ekspor publik dasbor"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "Mengaktifkan ekspor publik dasbor"
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "Menonaktifkan tautan publik dasbor"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "Mengaktifkan tautan publik dasbor"
+
+msgid "crop_log.content.dash_recover"
+msgstr "Dasbor yang dipulihkan {{ name }}"
+
+msgid "crop_log.content.dash_remove"
+msgstr "Dasbor dihapus {{ nama }}"
+
+msgid "crop_log.content.dash_rename"
+msgstr "Mengganti nama dasbor {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.dash_update"
+msgstr "Memperbarui desain dasbor {{ name }}"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "Catatan yang dicetak secara batch dalam templat {{ template_name }}."
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "Batch memulihkan {{ count }} rekaman"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "Menghapus {{ count }} rekaman secara batch"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "Menghapus {{ count}} catatan secara batch dari Daur Ulang Data"
+
+msgid "crop_log.content.data_batch_update"
+msgstr ""
+"Memperbarui {{ total }} catatan dalam batch, {{ success }} berhasil, {{ "
+"failed }} gagal"
+
+msgid "crop_log.content.data_create"
+msgstr "Data tambahan {{ data_label }}"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr ""
+"Catatan yang dicetak secara batch dari {{ nama_tabel }} dalam templat {{ "
+"nama_templat }}."
+
+msgid "crop_log.content.data_export"
+msgstr "Mengekspor data {{ entry_name }}"
+
+msgid "crop_log.content.data_import"
+msgstr "Menambahkan {{ count }} catatan dengan mengimpor"
+
+msgid "crop_log.content.data_import_file"
+msgstr "{{ success }} lampiran diimpor."
+
+msgid "crop_log.content.data_import_update"
+msgstr "Memperbarui {{ count }} catatan dengan mengimpor"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"Memperbarui {{ updata_datas_amount }} catatan, Menambahkan {{ "
+"insert_datas_amount }} catatan dengan mengimpor"
+
+msgid "crop_log.content.data_print"
+msgstr "Rekaman yang dicetak {{ data_label }} dalam templat {{ template_name }}."
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "Kode QR Data yang dicetak secara batch."
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "Kode Batang Lapangan yang dicetak secara batch."
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "Kode QR Lapangan yang dicetak secara batch."
+
+msgid "crop_log.content.data_recover"
+msgstr "Data yang dipulihkan {{ data_label }}"
+
+msgid "crop_log.content.data_remove"
+msgstr "Data yang dihapus {{ data_label }}"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "Data yang dihapus {{ data_label }} dari Daur Ulang Data"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr ""
+"Membuat otomatisasi {{ name }} yang disalin dari otomatisasi {{ ori_name }} "
+"dari aplikasi {{ app_name }}."
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "Dibuat otomatisasi {{ nama }}"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "Otomatisasi yang dihapus {{ name }}"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "Otomatisasi yang diaktifkan {{ name }}"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "Otomatisasi dinonaktifkan {{ name }}"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "Otomatisasi yang diperbarui {{ name }}"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr "Otomatisasi {{ ori_name }} diperbarui dan diganti nama menjadi {{ name }}"
+
+msgid "crop_log.content.data_update"
+msgstr "Data yang diperbarui {{ data_label }}"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "Menghapus peran kontak eksternal \"{{ roleName }}\""
+
+msgid "crop_log.content.dept_create"
+msgstr "Menambahkan departemen {{ nama }}"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "Menambahkan tag bisnis \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "Menghapus tag bisnis \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr "Menyesuaikan perusahaan di bawah tag bisnis \"{{ dept_label_name }}\""
+
+msgid "crop_log.content.dept_label_update"
+msgstr ""
+"Mengganti nama tag bisnis \"{{ old_dept_label_name }}\" menjadi \"{{ "
+"new_dept_label_name }}\""
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "Memperbarui kepala departemen {{ nama }}"
+
+msgid "crop_log.content.dept_remove"
+msgstr "Departemen yang dihapus {{name}}"
+
+msgid "crop_log.content.dept_rename"
+msgstr "Mengganti nama departemen {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "{{ count }} anggota dibuat secara batch."
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "{{ count }} anggota \"{{ roleName }}\" diberhentikan."
+
+msgid "crop_log.content.etl_copy"
+msgstr ""
+" Membuat aliran data {{ name }} dengan menyalin dari aliran data {{ "
+"ori_name }} dari aplikasi {{ app_name }}"
+
+msgid "crop_log.content.etl_create"
+msgstr "Aliran data yang dibuat {{ name }}"
+
+msgid "crop_log.content.etl_remove"
+msgstr "Aliran data yang dihapus {{ nama }}"
+
+msgid "crop_log.content.etl_rename"
+msgstr "Ubah nama aliran data {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.etl_update"
+msgstr "Memperbarui desain aliran data {{ name }}"
+
+msgid "crop_log.content.fields_recover"
+msgstr ""
+"Memperbarui desain formulir {{ name }}, dan memulihkan {{ count }} bidang "
+"dari Daur Ulang Bidang: {{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"Memperbarui desain formulir {{ name }}, menghapus bidang {{ delCount }}, "
+"dan memulihkan bidang {{ recoverCount }} dari Daur Ulang Bidang: {{fields}}"
+
+msgid "crop_log.content.fields_remove"
+msgstr "Memperbarui desain formulir {{ name }} dan menghapus bidang {{ count }}"
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "Menghapus {{ count }} bidang sepenuhnya dari Daur Ulang Bidang: {{ fields }}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr ""
+"Recycle Bin telah dikosongkan, dan {{ count }} kolom telah dihapus "
+"sepenuhnya"
+
+msgid "crop_log.content.file_batch_export"
+msgstr "Mengunduh berkas dari {{ entry_name }}"
+
+msgid "crop_log.content.flow_update"
+msgstr "Memperbarui desain alur kerja formulir {{ name }}"
+
+msgid "crop_log.content.form_create"
+msgstr "Dibuat dari formulir {{ name }}"
+
+msgid "crop_log.content.form_create_copy"
+msgstr ""
+" Dibuat form {{ name }} dengan menyalin dari form {{ ori_name }} dari "
+"aplikasi {{ app_name }}"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "Hapus halaman detail khusus"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "Beralih ke halaman detail khusus"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "Beralih ke halaman detail default sistem"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "Edit halaman detail khusus"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "Nonaktifkan Pembayaran"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "Aktifkan Pembayaran"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "Ubah Pengaturan Pembayaran"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "Menonaktifkan tautan publik untuk rekaman"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "Mengaktifkan tautan publik untuk rekaman"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "Menonaktifkan tautan publik"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "Mengaktifkan tautan publik"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "Menonaktifkan tautan kueri publik"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "Mengaktifkan tautan kueri publik"
+
+msgid "crop_log.content.form_recover"
+msgstr "Pulihkan formulir {{ nama }}"
+
+msgid "crop_log.content.form_remove"
+msgstr "Formulir yang dihapus {{name}}"
+
+msgid "crop_log.content.form_rename"
+msgstr "Ubah nama formulir {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.form_update"
+msgstr "Mengubah desain formulir untuk formulir {{ name }}"
+
+msgid "crop_log.content.guest_connect"
+msgstr "Mengundang {{ count }} bisnis secara berkelompok"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "Mengekspor semua kontak eksternal"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr "Mengedit info kontak eksternal \"{{ old_guest_docker_nickname }}\""
+
+msgid "crop_log.content.guest_update"
+msgstr "Mengedit informasi bisnis eksternal"
+
+msgid "crop_log.content.handover_work"
+msgstr "Diserahkan {{ dari }} {{ karya }} kepada {{ ke }}"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr "Terputus dengan {{ count }} bisnis yang mengundang kami untuk berkolaborasi"
+
+msgid "crop_log.content.host_connect"
+msgstr "Mengundang bisnis eksternal {{ host_corp_name }}"
+
+msgid "crop_log.content.host_disconnect"
+msgstr ""
+"Terputus dengan bisnis \"{{ name }}\" yang mengundang kami untuk "
+"berkolaborasi"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "Menambahkan {{ count }} kontak kami"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "Dihapus {{ count }} kontak kami"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "Menambahkan kontak kami \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "Menghapus kontak kami \"{{ name }}\""
+
+msgid "crop_log.content.host_docker_update"
+msgstr "Mengedit info kontak kami \"{{ name }}\""
+
+msgid "crop_log.content.integrate_update"
+msgstr "Informasi pengikatan yang diedit"
+
+msgid "crop_log.content.kms_disable"
+msgstr "Basis Pengetahuan bagi Penyandang Disabilitas"
+
+msgid "crop_log.content.kms_enable"
+msgstr "Basis Pengetahuan yang Diaktifkan"
+
+msgid "crop_log.content.login_log_export"
+msgstr "Riwayat Login yang Diekspor"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "Menambahkan grup admin {{ name }}"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "Grup admin yang dihapus {{ name }}"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "Mengganti nama grup admin {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.managers_add"
+msgstr "Anggota yang ditambahkan ke grup admin {{ name }}: {{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "Anggota yang dihapus dalam grup admin {{ name }}: {{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "Batch menonaktifkan {{ count }} anggota"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "Batch menghapus {{ count }} anggota yang tidak aktif"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "{{ count }} anggota yang diaktifkan secara batch"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "Batch menonaktifkan {{ count }} anggota"
+
+msgid "crop_log.content.member_exit"
+msgstr "Anggota “{{ nickname }}” secara sukarela meninggalkan organisasi"
+
+msgid "crop_log.content.member_export"
+msgstr "Anggota yang diekspor dari Kontak"
+
+msgid "crop_log.content.member_freeze"
+msgstr "Dinonaktifkan {{ nickname }}"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "Anggota yang tidak aktif telah dihapus {{ nickname }}"
+
+msgid "crop_log.content.member_import"
+msgstr "Mengundang {{ count }} anggota"
+
+msgid "crop_log.content.member_invite"
+msgstr "Mengundang {{ nickname }}"
+
+msgid "crop_log.content.member_recover"
+msgstr "Diaktifkan \"{{ nickname }}\""
+
+msgid "crop_log.content.member_remove"
+msgstr "Dinonaktifkan {{ nickname }}"
+
+msgid "crop_log.content.member_update"
+msgstr "Memperbarui informasi {{ nickname }}"
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "Webhook Dinonaktifkan (Pesan)"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "Webhook Diaktifkan (Pesan)"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "Webhook yang Diedit (Pesan)"
+
+msgid "crop_log.content.oauth_create"
+msgstr "Menambahkan otorisasi untuk \"{{ suite_name }}\""
+
+msgid "crop_log.content.oauth_delete"
+msgstr "Mencabut otorisasi untuk \"{{ suite_name }}\""
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "Log API Terbuka yang Diekspor"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "Log Platform yang Diekspor"
+
+msgid "crop_log.content.order_cancel"
+msgstr "Membatalkan pesanan"
+
+msgid "crop_log.content.order_create"
+msgstr "Membuat pesanan"
+
+msgid "crop_log.content.order_delete"
+msgstr "Menghapus pesanan"
+
+msgid "crop_log.content.order_pay"
+msgstr "Dibayar untuk pesanan"
+
+msgid "crop_log.content.order_receipt"
+msgstr "Ditagih pada saat pesanan"
+
+msgid "crop_log.content.pay_disable"
+msgstr "Nonaktifkan Layanan Pembayaran"
+
+msgid "crop_log.content.pay_enable"
+msgstr "Aktifkan Layanan Pembayaran"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "Tautan UnionPay Merchant"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "Hapus Pedagang UnionPay"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "Izin Pengelolaan Dinonaktifkan"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "Diaktifkan Kelola Izin"
+
+msgid "crop_log.content.plugin_create"
+msgstr "Membuat plugin “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_delete"
+msgstr "Menghapus plugin \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr ""
+"Membuat plugin \"{{ plugin_name }}\" dan menyalin dari \"{{ ori_plugin_name "
+"}}\""
+
+msgid "crop_log.content.plugin_export"
+msgstr "Ekspor plugin “{{ nama_plugin }}”"
+
+msgid "crop_log.content.plugin_import"
+msgstr "Impor plugin “{{ nama_plugin }}”"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "Impor dan perbarui plugin “{{ plugin_name }}”"
+
+msgid "crop_log.content.plugin_install"
+msgstr "Plugin Terpasang {{ plugin_name }}"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "Diajukan untuk menerbitkan plugin \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_update"
+msgstr "Mengedit plugin \"{{ plugin_name }}\""
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "Anggota yang diubah di bawah peran kontak eksternal \"{{ roleName }}\""
+
+msgid "crop_log.content.role_change_group"
+msgstr "Menambahkan peran \"{{ role_name }}\" ke grup \"{{ new_group_name }}\""
+
+msgid "crop_log.content.role_create"
+msgstr "Peran yang dibuat {{ name }} di grup peran {{ group_name }}"
+
+msgid "crop_log.content.role_group_create"
+msgstr "Membuat grup peran {{ name }}"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "Grup peran yang dihapus {{ name }}"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "Mengganti nama grup peran {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.role_member_update"
+msgstr "Anggota yang diperbarui dalam peran {{ name }}"
+
+msgid "crop_log.content.role_remove"
+msgstr "Peran yang dihapus {{ name }} dalam grup peran {{ group_name }}"
+
+msgid "crop_log.content.role_rename"
+msgstr "Mengganti nama peran {{ ori_name }} menjadi {{ name }}"
+
+msgid "crop_log.content.tenant_verify"
+msgstr " Identitas yang diautentikasi"
+
+msgid "crop_log.content.timezone_update"
+msgstr ""
+"Mengubah zona waktu dari \"{{ old_timezone }}\" menjadi \"{{ new_timezone "
+"}}\""
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr "Diterapkan untuk mengelola kontak bisnis yang terhubung \"{{ name }}\""
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr "Mentransfer izin pengelolaan kontak untuk bisnis terhubung \"{{ name }}\""
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr ""
+"Mengganti nama peran kontak eksternal \"{{ oldRoleName }}\" menjadi \"{{ "
+"newRoleName }}\""
+
+msgid "crop_log.content.watermark_disable"
+msgstr "Tanda Air Global Dinonaktifkan"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "Tanda Air Global Diaktifkan"
+
+msgid "crop_log.content.wx_disable"
+msgstr "Integrasi Akun Layanan WeChat Dinonaktifkan"
+
+msgid "crop_log.content.wx_enable"
+msgstr "Mengaktifkan Integrasi Akun Layanan WeChat"
+
+msgid "crop_log.link_text.view_details"
+msgstr "Lihat Detail"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} - Masuk"
+
+msgid "dash.date.format.year.quarter"
+msgstr "YYYY/QQ"
+
+msgid "dash.date.format.year.week"
+msgstr "YYYY/Www"
+
+msgid "dash.excel.export.subtotal"
+msgstr "Jumlah keseluruhan"
+
+msgid "dash.excel.export.sum"
+msgstr "Keseluruhan"
+
+msgid "dash.excel.export.total"
+msgstr "Pengumpulan"
+
+msgid "dash.percent"
+msgstr "Persentase"
+
+msgid "deptType.corpCoop"
+msgstr "Pelanggan dan Klien"
+
+msgid "deptType.internal"
+msgstr "Anggota"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "Alamat email salah. Periksalah."
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "Emailnya sudah ada."
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr "Nama pengguna anggota hanya mendukung huruf, angka, dan garis bawah."
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "Nama pengguna untuk anggota harus terdiri antara 3 dan 80 karakter."
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "Masukkan nama pengguna anggota"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "Nama pengguna sudah ada di Kontak."
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"Nama pengguna telah digunakan oleh penyewa lain. Verifikasi apakah nama "
+"pengguna tersebut milik anggota yang sama. Jika ya, kirimkan undangan untuk "
+"bergabung. Jika tidak, ubah nama pengguna tersebut."
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "Panjang maksimum nama anggota adalah 80 karakter."
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "Masukkan nama anggota."
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "Tidak ditemukan kebijakan impor yang sesuai"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "Masukkan kata sandi."
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "Nomor ponsel salah. Periksalah."
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "Nomor ponsel sudah ada."
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "Kesalahan tidak diketahui."
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "Nomor anggota hanya mendukung huruf, angka, garis bawah, dan '.'"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "Nomor anggota sudah ada di Kontak."
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "Tidak ditemukan pengguna atau anggota yang dapat digunakan kembali"
+
+msgid "email.title.aggregate_buffer"
+msgstr "Peringatan Konsumsi Berlebih Tabel Agregat untuk \"{{ _g_productName }}\""
+
+msgid "email.title.aggregation_buffer"
+msgstr "Peringatan Konsumsi Berlebih Agregasi untuk \"{{ _g_productName }}\""
+
+msgid "email.title.appTrialExpire"
+msgstr "{{ _g_productName }}: Pengingat Kedaluwarsa Uji Coba"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "Penggunaan Pro Otomatisasi \"{{ _g_productName }}\""
+
+msgid "email.title.bpa_buffer"
+msgstr "Peringatan Konsumsi Berlebihan BPA untuk \"{{ _g_productName }}\""
+
+msgid "email.title.buffer_expired"
+msgstr ""
+"Peringatan untuk \"{{ _g_productName }}\": Batas Penggunaan Sistem "
+"Terlampaui & Layanan Ditangguhkan"
+
+msgid "email.title.coinRunOut"
+msgstr "{{ _g_productName }}: Anda Kehabisan {{ _g_productName }} Koin"
+
+msgid "email.title.coinRunningOut"
+msgstr "{{ _g_productName }}: Anda akan Kehabisan {{ _g_productName }} Koin"
+
+msgid "email.title.comment"
+msgstr "Komentar baru menyebutkan Anda. Mohon balas tepat waktu"
+
+msgid "email.title.corpInvite"
+msgstr "{{ _g_productName }}: Undangan Kolaborasi"
+
+msgid "email.title.dashAlert"
+msgstr "Data memicu peringatan"
+
+msgid "email.title.dashAlertLimit"
+msgstr "{{ _g_productName }}: Peringatan Data Dasbor Mencapai Batas Harian Maksimum"
+
+msgid "email.title.docTrend"
+msgstr "{{ _g_productName }}: Pembaruan Dokumen"
+
+msgid "email.title.etl_buffer"
+msgstr "Peringatan Konsumsi Berlebihan Pabrik Data untuk \"{{ _g_productName }}\""
+
+msgid "email.title.formDataExceed"
+msgstr "{{ _g_productName }}: Volume Data dalam Satu Tabel Telah Melebihi Batas"
+
+msgid "email.title.formDataUsage"
+msgstr "{{ _g_productName }}: Volume Data dalam Satu Tabel Akan Melebihi Batas"
+
+msgid "email.title.monthlyDataExceed"
+msgstr "{{ _g_productName }}: Volume Data Mencapai Batas Bulanan Maksimum"
+
+msgid "email.title.systemLog"
+msgstr "{{ _g_productName }}: Log Sistem"
+
+msgid "email.title.tenantCoop"
+msgstr "「{{ _g_productName }}」Kolaborasi Perusahaan"
+
+msgid "email.title.totalDataExceed"
+msgstr "{{ _g_productName }}: Total volume data telah melampaui batas"
+
+msgid "email.title.totalDataUsage"
+msgstr "{{ _g_productName }}: Total Volume Data Akan Melebihi Batas"
+
+msgid "email.title.trialExpire"
+msgstr "{{ _g_productName }}: Uji Coba VIP Anda akan segera berakhir"
+
+msgid "email.title.trigger_buffer"
+msgstr "Peringatan Konsumsi Berlebih Otomatis untuk \"{{ _g_productName }}\""
+
+msgid "email.title.uploadUsage"
+msgstr "{{ _g_productName }}: Jumlah Total Lampiran Akan Melebihi Batas"
+
+msgid "email.title.userChannelVerify"
+msgstr "{{ _g_productName }}: Verifikasi Email"
+
+msgid "email.title.user_buffer"
+msgstr "Peringatan Konsumsi Berlebihan Anggota untuk \"{{ _g_productName }}\""
+
+msgid "email.title.vipExpire"
+msgstr "{{ _g_productName }}: VIP Anda akan segera Kedaluwarsa"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr ""
+"Jika konten dalam sel tertentu melebihi panjang maksimum, sel tersebut "
+"dapat dikosongkan:"
+
+msgid "error.export.excel.errorSheetName"
+msgstr "Kesalahan Ekspor"
+
+msgid "error.export.excel.fileName"
+msgstr "Daftar Kegagalan"
+
+msgid "event.appCreate"
+msgstr "Buat Aplikasi"
+
+msgid "event.appPublishAccept"
+msgstr "Aplikasi berhasil dipublikasikan"
+
+msgid "event.appPublishFailed"
+msgstr "Gagal menerbitkan aplikasi"
+
+msgid "event.appRemove"
+msgstr "Hapus Aplikasi"
+
+msgid "event.corpAutoSync"
+msgstr "Sinkronisasi Bisnis Otomatis"
+
+msgid "event.corpManualSync"
+msgstr "Sinkronisasi Manual Bisnis"
+
+msgid "event.createDept"
+msgstr "Tambahkan Departemen"
+
+msgid "event.createManageGroup"
+msgstr "Tambahkan Grup"
+
+msgid "event.createRole"
+msgstr "Tambahkan Peran"
+
+msgid "event.dataWebhook"
+msgstr "kait web"
+
+msgid "event.entryWebhook"
+msgstr "Konfigurasi Formulir Dorong"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "Gagal menjalankan aliran data sesuai jadwal"
+
+msgid "event.fileExportComplete"
+msgstr "File sudah siap"
+
+msgid "event.fileExportFailed"
+msgstr "Gagal mengekspor file"
+
+msgid "event.inviteToJoin"
+msgstr "Mengundang Anda untuk Bergabung"
+
+msgid "event.kms.spaceApply"
+msgstr "Menerima permintaan baru untuk membuat basis pengetahuan"
+
+msgid "event.memberHardDelete"
+msgstr "Hapus Anggota"
+
+msgid "event.memberInvite"
+msgstr "Undang Anggota"
+
+msgid "event.memberRemove"
+msgstr "Menonaktifkan"
+
+msgid "event.removeDept"
+msgstr "Hapus Departemen"
+
+msgid "event.removeManageGroup"
+msgstr "Hapus Grup Admin"
+
+msgid "event.removeRole"
+msgstr "Hapus Peran"
+
+msgid "event.smsDataComment"
+msgstr "Komentar Data"
+
+msgid "event.smsFlowData"
+msgstr "Pengingat Alur Kerja"
+
+msgid "event.smsVerify"
+msgstr "Kode Verifikasi SMS"
+
+msgid "event.systemLogNotify"
+msgstr "Pemberitahuan Log Sistem"
+
+msgid "event.timedReminder"
+msgstr "Pengingat"
+
+msgid "event.updateManageGroupMembers"
+msgstr "Perbarui Anggota Admin"
+
+msgid "excel.address.city"
+msgstr "(Kota)"
+
+msgid "excel.address.detail"
+msgstr "(Alamat)"
+
+msgid "excel.address.district"
+msgstr "(Kecamatan Kabupaten)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(Garis Lintang dan Garis Bujur)"
+
+msgid "excel.address.province"
+msgstr "(Negara bagian/Provinsi)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "Nama Bisnis"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "E-mail"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "Adalah Pemilik"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "Nama"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "Nomor telepon"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "Peran"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "Nama Bisnis"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "Menandai"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "E-mail"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "Adalah Pemilik"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "Nama"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "Seluler"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "Peran"
+
+msgid "excel.datetime.format.date"
+msgstr "YYYY-MM-DD"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "YYYY-MM-DD HH:MM"
+
+msgid "excel.datetime.format.date.month"
+msgstr "YYYY-MM"
+
+msgid "excel.datetime.format.datetime"
+msgstr "YYYY-MM-DD HH:MM:DD"
+
+msgid "excel.filename.dataTable"
+msgstr "Tabel Data"
+
+msgid "excel.filename.dataTemplate"
+msgstr "Templat Data"
+
+msgid "excel.filename.table"
+msgstr "Tabel Statistik"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"Nama departemen duplikat \"{{ value }}\" ditemukan di kolom \"{{ colLabel "
+"}}\". Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "Detail Kesalahan"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"Format yang salah untuk \"{{ value }}\" di kolom \"{{ colLabel }}\". Kolom "
+"ini sesuai dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" gagal mencocokkan ID apa pun. "
+"Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"Pilih opsi {{ itemCount }} di kolom \"{{ colLabel }}\". Kolom ini sesuai "
+"dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"Jumlah opsi maksimum {{ maxItemCount }} untuk kolom \"{{ colLabel }}\". "
+"Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" dalam formulir."
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"Opsi minimum {{ minItemCount }} untuk kolom \"{{ colLabel }}\". Kolom ini "
+"sesuai dengan kolom \"{{ widgetLabel }}\" dalam formulir."
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"Silakan pilih opsi {{ minItemCount }} hingga {{ maxItemCount }} untuk kolom "
+"\"{{ colLabel }}\". Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" "
+"dalam formulir."
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" gagal mencocokkan opsi apa pun. "
+"Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"Gandakan data untuk \"{{ value }}\" dalam formulir \"{{ formNames }}\". "
+"Beri anotasi pada formulir yang akan diimpor dalam format \"Field Value # "
+"Form\"."
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"Nama bidang duplikat \"{{ colLabel }}\" ditemukan dalam formulir \"{{ "
+"formName }}\". Bidang ini sesuai dengan bidang \"{{ widgetLabel }}\" dalam "
+"formulir saat ini."
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" gagal mencocokkan data apa pun "
+"di formulir terkait. Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di "
+"formulir saat ini."
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" cocok dengan beberapa catatan "
+"di formulir terkait. Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di "
+"formulir saat ini."
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr ""
+"Untuk kolom \"{{ colLabel }}\", {{ repeatRemind }}. Kolom ini sesuai dengan "
+"kolom \"{{ widgetLabel }}\" dalam formulir."
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" gagal mencocokkan nama apa pun. "
+"Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"Nama anggota duplikat \"{{ value }}\" ditemukan di kolom \"{{ colLabel "
+"}}\". Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" seharusnya \"{{ number }}\". "
+"Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" harus kurang dari atau sama "
+"dengan {{ maxNumber }}. \"{{ colLabel }}\" sesuai dengan kolom \"{{ "
+"widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" harus lebih besar atau sama "
+"dengan {{ minNumber }}. Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" "
+"di formulir."
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ colLabel }}\" harus berada di antara {{ "
+"minNumber }} dan {{ maxNumber }}. Kolom ini sesuai dengan kolom \"{{ "
+"widgetLabel }}\" di formulir."
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"\"{{ value }}\" di kolom \"{{ widgetName }}\" gagal dicocokkan dengan tahap "
+"penjualan mana pun. Kolom ini sesuai dengan kolom \"{{ widgetLabel }}\" di "
+"formulir."
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "Rekaman Gagal"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"Nama departemen duplikat \"{{ value }}\" ditemukan di subbidang \"{{ "
+"subColLabel }}\" dari subformulir \"{{ colLabel }}\". Subbidang ini sesuai "
+"dengan subbidang \"{{ subWidgetLabel }}\" di subformulir \"{{ widgetLabel "
+"}}\"."
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"Format yang salah untuk \"{{ value }}\" di subbidang \"{{ subColLabel }}\" "
+"dari subformulir \"{{ colLabel }}\". Subbidang ini sesuai dengan subbidang "
+"\"{{ subWidgetLabel }}\" di subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" di subbidang \"{{ subColLabel }}\" dari subformulir \"{{ "
+"colLabel }}\" gagal mencocokkan ID apa pun. Subbidang ini sesuai dengan "
+"subbidang \"{{ subWidgetLabel }}\" di subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"Pilih {{ itemCount }} opsi di subbidang \"{{ subColLabel }}\" dari "
+"subformulir \"{{ colLabel }}\". Subbidang ini sesuai dengan subbidang \"{{ "
+"subWidgetLabel }}\" di subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"Jumlah opsi maksimum {{ maxItemCount }} untuk subbidang \"{{ subColLabel "
+"}}\" dari subformulir \"{{ colLabel }}\". Subbidang ini sesuai dengan "
+"subbidang \"{{ subWidgetLabel }}\" dalam subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"Opsi minimum {{ minItemCount }} untuk subbidang \"{{ subColLabel }}\" dari "
+"subformulir \"{{ colLabel }}\". Subbidang ini sesuai dengan subbidang \"{{ "
+"subWidgetLabel }}\" dalam subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"Silakan pilih opsi {{ minItemCount }} hingga {{ maxItemCount }} untuk "
+"subbidang \"{{ subColLabel }}\" dari subformulir \"{{ colLabel }}\". "
+"Subbidang ini sesuai dengan subbidang \"{{ subWidgetLabel }}\" dalam "
+"subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"\"{{ value }}\" di subbidang \"{{ subColLabel }}\" dari subformulir \"{{ "
+"colLabel }}\" gagal mencocokkan opsi apa pun. Subbidang ini sesuai dengan "
+"subbidang \"{{ subWidgetLabel }}\" di subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" di subbidang \"{{ subColLabel }}\" dari subformulir \"{{ "
+"colLabel }}\" gagal mencocokkan nama apa pun. Subbidang ini sesuai dengan "
+"subbidang \"{{ subWidgetLabel }}\" di subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"Nama anggota duplikat \"{{ value }}\" ditemukan di subbidang \"{{ "
+"subColLabel }}\" dari subformulir \"{{ colLabel }}\". Subbidang ini sesuai "
+"dengan subbidang \"{{ subWidgetLabel }}\" di subformulir \"{{ widgetLabel "
+"}}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" di subbidang \"{{ subColLabel }}\" dari subformulir \"{{ "
+"colLabel }}\" seharusnya \"{{ number }}\". Subbidang ini sesuai dengan "
+"subbidang \"{{ subWidgetLabel }}\" di subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"\"{{ value }}\" di subbidang \"{{ subColLabel }}\" dari subformulir \"{{ "
+"colLabel }}\" harus kurang dari atau sama dengan {{ maxNumber }}. Subbidang "
+"ini sesuai dengan subbidang \"{{ subWidgetLabel }}\" di subformulir \"{{ "
+"widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"\"{{ value }}\" di subbidang \"{{ subColLabel }}\" dari subformulir \"{{ "
+"colLabel }}\" harus lebih besar dari atau sama dengan {{ minNumber }}. "
+"Subbidang ini sesuai dengan subbidang \"{{ subWidgetLabel }}\" di "
+"subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"\"{{ value }}\" di subbidang \"{{ subColLabel }}\" dari subformulir \"{{ "
+"colLabel }}\" harus berada di antara {{ minNumber }} dan {{ maxNumber }}. "
+"Subbidang ini sesuai dengan subbidang \"{{ subWidgetLabel }}\" di "
+"subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"Untuk subbidang \"{{ subColLabel }}\" di subformulir \"{{ colLabel }}\", {{ "
+"repeatRemind }}. Subbidang ini sesuai dengan subbidang \"{{ subWidgetLabel "
+"}}\" di subformulir \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"Subbidang \"{{ subColLabel }}\" dalam subform \"{{ colLabel }}\" wajib "
+"diisi. Subbidang ini sesuai dengan subbidang \"{{ subWidgetLabel }}\" dalam "
+"subform \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr ""
+"Kolom \"{{ colLabel }}\" wajib diisi. Kolom ini sesuai dengan kolom \"{{ "
+"widgetLabel }}\" dalam formulir."
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_laporan kesalahan_{{ timestamp }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "milik departemen"
+
+msgid "excel.importError.repeatName.id"
+msgstr "departemen dan ID anggota"
+
+msgid "excel.importError.repeatName.name"
+msgstr "nama duplikat departemen dan anggota"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "Anggota dengan Nama yang Sama & ID Departemen"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "menyarankan untuk mengimpor gaya"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"Ikuti Gaya Impor yang Direkomendasikan untuk mengganti data asli. Untuk "
+"detailnya, lihat: https://help.jodoo.com/doc/12099."
+
+msgid "excel.mainDataLabel.header"
+msgstr "Data terkait \"{{ formName }}\""
+
+msgid "excel.member.dept"
+msgstr "Dept."
+
+msgid "excel.member.email"
+msgstr "E-mail"
+
+msgid "excel.member.exceed"
+msgstr ""
+"Jumlah anggota yang ingin diekspor telah mencapai batas maksimum. Hanya "
+"100.000 data pertama yang diekspor"
+
+msgid "excel.member.filename"
+msgstr "Kontak Internal"
+
+msgid "excel.member.fullRoleName"
+msgstr "Kelompok Peran dan Peran"
+
+msgid "excel.member.name"
+msgstr "Nama"
+
+msgid "excel.member.phone"
+msgstr "Seluler"
+
+msgid "excel.member.role"
+msgstr "Peran"
+
+msgid "excel.member.role.rel.filename"
+msgstr "Peran Kontak"
+
+msgid "excel.member.status"
+msgstr "Status"
+
+msgid "excel.member.username"
+msgstr "TIDAK."
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "ID Anggota"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "Anggota Duplikat"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "Laporan kesalahan.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_laporan kesalahan_{{ timestamp }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "Diperlukan"
+
+msgid "filezip.filename.package"
+msgstr "{{namaformulir}}_lampiran{{urutan}}.zip"
+
+msgid "flow.createTime"
+msgstr "Waktu Pembuatan Alur Kerja"
+
+msgid "flow.creator"
+msgstr "Pemrakarsa Alur Kerja"
+
+msgid "flow.initiateFlow"
+msgstr "Mulailah Sekarang"
+
+msgid "flow.initiateFlow.desc"
+msgstr "Anggota grup ini dapat memulai alur kerja"
+
+msgid "flow.manageAllFlow"
+msgstr "Kelola Semua Alur Kerja"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "Anggota grup ini dapat mengelola semua proses"
+
+msgid "flow.node.approve"
+msgstr "Persetujuan"
+
+msgid "flow.node.end"
+msgstr "Akhir"
+
+msgid "flow.node.start"
+msgstr "Awal"
+
+msgid "flow.state.closed"
+msgstr "Akhiri Secara Manual"
+
+msgid "flow.state.complete"
+msgstr "Selesai"
+
+msgid "flow.state.inProcess"
+msgstr "Sedang berlangsung"
+
+msgid "flow.state.rejected"
+msgstr "Menolak"
+
+msgid "flow.viewAllFlow"
+msgstr "Lihat Semua Alur Kerja"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "Anggota grup ini dapat melihat semua proses"
+
+msgid "form.analysisField.avgDuration"
+msgstr "Rata-rata Waktu Proses (jam)"
+
+msgid "form.analysisField.creator"
+msgstr "Anggota"
+
+msgid "form.analysisField.dataCount"
+msgstr "Jumlah Data"
+
+msgid "form.analysisField.flowNode"
+msgstr "simpul"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "Alur Kerja Waktu Lengkap"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "Alur Kerja Menciptakan Waktu"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "Waktu Masuk Node"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "Waktu Keluar Node"
+
+msgid "form.data.tab.common.name"
+msgstr "Informasi Dasar"
+
+msgid "form.default.field.options.firstText"
+msgstr "Opsi 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "Opsi 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "Opsi 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "Opsi 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "Opsi 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "Opsi 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "Nilai duplikat tidak diizinkan"
+
+msgid "form.operate.batchPrint"
+msgstr "Cetak Batch"
+
+msgid "form.operate.batchUpdate"
+msgstr "Edit Batch"
+
+msgid "form.operate.copy"
+msgstr "Menyalin"
+
+msgid "form.operate.create"
+msgstr "Menambahkan"
+
+msgid "form.operate.delete"
+msgstr "Menghapus"
+
+msgid "form.operate.export"
+msgstr "Ekspor"
+
+msgid "form.operate.flowActivate"
+msgstr "Proses Aktivasi"
+
+msgid "form.operate.flowClose"
+msgstr "Akhiri Alur Kerja"
+
+msgid "form.operate.flowTransfer"
+msgstr "Ubah pemberi persetujuan proses"
+
+msgid "form.operate.import"
+msgstr "Impor"
+
+msgid "form.operate.read"
+msgstr "Melihat"
+
+msgid "form.operate.update"
+msgstr "Sunting"
+
+msgid "form.subformField.id"
+msgstr "ID SubFormulir"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "Pemberi Persetujuan Saat Ini"
+
+msgid "form.sysField.createTime"
+msgstr "Waktu Pengajuan"
+
+msgid "form.sysField.creator"
+msgstr "Pengirim"
+
+msgid "form.sysField.dataId"
+msgstr "data_id"
+
+msgid "form.sysField.dataLabel"
+msgstr "Judul"
+
+msgid "form.sysField.deleteTime"
+msgstr "Waktu yang Dihapus"
+
+msgid "form.sysField.deleter"
+msgstr "Pengguna yang Dihapus"
+
+msgid "form.sysField.ext"
+msgstr "Parameternya"
+
+msgid "form.sysField.flowComment"
+msgstr "Komentar Persetujuan"
+
+msgid "form.sysField.flowNodes"
+msgstr "Node Saat Ini"
+
+msgid "form.sysField.flowState"
+msgstr "Status Alur Kerja"
+
+msgid "form.sysField.flowVer"
+msgstr "Versi"
+
+msgid "form.sysField.operator"
+msgstr "Diperankan oleh"
+
+msgid "form.sysField.printOperator"
+msgstr "Pengguna yang Dicetak"
+
+msgid "form.sysField.printTime"
+msgstr "Waktu Cetak"
+
+msgid "form.sysField.privateDataQr"
+msgstr "Kode QR Data (Internal)"
+
+msgid "form.sysField.publicDataQr"
+msgstr "Data Kode QR (Publik)"
+
+msgid "form.sysField.updateTime"
+msgstr "Waktu yang diperbarui"
+
+msgid "form.sysField.updater"
+msgstr "Pengguna yang Diperbarui"
+
+msgid "form.sysField.wxAvatar"
+msgstr "Avatar WeChat"
+
+msgid "form.sysField.wxNickname"
+msgstr "Nama WeChat"
+
+msgid "form.sysField.wxOpenId"
+msgstr "WeChat Buka ID"
+
+msgid "formView.allData.name"
+msgstr "Semua Data"
+
+msgid "formView.untitled.name"
+msgstr "Tampilan Tanpa Judul"
+
+msgid "formula.cal.type.error"
+msgstr "Hasil perhitungan rumus memiliki tipe data yang salah"
+
+msgid "formula.express.error"
+msgstr "Ekspresi rumus salah"
+
+msgid "function.not.support"
+msgstr "Fungsi ini tidak didukung dalam paket aktif!"
+
+msgid "function.param.count.error"
+msgstr "Jumlah parameter yang salah untuk fungsi {{ name }}"
+
+msgid "function.param.error"
+msgstr "Parameter yang salah untuk fungsi {{ name }}"
+
+msgid "function.param.notEmpty"
+msgstr "Parameter untuk fungsi {{ name }} tidak boleh kosong"
+
+msgid "function.param.type.error"
+msgstr "Tipe parameter salah untuk fungsi {{ name }}"
+
+msgid "function.return.error"
+msgstr "Tipe nilai pengembalian yang tidak ditentukan untuk fungsi {{ name }}"
+
+msgid "function.second.param.constant"
+msgstr "Parameter kedua untuk fungsi {{ name }} hanya bisa berupa konstanta"
+
+msgid "function.two.param"
+msgstr "Setidaknya 2 parameter diperlukan untuk fungsi {{ name }}"
+
+msgid "function.two.param.error"
+msgstr "Tipe parameter {{ i }} dan {{ preIdx }} untuk fungsi {{ name }} tidak cocok"
+
+msgid "function.which.param.error"
+msgstr "Tipe parameter {{ i }} yang salah untuk fungsi {{ name }}"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr "Panjang parameter {{ i }} untuk fungsi {{ name }} melebihi batas"
+
+msgid "handover.type.data"
+msgstr "[Data]"
+
+msgid "handover.type.entry"
+msgstr "[Formulir/Dasbor]"
+
+msgid "handover.type.kms"
+msgstr "[Basis Pengetahuan]"
+
+msgid "handover.type.role"
+msgstr "[Kontak]"
+
+msgid "handover.type.todo"
+msgstr "[Tugas]"
+
+msgid "handover.type.workflow"
+msgstr "[Pemberi Persetujuan Alur Kerja]"
+
+msgid "handover.work"
+msgstr "Penyerahan"
+
+msgid "kms.docTrend"
+msgstr "Pembaruan Dokumen"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr "Anggota grup ini dapat mengisi data dan mengelola data yang diisi sendiri"
+
+msgid "manage.addAndManageMyData.name"
+msgstr "Tambahkan dan Kelola Data Saya"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "Anggota grup ini dapat mengisi data dan melihat semua data"
+
+msgid "manage.addAndViewAllData.name"
+msgstr "Tambahkan dan Lihat Semua Data"
+
+msgid "manage.manageAllData.desc"
+msgstr ""
+"Anggota grup ini dapat mengelola semua data dan mengisi data, tetapi tidak "
+"dapat mengimpor data"
+
+msgid "manage.manageAllData.name"
+msgstr "Kelola Semua Data"
+
+msgid "manage.mergeGroup"
+msgstr "Semua Data dengan Izin"
+
+msgid "manage.onlyAddData.desc"
+msgstr "Anggota grup ini hanya dapat mengisi data"
+
+msgid "manage.onlyAddData.name"
+msgstr "Kirimkan Saja"
+
+msgid "manage.viewAllData.desc"
+msgstr "Anggota grup ini dapat melihat semua data"
+
+msgid "manage.viewAllData.name"
+msgstr "Lihat Semua Data"
+
+msgid "managerActivity.app.metricsName"
+msgstr "Lihat berdasarkan Detail Aktivitas Aplikasi"
+
+msgid "managerActivity.app.reportName"
+msgstr "Lihat berdasarkan Ikhtisar Aplikasi"
+
+msgid "managerActivity.appId"
+msgstr "ID Aplikasi"
+
+msgid "managerActivity.appName"
+msgstr "Nama Aplikasi"
+
+msgid "managerActivity.count"
+msgstr "Pengguna (Sunting)"
+
+msgid "managerActivity.fileName"
+msgstr "Aktivitas Admin"
+
+msgid "managerActivity.managerId"
+msgstr "ID Admin"
+
+msgid "managerActivity.managerName"
+msgstr "Nama Admin"
+
+msgid "managerActivity.time"
+msgstr "Tanggal"
+
+msgid "managerActivity.times"
+msgstr "Waktu (Sunting)"
+
+msgid "managerActivity.user.metricsName"
+msgstr "Lihat berdasarkan Detail Aktivitas Admin"
+
+msgid "managerActivity.user.reportName"
+msgstr "Lihat oleh Admin-Ikhtisar"
+
+msgid "math.param.error"
+msgstr "Tipe data operasi matematika haruslah Angka"
+
+msgid "member.status.deleted"
+msgstr "Anggota yang Dihapus"
+
+msgid "member.status.dismission"
+msgstr "{{ nama }}(tidak aktif)"
+
+msgid "member.status.remove"
+msgstr "{{ nama }}(dihapus)"
+
+msgid "message.addOrRemoveApp"
+msgstr "Tambahkan/Hapus Aplikasi"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "Tambahkan/Hapus Departemen atau Anggota"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "Tambahkan/Hapus Grup Admin"
+
+msgid "message.addOrRemoveManager"
+msgstr "Tambahkan/Hapus Admin"
+
+msgid "message.alertName"
+msgstr "Judul Peringatan"
+
+msgid "message.alertSource"
+msgstr "Sumber Peringatan"
+
+msgid "message.anonymousUser"
+msgstr "Pengguna Anonim"
+
+msgid "message.apiKeyOpLog"
+msgstr "Log Kunci API"
+
+msgid "message.appRename"
+msgstr "Ganti Nama Aplikasi"
+
+msgid "message.appUpdate"
+msgstr "Perubahan Aplikasi"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr ""
+"Admin sistem atau pembuat telah membatalkan pendelegasian tugas {{ "
+"principal }} kepada Anda selama {{ timeRange }}."
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr ""
+"Admin sistem atau pembuat telah membatalkan pendelegasian tugas Anda kepada "
+"{{ agent }} selama {{ timeRange }}."
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr ""
+"Admin sistem atau pembuat telah membatalkan pendelegasian tugas dari {{ "
+"principal }} kepada Anda"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr ""
+"Admin sistem atau pembuat telah membatalkan pendelegasian tugas Anda ke "
+"{{agent}}"
+
+msgid "message.bpm_delegation.description"
+msgstr "Keterangan"
+
+msgid "message.bpm_delegation.principal"
+msgstr "Pendelegasi"
+
+msgid "message.bpm_delegation.range"
+msgstr "Cakupan"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "Semua Alur Kerja"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "Proses Parsial"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "Waktu"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr ""
+"{{ principal }} telah mendelegasikan semua tugas kepada Anda untuk "
+"disetujui selama {{ timeRange }}."
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }} telah mendelegasikan semua tugas kepada Anda untuk "
+"disetujui dalam {{ timeRange }}. Deskripsi Pendelegasian: {{ description }}."
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }} telah mendelegasikan tugasnya kepada Anda"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr ""
+"{{ principal }} telah membatalkan pendelegasian tugas kepada Anda selama {{ "
+"timeRange }}."
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }} telah membatalkan pendelegasian tugasnya kepada Anda"
+
+msgid "message.comment.content"
+msgstr "Konten Komentar"
+
+msgid "message.commentator"
+msgstr "Dikomentari oleh"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "Nama Bisnis sudah ada"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "Hanya satu pemilik yang diizinkan"
+
+msgid "message.corp.import.errCode.19011"
+msgstr "Pemilik yang ditentukan telah membuat perusahaan/tim lain"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "Tidak ada pemilik yang ditentukan"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "Jumlah anggota yang diimpor melebihi {{number}}"
+
+msgid "message.corp.import.errCode.19014"
+msgstr ""
+"Tidak ada perusahaan mitra yang dapat diimpor dalam file, silakan impor "
+"ulang setelah penyesuaian"
+
+msgid "message.corp.import.errCode.19020"
+msgstr ""
+"Jumlah peran yang diimpor melebihi {{number}}, silakan impor ulang setelah "
+"penyesuaian"
+
+msgid "message.corp.import.errCode.19029"
+msgstr ""
+"Jumlah mitra yang diimpor melebihi {{number}}, silakan impor ulang setelah "
+"penyesuaian"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "Nama bisnis tidak boleh lebih dari {{ number }} karakter"
+
+msgid "message.corp.import.errCode.6065"
+msgstr "Maksimum {{number}} karakter diizinkan dalam tag"
+
+msgid "message.corp.import.errCode.6066"
+msgstr ""
+"Jumlah tag yang diimpor melebihi {{number}}, silakan impor ulang setelah "
+"penyesuaian"
+
+msgid "message.corpCoop"
+msgstr "Pelanggan dan Mitra"
+
+msgid "message.corpSyncResult"
+msgstr "Sinkronisasi Anggota"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{operator}} menugaskan Anda {{account_num}} pelanggan"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "Pelanggan {{ data_label }} didaur ulang secara otomatis"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{ operator }} mengubah pemberi persetujuan pelanggan {{ data_label }}"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{ operator }} mengubah pemilik {{ account_num }} pelanggan"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{ operator }} mengubah kolaborator pelanggan {{ data_label }}"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{ operator }} mengubah kolaborator dari {{ account_num }} pelanggan"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{ operator }} mendaur ulang {{ account_num }} pelanggan"
+
+msgid "message.crm.assignor"
+msgstr "Penugasan"
+
+msgid "message.crm.currentCollaborator"
+msgstr "Kolaborator Saat Ini"
+
+msgid "message.crm.customer"
+msgstr "Pelanggan"
+
+msgid "message.crm.followPlanComplete"
+msgstr ""
+"{{ operator }} telah menyelesaikan rencana tindak lanjut Anda \"{{ "
+"data_label }}\""
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr "{{ operator }} telah menyelesaikan rencana tindak lanjut {{ plan_num }} Anda"
+
+msgid "message.crm.leads"
+msgstr "Memimpin"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{ operator }} memberi Anda {{ leads_num }} prospek."
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "Timbal \"{{ data_label }}\" didaur ulang secara otomatis."
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{ operator }} mengubah pemberi persetujuan prospek {{ data_label }}"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr "{{ operator }} mengubah pemilik dari {{ opportunity_num }} prospek."
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{ operator }} mengubah kolaborator dari lead {{ data_label }}"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr "{{ operator }} mengubah kolaborator dari {{ opportunity_num }} prospek."
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{ operator }} mendaur ulang {{ leads_num }} prospek."
+
+msgid "message.crm.newCharger"
+msgstr "Pemberi Persetujuan Baru"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{operator}} menambahkan rencana tindak lanjut \"{{data_label}}\" untuk Anda"
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr "{{ operator }} mengubah pemberi persetujuan peluang bisnis {{ data_label }}"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr ""
+"{{operator}} mengubah pemilik {{opportunity_num}} peluang "
+"bisnis/peluang-peluang."
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr "{{ operator }} mengubah kolaborator peluang bisnis {{ data_label }}"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr ""
+"{{operator}} mengubah kolaborator dari {{opportunity_num}} peluang "
+"bisnis/peluang-peluang."
+
+msgid "message.crm.opportunityWin"
+msgstr "Peluang bisnis \"{{ data_label }}\" telah dimenangkan."
+
+msgid "message.crm.rawCharger"
+msgstr "Mantan Pemberi Persetujuan"
+
+msgid "message.crm.recycler"
+msgstr "Pendaur ulang"
+
+msgid "message.cron.custom"
+msgstr "Waktu pengingat telah tiba"
+
+msgid "message.cron.dataExpires"
+msgstr "Data Terlambat"
+
+msgid "message.dashName"
+msgstr "Judul Dasbor"
+
+msgid "message.dataAlert"
+msgstr "Peringatan Data"
+
+msgid "message.dataComment"
+msgstr "Pelanggan dan Mitra"
+
+msgid "message.dataCreate"
+msgstr "Ada data baru yang diserahkan"
+
+msgid "message.dataLabel"
+msgstr "Judul Rekaman"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "Otomatisasi yang Gagal"
+
+msgid "message.emptyValue"
+msgstr "Kosong"
+
+msgid "message.enterForm"
+msgstr "Buka Formulir"
+
+msgid "message.entryName"
+msgstr "Nama Formulir"
+
+msgid "message.error.4402"
+msgstr "Gagal memverifikasi perhitungan agregasi"
+
+msgid "message.etlExecuteFailed"
+msgstr "Tugas ETL yang Gagal"
+
+msgid "message.etlSyncFailed"
+msgstr "Gagal menyinkronkan aliran data"
+
+msgid "message.flow.adminTransfer"
+msgstr "Tugas ditransfer kepada Anda oleh admin super"
+
+msgid "message.flow.autoBack"
+msgstr "Barang-barang yang belum diproses telah dikembalikan. Mohon segera ditangani"
+
+msgid "message.flow.back"
+msgstr "Item pekerjaan yang diserahkan telah dikembalikan"
+
+msgid "message.flow.batchTransfer"
+msgstr "Tugas baru ditransfer kepada Anda oleh admin super"
+
+msgid "message.flow.cc"
+msgstr "Anda diberi CC pada hasil alur kerja baru yang telah diselesaikan"
+
+msgid "message.flow.cc.entryName"
+msgstr ""
+"{{ entryName }} Anda diberi CC pada hasil alur kerja baru yang telah "
+"diselesaikan"
+
+msgid "message.flow.cc.merge.entryName"
+msgstr ""
+"{{ entryName }} Ada {{ count }} hasil pemrosesan aliran baru yang "
+"dikirimkan kepada Anda"
+
+msgid "message.flow.dealtUrgently"
+msgstr "Alur kerja perlu ditangani segera"
+
+msgid "message.flow.memberTransfer"
+msgstr "Tugas ditransfer kepada Anda oleh {{ operator }}"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "「{{ entryName }}」Tugas ditransfer kepada Anda oleh {{ operator }}"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr ""
+"Anda memiliki tugas baru yang harus diselesaikan secepatnya. Mohon segera "
+"tangani"
+
+msgid "message.flow.sign"
+msgstr "Tugas ditransfer kepada Anda oleh {{ operator }}."
+
+msgid "message.flow.signBeforeComplete"
+msgstr ""
+"Pra-pemberi persetujuan telah memproses node tersebut. Anda memiliki tugas "
+"alur kerja baru yang harus diselesaikan."
+
+msgid "message.flow.timeout"
+msgstr "Anda memiliki tugas yang tertunda. Harap segera tangani"
+
+msgid "message.flow.timeout.entryName"
+msgstr "{{ entryName }} memiliki tugas yang belum selesai"
+
+msgid "message.flow.todo"
+msgstr "Anda memiliki tugas baru"
+
+msgid "message.flow.todo.entryName"
+msgstr "{{ entryName }} Anda memiliki tugas baru"
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "{{ entryName }} Ada {{ count }} item tugas baru"
+
+msgid "message.flowData"
+msgstr "Pemberi Persetujuan Eksternal/Anggota CC"
+
+msgid "message.kms.clickViewDetails"
+msgstr "Klik \"Lihat Detail\" untuk melihat dokumen."
+
+msgid "message.kms.denyReason"
+msgstr "Alasan Penolakan"
+
+msgid "message.kms.description"
+msgstr "Deskripsi Basis Pengetahuan"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr "{{ operator }} menangani komentar dalam dokumen \"{{ document }}\"."
+
+msgid "message.kms.docComment"
+msgstr "{{operator}} memberi komentar pada dokumen \"{{document}}\""
+
+msgid "message.kms.docCreate"
+msgstr "{{operator}} membuat dokumen \"{{document}}\""
+
+msgid "message.kms.docEdit"
+msgstr "{{operator}} mengedit dokumen \"{{document}}\""
+
+msgid "message.kms.docLike"
+msgstr "{{operator}} menyukai dokumen \"{{document}}\""
+
+msgid "message.kms.documentToBeViewed"
+msgstr "Anda memiliki dokumen baru untuk dilihat."
+
+msgid "message.kms.managerBecome"
+msgstr ""
+"Anda sekarang menjadi admin basis pengetahuan \"{{ space_name }}\". "
+"Mulailah membuat dokumen dan bagikan ide Anda!"
+
+msgid "message.kms.spaceApply"
+msgstr ""
+"{{applicant}} mengajukan permohonan untuk membuat basis pengetahuan bernama "
+"\"{{space_name}}\"."
+
+msgid "message.kms.spaceApplyAgree"
+msgstr ""
+"Berhasil membuat basis pengetahuan. Anda sekarang menjadi admin basis "
+"pengetahuan baru \"{{ space_name }}\"."
+
+msgid "message.kms.spaceApplyDeny"
+msgstr ""
+"Gagal membuat basis pengetahuan \"{{ space_name }}\". Lengkapi deskripsi "
+"basis pengetahuan dan ajukan permintaan lagi."
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{operator}} mengingatkan Anda untuk melihat dokumen \"{{document}}\""
+
+msgid "message.latitude"
+msgstr "Lintang"
+
+msgid "message.longitude"
+msgstr "Garis bujur"
+
+msgid "message.member.import.errCode.1005"
+msgstr "Email sudah ada."
+
+msgid "message.member.import.errCode.1017"
+msgstr "Nomor anggota hanya mendukung huruf, angka, garis bawah, dan '.'"
+
+msgid "message.member.import.errCode.1018"
+msgstr "Format alamat email tidak valid"
+
+msgid "message.member.import.errCode.1019"
+msgstr "Nama anggota tidak boleh lebih dari {{ panjang }} karakter"
+
+msgid "message.member.import.errCode.1024"
+msgstr "Nomor ponsel tidak valid"
+
+msgid "message.member.import.errCode.1027"
+msgstr "Nomor ponsel sudah ada"
+
+msgid "message.member.import.errCode.1082"
+msgstr "Diperlukan untuk memberikan email"
+
+msgid "message.member.import.errCode.1084"
+msgstr "Nomor Anggota diperlukan"
+
+msgid "message.member.import.errCode.1085"
+msgstr "Masukkan nama anggota"
+
+msgid "message.member.import.errCode.1087"
+msgstr "Nomor Anggota sudah ada"
+
+msgid "message.member.import.errCode.1092"
+msgstr "Nomor Anggota tidak boleh lebih dari {{length }} karakter"
+
+msgid "message.member.import.errCode.unknown"
+msgstr "Alasan tidak diketahui. Silakan coba lagi nanti"
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "Tidak memiliki izin untuk mengelola anggota."
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "Nama anggota duplikat untuk satu peran dalam file."
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "Nama anggota duplikat."
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "Belum mengisi anggota"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr "Tidak dapat mengimpor anggota yang tidak ada atau telah mengundurkan diri."
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "Nama grup peran duplikat."
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "Masukkan grup peran dan nama peran"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr "Tidak dapat mengimpor anggota ke grup peran yang tidak ada."
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "Tidak dapat mengimpor \"grup peran yang disinkronkan\"."
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "Nama peran duplikat dalam satu grup peran."
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "Pisahkan grup peran dan nama peran dengan garis miring (/)."
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "Peran tersebut tidak termasuk dalam grup peran."
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "Tidak memiliki izin untuk mengelola peran."
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "Tidak dapat mengekspor \"peran yang disinkronkan\"."
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "Kesalahan tidak diketahui. Coba lagi."
+
+msgid "message.modified"
+msgstr "Dimodifikasi"
+
+msgid "message.modifier"
+msgstr "Pengguna yang dimodifikasi"
+
+msgid "message.notifyTime"
+msgstr "Waktu Pengingat"
+
+msgid "message.remainTime.days"
+msgstr ""
+"Ada tugas yang tertunda. Waktu yang tersisa: {{ hari }} hari, {{ jam }} "
+"jam, {{ menit }} menit. Mohon selesaikan tepat waktu"
+
+msgid "message.remainTime.hours"
+msgstr ""
+"Ada tugas yang tertunda. Waktu yang tersisa: hanya {{ jam }} jam, {{ menit "
+"}} menit. Harap tangani tugas tersebut tepat waktu"
+
+msgid "message.remainTime.lessMinute"
+msgstr ""
+"Anda memiliki tugas yang tertunda dengan waktu pemrosesan kurang dari 1 "
+"menit. Harap tangani tugas tersebut tepat waktu"
+
+msgid "message.remainTime.minutes"
+msgstr ""
+"Anda memiliki tugas yang tertunda dengan waktu pemrosesan yang tersisa {{ "
+"menit }} menit. Harap tangani tugas tersebut tepat waktu"
+
+msgid "message.system"
+msgstr "Sistem"
+
+msgid "message.systemRobot"
+msgstr "Robot Sistem"
+
+msgid "message.title.accountApportion"
+msgstr "Pemberitahuan Penugasan Pelanggan"
+
+msgid "message.title.accountChangeCharger"
+msgstr "Penanganan Pelanggan Telah Berubah"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "Kolaborator Pelanggan Berubah"
+
+msgid "message.title.accountRecycle"
+msgstr "Pemberitahuan Daur Ulang Pelanggan"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "Penanganan Kontak Berubah"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "Kolaborator Kontak Berubah"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "Peringatan Penggunaan Sistem {{ _g_productName }}"
+
+msgid "message.title.email.corpCoop"
+msgstr "Pemberitahuan Pelanggan dan Mitra {{ _g_productName }}"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "Peringatan Penggunaan Sistem {{ _g_productName }}"
+
+msgid "message.title.excelImportComplete"
+msgstr "Impor Data Selesai"
+
+msgid "message.title.followPlanComplete"
+msgstr "Rencana tindak lanjut Anda telah diselesaikan oleh orang lain"
+
+msgid "message.title.leadsApportion"
+msgstr "Pemberitahuan Penugasan Prospek"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "Penanganan Utama Diganti"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "Kolaborator Utama Berganti"
+
+msgid "message.title.leadsRecycle"
+msgstr "Pemberitahuan Daur Ulang Timbal"
+
+msgid "message.title.newFollowPlan"
+msgstr "Penugasan Rencana Tindak Lanjut Baru"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "BO Handler Berganti"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "Kolaborator BO Berubah"
+
+msgid "message.title.opportunityWin"
+msgstr "Pengingat BO yang Memenangkan"
+
+msgid "message.title.pluginExpire"
+msgstr "Plugin {{ _g_productName }} akan segera kedaluwarsa."
+
+msgid "message.viewDash"
+msgstr "Lihat Dasbor"
+
+msgid "message.viewDataDetails"
+msgstr "Lihat Data Detail"
+
+msgid "message.viewForm"
+msgstr "Lihat Formulir"
+
+msgid "not.support.op"
+msgstr "Operator perbandingan tidak didukung {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "Peramban Anda nampaknya agak ketinggalan zaman."
+
+msgid "notSupported.ie.subtitle"
+msgstr ""
+"Untuk penggunaan normal, instal browser modern berikut, atau tingkatkan "
+"browser Anda."
+
+msgid "op.param.error"
+msgstr "Tipe data operasi awalan haruslah Angka"
+
+msgid "op.param.number"
+msgstr "Bidang operasi operator {{op}} harus berupa Angka"
+
+msgid "open_store.space.enterprise"
+msgstr "Plugin internal"
+
+msgid "open_store.space.store"
+msgstr "Plugin resmi"
+
+msgid "page.title.aggregateEdit"
+msgstr "Desain Tabel Agregat | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "Asisten AI"
+
+msgid "page.title.baseConfig"
+msgstr "Desain Formulir-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "Pelanggan dan Mitra | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "Manajemen | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "Ruang Kerja Kustom"
+
+msgid "page.title.dashEdit"
+msgstr "Desain Dasbor-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "Pratinjau Dasbor | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "Otomatisasi | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "Lihat Data"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "Masuk ke {{ _g_productName }}"
+
+msgid "page.title.error"
+msgstr "Ada yang salah"
+
+msgid "page.title.error.flow"
+msgstr "Perintah Alur Kerja"
+
+msgid "page.title.error403"
+msgstr "Akses ditolak"
+
+msgid "page.title.error404"
+msgstr "Halaman tidak ditemukan"
+
+msgid "page.title.etlEdit"
+msgstr "Desain Aliran Data | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "Halaman detail khusus | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "Pratinjau Formulir | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "Pusat Template"
+
+msgid "page.title.imageUpload"
+msgstr "Unggah Gambar"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "Lark berhasil diikat"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "Mengikat burung lark"
+
+msgid "page.title.login_bind"
+msgstr "Tautan Email"
+
+msgid "page.title.networkTestView"
+msgstr "Uji Layanan Mandiri Jaringan | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "Versi browser ini tidak lagi didukung"
+
+msgid "page.title.oauth"
+msgstr "Konfirmasi Otorisasi"
+
+msgid "page.title.openApiExplorer"
+msgstr "Konsol Debug API | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "Deskripsi Parameter | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "Open Platform | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "Buat Pesanan | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "Perintah Pembayaran"
+
+msgid "page.title.orderPayFailed"
+msgstr "Pembayaran gagal"
+
+msgid "page.title.orderPaySuccess"
+msgstr "Pembayaran berhasil"
+
+msgid "page.title.passwordForget"
+msgstr "Lupa kata sandi {{ _g_productName }}?"
+
+msgid "page.title.passwordReset"
+msgstr "Setel Ulang Kata Sandi"
+
+msgid "page.title.personal"
+msgstr "Pengaturan Pribadi | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "Template Desain Cetak"
+
+msgid "page.title.signature"
+msgstr "Tanda tangan"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "Masuk dengan otorisasi"
+
+msgid "page.title.support"
+msgstr "Hubungi Kami | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "Autentikasi Identitas | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "Hubungkan Nomor Ponsel/Email"
+
+msgid "page.title.userCancelTitle"
+msgstr "Akun sedang ditutup"
+
+msgid "print.field.currentFlow"
+msgstr "Node Saat Ini"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{namaformulir}}_kodebar_{{stempelwaktu}}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{namaformulir}}_kodebar_{{stempelwaktu}}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "Info Dasar"
+
+msgid "print.sys.fileFormat"
+msgstr "{{nama file}} Ukuran Berkas: {{size}} Waktu Unggah: {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "Sistem Cetak"
+
+msgid "print.sys.wxInfo"
+msgstr "Rincian WeChat orang yang mengirimkan ini"
+
+msgid "print.system_template_name"
+msgstr "Templat Default"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }} menetapkan Anda pelanggan {{ data_label }}."
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }} telah menetapkan {{ account_num }} pelanggan untuk Anda."
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }} mengubah pemilik pelanggan {{ data_label }}. Sebelumnya: {{ "
+"raw_charger }}. Saat ini: {{ new_charger }}."
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr ""
+"{{ operator }} mengubah orang yang bertanggung jawab atas pelanggan {{ "
+"account_num }}."
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{ operator }} mengubah kolaborator pelanggan {{ data_label }}. Kolaborator "
+"saat ini: {{ collaborators }}."
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr "{{ operator }} mengubah kolaborator dari {{ account_num }} pelanggan."
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }} mendaur ulang pelanggan \"{{ data_label }}\"."
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "Pelanggan \"{{ data_label }}\" didaur ulang secara otomatis."
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }} mendaur ulang {{ account_num }} pelanggan."
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"Jumlah tabel agregat untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian Paket\" "
+"untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"Jumlah agregasi untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian Paket\" "
+"untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"Jumlah orang yang diberi wewenang telah melampaui batas. Akses analisis "
+"data kini diblokir. Hapus izin analisis data beberapa anggota di pusat "
+"produk."
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }} membuat Kunci API"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }} menonaktifkan Kunci API"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }} mengaktifkan Kunci API"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }} menghapus Kunci API"
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }} membuat aplikasi {{ appName }}"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr ""
+"Maaf, aplikasi Anda {{ appName }} gagal dipublikasikan. Alasannya adalah "
+"sebagai berikut:"
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "Alasan: {{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr ""
+"Selamat! Anda telah berhasil menerbitkan aplikasi {{ appName }}. Periksa di "
+"Pusat Template."
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }} menghapus aplikasi {{ appName }}"
+
+msgid "site.message.content.app_rename"
+msgstr ""
+"{{ operator }} mengubah nama aplikasi dari {{ oriAppName }} menjadi {{ "
+"newAppName }}"
+
+msgid "site.message.content.app_template_approved"
+msgstr "Template \"{{ templateName }}\" telah disetujui"
+
+msgid "site.message.content.app_template_publish"
+msgstr ""
+"{{ operator }} telah merilis aplikasi \"{{ templateName }}\", menunggu "
+"peninjauan"
+
+msgid "site.message.content.app_template_rejected"
+msgstr "Templat \"{{ templateName }}\" tidak lolos peninjauan. alasan: {{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"Perusahaan/tim Anda \"{{ corpName }}\" telah menjalankan Automations Pro {{ "
+"usage }} kali. Batas bulanan adalah {{ limit }} dalam paket saat ini. Jika "
+"batas terlampaui, koin akan dikonsumsi. Untuk mencegah gangguan pada bisnis "
+"Anda, pastikan akun Anda memiliki koin yang cukup."
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"Tim Anda \"{{ corpName }}\" telah mencapai {{ usage }} eksekusi Automation "
+"Pro. Batas tahunan {{ limit }} akan segera tercapai. Setelah melebihi "
+"batas, Automation Pro tidak dapat dieksekusi atau memerlukan Cloud Coins. "
+"Silakan pergi ke \"Manajemen - Detail Paket\" untuk melihat detail "
+"penggunaan dan isi ulang Cloud Coins."
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"Tim Anda \"{{ corpName }}\" telah mencapai {{ usage }} eksekusi Automation "
+"Pro. Jumlah maksimum eksekusi yang diizinkan setiap tahun adalah {{ limit "
+"}}. Mohon perhatikan hal ini."
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"Jumlah BPA untuk perusahaan/tim Anda \"{{ corpName }}\" telah melampaui "
+"batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian Paket\" untuk melihat "
+"rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"Penggunaan sistem untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas, dan sistem telah ditangguhkan sementara. Buka \"Manajemen "
+"> Rincian Paket\" untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"Saldo Cloud Coin tim Anda {{ corpName }} kurang dari {{ limit }}. Fitur "
+"seperti verifikasi SMS, pengenalan OCR, dan unggahan lampiran mungkin "
+"terpengaruh. Untuk menghindari dampak apa pun pada bisnis Anda, isi ulang "
+"akun Anda sesegera mungkin."
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"Saldo Cloud Coin tim Anda {{corpName}} akan segera habis. Fitur-fitur "
+"seperti verifikasi SMS, pengenalan OCR, dan unggahan lampiran mungkin akan "
+"terpengaruh. Untuk menghindari dampak apa pun pada bisnis Anda, isi ulang "
+"akun Anda sesegera mungkin."
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }} menyebut Anda dalam komentar {{ dataTitle }}."
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "Data Tanpa Judul"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "Ikhtisar Komentar: {{ messageComment }}."
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr ""
+"Anggota di perusahaan {{ corpName }} menyebut Anda di komentar {{ dataTitle "
+"}}."
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "Data Tanpa Judul"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "Ikhtisar Komentar: {{ messageComment }}."
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }} mengubah pemilik kontak {{ data_label }}. Sebelumnya: {{ "
+"raw_charger }}. Saat ini: {{ new_charger }}."
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr "{{ operator }} mengubah pemilik {{ contacts_num }} kontak."
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{ operator }} mengubah kolaborator kontak {{ data_label }}. Kolaborator "
+"saat ini: {{ collaborators }}."
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr "{{ operator }} mengubah kolaborator dari {{ contacts_num }} kontak."
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr ""
+"Gagal berkolaborasi dengan perusahaan/tim lain dalam bisnis. Jumlah "
+"narahubung untuk perusahaan/tim Anda \"{{ corpName }}\" tidak mencukupi."
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"Perusahaan {{ corpName }} yang telah Anda hubungi mengajukan permohonan "
+"untuk menjalin kerja sama dengan Anda. Setelah menjalin kerja sama, kontak "
+"Anda dapat berpartisipasi dalam bisnis perusahaan."
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"Jumlah bisnis yang terhubung untuk perusahaan/tim Anda \"{{ corpName }}\" "
+"telah melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian "
+"Paket\" untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr ""
+"Gagal terhubung dengan perusahaan lain. Kuota koneksi perusahaan untuk "
+"perusahaan/tim Anda \"{{ corpName }}\" tidak mencukupi. Beli lebih banyak "
+"dan coba lagi."
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+" Teman Anda mengundang Anda untuk berkolaborasi melalui {{ _g_productName "
+"}}. Bergabunglah dengan timnya \"{{ corpName }}\". Undangan tersebut akan "
+"berlaku selama 7 hari."
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"Di dasbor {{ entryName }} aplikasi {{ appName }}, data di {{ widgetName }} "
+"memicu peringatan data {{ thresholdName }}."
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr "Pengingat gagal karena peringatan data {{ thresholdName }} gagal dijalankan."
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "Peringatan dari {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr ""
+"Peringatan data dasbor yang dipicu telah mencapai batas harian sebanyak "
+"1.000. Tidak akan ada peringatan lebih lanjut yang dipicu hari ini."
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr ""
+"Karena kondisi peringatan data {{ thresholdName }} tidak valid, maka "
+"peringatan data telah dinonaktifkan secara otomatis."
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "Peringatan dari {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr ""
+"Peringatan telah dinonaktifkan secara otomatis karena peringatan data {{ "
+"thresholdName }} gagal dijalankan berkali-kali."
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "Peringatan dari {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"Total volume data untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian Paket\" "
+"untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"Perusahaan/tim Anda \"{{ corpName }}\" telah menggunakan {{ usage }} "
+"catatan bulan ini, mendekati batas 1.000 catatan. Buka \"Manajemen > "
+"Rincian Paket\" untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"Di aplikasi {{ appName }}, otomatisasi {{ triggerName }} gagal dipicu "
+"selama {{ failedCount }} kali. Lihat riwayat pemicu pada waktunya."
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"Otomatisasi \"{{ triggerName }}\" di aplikasi \"{{ appName }}\" gagal "
+"dijalankan. Harap periksa waktu log riwayat pemicu."
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"Di aplikasi {{ appName }}, otomatisasi {{ triggerName }} gagal dipicu "
+"selama {{ failedCount }} kali. Tidak ada pengingat lebih lanjut yang akan "
+"dikirim hari ini. Lihat riwayat pemicu pada waktunya."
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"Perusahaan/tim Anda \"{{ corpName }}\" telah menggunakan {{ usage }} record "
+"secara total, mendekati batas {{ limit }}. Buka \"Manajemen > Rincian "
+"Paket\" untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }} menambahkan departemen bernama {{ deptName }}"
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }} mengimpor {{ deptSize }} departemen."
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }} menghapus departemen {{ deptName }}."
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"Perusahaan {{ corpName }} yang menjalin koneksi dengan Anda memiliki {{ op "
+"}} {{ side }} kontak {{ nicknameList }}. Sesuaikan izin yang relevan tepat "
+"waktu untuk menjamin perkembangan bisnis yang normal."
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"Perusahaan {{ corpName }} yang menjalin koneksi dengan Anda memiliki {{ op "
+"}} {{ side }} kontak {{ nicknameList }}. Sesuaikan izin yang relevan tepat "
+"waktu untuk menjamin perkembangan bisnis yang normal."
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"Perusahaan {{ corpName }} yang menjalin koneksi dengan Anda memiliki {{ op "
+"}} {{ side }} kontak {{ nicknameList }}."
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"Jumlah aliran data untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian Paket\" "
+"untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"Aliran data \"{{ etlName }}\" dalam \"{{ appName }}\" gagal diperbarui "
+"selama {{ maxCount }} kali. Sistem menonaktifkan aturan pembaruan dan semua "
+"pembaruan telah ditangguhkan. Periksa alasan kegagalan dan buat penyesuaian "
+"sebelum mengaktifkan kembali aturan pembaruan."
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr ""
+" Aliran data \"{{ etlName }}\" di aplikasi \"{{ appName }}\" gagal "
+"diperbarui."
+
+msgid "site.message.content.etl_sync_failed"
+msgstr ""
+"Aliran data \"{{ etl_name }}\" di aplikasi \"{{ app_name }}\" gagal "
+"menyinkronkan data ke tabel keluaran."
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr ""
+"Gagal mengekspor \"{{ title }}\". Data anggota yang diekspor melebihi batas "
+"maksimum."
+
+msgid "site.message.content.excel_import_complete"
+msgstr "{{ entryName }} berhasil mengimpor data {{ import }}."
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"{{ entryName }} berhasil mengimpor {{ import }} data, tetapi gagal "
+"mengimpor {{ failed }} data. Tautan unduhan laporan kesalahan akan menjadi "
+"tidak berlaku setelah 24 jam. Harap unduh sesegera mungkin."
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "\"{{ entryName }}\" berhasil memperbarui {{ updated }} data."
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"{{ entryName }} berhasil memperbarui {{ updated }} bagian data, gagal "
+"memperbarui {{ failed }} bagian data. Tautan unduhan laporan kesalahan akan "
+"menjadi tidak berlaku setelah 24 jam. Harap unduh sesegera mungkin."
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"{{ entryName }} berhasil memperbarui {{ updated }} bagian data, berhasil "
+"mengimpor {{ import }} bagian data."
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"{{ entryName }} berhasil memperbarui {{ updated }} data, berhasil mengimpor "
+"{{ import }} data, tetapi gagal mengimpor {{ failed }} data. Tautan unduhan "
+"laporan kesalahan akan menjadi tidak berlaku setelah 24 jam. Harap unduh "
+"sesegera mungkin."
+
+msgid "site.message.content.file_export_complete"
+msgstr ""
+"\"{{ title }}\" siap diunduh. Tautan unduhan akan kedaluwarsa setelah 24 "
+"jam. Unduh sesegera mungkin."
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"\"{{ title }}\" File ekspor terlalu besar. Saat mengekspor, data tidak "
+"boleh melebihi 16 MB, 100.000 baris, dan 1.000.000 kisi. Harap saring dan "
+"ekspor lagi."
+
+msgid "site.message.content.file_export_failed"
+msgstr "Gagal mengekspor \"{{ title }}\". Coba lagi nanti atau hubungi kami."
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"Ekspor gagal. Ukuran file {widget} terlalu besar. Maksimal 1.000 lampiran "
+"dapat diekspor, dan file terkompresi tidak boleh melebihi 1 GB. Coba ekspor "
+"dalam kelompok yang lebih kecil."
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"Ekspor gagal. Terlalu banyak aturan penyortiran untuk data dalam formulir "
+"{{ title }}. Kurangi aturan penyortiran atau volume data yang akan "
+"diekspor, lalu ekspor lagi."
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"Ekspor gagal. Ukuran berkas {{ title }} terlalu besar. Maksimal 1.000.000 "
+"sel gabungan dapat diekspor, dan data tidak dapat melebihi batas baris "
+"Excel. Filter data dan ekspor lagi."
+
+msgid "site.message.content.flow_cc"
+msgstr "Jika diperlukan tindakan lebih lanjut, harap meninjaunya sesegera mungkin."
+
+msgid "site.message.content.flow_cc_merge"
+msgstr "Jika diperlukan tindakan lebih lanjut, harap meninjaunya sesegera mungkin."
+
+msgid "site.message.content.flow_forward"
+msgstr "{{ operator }} telah mengirimkan prosesnya, mohon diproses tepat waktu"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "Dikirimkan oleh {{ flowCreatorName }}, mohon segera tangani."
+
+msgid "site.message.content.flow_timeout"
+msgstr "Dikirimkan oleh {{ flowCreatorName }}, mohon segera tangani."
+
+msgid "site.message.content.follow_plan_complete"
+msgstr ""
+"{{ operator }} menyelesaikan rencana tindak lanjut Anda \"{{ data_label "
+"}}\"."
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }} menyelesaikan {{ plan_num }} dari rencana tindak lanjut Anda."
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"Volume data per formulir untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian Paket\" "
+"untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"Perusahaan/tim Anda \"{{ corpName }}\" telah menggunakan {{ usage }} record "
+"per formulir, mendekati batas {{ limit }}. Buka \"Manajemen > Rincian "
+"Paket\" untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.guest_corp_accept"
+msgstr ""
+"Perusahaan \"{{ corpName }}\" telah menerima undangan Anda. Bagikan izin "
+"aplikasi/formulir dengan narahubungnya untuk kolaborasi di masa mendatang."
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr ""
+"Mitra Anda yang saling terhubung \"{{ corpName }}\" menyetujui permintaan "
+"Anda untuk mengelola kontak bersama."
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "Perusahaan \"{{ corpName }}\" telah terputus dari Anda."
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr ""
+"Mitra Anda yang saling terhubung \"{{ corpName }}\" mengambil alih izin "
+"kontak."
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"Mitra Anda yang saling terhubung \"{{ corpName }}\" mengubah mode "
+"penggunaannya, sehingga interkoneksi Anda dihentikan, dan kuota koneksi "
+"telah dikembalikan ke akun Anda. Hubungi orang yang bertanggung jawab untuk "
+"membangun kembali koneksi."
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"Mitra Anda \"{{ corpName }}\" meminta izin untuk mengelola kontak di akun "
+"\"{{ _g_productName }}\" Anda agar mereka dapat menyiapkan kontak bisnis. "
+"Jika perlu, ambil alih sendiri izin kontak tersebut nanti."
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr ""
+"Perusahaan \"{{ corpName }}\" mengakhiri kerja sama dengan Anda. Sesuaikan "
+"izin yang sesuai untuk menghindari dampak apa pun pada bisnis Anda."
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr ""
+"Mitra Anda yang saling terhubung \"{{ corpName }}\" mengubah mode "
+"penggunaannya, sehingga interkoneksi Anda dihentikan. Hubungi orang yang "
+"bertanggung jawab untuk membangun kembali koneksi."
+
+msgid "site.message.content.import_file_complete"
+msgstr "Lampiran {{success}} diimpor untuk \"{{ title }}\". {{failed}} gagal."
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr "{{ operator }} menangani komentar dalam dokumen \"{{ document }}\"."
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "Ringkasan Komentar: {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }} memberi komentar pada dokumen \"{{ document }}\"."
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "Ringkasan Komentar: {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }} membuat dokumen bernama \"{{ document }}\"."
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }} mengedit dokumen \"{{ document }}\"."
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }} menyukai dokumen \"{{ document }}\"."
+
+msgid "site.message.content.kms_space_apply"
+msgstr " {{ applicant }} melamar untuk membuat basis pengetahuan {{ space_name }}"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr ""
+"Berhasil membuat basis pengetahuan. Anda sekarang menjadi admin basis "
+"pengetahuan baru \"{{ space_name }}\"."
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr ""
+"Gagal membuat basis pengetahuan {{ space_name }}. Perbaiki deskripsinya dan "
+"coba lagi."
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "Alasan Penolakan: {{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr ""
+"Anda sekarang menjadi admin basis pengetahuan \"{{ space_name }}\". "
+"Mulailah membuat dokumen dan bagikan ide Anda!"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr "{{ operator }} mengingatkan Anda untuk melihat dokumen \"{{ document }}\"."
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "Ikhtisar Dokumen: {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }} menugaskan Anda prospek \"{{ data_label }}\"."
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }} telah menetapkan {{ leads_num }} prospek untuk Anda."
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }} mengubah pemilik prospek \"{{ data_label }}\". Sebelumnya: "
+"\"{{ raw_charger }}\". Saat ini: \"{{ new_charger }}\"."
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr ""
+"{{ operator }} mengubah orang yang bertanggung jawab atas {{ leads_num }} "
+"prospek."
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{ operator }} mengubah kolaborator dari pimpinan \"{{ data_label }}\". "
+"Kolaborator saat ini: \"{{ collaborators }}\"."
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }} mengubah kolaborator dari {{ leads_num }} lead."
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }} mendaur ulang prospek \"{{ data_label }}\"."
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "Timbal \"{{ data_label }}\" didaur ulang secara otomatis."
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }} mendaur ulang {{ leads_num }} prospek."
+
+msgid "site.message.content.manage_group_add_members"
+msgstr ""
+"{{ operator }} menambahkan {{ members }} ke grup admin \"{{ manageGroup "
+"}}\"."
+
+msgid "site.message.content.manage_group_create"
+msgstr "{{ operator }} menambahkan grup admin bernama \"{{ manageGroup }}\"."
+
+msgid "site.message.content.manage_group_remove"
+msgstr "{{ operator }} menghapus grup admin bernama \"{{ manageGroup }}\"."
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr ""
+"{{ operator }} menghapus {{ members }} dari grup admin \"{{ manageGroup "
+"}}\"."
+
+msgid "site.message.content.manager_login"
+msgstr "Admin {{ operator }} masuk ke sistem."
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }} mengimpor {{ memberSize }} anggota."
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }} mengundang {{ memberList }}."
+
+msgid "site.message.content.member_remove"
+msgstr ""
+"{{ operator }} telah menetapkan anggota {{ memberList }} sebagai yang "
+"mengundurkan diri"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"Penggunaan sistem untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas. Untuk melanjutkan tanpa gangguan. Buka \"Manajemen > "
+"Rincian Paket\" untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"Pengiriman pesan Anda telah gagal 100 kali, dan webhook(Pesan) telah "
+"dinonaktifkan secara otomatis, silakan periksa penyebabnya dan sesuaikan "
+"konfigurasi dalam \"Manajemen - Webhook(Pesan)\"."
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"Pesan Anda gagal dikirim. Jika lebih dari 100 pesan gagal dikirim, "
+"webhook(Pesan) akan dinonaktifkan secara otomatis. Harap periksa "
+"penyebabnya tepat waktu dan sesuaikan konfigurasi di \"Manajemen - "
+"Webhook(Pesan)\"."
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"Pengiriman pesan Anda telah gagal {{ count }} kali. Jika lebih dari 100 "
+"pesan gagal dikirim, webhook(Message) akan otomatis dinonaktifkan, harap "
+"periksa penyebabnya tepat waktu dan sesuaikan konfigurasi di \"Manajemen - "
+"Webhook(Message)\"."
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"Beberapa aplikasi yang telah dicoba secara gratis oleh perusahaan/tim Anda "
+"\"{{ corpName }}\" akan segera kedaluwarsa. Setelah kedaluwarsa, data akan "
+"tetap tersimpan tetapi fiturnya terbatas, jadi tingkatkan paket Anda tepat "
+"waktu. Jika Anda telah berlangganan uji coba atau membeli paket premium, "
+"abaikan pemberitahuan ini."
+
+msgid "site.message.content.new_follow_plan"
+msgstr ""
+"{{ operator }} menambahkan rencana tindak lanjut \"{{ data_label }}\" untuk "
+"Anda."
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }} menambahkan otorisasi untuk \"{{ suite_name }}\"."
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }} mencabut otorisasi untuk \"{{ suite_name }}\"."
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }} mengubah pemilik peluang bisnis \"{{ data_label }}\". "
+"Sebelumnya: {{ raw_charger }}. Saat ini: {{ new_charger }}."
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr ""
+"{{ operator }} mengubah pemilik {{ opportunity_num }} peluang "
+"bisnis/peluang."
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{ operator }} mengubah kolaborator dari peluang bisnis \"{{ data_label "
+"}}\". Saat ini: {{ kolaborator }}."
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr ""
+"{{ operator }} mengubah kolaborator dari {{ opportunity_num }} peluang "
+"bisnis/peluang."
+
+msgid "site.message.content.opportunity_win"
+msgstr "Peluang bisnis \"{{ data_label }}\" telah dimenangkan."
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"Plugin \"{{ pluginName }}\" di perusahaan/tim Anda \"{{ corpName }}\" akan "
+"kedaluwarsa pada {{ expireTime }}, dan plugin akan dinonaktifkan setelah {{ "
+"days }} hari. Jika Anda ingin memperbaruinya, hubungi kami."
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"Aplikasi \"{{ appName }}\" yang telah dicoba gratis oleh perusahaan/tim "
+"Anda \"{{ corpName }}\" akan kedaluwarsa dalam {{ days }} hari. Setelah "
+"kedaluwarsa, data akan tetap tersimpan tetapi fiturnya terbatas, jadi "
+"tingkatkan paket Anda tepat waktu. Jika Anda telah berlangganan uji coba "
+"atau membeli paket premium, abaikan pemberitahuan ini."
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"Koin awan di akun \"{{ corpName }}\" perusahaan/tim Anda telah habis. Fitur "
+"Verifikasi SMS tidak lagi tersedia, dan beberapa anggota gagal mengirimkan "
+"data. Untuk mencegah gangguan pada bisnis Anda, sesuaikan desain atau isi "
+"ulang koin. Setelah diisi ulang, fitur tersebut tidak akan lagi dibatasi."
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"Teman Anda {{ nickname }} mengundang Anda untuk berkolaborasi melalui {{ "
+"_g_productName }}. Bergabunglah dengan timnya. Undangan tersebut akan "
+"berlaku selama 7 hari."
+
+msgid "site.message.content.team_invite_notify"
+msgstr ""
+"Teman Anda {{ nickname }} ingin bekerja sama dengan Anda di {{ "
+"_g_productName }}. Silakan buka Pesan untuk melihat detailnya"
+
+msgid "site.message.content.team_invite_success"
+msgstr "Anda telah berhasil bergabung dengan {{ teamName }}"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"Penggunaan sistem untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas paket gratis. Untuk memastikan penggunaan sistem tanpa "
+"gangguan setelah masa uji coba, buka \"Manajemen > Rincian Paket\" untuk "
+"melihat rincian penggunaan dan meningkatkan paket. Hari uji coba yang "
+"tersisa dapat diperpanjang untuk paket apa pun."
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"Jumlah otomatisasi untuk perusahaan/tim Anda \"{{ corpName }}\" telah "
+"melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian Paket\" "
+"untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"Jumlah lampiran yang diunggah untuk perusahaan/tim Anda \"{{ corpName }}\" "
+"telah melampaui batas \"{{ vipLevel }}\". Buka \"Manajemen > Rincian "
+"Paket\" untuk melihat rincian penggunaan dan meningkatkan paket."
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"Jumlah lampiran yang diunggah di akun \"{{ corpName }}\" perusahaan/tim "
+"Anda telah mencapai {{ usage }} dari total batas {{ limit }}. Jika batas "
+"terlampaui, koin cloud akan digunakan. Untuk mencegah gangguan pada bisnis "
+"Anda, pastikan akun Anda memiliki koin yang cukup."
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"Jumlah lampiran yang diunggah di akun \"{{ corpName }}\" perusahaan/tim "
+"Anda telah mencapai {{ usage }} dari total batas {{ limit }}. Jika batas "
+"terlampaui, koin cloud akan digunakan. Sekarang Anda memiliki {{ "
+"coinBalance }} koin. Untuk mencegah gangguan pada bisnis Anda, pastikan "
+"akun Anda memiliki koin yang cukup."
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"Jumlah lampiran yang diunggah di akun \"{{ corpName }}\" perusahaan/tim "
+"Anda telah mencapai {{ usage }} dari total batas {{ limit }}. Jika batas "
+"terlampaui, koin cloud akan digunakan. Sekarang Anda tidak memiliki lebih "
+"dari {{ coinBalance }} koin. Untuk mencegah gangguan pada bisnis Anda, isi "
+"ulang koin sesegera mungkin."
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"Jumlah lampiran yang diunggah di akun \"{{ corpName }}\" perusahaan/tim "
+"Anda telah mencapai {{ usage }} dari total batas {{ limit }}. Jika batas "
+"terlampaui, koin cloud akan digunakan. Untuk mencegah gangguan apa pun pada "
+"bisnis Anda, aktifkan \"Unggahan file yang melebihi batas akan dikenakan "
+"biaya koin\" di Pengaturan Pembayaran dan pastikan akun Anda memiliki koin "
+"yang cukup."
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"Jumlah anggota di perusahaan/tim Anda \"{{ corpName }}\" telah melampaui "
+"batas. Buka \"Manajemen > Rincian Paket\" untuk melihat rincian penggunaan "
+"dan meningkatkan paket."
+
+msgid "site.message.content.webhook_failed_count"
+msgstr ""
+"Jumlah Webhook yang gagal dalam formulir Anda {{ entryName }} telah "
+"mencapai {{ count }}. Harap periksa dan sesuaikan sesegera mungkin."
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"Jumlah Webhook yang gagal dalam formulir Anda {{entryName}} telah mencapai "
+"{{ count }}, webhook telah dinonaktifkan. Harap aktifkan jika diperlukan."
+
+msgid "site.message.content.webhook_failed_first"
+msgstr ""
+"Webhook gagal di formulir Anda {{entryName}}. Harap periksa dan sesuaikan "
+"sesegera mungkin."
+
+msgid "site.message.content.webhook_form_type"
+msgstr ""
+"Karena perubahan jenis formulir, webhook di formulir Anda akan mendorong "
+"data sesuai dengan jenis formulir yang baru."
+
+msgid "site.message.link_text.accept_application"
+msgstr "Menerima"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "Menerima"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "Unduh laporan kesalahan"
+
+msgid "site.message.link_text.download_now"
+msgstr "Unduh Sekarang"
+
+msgid "site.message.link_text.view_details"
+msgstr "Lihat detailnya"
+
+msgid "site.message.title.dash_alert"
+msgstr "Peringatan data"
+
+msgid "system.jdy"
+msgstr "{{ _g_namaproduk }}"
+
+msgid "template_center.space.self_build"
+msgstr "Template Bangun Sendiri"
+
+msgid "template_center.space.standard"
+msgstr "Template Standar"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "Templat Impor Massal Kontak"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "Templat Impor Massal Kolaborator"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "Templat Impor Peran"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "Template Pembuatan Batch untuk Kontak"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "{{ _g_productName }} Aplikasi Autentikasi Identitas"
+
+msgid "tenant.verify.files.corp"
+msgstr "Nama perusahaan, dokumen pendukung yang relevan, dll."
+
+msgid "tenant.verify.files.owner"
+msgstr "Nama, KTP/dokumen lainnya"
+
+msgid "tenant.verify.title.approved"
+msgstr "Kredensial yang Anda kirimkan telah disetujui"
+
+msgid "tenant.verify.title.declined"
+msgstr "Kredensial yang Anda kirimkan telah ditolak"
+
+msgid "tenant.verify.title.has_expired"
+msgstr ""
+"Otentikasi perusahaan Anda telah kedaluwarsa, dan tautan publik tidak dapat "
+"diakses lagi. Lakukan autentikasi sesegera mungkin."
+
+msgid "tenant.verify.title.will_expire"
+msgstr ""
+"Otentikasi perusahaan Anda akan segera berakhir. Untuk memastikan akses "
+"berkelanjutan ke tautan publik, autentikasi sesegera mungkin"
+
+msgid "tenant.verify.type.corp"
+msgstr "Perusahaan"
+
+msgid "tenant.verify.type.owner"
+msgstr "Pribadi"
+
+msgid "type.not.match"
+msgstr "Tipe salah"
+
+msgid "ua.dingtalkMobile"
+msgstr "DingTalk Seluler"
+
+msgid "ua.dingtalkPC"
+msgstr "Komputer DingTalk"
+
+msgid "ua.larkMobile"
+msgstr "Ponsel Lark"
+
+msgid "ua.larkPC"
+msgstr "Komputer Lark"
+
+msgid "ua.mobile"
+msgstr "Web Seluler"
+
+msgid "ua.pc"
+msgstr "Komputer Jaringan"
+
+msgid "ua.wechatMiniProgram"
+msgstr "Program Mini"
+
+msgid "ua.wechatMobile"
+msgstr "WeChat Seluler"
+
+msgid "ua.wechatPC"
+msgstr "Komputer WeChat"
+
+msgid "ua.wxworkMobile"
+msgstr "WeCom Seluler"
+
+msgid "ua.wxworkPC"
+msgstr "Komputer WeCom"
+
+msgid "user.defaultNickname"
+msgstr "Tanpa Judul"
+
+msgid "userActivity.app.metricsName"
+msgstr "Lihat berdasarkan Detail Aktivitas Aplikasi"
+
+msgid "userActivity.app.reportName"
+msgstr "Lihat berdasarkan Ikhtisar Aplikasi"
+
+msgid "userActivity.appId"
+msgstr "ID Aplikasi"
+
+msgid "userActivity.appName"
+msgstr "Aplikasi"
+
+msgid "userActivity.app_access_count"
+msgstr "Pengguna (Akses)"
+
+msgid "userActivity.app_access_times"
+msgstr "Waktu (Akses)"
+
+msgid "userActivity.data_create_count"
+msgstr "Pengguna (Buat Data)"
+
+msgid "userActivity.data_create_times"
+msgstr "Waktu (Buat Data)"
+
+msgid "userActivity.data_export_count"
+msgstr "Pengguna (Ekspor Data)"
+
+msgid "userActivity.data_export_times"
+msgstr "Waktu (Ekspor Data)"
+
+msgid "userActivity.data_remove_count"
+msgstr "Pengguna (Hapus Data)"
+
+msgid "userActivity.data_remove_times"
+msgstr "Waktu (Hapus Data)"
+
+msgid "userActivity.data_update_count"
+msgstr "Pengguna (Perbarui Data)"
+
+msgid "userActivity.data_update_times"
+msgstr "Waktu (Perbarui Data)"
+
+msgid "userActivity.entity.metricsName"
+msgstr "Lihat berdasarkan Detail Aktivitas Objek"
+
+msgid "userActivity.entity.reportName"
+msgstr "Lihat berdasarkan Objek-Ikhtisar"
+
+msgid "userActivity.entityId"
+msgstr "ID Objek"
+
+msgid "userActivity.entityName"
+msgstr "Obyek"
+
+msgid "userActivity.fileName"
+msgstr "Aktivitas Anggota"
+
+msgid "userActivity.login_stats_count"
+msgstr "Pengguna (Masuk)"
+
+msgid "userActivity.login_stats_times"
+msgstr "Waktu (Masuk)"
+
+msgid "userActivity.memberId"
+msgstr "ID Anggota"
+
+msgid "userActivity.nickName"
+msgstr "Anggota"
+
+msgid "userActivity.time"
+msgstr "Tanggal"
+
+msgid "userActivity.user.metricsName"
+msgstr "Lihat Berdasarkan Detail Aktivitas Anggota"
+
+msgid "userActivity.user.reportName"
+msgstr "Lihat Berdasarkan Anggota - Gambaran Umum"
+
+msgid "vip.pack.ent"
+msgstr "Perusahaan"
+
+msgid "vip.pack.free"
+msgstr "Bebas"
+
+msgid "vip.pack.lite"
+msgstr "Ringan"
+
+msgid "vip.pack.oem"
+msgstr "Disesuaikan"
+
+msgid "vip.pack.pro"
+msgstr "Profesional"
+
+msgid "vip.pack.self_hosted"
+msgstr "Eksklusif"
+
+msgid "vip.pack.starter"
+msgstr "Starter"
+
+msgid "vip.pack.std"
+msgstr "Bisnis"
+
+msgid "vip.pack.trial"
+msgstr "Uji coba"
+
+msgid "vip.pack.user"
+msgstr "Berdasarkan Jumlah Pengguna"
+
+msgid "vip.pack.user_premium"
+msgstr "Premi"
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] ""
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] ""

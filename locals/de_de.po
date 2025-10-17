@@ -1,0 +1,4768 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2025-10-17T01:45:31.881Z\n"
+"PO-Revision-Date: 2025-10-17T01:45:31.881Z\n"
+
+msgid "activity.fileName"
+msgstr "Aktivitätsdaten"
+
+msgid "activity_stats.export.dismission"
+msgstr "(Inaktiv)"
+
+msgid "activity_stats.export.removed"
+msgstr "(Gestrichen)"
+
+msgid "activity_stats.export.removedAppName"
+msgstr "Gelöschte App"
+
+msgid "activity_stats.export.removedEntryName"
+msgstr "Gelöschtes Formular"
+
+msgid "aggregate.compatMetricName"
+msgstr "Upgrade-Anpassungsindikatoren"
+
+msgid "aggregate.exceed.limit"
+msgstr "Die Formellänge überschreitet das Limit"
+
+msgid "aggregate.field.not.support.op.not.aggregate.field"
+msgstr "Aggregierte und nicht aggregierte Felder können nicht berechnet werden"
+
+msgid "aggregate.field.repeat.aggregate"
+msgstr "Aggregierte Felder können nicht erneut zur Aggregation verwendet werden"
+
+msgid "aggregate.main.subform.error"
+msgstr "Hauptformular- und Unterformularfelder können nicht berechnet werden"
+
+msgid "aggregate.param.be.number"
+msgstr "Parameter der Aggregatfunktion {{ name }} müssen numerischer Art sein"
+
+msgid "aggregate.param.be.one"
+msgstr "Die Anzahl der Parameter für die Aggregatfunktion sollte 1 sein"
+
+msgid "aggregate.return.number"
+msgstr "Der Typ der Formelrückgabe sollte „Zahl“ sein."
+
+msgid "aggregate.support.same.form.op"
+msgstr "Es können nur Felder aus dem gleichen SubFormular berechnet werden"
+
+msgid "automation.node.end"
+msgstr "Endknoten"
+
+msgid "automation.node.start"
+msgstr "Auslösender Knoten"
+
+msgid "bpa.presetWidget.title0"
+msgstr "Erstellt"
+
+msgid "bpa.presetWidget.title1"
+msgstr "Im Gange"
+
+msgid "bpa.presetWidget.title10"
+msgstr ""
+"Trenddiagramm der durchschnittlichen Bearbeitungszeit eines einzelnen "
+"Prozesses"
+
+msgid "bpa.presetWidget.title11"
+msgstr "Trenddiagramm der durchschnittlichen Verarbeitungszeit eines Taskknotens"
+
+msgid "bpa.presetWidget.title2"
+msgstr "Vollendet"
+
+msgid "bpa.presetWidget.title3"
+msgstr "Manuell beenden"
+
+msgid "bpa.presetWidget.title4"
+msgstr ""
+"Trenddiagramm der durchschnittlichen Bearbeitungszeit eines einzelnen "
+"Prozesses (Stunden)"
+
+msgid "bpa.presetWidget.title5"
+msgstr "Statistiken zu ausstehenden Taskknoten"
+
+msgid "bpa.presetWidget.title6"
+msgstr "Durchschnittliche Verarbeitungszeit eines Task-Knotens"
+
+msgid "bpa.presetWidget.title7"
+msgstr "Statistiken zu Mitgliederaufgaben"
+
+msgid "bpa.presetWidget.title8"
+msgstr "Statistiken der Mitgliedsaufgaben auf dem Aufgabenknoten"
+
+msgid "bpa.presetWidget.title9"
+msgstr "Durchschnittliche Mitgliederverarbeitungszeit eines Task-Knotens"
+
+msgid "bpa.presetWidget.yAxisTitle.timeConsuming"
+msgstr "Zeitaufwand (Stunde)"
+
+msgid "bpa.presetWidget.yAxisTitle.todoCount"
+msgstr "Aufgaben"
+
+msgid "compare.not.support"
+msgstr "Unzulässiges Vergleichszeichen {{ op }}"
+
+msgid "compare.not.support.by.replace"
+msgstr ""
+"Unzulässiges Vergleichszeichen {{ op }}. Bitte verwenden Sie stattdessen "
+"\"==\""
+
+msgid "compare.param.boolean"
+msgstr "Boolesch"
+
+msgid "compare.param.datetime"
+msgstr "Datum"
+
+msgid "compare.param.not.support"
+msgstr ""
+"Die Parametertypen auf beiden Seiten von {{ op }} können nicht {{ type1 }} "
+"oder {{ type2 }} sein."
+
+msgid "compare.param.number"
+msgstr "Nummer"
+
+msgid "compare.param.string"
+msgstr "Zeichenfolge"
+
+msgid "concatenate.param.error"
+msgstr "Das ursprüngliche Formularfeld existiert nicht"
+
+msgid "corp.currentDepartment"
+msgstr "Abteilung des aktuellen Benutzers"
+
+msgid "corp.currentUser"
+msgstr "Aktueller Benutzer"
+
+msgid "corp.joinCorpSuccess"
+msgstr "Erfolgreich ins Team eingestiegen"
+
+msgid "corp.log.agentDisable"
+msgstr "Plugin deaktivieren"
+
+msgid "corp.log.agentEnable"
+msgstr "Plugin aktivieren"
+
+msgid "corp.log.agentUninstall"
+msgstr "Plugin entfernen"
+
+msgid "corp.log.aggregateCreate"
+msgstr "Aggregierte Tabelle erstellen"
+
+msgid "corp.log.aggregateMigrate"
+msgstr "Aggregat-Tabelle migrieren"
+
+msgid "corp.log.aggregateRemove"
+msgstr "Aggregierte Tabelle löschen"
+
+msgid "corp.log.aggregateRename"
+msgstr "Aggregierte Tabelle umbenennen"
+
+msgid "corp.log.aggregateUpdate"
+msgstr "Aktualisieren des aggregierten Tabellenentwurfs"
+
+msgid "corp.log.aiLabDisable"
+msgstr "Schließung des KI-Labors"
+
+msgid "corp.log.aiLabEnable"
+msgstr "Eröffnung eines KI-Labors"
+
+msgid "corp.log.apiKeyCreate"
+msgstr "API-Schlüssel erstellen"
+
+msgid "corp.log.apiKeyDelete"
+msgstr "API-Schlüssel löschen"
+
+msgid "corp.log.apiKeyDisable"
+msgstr "API-Schlüssel deaktivieren"
+
+msgid "corp.log.apiKeyEnable"
+msgstr "API-Schlüssel aktivieren"
+
+msgid "corp.log.apiKeyName"
+msgstr "API-Schlüsselname"
+
+msgid "corp.log.apiKeyUpdate"
+msgstr "Schlüssel aktualisieren"
+
+msgid "corp.log.apiName"
+msgstr "API-Name"
+
+msgid "corp.log.appAttachmentControlDisable"
+msgstr "Deaktivieren Sie die App-Anhangskontrolle"
+
+msgid "corp.log.appAttachmentControlEnable"
+msgstr "Aktivieren Sie die App-Anhangssteuerung"
+
+msgid "corp.log.appAttachmentControlUpdate"
+msgstr "Ändern der Anwendungsanhangsteuerung"
+
+msgid "corp.log.appCreate"
+msgstr "App erstellen"
+
+msgid "corp.log.appEtlLog"
+msgstr "{{ etlName }} – Protokolle aktualisieren"
+
+msgid "corp.log.appEtlLogExport"
+msgstr ""
+
+msgid "corp.log.appHomeUpdate"
+msgstr "App-Startseite anpassen"
+
+msgid "corp.log.appLog"
+msgstr "App-Protokolle"
+
+msgid "corp.log.appLogExport"
+msgstr "App-Protokolle exportieren"
+
+msgid "corp.log.appManageGroupAdd"
+msgstr "App-Verwaltungsgruppe hinzufügen"
+
+msgid "corp.log.appManageGroupDisable"
+msgstr "App-Admin-Gruppe deaktivieren"
+
+msgid "corp.log.appManageGroupEnable"
+msgstr "App-Admin-Gruppe aktivieren"
+
+msgid "corp.log.appManageGroupRemove"
+msgstr "App-Verwaltungsgruppe entfernen"
+
+msgid "corp.log.appManageGroupRename"
+msgstr "App-Verwaltungsgruppe umbenennen"
+
+msgid "corp.log.appManagerAdd"
+msgstr "Manager hinzufügen"
+
+msgid "corp.log.appManagerRemove"
+msgstr "Manager entfernen"
+
+msgid "corp.log.appRecover"
+msgstr "App wiederherstellen"
+
+msgid "corp.log.appRefFormsSetUpdate"
+msgstr "Appübergreifende Einstellungen bearbeiten"
+
+msgid "corp.log.appRemove"
+msgstr "App löschen"
+
+msgid "corp.log.appRename"
+msgstr "App umbenennen"
+
+msgid "corp.log.appTriggerLogExport"
+msgstr ""
+
+msgid "corp.log.appUrlUpdate"
+msgstr "App-URL bearbeiten"
+
+msgid "corp.log.appWatermarkDisable"
+msgstr "App-Wasserzeichen deaktivieren"
+
+msgid "corp.log.appWatermarkEnable"
+msgstr "App-Wasserzeichen aktivieren"
+
+msgid "corp.log.application"
+msgstr "Aus der App"
+
+msgid "corp.log.attachmentControlDisable"
+msgstr "Deaktivieren Sie die globale Anhangskontrolle"
+
+msgid "corp.log.attachmentControlEnable"
+msgstr "Aktivieren Sie die globale Anhangssteuerung"
+
+msgid "corp.log.bpmDelegationDisable"
+msgstr "„Delegierung einleiten“ ist deaktiviert"
+
+msgid "corp.log.bpmDelegationEnable"
+msgstr "Aktivieren der Delegierung"
+
+msgid "corp.log.bpmDelegationUpdate"
+msgstr ""
+"Delegation wurde abgebrochen: Delegation von {{ principal }} an {{ agent }} "
+"während {{ timeRange }}"
+
+msgid "corp.log.businessContent"
+msgstr "Geschäftsinformationen"
+
+msgid "corp.log.businessCount"
+msgstr "OCR-Nutzung"
+
+msgid "corp.log.businessRegistrationLog"
+msgstr "Gewerbeanmeldung"
+
+msgid "corp.log.businessTime"
+msgstr "Zeitpunkt der Überprüfung"
+
+msgid "corp.log.callTime"
+msgstr "Anrufzeit"
+
+msgid "corp.log.coinConfUpdate"
+msgstr "Zahlungseinstellungen bearbeiten"
+
+msgid "corp.log.coinUsageApp"
+msgstr "App"
+
+msgid "corp.log.coinUsageEntry"
+msgstr "Eintrag"
+
+msgid "corp.log.coinUsageLog"
+msgstr "Münznutzungsprotokolle"
+
+msgid "corp.log.coinUsageLogExport"
+msgstr ""
+
+msgid "corp.log.coinUsageWidget"
+msgstr "Felder"
+
+msgid "corp.log.corpCoopLinkCreate"
+msgstr "Einladungslink für externes Geschäft hinzufügen"
+
+msgid "corp.log.corpCoopLinkDelete"
+msgstr "Einladungslink für externes Geschäft löschen"
+
+msgid "corp.log.corpCoopLinkUpdate"
+msgstr "Einladungslink für externe Unternehmen bearbeiten"
+
+msgid "corp.log.corpCoopRoleCreate"
+msgstr "Externe Kontaktrolle hinzufügen"
+
+msgid "corp.log.corpCoopRoleDelete"
+msgstr "Externe Kontaktrolle löschen"
+
+msgid "corp.log.corpCoopRoleRename"
+msgstr "Externe Kontaktrolle umbenennen"
+
+msgid "corp.log.corpCoopRoleUpdate"
+msgstr "Mitglieder unter der Rolle „Externer Kontakt“ ändern"
+
+msgid "corp.log.corpExecutiveUpdate"
+msgstr "Benachrichtigungsblock aktualisieren"
+
+msgid "corp.log.corpRename"
+msgstr "Unternehmen umbenennen"
+
+msgid "corp.log.corpThemeDisable"
+msgstr "Business-Stil deaktivieren"
+
+msgid "corp.log.corpThemeEnable"
+msgstr "Business-Stil aktivieren"
+
+msgid "corp.log.corpThemeUpdate"
+msgstr "Geschäftsstil bearbeiten"
+
+msgid "corp.log.corpUrlUpdate"
+msgstr "URL des Business-Portals bearbeiten"
+
+msgid "corp.log.customLoginDisable"
+msgstr "Benutzerdefinierte Anmeldeseite deaktivieren"
+
+msgid "corp.log.customLoginEnable"
+msgstr "Benutzerdefinierte Anmeldeseite aktivieren"
+
+msgid "corp.log.customWorkbenchUpdate"
+msgstr "Business-Arbeitsbereich bearbeiten"
+
+msgid "corp.log.dashAuthUpdate"
+msgstr "Berechtigung zum Bearbeiten des Dashboards"
+
+msgid "corp.log.dashCreate"
+msgstr "Dashboard erstellen"
+
+msgid "corp.log.dashPublicLink"
+msgstr "Öffentlichen Link zum Bearbeiten des Dashboards"
+
+msgid "corp.log.dashRecover"
+msgstr "Dashboard wiederherstellen"
+
+msgid "corp.log.dashRemove"
+msgstr "Dashboard löschen"
+
+msgid "corp.log.dashRename"
+msgstr "Dashboard umbenennen"
+
+msgid "corp.log.dashUpdate"
+msgstr "Bearbeiten"
+
+msgid "corp.log.dataBatchPrint"
+msgstr "Stapeldruck von Datensätzen"
+
+msgid "corp.log.dataBatchRecover"
+msgstr "Daten im Stapel wiederherstellen"
+
+msgid "corp.log.dataBatchRemove"
+msgstr "Daten im Stapel löschen"
+
+msgid "corp.log.dataBatchUpdate"
+msgstr "Daten im Stapel bearbeiten"
+
+msgid "corp.log.dataCreate"
+msgstr "Daten hinzufügen"
+
+msgid "corp.log.dataExport"
+msgstr "Daten exportieren"
+
+msgid "corp.log.dataImport"
+msgstr "Importieren - Daten hinzufügen"
+
+msgid "corp.log.dataImportFile"
+msgstr "Anhänge importieren"
+
+msgid "corp.log.dataImportUpdate"
+msgstr "Importieren - Daten aktualisieren"
+
+msgid "corp.log.dataImportUpsert"
+msgstr "Importieren – Daten hinzufügen und aktualisieren"
+
+msgid "corp.log.dataPrint"
+msgstr "Datensatz drucken"
+
+msgid "corp.log.dataPrintQr"
+msgstr "QR-Codes/Barcodes drucken"
+
+msgid "corp.log.dataRecover"
+msgstr "Daten wiederherstellen"
+
+msgid "corp.log.dataRemove"
+msgstr "Daten löschen"
+
+msgid "corp.log.dataTriggerCreate"
+msgstr "Automatisierung erstellen"
+
+msgid "corp.log.dataTriggerRemove"
+msgstr "Automatisierung entfernen"
+
+msgid "corp.log.dataTriggerStart"
+msgstr "Automatisierung aktivieren"
+
+msgid "corp.log.dataTriggerStop"
+msgstr "Automatisierung deaktivieren"
+
+msgid "corp.log.dataTriggerUpdate"
+msgstr "Update-Automatisierung"
+
+msgid "corp.log.dataUpdate"
+msgstr "Daten aktualisieren"
+
+msgid "corp.log.deptCreate"
+msgstr "Abteilung hinzufügen"
+
+msgid "corp.log.deptLabelCreate"
+msgstr "Business-Tag hinzufügen"
+
+msgid "corp.log.deptLabelDelete"
+msgstr "Business-Tag löschen"
+
+msgid "corp.log.deptLabelDeptUpdate"
+msgstr "Firma unter Business-Tag anpassen"
+
+msgid "corp.log.deptLabelUpdate"
+msgstr "Geschäftstagnamen bearbeiten"
+
+msgid "corp.log.deptManagerUpdate"
+msgstr "Update Abteilungsleiter"
+
+msgid "corp.log.deptRemove"
+msgstr "Abteilung löschen"
+
+msgid "corp.log.deptRename"
+msgstr "Abteilung umbenennen"
+
+msgid "corp.log.etlAutoExecute"
+msgstr "Automatisches Update"
+
+msgid "corp.log.etlCreate"
+msgstr "Datenstrom erstellen"
+
+msgid "corp.log.etlCronExecute"
+msgstr "Cron-Update"
+
+msgid "corp.log.etlDuration"
+msgstr "Aktualisierungsdauer"
+
+msgid "corp.log.etlEndTime"
+msgstr "Endzeit"
+
+msgid "corp.log.etlExecuteResult"
+msgstr "Ergebnis aktualisieren"
+
+msgid "corp.log.etlExecuteType"
+msgstr "Update-Methode"
+
+msgid "corp.log.etlJust"
+msgstr "Weniger als 1 Minute"
+
+msgid "corp.log.etlManualExecute"
+msgstr "Manuelles Update"
+
+msgid "corp.log.etlMin"
+msgstr "{{ minute }} Min."
+
+msgid "corp.log.etlRemove"
+msgstr "Datenstrom löschen"
+
+msgid "corp.log.etlRename"
+msgstr "Datenstrom umbenennen"
+
+msgid "corp.log.etlStartTime"
+msgstr "Startzeit"
+
+msgid "corp.log.etlTime"
+msgstr "Aktualisierungsdatum"
+
+msgid "corp.log.etlUpdate"
+msgstr "Datenstromdesign aktualisieren"
+
+msgid "corp.log.fail"
+msgstr "Scheitern"
+
+msgid "corp.log.fileDownload"
+msgstr "Datei herunterladen"
+
+msgid "corp.log.flowAnalysisDisable"
+msgstr "BPA deaktivieren"
+
+msgid "corp.log.flowAnalysisEnable"
+msgstr "BPA aktivieren"
+
+msgid "corp.log.flowUpdate"
+msgstr "Workflow-Design aktualisieren"
+
+msgid "corp.log.formAuthBatchUpdate"
+msgstr "Berechtigung zum Stapelanpassen von Formularen/Dashboards"
+
+msgid "corp.log.formAuthUpdate"
+msgstr "Formularberechtigung aktualisieren"
+
+msgid "corp.log.formCreate"
+msgstr "Formular erstellen"
+
+msgid "corp.log.formDataPageRemove"
+msgstr "Datendetailseite löschen"
+
+msgid "corp.log.formDataPageSwitch"
+msgstr "Datendetailseite umschalten"
+
+msgid "corp.log.formDataPageUpdate"
+msgstr "Datendetailseite bearbeiten"
+
+msgid "corp.log.formOnlinePay"
+msgstr "Zahlungseinstellungen verwalten"
+
+msgid "corp.log.formPublicLink"
+msgstr "Öffentlichen Link des Formulars aktualisieren"
+
+msgid "corp.log.formPublicQuery"
+msgstr "Öffentlichen Abfragelink des Formulars aktualisieren"
+
+msgid "corp.log.formRecover"
+msgstr "Formular wiederherstellen"
+
+msgid "corp.log.formRemove"
+msgstr "Formular löschen"
+
+msgid "corp.log.formRename"
+msgstr "Formular umbenennen"
+
+msgid "corp.log.formUpdate"
+msgstr "Formulardesign aktualisieren"
+
+msgid "corp.log.guestConnect"
+msgstr "Externe Unternehmen einladen"
+
+msgid "corp.log.guestDockerExport"
+msgstr "Externen Kontakt exportieren"
+
+msgid "corp.log.guestDockerUpdate"
+msgstr "Externe Kontaktinformationen bearbeiten"
+
+msgid "corp.log.guestUpdate"
+msgstr "Externe Geschäftsinformationen bearbeiten"
+
+msgid "corp.log.hostDisconnect"
+msgstr "Trennen Sie sich vom Geschäft"
+
+msgid "corp.log.hostDockerCreate"
+msgstr "Fügen Sie unseren Kontakt hinzu"
+
+msgid "corp.log.hostDockerDelete"
+msgstr "Entfernen Sie unseren Kontakt"
+
+msgid "corp.log.hostDockerUpdate"
+msgstr "Bearbeiten Sie unsere Kontaktinformationen"
+
+msgid "corp.log.integrateUpdate"
+msgstr "Bindungsinformationen bearbeiten"
+
+msgid "corp.log.ip"
+msgstr "IP-Adresse"
+
+msgid "corp.log.kmsDisable"
+msgstr "Wissensdatenbank deaktivieren"
+
+msgid "corp.log.kmsEnable"
+msgstr "Wissensdatenbank aktivieren"
+
+msgid "corp.log.loginLocation"
+msgstr "Login-Standort"
+
+msgid "corp.log.loginLog"
+msgstr "Anmeldeverlauf"
+
+msgid "corp.log.loginLogExport"
+msgstr "Anmeldeverlauf exportieren"
+
+msgid "corp.log.loginPlatform"
+msgstr "Login-Plattform"
+
+msgid "corp.log.loginTime"
+msgstr "Anmeldezeit"
+
+msgid "corp.log.manageGroupCreate"
+msgstr "Admin-Gruppe hinzufügen"
+
+msgid "corp.log.manageGroupRemove"
+msgstr "Admin-Gruppe löschen"
+
+msgid "corp.log.manageGroupRename"
+msgstr "Admin-Gruppe umbenennen"
+
+msgid "corp.log.managersAdd"
+msgstr "Administrator hinzufügen"
+
+msgid "corp.log.managersRemove"
+msgstr "Administrator löschen"
+
+msgid "corp.log.memberExit"
+msgstr "Freiwilliger Austritt aus der Organisation"
+
+msgid "corp.log.memberExport"
+msgstr "Kontakte exportieren"
+
+msgid "corp.log.memberFreeze"
+msgstr "Mitglied deaktivieren"
+
+msgid "corp.log.memberHardDelete"
+msgstr "Mitglied löschen"
+
+msgid "corp.log.memberInvite"
+msgstr "Einladen"
+
+msgid "corp.log.memberRecover"
+msgstr "Mitglied aktivieren"
+
+msgid "corp.log.memberRemove"
+msgstr "Deaktivieren"
+
+msgid "corp.log.memberUpdate"
+msgstr "Mitgliederinformationen aktualisieren"
+
+msgid "corp.log.member_role_rel_export"
+msgstr "Exportrolle"
+
+msgid "corp.log.member_role_rel_import"
+msgstr "Importrolle"
+
+msgid "corp.log.messageWebhookDisable"
+msgstr "Webhook deaktivieren (Nachricht)"
+
+msgid "corp.log.messageWebhookEnable"
+msgstr "Webhook aktivieren (Nachricht)"
+
+msgid "corp.log.messageWebhookUpdate"
+msgstr "Webhook bearbeiten (Nachricht)"
+
+msgid "corp.log.oauthCreate"
+msgstr "Autorisierung hinzufügen"
+
+msgid "corp.log.oauthDelete"
+msgstr "Autorisierung deaktivieren"
+
+msgid "corp.log.ocrBankCard"
+msgstr "Bankkarte"
+
+msgid "corp.log.ocrBusinessLicense"
+msgstr "Geschäftslizenz"
+
+msgid "corp.log.ocrContent"
+msgstr "OCR-Inhalt"
+
+msgid "corp.log.ocrCount"
+msgstr "OCR-Nutzung"
+
+msgid "corp.log.ocrDrivingLicense"
+msgstr "Führerschein"
+
+msgid "corp.log.ocrGeneral"
+msgstr "Allgemeiner Text"
+
+msgid "corp.log.ocrIdCard"
+msgstr "Ausweis"
+
+msgid "corp.log.ocrLog"
+msgstr "OCR"
+
+msgid "corp.log.ocrResult"
+msgstr "OCR-Ergebnis"
+
+msgid "corp.log.ocrTime"
+msgstr "OCR-Zeit"
+
+msgid "corp.log.ocrTrainTicket"
+msgstr "Zugticket"
+
+msgid "corp.log.ocrVatInvoice"
+msgstr "Mehrwertsteuerrechnung"
+
+msgid "corp.log.ocrVehicleLicense"
+msgstr "Fahrzeugzulassung"
+
+msgid "corp.log.openApiLog"
+msgstr "API-Anrufprotokoll"
+
+msgid "corp.log.openApiLogExport"
+msgstr "Open API-Protokolle exportieren"
+
+msgid "corp.log.operateDetails"
+msgstr "Details"
+
+msgid "corp.log.operateLog"
+msgstr "Plattformprotokolle"
+
+msgid "corp.log.operateLogExport"
+msgstr "Plattformprotokolle exportieren"
+
+msgid "corp.log.operateObject"
+msgstr "Objekt"
+
+msgid "corp.log.operateTime"
+msgstr "Zeit"
+
+msgid "corp.log.operateType"
+msgstr "Typ"
+
+msgid "corp.log.operator"
+msgstr "Operator"
+
+msgid "corp.log.orderCancel"
+msgstr "Bestellung stornieren"
+
+msgid "corp.log.orderCreate"
+msgstr "Bestellung erstellen"
+
+msgid "corp.log.orderDelete"
+msgstr "Bestellung löschen"
+
+msgid "corp.log.orderPay"
+msgstr "Zahlungsanweisung"
+
+msgid "corp.log.orderReceipt"
+msgstr "Rechnungsbestellung"
+
+msgid "corp.log.payUpdate"
+msgstr "Zahlungsdienst einrichten"
+
+msgid "corp.log.permissionManagementDisable"
+msgstr "Berechtigung „Berechtigung verwalten“ deaktivieren"
+
+msgid "corp.log.permissionManagementEnable"
+msgstr "Berechtigung „Berechtigung verwalten“ aktivieren"
+
+msgid "corp.log.pluginCount"
+msgstr "Plugin-Nutzung"
+
+msgid "corp.log.pluginCreate"
+msgstr "Plugin erstellen"
+
+msgid "corp.log.pluginExport"
+msgstr "Export-Plugin"
+
+msgid "corp.log.pluginImport"
+msgstr "Import-Plugin"
+
+msgid "corp.log.pluginImportOverwrite"
+msgstr "Plugin importieren und aktualisieren"
+
+msgid "corp.log.pluginInstall"
+msgstr "Plugin installieren"
+
+msgid "corp.log.pluginName"
+msgstr "Plugin-Name"
+
+msgid "corp.log.pluginPullRequest"
+msgstr "Plugin veröffentlichen"
+
+msgid "corp.log.pluginUpdate"
+msgstr "Plugin bearbeiten"
+
+msgid "corp.log.pluginUsageLog"
+msgstr "Plugin-Nutzung"
+
+msgid "corp.log.registrant"
+msgstr "Mitglied"
+
+msgid "corp.log.returnStatus"
+msgstr "Rückgabestatus"
+
+msgid "corp.log.roleChangeGroup"
+msgstr "Rolle neu gruppieren"
+
+msgid "corp.log.roleCreate"
+msgstr "Rolle erstellen"
+
+msgid "corp.log.roleGroupCreate"
+msgstr "Rollengruppe erstellen"
+
+msgid "corp.log.roleGroupRemove"
+msgstr "Rollengruppe löschen"
+
+msgid "corp.log.roleGroupRename"
+msgstr "Rollengruppe umbenennen"
+
+msgid "corp.log.roleMemberUpdate"
+msgstr "Mitglied in Rolle aktualisieren"
+
+msgid "corp.log.roleRelUpdate"
+msgstr "Zugewiesene Abteilung aktualisieren."
+
+msgid "corp.log.roleRemove"
+msgstr "Rolle löschen"
+
+msgid "corp.log.roleRename"
+msgstr "Rolle umbenennen"
+
+msgid "corp.log.running"
+msgstr "Läuft"
+
+msgid "corp.log.smsContent"
+msgstr "Details"
+
+msgid "corp.log.smsCount"
+msgstr "Gebraucht"
+
+msgid "corp.log.smsSendFailed"
+msgstr "Senden fehlgeschlagen"
+
+msgid "corp.log.smsSendPhone"
+msgstr "Handynummer"
+
+msgid "corp.log.smsSendResult"
+msgstr "Sendestatus"
+
+msgid "corp.log.smsSendSuccess"
+msgstr "Erfolgreich gesendet"
+
+msgid "corp.log.smsSendingLog"
+msgstr "SMS-Versand"
+
+msgid "corp.log.smsTime"
+msgstr "Datum"
+
+msgid "corp.log.spaceCreate"
+msgstr "Wissensdatenbank erstellen"
+
+msgid "corp.log.spaceDelete"
+msgstr "Wissensdatenbank löschen"
+
+msgid "corp.log.spacePermGroupCreate"
+msgstr "Berechtigungssatz für Wissensdatenbank erstellen"
+
+msgid "corp.log.spacePermGroupDelete"
+msgstr "Berechtigungssatz für Wissensdatenbank löschen"
+
+msgid "corp.log.spacePermGroupUpdate"
+msgstr "Berechtigungssatz für Wissensdatenbank bearbeiten"
+
+msgid "corp.log.spaceUpdate"
+msgstr "Wissensdatenbankinformationen bearbeiten"
+
+msgid "corp.log.success"
+msgstr "Erfolg"
+
+msgid "corp.log.suiteCorpScopeUpdate"
+msgstr "Produktberechtigungen einrichten"
+
+msgid "corp.log.suiteDisable"
+msgstr "Deaktivieren"
+
+msgid "corp.log.suiteEnable"
+msgstr "Aktivieren"
+
+msgid "corp.log.systemRobot"
+msgstr "Systemroboter"
+
+msgid "corp.log.tenantVerify"
+msgstr "Identität authentifizieren"
+
+msgid "corp.log.timezoneUpdate"
+msgstr "Zeitzone bearbeiten"
+
+msgid "corp.log.tmpOwnerApply"
+msgstr "Beantragen Sie die Verwaltung externer Kontakte"
+
+msgid "corp.log.tmpOwnerTransfer"
+msgstr "Übertragungsberechtigung für die Kontaktverwaltung"
+
+msgid "corp.log.waiting"
+msgstr "Warten"
+
+msgid "corp.log.watermarkDisable"
+msgstr "Globales Wasserzeichen deaktivieren"
+
+msgid "corp.log.watermarkEnable"
+msgstr "Globales Wasserzeichen aktivieren"
+
+msgid "corp.log.wxDisable"
+msgstr "Deaktivieren Sie die Integration des WeChat-Dienstkontos"
+
+msgid "corp.log.wxEnable"
+msgstr "WeChat-Dienstkontointegration aktivieren"
+
+msgid "corp.syncFailed"
+msgstr "Automatische Synchronisierung fehlgeschlagen"
+
+msgid "corp.syncFailedContent"
+msgstr "Die Synchronisierung der Geschäftskontakte ist fehlgeschlagen."
+
+msgid "corp.syncFailedSubject"
+msgstr "Die Mitglieder konnten nicht synchronisiert werden"
+
+msgid "corp.syncSuccessContent"
+msgstr "Geschäftskontakte wurden synchronisiert."
+
+msgid "corp.syncSuccessSubject"
+msgstr "Mitglieder erfolgreich synchronisiert"
+
+msgid "corp.systemManageGroup"
+msgstr "Super-Admin-Gruppe"
+
+msgid "corp.unGrouped"
+msgstr "Nicht gruppiert"
+
+msgid "corpCoop.department"
+msgstr "Externe Organisationen"
+
+msgid "corpUsage.accessTime"
+msgstr "Letzter Zugriff"
+
+msgid "corpUsage.aggregate"
+msgstr "Aggregierte Tabellen"
+
+msgid "corpUsage.app"
+msgstr "Apps"
+
+msgid "corpUsage.app.cardName"
+msgstr "Ansicht nach App-Übersicht"
+
+msgid "corpUsage.app.metricListName"
+msgstr "Nach App anzeigen – Nutzungsdetails"
+
+msgid "corpUsage.appId"
+msgstr "App-ID"
+
+msgid "corpUsage.appName"
+msgstr "App-Name"
+
+msgid "corpUsage.attachment"
+msgstr "Hochgeladener Anhang"
+
+msgid "corpUsage.automation"
+msgstr "Automations Pro"
+
+msgid "corpUsage.bpa"
+msgstr "BPAs"
+
+msgid "corpUsage.createTime"
+msgstr "Erstellt am"
+
+msgid "corpUsage.creator"
+msgstr "Eigentümer"
+
+msgid "corpUsage.creator.username"
+msgstr "Besitzer-ID"
+
+msgid "corpUsage.dash"
+msgstr "Armaturenbrett"
+
+msgid "corpUsage.dash.type"
+msgstr "Armaturenbrett"
+
+msgid "corpUsage.data"
+msgstr "Gesamtdaten"
+
+msgid "corpUsage.data_trigger"
+msgstr "Automatisierungen"
+
+msgid "corpUsage.date"
+msgstr "Datum"
+
+msgid "corpUsage.drillDown.fileName"
+msgstr "Datendetails"
+
+msgid "corpUsage.etl"
+msgstr "Datenfabrik"
+
+msgid "corpUsage.fileName"
+msgstr "Ressourcennutzung"
+
+msgid "corpUsage.form_coop"
+msgstr "Regelmäßige Formen"
+
+msgid "corpUsage.form_coop.type"
+msgstr "Reguläre Form"
+
+msgid "corpUsage.form_workflow"
+msgstr "Workflow-Formulare"
+
+msgid "corpUsage.form_workflow.id"
+msgstr "Workflow-Formular-ID"
+
+msgid "corpUsage.form_workflow.name"
+msgstr "Name des Workflow-Formulars"
+
+msgid "corpUsage.form_workflow.type"
+msgstr "Workflow-Formular"
+
+msgid "corpUsage.member.cardName"
+msgstr "Ansicht nach Mitgliederübersicht"
+
+msgid "corpUsage.member.metricListName"
+msgstr "Nach Mitglied anzeigen – Nutzungsdetails"
+
+msgid "corpUsage.member.name.notRecorded"
+msgstr "Keine Daten"
+
+msgid "corpUsage.public_link"
+msgstr "Aktivierte öffentliche Links"
+
+msgid "corpUsage.public_link.type"
+msgstr "Objekttyp"
+
+msgid "corpUsage.updateTime"
+msgstr "Zuletzt bearbeitet"
+
+msgid "corp_coop.operate.create"
+msgstr "hinzugefügt"
+
+msgid "corp_coop.operate.delete"
+msgstr "gelöscht"
+
+msgid "corp_coop.side.other"
+msgstr "es ist"
+
+msgid "corp_coop.side.our"
+msgstr "dein"
+
+msgid "corp_log.content.app_attachment_control_disable"
+msgstr "Deaktivierte App-Anhangssteuerung für die App „{{ app_name }}“"
+
+msgid "corp_log.content.app_attachment_control_enable"
+msgstr "Aktivierte Anwendungsanhangssteuerung für die Anwendung „{{ app_name }}“"
+
+msgid "corp_log.content.app_attachment_control_update"
+msgstr "Die Anwendungsanhangsteuerung der Anwendung „{{ app_name }}“ wurde geändert."
+
+msgid "corp_log.content.app_home_update"
+msgstr "Die Startseite der App \"{{ app_name }}\" wurde angepasst."
+
+msgid "corp_log.content.app_manage_group_add"
+msgstr "App-Verwaltungsgruppe {{ name }} in {{ appName }} hinzufügen"
+
+msgid "corp_log.content.app_manage_group_remove"
+msgstr "App-Verwaltungsgruppe {{ name }} in {{ appName }} entfernen"
+
+msgid "corp_log.content.app_manage_group_rename"
+msgstr ""
+"Benennen Sie die App-Verwaltungsgruppe von {{ oriName }} in {{ name }} in "
+"{{ appName }} um"
+
+msgid "corp_log.content.app_manager_add"
+msgstr "App-Manager hinzufügen {{ members }} in {{ name }} von {{ appName }}"
+
+msgid "corp_log.content.app_manager_remove"
+msgstr "App-Manager entfernen {{ members }} in {{ name }} von {{ appName }}"
+
+msgid "corp_log.content.app_ref_forms_set_update"
+msgstr "Appübergreifende Einstellungen für die App „{{ app_name }}“ bearbeitet"
+
+msgid "corp_log.content.app_url_update"
+msgstr "Die App-URL der App „{{ app_name }}“ wurde bearbeitet."
+
+msgid "corp_log.content.app_watermark_disable"
+msgstr "Deaktiviertes App-Wasserzeichen für die App \"{{ app_name }}\""
+
+msgid "corp_log.content.app_watermark_enable"
+msgstr "App-Wasserzeichen für die App „{{ app_name }}“ aktiviert"
+
+msgid "corp_log.content.bpm_delegation_disable"
+msgstr "„Delegierung einleiten“ ist deaktiviert"
+
+msgid "corp_log.content.bpm_delegation_enable"
+msgstr "Delegierung starten ist aktiviert"
+
+msgid "corp_log.content.bpm_delegation_update"
+msgstr ""
+"Delegation wurde abgebrochen: Delegation von {{ principal }} an {{ agent }} "
+"während {{ timeRange }}"
+
+msgid "corp_log.content.corp_executive_member_update"
+msgstr "Aktualisierte Mitglieder in der Sperrliste"
+
+msgid "corp_log.content.corp_executive_member_whitelist_update"
+msgstr ""
+"Aktualisierter Mitglieder- und App-Benachrichtigungsbereich für die "
+"Sperrliste"
+
+msgid "corp_log.content.corp_executive_whitelist_update"
+msgstr "Aktualisierter App-Benachrichtigungsbereich für die Sperrliste"
+
+msgid "corp_log.content.flow_analysis_batch_disable"
+msgstr "BPA für {{ count }} Formular(e) deaktiviert"
+
+msgid "corp_log.content.flow_analysis_batch_enable"
+msgstr "BPA für {{ count }} Formular(e) aktiviert"
+
+msgid "corp_log.content.flow_analysis_disable"
+msgstr "BPA für das Formular \"{{ flow_name }}\" deaktiviert"
+
+msgid "corp_log.content.flow_analysis_enable"
+msgstr "BPA für das Formular \"{{ flow_name }}\" aktiviert"
+
+msgid "corp_log.content.form_auth_batch_update"
+msgstr "Formular-/Dashboard-Berechtigungen stapelweise angepasst"
+
+msgid "corp_log.content.member_role_rel_export"
+msgstr "Importierte die Informationen einer Rolle"
+
+msgid "corp_log.content.member_role_rel_import"
+msgstr "Mitglieder zu „{{ fullRoleNames }}“ importiert"
+
+msgid "corp_log.content.role_rel_batch_update"
+msgstr "Die zugewiesene Abteilung für Mitglieder in {{ role }} wurde aktualisiert."
+
+msgid "corp_log.content.role_rel_update"
+msgstr ""
+"Die zugewiesene Abteilung für {{ nickname }} in {{ role }} wurde "
+"aktualisiert."
+
+msgid "corp_log.content.space_create"
+msgstr "Die Wissensdatenbank „{{ space_name }}“ wurde erstellt."
+
+msgid "corp_log.content.space_delete"
+msgstr "Die Wissensdatenbank „{{ space_name }}“ wurde gelöscht."
+
+msgid "corp_log.content.space_perm_group_create"
+msgstr "Der Berechtigungssatz „{{ space_perm_group_name }}“ wurde erstellt."
+
+msgid "corp_log.content.space_perm_group_delete"
+msgstr "Der Berechtigungssatz „{{ space_perm_group_name }}“ wurde gelöscht."
+
+msgid "corp_log.content.space_perm_group_update"
+msgstr "Der Berechtigungssatz „{{ space_perm_group_name }}“ wurde bearbeitet."
+
+msgid "corp_log.content.space_update"
+msgstr ""
+"Die grundlegenden Informationen der Wissensdatenbank „{{ space_name }}“ "
+"wurden bearbeitet."
+
+msgid "corp_log.content.suite_corp_scope_update"
+msgstr "Richten Sie ein, wer „{{ name }}“ verwenden kann"
+
+msgid "corp_log.content.suite_disable"
+msgstr "Deaktivieren Sie \"{{ name }}\""
+
+msgid "corp_log.content.suite_enable"
+msgstr "Aktivieren Sie \"{{ name }}\""
+
+msgid "crm.upgrade.relatedData"
+msgstr "Nachschlagen"
+
+msgid "crop_log.content.accept_host_invitation"
+msgstr "Nehmen Sie die Einladung von {{ nickname}}({{ corpName }}) an."
+
+msgid "crop_log.content.agent_disable"
+msgstr "Deaktiviertes Plugin {{ plugin_name }}"
+
+msgid "crop_log.content.agent_enable"
+msgstr "Plugin-Agent aktiviert {{ plugin_name }}"
+
+msgid "crop_log.content.agent_uninstall"
+msgstr "Deinstallierter Plugin-Agent {{ plugin_name }}"
+
+msgid "crop_log.content.aggregate_copy"
+msgstr ""
+"Die aggregierte Tabelle {{name}} wurde erstellt und aus der aggregierten "
+"Tabelle {{ori_name}} in der App {{app_name}} kopiert."
+
+msgid "crop_log.content.aggregate_create"
+msgstr "Aggregierte Tabelle {{ name }} erstellt"
+
+msgid "crop_log.content.aggregate_downgrade"
+msgstr "Aggregat-Tabelle \"{{ name }}\" wiederhergestellt"
+
+msgid "crop_log.content.aggregate_remove"
+msgstr "Aggregattabelle {{ name }} gelöscht"
+
+msgid "crop_log.content.aggregate_rename"
+msgstr "Aggregattabelle {{ ori_name }} in {{ name }} umbenannt"
+
+msgid "crop_log.content.aggregate_update"
+msgstr "Das Design der Aggregattabelle {{ name }} wurde aktualisiert."
+
+msgid "crop_log.content.aggregate_upgrade"
+msgstr "Aggregat-Tabelle \"{{ name }}\" aktualisiert"
+
+msgid "crop_log.content.ai_lab_disable"
+msgstr "Geschlossenes KI-Labor"
+
+msgid "crop_log.content.ai_lab_enable"
+msgstr "KI-Labor eröffnet"
+
+msgid "crop_log.content.api_key_create"
+msgstr "API-Schlüssel hinzugefügt"
+
+msgid "crop_log.content.api_key_create_name"
+msgstr "API-Schlüssel \"{{ suite_name }}\" hinzugefügt"
+
+msgid "crop_log.content.api_key_delete"
+msgstr "Gelöschter API-Schlüssel"
+
+msgid "crop_log.content.api_key_delete_name"
+msgstr "Gelöschter API-Schlüssel \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_disable"
+msgstr "Deaktivierter API-Schlüssel"
+
+msgid "crop_log.content.api_key_disable_name"
+msgstr "Deaktivierter API-Schlüssel \"{{ suite_name }}\""
+
+msgid "crop_log.content.api_key_enable"
+msgstr "Aktivierter API-Schlüssel"
+
+msgid "crop_log.content.api_key_enable_name"
+msgstr "API-Schlüssel \"{{ suite_name }}\" aktiviert"
+
+msgid "crop_log.content.api_key_update_api_range"
+msgstr "Aktualisieren Sie den „API-Autorisierungsumfang“ des Schlüssels „{{ name }}“"
+
+msgid "crop_log.content.api_key_update_app_range"
+msgstr "Aktualisieren Sie den „App-Autorisierungsumfang“ des Schlüssels „{{ name }}“"
+
+msgid "crop_log.content.api_key_update_ipv4_whitelist"
+msgstr "Aktualisieren Sie die „IP-Whitelist“ des Schlüssels „{{ name }}“"
+
+msgid "crop_log.content.api_key_update_name"
+msgstr "Aktualisieren Sie den „Namen“ des Schlüssels „{{ name }}“"
+
+msgid "crop_log.content.app_create"
+msgstr "App {{ name }} erstellt"
+
+msgid "crop_log.content.app_create_copy"
+msgstr "App {{ name }} durch Kopieren von {{ ori_name }} erstellt"
+
+msgid "crop_log.content.app_etl_log_export"
+msgstr "Exportierte ETL-Protokolle"
+
+msgid "crop_log.content.app_install_dingdingda"
+msgstr "Installierte App {{ name }} von DingDingDa"
+
+msgid "crop_log.content.app_install_link"
+msgstr "App {{ name }} über App-Freigabelink installiert"
+
+msgid "crop_log.content.app_install_template"
+msgstr "Installierte App {{ name }} aus dem Vorlagencenter"
+
+msgid "crop_log.content.app_log_export"
+msgstr "Exportierte App-Protokolle"
+
+msgid "crop_log.content.app_manage_group_disable"
+msgstr "Deaktivierte App-Administratorgruppe"
+
+msgid "crop_log.content.app_manage_group_enable"
+msgstr "Aktivierte App-Admin-Gruppe"
+
+msgid "crop_log.content.app_recover"
+msgstr "Wiederhergestellte App {{ name }}"
+
+msgid "crop_log.content.app_remove"
+msgstr "Gelöschte App {{ name }}"
+
+msgid "crop_log.content.app_rename"
+msgstr "App {{ ori_name }} in {{ name }} umbenannt"
+
+msgid "crop_log.content.app_trigger_log_export"
+msgstr "Exportierte Triggerprotokolle"
+
+msgid "crop_log.content.attachment_control_disable"
+msgstr "Globale Anhangskontrolle deaktivieren"
+
+msgid "crop_log.content.attachment_control_enable"
+msgstr "Die globale Anhangskontrolle ist aktiviert"
+
+msgid "crop_log.content.auth_config_update"
+msgstr "Aktualisierter Berechtigungssatz {{ name }} Einstellungen"
+
+msgid "crop_log.content.auth_group_create"
+msgstr "Berechtigungssatz {{ name }} hinzugefügt"
+
+msgid "crop_log.content.auth_group_remove"
+msgstr "Gelöschter Berechtigungssatz {{ name }}"
+
+msgid "crop_log.content.auth_group_rename"
+msgstr "Berechtigungssatz {{ ori_name }} in {{ name }} umbenannt"
+
+msgid "crop_log.content.auth_members_update"
+msgstr "Die Mitglieder des Berechtigungssatzes {{ name }} wurden aktualisiert."
+
+msgid "crop_log.content.coin_conf_update"
+msgstr "Die Cloud-Coin-Zahlungseinstellungen wurden bearbeitet"
+
+msgid "crop_log.content.coin_usage_log_export"
+msgstr "Exportierte Münznutzungsprotokolle"
+
+msgid "crop_log.content.corp_coop_link_create"
+msgstr "Ein Einladungslink für ein externes Unternehmen wurde hinzugefügt"
+
+msgid "crop_log.content.corp_coop_link_delete"
+msgstr "Einen Einladungslink für ein externes Unternehmen gelöscht"
+
+msgid "crop_log.content.corp_coop_link_update"
+msgstr "Einen Einladungslink für ein externes Unternehmen bearbeitet"
+
+msgid "crop_log.content.corp_rename"
+msgstr ""
+"Das Unternehmen wurde von \"{{ old_corp_name }}\" in \"{{ new_corp_name "
+"}}\" umbenannt."
+
+msgid "crop_log.content.corp_theme_disable"
+msgstr "Geschäftsstil für Behinderte"
+
+msgid "crop_log.content.corp_theme_enable"
+msgstr "Aktivierter Geschäftsstil"
+
+msgid "crop_log.content.corp_theme_update"
+msgstr "Bearbeiteter Business-Stil"
+
+msgid "crop_log.content.corp_url_update"
+msgstr "Die URL des Business-Portals wurde bearbeitet"
+
+msgid "crop_log.content.create_corp_coop_role"
+msgstr "Die externe Kontaktrolle „{{ roleName }}“ wurde hinzugefügt."
+
+msgid "crop_log.content.custom_login_disable"
+msgstr "Benutzerdefinierte Anmeldeseite deaktiviert"
+
+msgid "crop_log.content.custom_login_enable"
+msgstr "Benutzerdefinierte Anmeldeseite aktiviert"
+
+msgid "crop_log.content.custom_workbench_update"
+msgstr "Bearbeiteter Business-Arbeitsbereich"
+
+msgid "crop_log.content.dash_auth_update"
+msgstr "Der Berechtigungssatz des Dashboards {{ name }} wurde aktualisiert."
+
+msgid "crop_log.content.dash_create"
+msgstr "Dashboard erstellt {{ name }}"
+
+msgid "crop_log.content.dash_create_copy"
+msgstr ""
+" Das Dashboard {{ name }} wurde durch Kopieren vom Dashboard {{ ori_name }} "
+"der App {{ app_name }} erstellt."
+
+msgid "crop_log.content.dash_public_excel_export_disable"
+msgstr "Öffentlichen Dashboard-Export deaktiviert"
+
+msgid "crop_log.content.dash_public_excel_export_enable"
+msgstr "Den öffentlichen Dashboard-Export aktiviert"
+
+msgid "crop_log.content.dash_public_link_disable"
+msgstr "Öffentlichen Dashboard-Link deaktiviert"
+
+msgid "crop_log.content.dash_public_link_enable"
+msgstr "Öffentlichen Dashboard-Link aktiviert"
+
+msgid "crop_log.content.dash_recover"
+msgstr "Wiederhergestelltes Dashboard {{ name }}"
+
+msgid "crop_log.content.dash_remove"
+msgstr "Dashboard gelöscht {{ name }}"
+
+msgid "crop_log.content.dash_rename"
+msgstr "Dashboard {{ ori_name }} umbenannt in {{ name }}"
+
+msgid "crop_log.content.dash_update"
+msgstr "Das Design des Dashboards wurde aktualisiert {{ name }}"
+
+msgid "crop_log.content.data_batch_print"
+msgstr "Stapelweise gedruckte Datensätze in der Vorlage {{ template_name }}."
+
+msgid "crop_log.content.data_batch_recover"
+msgstr "Stapelweise wiederhergestellte {{ count }} Datensätze"
+
+msgid "crop_log.content.data_batch_remove"
+msgstr "Stapelweise gelöschte {{ count }} Datensätze"
+
+msgid "crop_log.content.data_batch_remove_hard"
+msgstr "Stapelweise gelöschte {{ count}} Datensätze aus Data Recycle"
+
+msgid "crop_log.content.data_batch_update"
+msgstr ""
+"{{ total }} Datensätze im Stapel aktualisiert, {{ success }} erfolgreich, "
+"{{ failed }} fehlgeschlagen"
+
+msgid "crop_log.content.data_create"
+msgstr "Hinzugefügte Daten {{ data_label }}"
+
+msgid "crop_log.content.data_dash_print_table"
+msgstr ""
+"Stapelweise gedruckte Datensätze von {{ table_name }} in der Vorlage {{ "
+"template_name }}."
+
+msgid "crop_log.content.data_export"
+msgstr "Die Daten von {{ entry_name }} wurden exportiert"
+
+msgid "crop_log.content.data_import"
+msgstr "Durch Importieren wurden {{ count }} Datensätze hinzugefügt"
+
+msgid "crop_log.content.data_import_file"
+msgstr "{{ success }} Anhang(e) importiert."
+
+msgid "crop_log.content.data_import_update"
+msgstr "Aktualisierte {{ count }} Datensätze durch Importieren"
+
+msgid "crop_log.content.data_import_upsert"
+msgstr ""
+"Aktualisierte {{ updata_datas_amount }} Datensätze, Hinzugefügte {{ "
+"insert_datas_amount }} Datensätze durch Importieren"
+
+msgid "crop_log.content.data_print"
+msgstr "Gedruckter Datensatz {{ data_label }} in der Vorlage {{ template_name }}."
+
+msgid "crop_log.content.data_print_data_qr"
+msgstr "Im Stapel gedruckte Daten-QR-Codes."
+
+msgid "crop_log.content.data_print_field_bar"
+msgstr "Im Stapel gedruckte Feld-Barcodes."
+
+msgid "crop_log.content.data_print_field_qr"
+msgstr "Im Stapel gedruckte Feld-QR-Codes."
+
+msgid "crop_log.content.data_recover"
+msgstr "Wiederhergestellte Daten {{ data_label }}"
+
+msgid "crop_log.content.data_remove"
+msgstr "Gelöschte Daten {{ data_label }}"
+
+msgid "crop_log.content.data_remove_hard"
+msgstr "Gelöschte Daten {{ data_label }} aus Data Recycle"
+
+msgid "crop_log.content.data_trigger_copy"
+msgstr ""
+"Eine Automatisierung erstellt {{ name }}, kopiert aus der Automatisierung "
+"{{ ori_name }} aus der App {{ app_name }}."
+
+msgid "crop_log.content.data_trigger_create"
+msgstr "Automatisierung erstellt {{ name }}"
+
+msgid "crop_log.content.data_trigger_remove"
+msgstr "Gelöschte Automatisierung {{ name }}"
+
+msgid "crop_log.content.data_trigger_start"
+msgstr "Aktivierte Automatisierung {{ name }}"
+
+msgid "crop_log.content.data_trigger_stop"
+msgstr "Deaktivierte Automatisierung {{ name }}"
+
+msgid "crop_log.content.data_trigger_update"
+msgstr "Aktualisierte Automatisierung {{ name }}"
+
+msgid "crop_log.content.data_trigger_update_rename"
+msgstr ""
+"Die Automatisierung {{ ori_name }} wurde aktualisiert und in {{ name }} "
+"umbenannt."
+
+msgid "crop_log.content.data_update"
+msgstr "Aktualisierte Daten {{ data_label }}"
+
+msgid "crop_log.content.delete_corp_coop_role"
+msgstr "Die externe Kontaktrolle „{{ roleName }}“ wurde gelöscht."
+
+msgid "crop_log.content.dept_create"
+msgstr "Abteilung hinzugefügt {{ name }}"
+
+msgid "crop_log.content.dept_label_create"
+msgstr "Das Geschäftstag „{{ dept_label_name }}“ wurde hinzugefügt."
+
+msgid "crop_log.content.dept_label_delete"
+msgstr "Das Geschäftstag „{{ dept_label_name }}“ wurde gelöscht."
+
+msgid "crop_log.content.dept_label_dept_update"
+msgstr ""
+"Die Unternehmen unter dem Business-Tag „{{ dept_label_name }}“ wurden "
+"angepasst."
+
+msgid "crop_log.content.dept_label_update"
+msgstr ""
+"Das Geschäftstag „{{ old_dept_label_name }}“ wurde in „{{ "
+"new_dept_label_name }}“ umbenannt."
+
+msgid "crop_log.content.dept_manager_update"
+msgstr "Abteilungsleiter {{ name }} aktualisiert"
+
+msgid "crop_log.content.dept_remove"
+msgstr "Gelöschte Abteilung {{ name }}"
+
+msgid "crop_log.content.dept_rename"
+msgstr "Abteilung {{ ori_name }} umbenannt in {{ name }}"
+
+msgid "crop_log.content.direct_user_provisioning_member_import"
+msgstr "{{ count }} Mitglied(er) in Stapeln erstellt."
+
+msgid "crop_log.content.disconnect_guest_corp"
+msgstr "{{ count }} Mitglieder von \"{{ roleName }}\" wurden entlassen."
+
+msgid "crop_log.content.etl_copy"
+msgstr ""
+" Datenstrom {{ name }} durch Kopieren aus dem Datenstrom {{ ori_name }} der "
+"App {{ app_name }} erstellt"
+
+msgid "crop_log.content.etl_create"
+msgstr "Erstellter Datenstrom {{ name }}"
+
+msgid "crop_log.content.etl_remove"
+msgstr "Gelöschter Datenstrom {{ name }}"
+
+msgid "crop_log.content.etl_rename"
+msgstr "Datenstrom {{ ori_name }} in {{ name }} umbenennen"
+
+msgid "crop_log.content.etl_update"
+msgstr "Das Design des Datenstroms {{ name }} wurde aktualisiert."
+
+msgid "crop_log.content.fields_recover"
+msgstr ""
+"Das Formulardesign des Formulars {{ name }} wurde aktualisiert und {{ count "
+"}} Felder aus Field Recycle wiederhergestellt: {{ fields }}"
+
+msgid "crop_log.content.fields_recover_and_remove"
+msgstr ""
+"Das Formulardesign des Formulars {{ name }} wurde aktualisiert, {{ delCount "
+"}} Felder wurden entfernt und {{ recoverCount }} Felder aus Field Recycle "
+"wiederhergestellt: {{fields}}"
+
+msgid "crop_log.content.fields_remove"
+msgstr ""
+"Das Formulardesign des Formulars {{ name }} wurde aktualisiert und {{ count "
+"}} Felder wurden entfernt"
+
+msgid "crop_log.content.fields_remove_hard"
+msgstr "{{ count }} Felder vollständig aus Field Recycle entfernt: {{ fields }}"
+
+msgid "crop_log.content.fields_trash_clean"
+msgstr ""
+"Der Papierkorb wurde geleert und {{ count }} Felder wurden vollständig "
+"gelöscht"
+
+msgid "crop_log.content.file_batch_export"
+msgstr "Die Datei wurde von {{ entry_name }} heruntergeladen."
+
+msgid "crop_log.content.flow_update"
+msgstr "Das Workflow-Design des Formulars {{ name }} wurde aktualisiert."
+
+msgid "crop_log.content.form_create"
+msgstr "Erstellt von {{ name }}"
+
+msgid "crop_log.content.form_create_copy"
+msgstr ""
+" Formular {{ name }} erstellt durch Kopieren aus Formular {{ ori_name }} "
+"der App {{ app_name }}"
+
+msgid "crop_log.content.form_data_page_remove"
+msgstr "Benutzerdefinierte Detailseite löschen"
+
+msgid "crop_log.content.form_data_page_switch_custom"
+msgstr "Zu benutzerdefinierter Detailseite wechseln"
+
+msgid "crop_log.content.form_data_page_switch_system"
+msgstr "Zur systemeigenen Standard-Detailseite wechseln"
+
+msgid "crop_log.content.form_data_page_update"
+msgstr "Benutzerdefinierte Detailseite bearbeiten"
+
+msgid "crop_log.content.form_online_pay_disable"
+msgstr "Zahlungen deaktivieren"
+
+msgid "crop_log.content.form_online_pay_enable"
+msgstr "Zahlungen aktivieren"
+
+msgid "crop_log.content.form_online_pay_update"
+msgstr "Zahlungseinstellungen ändern"
+
+msgid "crop_log.content.form_public_data_disable"
+msgstr "Den öffentlichen Link für einen Datensatz deaktiviert"
+
+msgid "crop_log.content.form_public_data_enable"
+msgstr "Öffentlichen Link für Datensatz aktiviert"
+
+msgid "crop_log.content.form_public_link_disable"
+msgstr "Den öffentlichen Link deaktiviert"
+
+msgid "crop_log.content.form_public_link_enable"
+msgstr "Den öffentlichen Link aktiviert"
+
+msgid "crop_log.content.form_public_query_disable"
+msgstr "Den öffentlichen Abfragelink deaktiviert"
+
+msgid "crop_log.content.form_public_query_enable"
+msgstr "Den öffentlichen Abfragelink aktiviert"
+
+msgid "crop_log.content.form_recover"
+msgstr "Stellen Sie das Formular {{ name }} wieder her"
+
+msgid "crop_log.content.form_remove"
+msgstr "Gelöschtes Formular {{ name }}"
+
+msgid "crop_log.content.form_rename"
+msgstr "Benennen Sie das Formular {{ ori_name }} in {{ name }} um"
+
+msgid "crop_log.content.form_update"
+msgstr "Das Formulardesign für das Formular {{ name }} wurde geändert."
+
+msgid "crop_log.content.guest_connect"
+msgstr "{{ count }} Unternehmen in Gruppen eingeladen"
+
+msgid "crop_log.content.guest_docker_export"
+msgstr "Alle externen Kontakte exportiert"
+
+msgid "crop_log.content.guest_docker_update"
+msgstr ""
+"Die Informationen des externen Kontakts „{{ old_guest_docker_nickname }}“ "
+"wurden bearbeitet."
+
+msgid "crop_log.content.guest_update"
+msgstr "Die Informationen eines externen Unternehmens bearbeitet"
+
+msgid "crop_log.content.handover_work"
+msgstr "{{ from }}s {{ works }} übergeben an {{ to }}"
+
+msgid "crop_log.content.host_batch_disconnect"
+msgstr ""
+"Verbindung zu {{ count }} Unternehmen getrennt, die uns zur Zusammenarbeit "
+"eingeladen haben"
+
+msgid "crop_log.content.host_connect"
+msgstr "Das externe Unternehmen {{ host_corp_name }} wurde eingeladen"
+
+msgid "crop_log.content.host_disconnect"
+msgstr ""
+"Verbindung zum Unternehmen „{{ name }}“ getrennt, das uns zur "
+"Zusammenarbeit eingeladen hat"
+
+msgid "crop_log.content.host_docker_batch_create"
+msgstr "{{ count }} unserer Kontakte hinzugefügt"
+
+msgid "crop_log.content.host_docker_batch_delete"
+msgstr "{{ count }} unserer Kontakte entfernt"
+
+msgid "crop_log.content.host_docker_create"
+msgstr "Unser Kontakt \"{{ name }}\" wurde hinzugefügt"
+
+msgid "crop_log.content.host_docker_delete"
+msgstr "Unser Kontakt \"{{ name }}\" wurde entfernt"
+
+msgid "crop_log.content.host_docker_update"
+msgstr "Die Informationen unseres Kontakts „{{ name }}“ wurden bearbeitet."
+
+msgid "crop_log.content.integrate_update"
+msgstr "Bearbeitete Bindungsinformationen"
+
+msgid "crop_log.content.kms_disable"
+msgstr "Deaktivierte Wissensdatenbank"
+
+msgid "crop_log.content.kms_enable"
+msgstr "Aktivierte Wissensdatenbank"
+
+msgid "crop_log.content.login_log_export"
+msgstr "Exportierter Anmeldeverlauf"
+
+msgid "crop_log.content.manage_group_create"
+msgstr "Admin-Gruppe {{ name }} hinzugefügt"
+
+msgid "crop_log.content.manage_group_remove"
+msgstr "Gelöschte Admin-Gruppe {{ name }}"
+
+msgid "crop_log.content.manage_group_rename"
+msgstr "Admin-Gruppe {{ ori_name }} umbenannt in {{ name }}"
+
+msgid "crop_log.content.managers_add"
+msgstr "Mitglieder zur Admin-Gruppe {{ name }} hinzugefügt: {{ members }}"
+
+msgid "crop_log.content.managers_remove"
+msgstr "Gelöschte Mitglieder in der Admin-Gruppe {{ name }}: {{ members }}"
+
+msgid "crop_log.content.member_batch_freeze"
+msgstr "Batch deaktiviert {{ count }} Mitglieder"
+
+msgid "crop_log.content.member_batch_hard_delete"
+msgstr "Stapelweise gelöschte {{ count }} inaktive Mitglieder"
+
+msgid "crop_log.content.member_batch_recover"
+msgstr "Batch-aktivierte {{ count }} Mitglieder"
+
+msgid "crop_log.content.member_batch_remove"
+msgstr "Batch-Deaktivierung von {{ count }} Mitgliedern"
+
+msgid "crop_log.content.member_exit"
+msgstr "Das Mitglied \"{{ nickname }}\" hat die Organisation freiwillig verlassen"
+
+msgid "crop_log.content.member_export"
+msgstr "Exportierte Mitglieder aus „Kontakte“"
+
+msgid "crop_log.content.member_freeze"
+msgstr "Deaktiviert {{ nickname }}"
+
+msgid "crop_log.content.member_hard_delete"
+msgstr "Inaktives Mitglied gelöscht {{ nickname }}"
+
+msgid "crop_log.content.member_import"
+msgstr "Eingeladene {{ count }} Mitglieder"
+
+msgid "crop_log.content.member_invite"
+msgstr "Eingeladen {{ nickname }}"
+
+msgid "crop_log.content.member_recover"
+msgstr "Aktiviert \"{{ nickname }}\""
+
+msgid "crop_log.content.member_remove"
+msgstr "Deaktiviert {{ nickname }}"
+
+msgid "crop_log.content.member_update"
+msgstr "Die Informationen von {{ nickname }} wurden aktualisiert."
+
+msgid "crop_log.content.message_webhook_disable"
+msgstr "Deaktivierter Webhook (Nachricht)"
+
+msgid "crop_log.content.message_webhook_enable"
+msgstr "Webhook aktiviert (Nachricht)"
+
+msgid "crop_log.content.message_webhook_update"
+msgstr "Bearbeiteter Webhook (Nachricht)"
+
+msgid "crop_log.content.oauth_create"
+msgstr "Autorisierung für \"{{ suite_name }}\" hinzugefügt"
+
+msgid "crop_log.content.oauth_delete"
+msgstr "Die Autorisierung für \"{{ suite_name }}\" wurde widerrufen."
+
+msgid "crop_log.content.open_api_log_export"
+msgstr "Exportierte Open API-Protokolle"
+
+msgid "crop_log.content.operate_log_export"
+msgstr "Exportierte Plattformprotokolle"
+
+msgid "crop_log.content.order_cancel"
+msgstr "Eine Bestellung storniert"
+
+msgid "crop_log.content.order_create"
+msgstr "Eine Bestellung erstellt"
+
+msgid "crop_log.content.order_delete"
+msgstr "Eine Bestellung gelöscht"
+
+msgid "crop_log.content.order_pay"
+msgstr "Für eine Bestellung bezahlt"
+
+msgid "crop_log.content.order_receipt"
+msgstr "Rechnung am Auftrag"
+
+msgid "crop_log.content.pay_disable"
+msgstr "Zahlungsdienst deaktivieren"
+
+msgid "crop_log.content.pay_enable"
+msgstr "Zahlungsdienst aktivieren"
+
+msgid "crop_log.content.pay_ums_bind"
+msgstr "Link UnionPay-Händler"
+
+msgid "crop_log.content.pay_ums_unbind"
+msgstr "UnionPay-Händler entfernen"
+
+msgid "crop_log.content.permission_management_disable"
+msgstr "Deaktivierte Verwaltungsberechtigung"
+
+msgid "crop_log.content.permission_management_enable"
+msgstr "Berechtigung „Verwaltung“ aktiviert"
+
+msgid "crop_log.content.plugin_create"
+msgstr "Das Plugin „{{ plugin_name }}“ wurde erstellt."
+
+msgid "crop_log.content.plugin_delete"
+msgstr "Das Plugin \"{{ plugin_name }}\" wurde gelöscht."
+
+msgid "crop_log.content.plugin_duplicate"
+msgstr ""
+"Das Plugin „{{ plugin_name }}“ wurde erstellt und von „{{ ori_plugin_name "
+"}}“ kopiert."
+
+msgid "crop_log.content.plugin_export"
+msgstr "Exportieren Sie das Plugin „{{ plugin_name }}“"
+
+msgid "crop_log.content.plugin_import"
+msgstr "Importieren Sie das Plugin „{{ plugin_name }}“"
+
+msgid "crop_log.content.plugin_import_overwrite"
+msgstr "Importieren und aktualisieren Sie das Plugin „{{ plugin_name }}“."
+
+msgid "crop_log.content.plugin_install"
+msgstr "Installiertes Plugin {{ plugin_name }}"
+
+msgid "crop_log.content.plugin_pull_request"
+msgstr "Beantragt für die Veröffentlichung des Plugins \"{{ plugin_name }}\""
+
+msgid "crop_log.content.plugin_update"
+msgstr "Das Plugin „{{ plugin_name }}“ wurde bearbeitet."
+
+msgid "crop_log.content.push_or_pull_role_member"
+msgstr "Geänderte Mitglieder unter der externen Kontaktrolle „{{ roleName }}“"
+
+msgid "crop_log.content.role_change_group"
+msgstr ""
+"Die Rolle „{{ role_name }}“ wurde der Gruppe „{{ new_group_name }}“ "
+"hinzugefügt."
+
+msgid "crop_log.content.role_create"
+msgstr "Rolle {{ name }} in Rollengruppe {{ group_name }} erstellt"
+
+msgid "crop_log.content.role_group_create"
+msgstr "Erstellte Rollengruppe {{ name }}"
+
+msgid "crop_log.content.role_group_remove"
+msgstr "Gelöschte Rollengruppe {{ name }}"
+
+msgid "crop_log.content.role_group_rename"
+msgstr "Rollengruppe {{ ori_name }} in {{ name }} umbenannt"
+
+msgid "crop_log.content.role_member_update"
+msgstr "Aktualisierte Mitglieder in der Rolle {{ name }}"
+
+msgid "crop_log.content.role_remove"
+msgstr "Gelöschte Rolle {{ name }} in Rollengruppe {{ group_name }}"
+
+msgid "crop_log.content.role_rename"
+msgstr "Rolle {{ ori_name }} umbenannt in {{ name }}"
+
+msgid "crop_log.content.tenant_verify"
+msgstr " Authentifizierte Identität"
+
+msgid "crop_log.content.timezone_update"
+msgstr ""
+"Die Zeitzone wurde von „{{ old_timezone }}“ in „{{ new_timezone }}“ "
+"geändert."
+
+msgid "crop_log.content.tmp_owner_apply"
+msgstr ""
+"Beantragt für die Verwaltung der Kontakte des verbundenen Unternehmens \"{{ "
+"name }}\""
+
+msgid "crop_log.content.tmp_owner_transfer"
+msgstr ""
+"Die Berechtigung zum Verwalten von Kontakten für das verbundene Unternehmen "
+"„{{ name }}“ wurde übertragen."
+
+msgid "crop_log.content.update_corp_coop_role"
+msgstr ""
+"Die externe Kontaktrolle „{{ oldRoleName }}“ wurde in „{{ newRoleName }}“ "
+"umbenannt."
+
+msgid "crop_log.content.watermark_disable"
+msgstr "Deaktiviertes globales Wasserzeichen"
+
+msgid "crop_log.content.watermark_enable"
+msgstr "Globales Wasserzeichen aktiviert"
+
+msgid "crop_log.content.wx_disable"
+msgstr "Deaktivierte WeChat-Dienstkontointegration"
+
+msgid "crop_log.content.wx_enable"
+msgstr "Integration des WeChat-Dienstkontos aktiviert"
+
+msgid "crop_log.link_text.view_details"
+msgstr "Details anzeigen"
+
+msgid "customPage.title.signIn"
+msgstr "{{ corpName }} – Anmelden"
+
+msgid "dash.date.format.year.quarter"
+msgstr "JJJJ/qQ"
+
+msgid "dash.date.format.year.week"
+msgstr "JJJJ/Www"
+
+msgid "dash.excel.export.subtotal"
+msgstr "Zwischensumme"
+
+msgid "dash.excel.export.sum"
+msgstr "Gesamt"
+
+msgid "dash.excel.export.total"
+msgstr "Aggregation"
+
+msgid "dash.percent"
+msgstr "Prozentsatz"
+
+msgid "deptType.corpCoop"
+msgstr "Kunden und Klienten"
+
+msgid "deptType.internal"
+msgstr "Mitglieder"
+
+msgid "direct_user_provisioning.error_message.email_incorrect"
+msgstr "Falsche E-Mail-Adresse. Überprüfen Sie es."
+
+msgid "direct_user_provisioning.error_message.email_repeat"
+msgstr "Die E-Mail existiert bereits."
+
+msgid "direct_user_provisioning.error_message.loginname_composition_incorrect"
+msgstr ""
+"Benutzernamen von Mitgliedern unterstützen nur Buchstaben, Zahlen und "
+"Unterstriche."
+
+msgid "direct_user_provisioning.error_message.loginname_length_limit"
+msgstr "Der Benutzername eines Mitglieds muss zwischen 3 und 80 Zeichen lang sein."
+
+msgid "direct_user_provisioning.error_message.loginname_not_exist"
+msgstr "Geben Sie den Benutzernamen des Mitglieds ein"
+
+msgid "direct_user_provisioning.error_message.loginname_repeat"
+msgstr "Der Benutzername ist bereits in den Kontakten vorhanden."
+
+msgid "direct_user_provisioning.error_message.loginname_repeat_in_another_corp"
+msgstr ""
+"Der Benutzername wurde bereits von einem anderen Mandanten verwendet. "
+"Überprüfen Sie, ob er demselben Mitglied gehört. Senden Sie in diesem Fall "
+"eine Einladung zum Beitritt. Ändern Sie andernfalls den Benutzernamen."
+
+msgid "direct_user_provisioning.error_message.nickname_length_exceed_maximum_limit"
+msgstr "Die maximale Länge für den Namen eines Mitglieds beträgt 80 Zeichen."
+
+msgid "direct_user_provisioning.error_message.nickname_not_exist"
+msgstr "Geben Sie den Namen des Mitglieds ein."
+
+msgid "direct_user_provisioning.error_message.no_import_strategy"
+msgstr "Keine entsprechende Importstrategie gefunden"
+
+msgid "direct_user_provisioning.error_message.password_not_exist"
+msgstr "Geben Sie das Passwort ein."
+
+msgid "direct_user_provisioning.error_message.phone_incorrect"
+msgstr "Falsche Handynummer. Überprüfen Sie es."
+
+msgid "direct_user_provisioning.error_message.phone_repeat"
+msgstr "Die Mobilnummer existiert bereits."
+
+msgid "direct_user_provisioning.error_message.unknown"
+msgstr "Unbekannter Fehler."
+
+msgid "direct_user_provisioning.error_message.username_composition_incorrect"
+msgstr "Mitgliedsnummer unterstützt nur Buchstaben, Zahlen, Unterstriche und '.'"
+
+msgid "direct_user_provisioning.error_message.username_repeat"
+msgstr "Die Mitgliedsnummer ist bereits in den Kontakten vorhanden."
+
+msgid "direct_user_provisioning.lack_releated_userOrMember"
+msgstr "Keine wiederverwendbaren Benutzer oder Mitglieder gefunden"
+
+msgid "email.title.aggregate_buffer"
+msgstr ""
+"Warnung vor übermäßigem Verbrauch der aggregierten Tabelle für \"{{ "
+"_g_productName }}\""
+
+msgid "email.title.aggregation_buffer"
+msgstr "Aggregationswarnung bei übermäßigem Verbrauch für \"{{ _g_productName }}\""
+
+msgid "email.title.appTrialExpire"
+msgstr "{{ _g_productName }}: Erinnerungen zum Ablauf der Testversion"
+
+msgid "email.title.automationTriggerTimes"
+msgstr "\"{{ _g_productName }}\" Automations Pro Nutzung"
+
+msgid "email.title.bpa_buffer"
+msgstr "BPA-Überkonsumwarnung für \"{{ _g_productName }}\""
+
+msgid "email.title.buffer_expired"
+msgstr ""
+"Alarm für \"{{ _g_productName }}\": Systemnutzungslimit überschritten und "
+"Dienst ausgesetzt"
+
+msgid "email.title.coinRunOut"
+msgstr "{{ _g_productName }}: Ihnen sind die {{ _g_productName }} Münzen ausgegangen"
+
+msgid "email.title.coinRunningOut"
+msgstr "{{ _g_productName }}: Ihnen gehen bald die {{ _g_productName }} Münzen aus"
+
+msgid "email.title.comment"
+msgstr ""
+"In einem neuen Kommentar wurden Sie erwähnt. Bitte antworten Sie "
+"rechtzeitig."
+
+msgid "email.title.corpInvite"
+msgstr "{{ _g_productName }}: Einladung zur Zusammenarbeit"
+
+msgid "email.title.dashAlert"
+msgstr "Datengesteuerte Warnmeldungen"
+
+msgid "email.title.dashAlertLimit"
+msgstr ""
+"{{ _g_productName }}: Dashboard-Datenwarnungen haben das maximale "
+"Tageslimit erreicht"
+
+msgid "email.title.docTrend"
+msgstr "{{ _g_productName }}: Aktualisierungen der Dokumente"
+
+msgid "email.title.etl_buffer"
+msgstr "Warnung vor übermäßigem Data Factory-Verbrauch für „{{ _g_productName }}“"
+
+msgid "email.title.formDataExceed"
+msgstr ""
+"{{ _g_productName }}: Das Datenvolumen in einer einzelnen Tabelle hat das "
+"Limit überschritten"
+
+msgid "email.title.formDataUsage"
+msgstr ""
+"{{ _g_productName }}: Das Datenvolumen in einer einzelnen Tabelle "
+"überschreitet bald das Limit"
+
+msgid "email.title.monthlyDataExceed"
+msgstr ""
+"{{ _g_productName }}: Datenvolumen hat das maximale monatliche Limit "
+"erreicht"
+
+msgid "email.title.systemLog"
+msgstr "{{ _g_productName }}: Systemprotokolle"
+
+msgid "email.title.tenantCoop"
+msgstr "„{{ _g_productName }}“ Unternehmenszusammenarbeit"
+
+msgid "email.title.totalDataExceed"
+msgstr "{{ _g_productName }}: Das gesamte Datenvolumen hat das Limit überschritten"
+
+msgid "email.title.totalDataUsage"
+msgstr "{{ _g_productName }}: Das Gesamtdatenvolumen überschreitet bald das Limit"
+
+msgid "email.title.trialExpire"
+msgstr "{{ _g_productName }}: Ihre VIP-Testversion läuft bald ab"
+
+msgid "email.title.trigger_buffer"
+msgstr ""
+"Automatisierungswarnung bei übermäßigem Verbrauch für \"{{ _g_productName "
+"}}\""
+
+msgid "email.title.uploadUsage"
+msgstr ""
+"{{ _g_productName }}: Die Anzahl der Gesamtanhänge überschreitet bald das "
+"Limit"
+
+msgid "email.title.userChannelVerify"
+msgstr "{{ _g_productName }}: E-Mail-Verifizierung"
+
+msgid "email.title.user_buffer"
+msgstr "Warnung vor übermäßigem Konsum von \"{{ _g_productName }}\" durch Mitglieder"
+
+msgid "email.title.vipExpire"
+msgstr "{{ _g_productName }}: Ihr VIP läuft bald ab"
+
+msgid "error.export.excel.cellExceedMessage"
+msgstr ""
+"Wenn der Inhalt bestimmter Zellen die maximale Länge überschreitet, können "
+"diese Zellen geleert werden:"
+
+msgid "error.export.excel.errorSheetName"
+msgstr "Exportfehler"
+
+msgid "error.export.excel.fileName"
+msgstr "Fehlerliste"
+
+msgid "event.appCreate"
+msgstr "App erstellen"
+
+msgid "event.appPublishAccept"
+msgstr "App erfolgreich veröffentlicht"
+
+msgid "event.appPublishFailed"
+msgstr "Die App konnte nicht veröffentlicht werden"
+
+msgid "event.appRemove"
+msgstr "App löschen"
+
+msgid "event.corpAutoSync"
+msgstr "Automatische Synchronisierung von Unternehmen"
+
+msgid "event.corpManualSync"
+msgstr "Manuelle Synchronisierung von Unternehmen"
+
+msgid "event.createDept"
+msgstr "Abteilung hinzufügen"
+
+msgid "event.createManageGroup"
+msgstr "Gruppe hinzufügen"
+
+msgid "event.createRole"
+msgstr "Rolle hinzufügen"
+
+msgid "event.dataWebhook"
+msgstr "Webhook"
+
+msgid "event.entryWebhook"
+msgstr "Formularkonfiguration Push"
+
+msgid "event.etlAutoExecuteFailed"
+msgstr "Der Datenstrom konnte nicht gemäß Zeitplan ausgeführt werden."
+
+msgid "event.fileExportComplete"
+msgstr "Datei ist fertig"
+
+msgid "event.fileExportFailed"
+msgstr "Fehler beim Exportieren der Dateien"
+
+msgid "event.inviteToJoin"
+msgstr "Laden Sie zum Beitritt ein"
+
+msgid "event.kms.spaceApply"
+msgstr "Eine neue Anfrage zum Erstellen einer Wissensdatenbank wurde erhalten"
+
+msgid "event.memberHardDelete"
+msgstr "Mitglied löschen"
+
+msgid "event.memberInvite"
+msgstr "Mitglied einladen"
+
+msgid "event.memberRemove"
+msgstr "Deaktivieren"
+
+msgid "event.removeDept"
+msgstr "Abteilung löschen"
+
+msgid "event.removeManageGroup"
+msgstr "Admin-Gruppe löschen"
+
+msgid "event.removeRole"
+msgstr "Rolle löschen"
+
+msgid "event.smsDataComment"
+msgstr "Datenkommentar"
+
+msgid "event.smsFlowData"
+msgstr "Workflow-Erinnerung"
+
+msgid "event.smsVerify"
+msgstr "SMS-Bestätigungscode"
+
+msgid "event.systemLogNotify"
+msgstr "Systemprotokollbenachrichtigung"
+
+msgid "event.timedReminder"
+msgstr "Erinnerung"
+
+msgid "event.updateManageGroupMembers"
+msgstr "Admin-Mitglied aktualisieren"
+
+msgid "excel.address.city"
+msgstr "(Stadt)"
+
+msgid "excel.address.detail"
+msgstr "(Adresse)"
+
+msgid "excel.address.district"
+msgstr "(Landkreis/Bezirk)"
+
+msgid "excel.address.lnglatXY"
+msgstr "(Breitengrad und Längengrad)"
+
+msgid "excel.address.province"
+msgstr "(Bundesland/Provinz)"
+
+msgid "excel.corpCoop.guestDocker.corpName"
+msgstr "Firmenname"
+
+msgid "excel.corpCoop.guestDocker.eMail"
+msgstr "E-Mail"
+
+msgid "excel.corpCoop.guestDocker.isOwner"
+msgstr "Ist Eigentümer"
+
+msgid "excel.corpCoop.guestDocker.nickname"
+msgstr "Name"
+
+msgid "excel.corpCoop.guestDocker.phone"
+msgstr "Telefonnummer"
+
+msgid "excel.corpCoop.guestDocker.roleNameList"
+msgstr "Rollen"
+
+msgid "excel.corpCoop.headerTitle.corpName"
+msgstr "Firmenname"
+
+msgid "excel.corpCoop.headerTitle.deptLabelName"
+msgstr "Etikett"
+
+msgid "excel.corpCoop.headerTitle.eMail"
+msgstr "E-Mail"
+
+msgid "excel.corpCoop.headerTitle.isOwner"
+msgstr "Ist Eigentümer"
+
+msgid "excel.corpCoop.headerTitle.nickName"
+msgstr "Name"
+
+msgid "excel.corpCoop.headerTitle.phone"
+msgstr "Mobile"
+
+msgid "excel.corpCoop.headerTitle.role"
+msgstr "Rolle"
+
+msgid "excel.datetime.format.date"
+msgstr "JJJJ-MM-TT"
+
+msgid "excel.datetime.format.date.minute"
+msgstr "JJJJ-MM-TT HH:MM"
+
+msgid "excel.datetime.format.date.month"
+msgstr "JJJJ-MM"
+
+msgid "excel.datetime.format.datetime"
+msgstr "JJJJ-MM-TT HH:MM:SS"
+
+msgid "excel.filename.dataTable"
+msgstr "Datentabelle"
+
+msgid "excel.filename.dataTemplate"
+msgstr "Datenvorlage"
+
+msgid "excel.filename.table"
+msgstr "Statistische Tabelle"
+
+msgid "excel.importError.errorData.deptNameMatchRepeat"
+msgstr ""
+"Doppelter Abteilungsname \"{{ value }}\" im Feld \"{{ colLabel }}\" "
+"gefunden. Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.errorInfoTitle"
+msgstr "Fehlerdetails"
+
+msgid "excel.importError.errorData.format"
+msgstr ""
+"Falsches Format für \"{{ value }}\" im Feld \"{{ colLabel }}\". Dieses Feld "
+"entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" konnte keiner ID entsprechen. "
+"Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.itemsExceed.eq"
+msgstr ""
+"Wählen Sie {{ itemCount }} Option(en) im Feld \"{{ colLabel }}\" aus. "
+"Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.itemsExceed.max"
+msgstr ""
+"Maximale {{ maxItemCount }} Option(en) für das Feld \"{{ colLabel }}\". "
+"Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.itemsExceed.min"
+msgstr ""
+"Mindestanzahl {{ minItemCount }} Optionen für das Feld \"{{ colLabel }}\". "
+"Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.itemsExceed.range"
+msgstr ""
+"Bitte wählen Sie für das Feld \"{{ colLabel }}\" die Option(en) {{ "
+"minItemCount }} bis {{ maxItemCount }}. Dieses Feld entspricht dem Feld "
+"\"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.itemsRange"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" konnte keiner Option "
+"entsprechen. Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im "
+"Formular."
+
+msgid "excel.importError.errorData.linkObjectNameMultiFormRepeat"
+msgstr ""
+"Doppelte Daten für „{{ value }}“ im Formular „{{ formNames }}“. "
+"Kommentieren Sie das zu importierende Formular im Format „Feldwert # "
+"Formular“."
+
+msgid "excel.importError.errorData.linkObjectNameRepeat"
+msgstr ""
+"Doppelter Feldname \"{{ colLabel }}\" im Formular \"{{ formName }}\" "
+"gefunden. Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im "
+"aktuellen Formular."
+
+msgid "excel.importError.errorData.lookupMatchMiss"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" stimmte mit keinen Daten im "
+"zugehörigen Formular überein. Dieses Feld entspricht dem Feld \"{{ "
+"widgetLabel }}\" im aktuellen Formular."
+
+msgid "excel.importError.errorData.lookupMatchRepeat"
+msgstr ""
+"„{{ value }}“ im Feld „{{ colLabel }}“ stimmte mit mehreren Datensätzen im "
+"zugehörigen Formular überein. Dieses Feld entspricht dem Feld „{{ "
+"widgetLabel }}“ im aktuellen Formular."
+
+msgid "excel.importError.errorData.mainWidgetRepeat"
+msgstr ""
+"Für das Feld „{{ colLabel }}“: {{ repeatRemind }}. Dieses Feld entspricht "
+"dem Feld „{{ widgetLabel }}“ im Formular."
+
+msgid "excel.importError.errorData.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" konnte keinem Namen entsprechen. "
+"Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.nickNameMatchRepeat"
+msgstr ""
+"Doppelter Mitgliedsname \"{{ value }}\" im Feld \"{{ colLabel }}\" "
+"gefunden. Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" sollte \"{{ number }}\" sein. "
+"Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.numberRange.max"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" sollte kleiner oder gleich {{ "
+"maxNumber }} sein. \"{{ colLabel }}\" entspricht dem Feld \"{{ widgetLabel "
+"}}\" im Formular."
+
+msgid "excel.importError.errorData.numberRange.min"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" sollte größer oder gleich {{ "
+"minNumber }} sein. Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im "
+"Formular."
+
+msgid "excel.importError.errorData.numberRange.range"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ colLabel }}\" sollte zwischen {{ minNumber }} "
+"und {{ maxNumber }} liegen. Dieses Feld entspricht dem Feld \"{{ "
+"widgetLabel }}\" im Formular."
+
+msgid "excel.importError.errorData.saleStageMismatch"
+msgstr ""
+"\"{{ value }}\" im Feld \"{{ widgetName }}\" konnte keiner Verkaufsphase "
+"zugeordnet werden. Dieses Feld entspricht dem Feld \"{{ widgetLabel }}\" im "
+"Formular."
+
+msgid "excel.importError.errorData.sheetName"
+msgstr "Fehlgeschlagener Datensatz"
+
+msgid "excel.importError.errorData.subform.deptNameMatchRepeat"
+msgstr ""
+"Doppelter Abteilungsname \"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" "
+"des Unterformulars \"{{ colLabel }}\" gefunden. Dieses Unterfeld entspricht "
+"dem Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel "
+"}}\"."
+
+msgid "excel.importError.errorData.subform.format"
+msgstr ""
+"Falsches Format für \"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des "
+"Unterformulars \"{{ colLabel }}\". Dieses Unterfeld entspricht dem "
+"Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.idMatchMiss"
+msgstr ""
+"\"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ "
+"colLabel }}\" konnte keiner ID entsprechen. Dieses Unterfeld entspricht dem "
+"Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.eq"
+msgstr ""
+"Wählen Sie {{ itemCount }} Option(en) im Unterfeld \"{{ subColLabel }}\" "
+"des Unterformulars \"{{ colLabel }}\" aus. Dieses Unterfeld entspricht dem "
+"Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.max"
+msgstr ""
+"Maximale {{ maxItemCount }} Option(en) für das Unterfeld \"{{ subColLabel "
+"}}\" des Unterformulars \"{{ colLabel }}\". Dieses Unterfeld entspricht dem "
+"Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.min"
+msgstr ""
+"Mindestanzahl {{ minItemCount }} Optionen für das Unterfeld \"{{ "
+"subColLabel }}\" des Unterformulars \"{{ colLabel }}\". Dieses Unterfeld "
+"entspricht dem Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ "
+"widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsExceed.range"
+msgstr ""
+"Wählen Sie die Optionen {{ minItemCount }} bis {{ maxItemCount }} für das "
+"Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ colLabel }}\". "
+"Dieses Unterfeld entspricht dem Unterfeld \"{{ subWidgetLabel }}\" im "
+"Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.itemsRange"
+msgstr ""
+"\"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ "
+"colLabel }}\" konnte keiner Option entsprechen. Dieses Unterfeld entspricht "
+"dem Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel "
+"}}\"."
+
+msgid "excel.importError.errorData.subform.nameMatchMiss"
+msgstr ""
+"\"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ "
+"colLabel }}\" konnte keinem Namen entsprechen. Dieses Unterfeld entspricht "
+"dem Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel "
+"}}\"."
+
+msgid "excel.importError.errorData.subform.nickNameMatchRepeat"
+msgstr ""
+"Doppelter Mitgliedsname \"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" "
+"des Unterformulars \"{{ colLabel }}\" gefunden. Dieses Unterfeld entspricht "
+"dem Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel "
+"}}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.eq"
+msgstr ""
+"\"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ "
+"colLabel }}\" sollte \"{{ number }}\" sein. Dieses Unterfeld entspricht dem "
+"Unterfeld \"{{ subWidgetLabel }}\" im Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.max"
+msgstr ""
+"\"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ "
+"colLabel }}\" sollte kleiner oder gleich {{ maxNumber }} sein. Dieses "
+"Unterfeld entspricht dem Unterfeld \"{{ subWidgetLabel }}\" im "
+"Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.min"
+msgstr ""
+"\"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ "
+"colLabel }}\" sollte größer oder gleich {{ minNumber }} sein. Dieses "
+"Unterfeld entspricht dem Unterfeld \"{{ subWidgetLabel }}\" im "
+"Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.numberRange.range"
+msgstr ""
+"\"{{ value }}\" im Unterfeld \"{{ subColLabel }}\" des Unterformulars \"{{ "
+"colLabel }}\" sollte zwischen {{ minNumber }} und {{ maxNumber }} liegen. "
+"Dieses Unterfeld entspricht dem Unterfeld \"{{ subWidgetLabel }}\" im "
+"Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.singleDataRepeat"
+msgstr ""
+"Für das Unterfeld \"{{ subColLabel }}\" im Unterformular \"{{ colLabel "
+"}}\": {{ repeatRemind }}. Dieses Unterfeld entspricht dem Unterfeld \"{{ "
+"subWidgetLabel }}\" im Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.subform.valueEmpty"
+msgstr ""
+"Das Unterfeld \"{{ subColLabel }}\" im Unterformular \"{{ colLabel }}\" ist "
+"erforderlich. Dieses Unterfeld entspricht dem Unterfeld \"{{ subWidgetLabel "
+"}}\" im Unterformular \"{{ widgetLabel }}\"."
+
+msgid "excel.importError.errorData.valueEmpty"
+msgstr ""
+"Das Feld \"{{ colLabel }}\" ist ein Pflichtfeld. Dieses Feld entspricht dem "
+"Feld \"{{ widgetLabel }}\" im Formular."
+
+msgid "excel.importError.filename"
+msgstr "{{ formName }}_Fehlerbericht_{{ Zeitstempel }}.xlsx"
+
+msgid "excel.importError.repeatName.deptPath"
+msgstr "gehören Abteilung"
+
+msgid "excel.importError.repeatName.id"
+msgstr "Abteilungs- und Mitglieds-ID"
+
+msgid "excel.importError.repeatName.name"
+msgstr "doppelter Name, Abteilung und Mitglied"
+
+msgid "excel.importError.repeatName.sheetName"
+msgstr "Mitglieder mit gleichem Namen und gleicher Abteilungs-ID"
+
+msgid "excel.importError.repeatName.suggest"
+msgstr "schlagen vor, Stile zu importieren"
+
+msgid "excel.importError.repeatName.tip"
+msgstr ""
+"Befolgen Sie den empfohlenen Importstil, um die Originaldaten zu ersetzen. "
+"Weitere Informationen finden Sie unter: https://help.jodoo.com/doc/12099."
+
+msgid "excel.mainDataLabel.header"
+msgstr "Verknüpfte „{{ formName }}“-Daten"
+
+msgid "excel.member.dept"
+msgstr "Abt."
+
+msgid "excel.member.email"
+msgstr "E-Mail"
+
+msgid "excel.member.exceed"
+msgstr ""
+"Die Anzahl der zu exportierenden Mitglieder hat die maximale Anzahl "
+"erreicht. Es werden nur die ersten 100.000 Datensätze exportiert."
+
+msgid "excel.member.filename"
+msgstr "Interne Kontakte"
+
+msgid "excel.member.fullRoleName"
+msgstr "Rollengruppe und Rolle"
+
+msgid "excel.member.name"
+msgstr "Name"
+
+msgid "excel.member.phone"
+msgstr "Mobile"
+
+msgid "excel.member.role"
+msgstr "Rollen"
+
+msgid "excel.member.role.rel.filename"
+msgstr "Kontakte-Rolle"
+
+msgid "excel.member.status"
+msgstr "Status"
+
+msgid "excel.member.username"
+msgstr "NEIN."
+
+msgid "excel.member_role_rel_import.repeat_nickname.id"
+msgstr "Mitglieds-ID"
+
+msgid "excel.member_role_rel_import.repeat_nickname.sheet_name"
+msgstr "Doppeltes Mitglied"
+
+msgid "excel.member_role_rel_import_error.default_filename"
+msgstr "Fehlerbericht.xlsx"
+
+msgid "excel.member_role_rel_import_error.filename"
+msgstr "{{ uploadExcelName }}_Fehlerbericht_{{ Zeitstempel }}.xlsx"
+
+msgid "excel.widget.property.required"
+msgstr "Erforderlich"
+
+msgid "filezip.filename.package"
+msgstr "{{ formName }}_attachment{{ seq }}.zip"
+
+msgid "flow.createTime"
+msgstr "Workflow-Erstellungszeit"
+
+msgid "flow.creator"
+msgstr "Workflow-Initiator"
+
+msgid "flow.initiateFlow"
+msgstr "Jetzt starten"
+
+msgid "flow.initiateFlow.desc"
+msgstr "Mitglieder dieser Gruppe können Workflows initiieren"
+
+msgid "flow.manageAllFlow"
+msgstr "Verwalten Sie alle Workflows"
+
+msgid "flow.manageAllFlow.desc"
+msgstr "Mitglieder dieser Gruppe können alle Prozesse verwalten"
+
+msgid "flow.node.approve"
+msgstr "Genehmigung"
+
+msgid "flow.node.end"
+msgstr "Ende"
+
+msgid "flow.node.start"
+msgstr "Start"
+
+msgid "flow.state.closed"
+msgstr "Manuell beenden"
+
+msgid "flow.state.complete"
+msgstr "Vollendet"
+
+msgid "flow.state.inProcess"
+msgstr "Im Gange"
+
+msgid "flow.state.rejected"
+msgstr "Ablehnen"
+
+msgid "flow.viewAllFlow"
+msgstr "Alle Workflows anzeigen"
+
+msgid "flow.viewAllFlow.desc"
+msgstr "Mitglieder dieser Gruppe können alle Prozesse einsehen"
+
+msgid "form.analysisField.avgDuration"
+msgstr "Durchschnittliche Bearbeitungszeit (Stunden)"
+
+msgid "form.analysisField.creator"
+msgstr "Mitglied"
+
+msgid "form.analysisField.dataCount"
+msgstr "Datenanzahl"
+
+msgid "form.analysisField.flowNode"
+msgstr "Knoten"
+
+msgid "form.analysisField.processCompleteTime"
+msgstr "Workflow-Abschlusszeit"
+
+msgid "form.analysisField.processCreateTime"
+msgstr "Workflow-Erstellungszeit"
+
+msgid "form.analysisField.taskInflowTime"
+msgstr "Knotenzuflusszeit"
+
+msgid "form.analysisField.taskOutflowTime"
+msgstr "Knoten-Abflusszeit"
+
+msgid "form.data.tab.common.name"
+msgstr "Grundlegende Informationen"
+
+msgid "form.default.field.options.firstText"
+msgstr "Option 1"
+
+msgid "form.default.field.options.firstValue"
+msgstr "Option 1"
+
+msgid "form.default.field.options.secondText"
+msgstr "Option 2"
+
+msgid "form.default.field.options.secondValue"
+msgstr "Option 2"
+
+msgid "form.default.field.options.thirdText"
+msgstr "Option 3"
+
+msgid "form.default.field.options.thirdValue"
+msgstr "Option 3"
+
+msgid "form.default.field.repeatRemind"
+msgstr "Doppelte Werte sind nicht zulässig"
+
+msgid "form.operate.batchPrint"
+msgstr "Stapeldruck"
+
+msgid "form.operate.batchUpdate"
+msgstr "Stapelbearbeitung"
+
+msgid "form.operate.copy"
+msgstr "Kopie"
+
+msgid "form.operate.create"
+msgstr "Hinzufügen"
+
+msgid "form.operate.delete"
+msgstr "Löschen"
+
+msgid "form.operate.export"
+msgstr "Export"
+
+msgid "form.operate.flowActivate"
+msgstr "Aktivierungsprozess"
+
+msgid "form.operate.flowClose"
+msgstr "Beenden des Workflows"
+
+msgid "form.operate.flowTransfer"
+msgstr "Den Genehmiger des Prozesses ändern"
+
+msgid "form.operate.import"
+msgstr "Import"
+
+msgid "form.operate.read"
+msgstr "Sicht"
+
+msgid "form.operate.update"
+msgstr "Bearbeiten"
+
+msgid "form.subformField.id"
+msgstr "Unterformular-ID"
+
+msgid "form.sysField.archiveTime"
+msgstr ""
+
+msgid "form.sysField.archiver"
+msgstr ""
+
+msgid "form.sysField.chargers"
+msgstr "Aktueller Genehmiger"
+
+msgid "form.sysField.createTime"
+msgstr "Einreichungszeit"
+
+msgid "form.sysField.creator"
+msgstr "Einsender"
+
+msgid "form.sysField.dataId"
+msgstr "Daten-ID"
+
+msgid "form.sysField.dataLabel"
+msgstr "Titel"
+
+msgid "form.sysField.deleteTime"
+msgstr "Gelöschte Zeit"
+
+msgid "form.sysField.deleter"
+msgstr "Gelöschter Benutzer"
+
+msgid "form.sysField.ext"
+msgstr "URL-Parameter"
+
+msgid "form.sysField.flowComment"
+msgstr "Genehmigungskommentar"
+
+msgid "form.sysField.flowNodes"
+msgstr "Aktueller Knoten"
+
+msgid "form.sysField.flowState"
+msgstr "Workflow-Status"
+
+msgid "form.sysField.flowVer"
+msgstr "Version"
+
+msgid "form.sysField.operator"
+msgstr "Gespielt von"
+
+msgid "form.sysField.printOperator"
+msgstr "Gedruckter Benutzer"
+
+msgid "form.sysField.printTime"
+msgstr "Gedruckte Zeit"
+
+msgid "form.sysField.privateDataQr"
+msgstr "Daten-QR-Code (intern)"
+
+msgid "form.sysField.publicDataQr"
+msgstr "Daten-QR-Code (öffentlich)"
+
+msgid "form.sysField.updateTime"
+msgstr "Aktualisierte Zeit"
+
+msgid "form.sysField.updater"
+msgstr "Aktualisierter Benutzer"
+
+msgid "form.sysField.wxAvatar"
+msgstr "WeChat-Avatar"
+
+msgid "form.sysField.wxNickname"
+msgstr "WeChat-Name"
+
+msgid "form.sysField.wxOpenId"
+msgstr "WeChat OpenID"
+
+msgid "formView.allData.name"
+msgstr "Alle Daten"
+
+msgid "formView.untitled.name"
+msgstr "Unbenannte Ansicht"
+
+msgid "formula.cal.type.error"
+msgstr "Das Ergebnis der Formelberechnung weist den falschen Datentyp auf"
+
+msgid "formula.express.error"
+msgstr "Falscher Formelausdruck"
+
+msgid "function.not.support"
+msgstr "Diese Funktion wird im aktiven Plan nicht unterstützt!"
+
+msgid "function.param.count.error"
+msgstr "Falsche Anzahl von Parametern für die Funktion {{ name }}"
+
+msgid "function.param.error"
+msgstr "Falsche Parameter für die Funktion {{ name }}"
+
+msgid "function.param.notEmpty"
+msgstr "Parameter für die Funktion {{ name }} dürfen nicht leer sein"
+
+msgid "function.param.type.error"
+msgstr "Falscher Parametertyp für die Funktion {{ name }}"
+
+msgid "function.return.error"
+msgstr "Nicht angegebener Rückgabewerttyp für die Funktion {{ name }}"
+
+msgid "function.second.param.constant"
+msgstr ""
+"Der zweite Parameter für die Funktion {{ name }} kann nur eine Konstante "
+"sein"
+
+msgid "function.two.param"
+msgstr "Für die Funktion {{ name }} werden mindestens 2 Parameter benötigt"
+
+msgid "function.two.param.error"
+msgstr ""
+"Der Typ des {{ i }}ten und {{ preIdx }}ten Parameters für die {{ name }} "
+"Funktion stimmt nicht überein"
+
+msgid "function.which.param.error"
+msgstr "Falscher Typ des {{ i }}ten Parameters für die {{ name }} Funktion"
+
+msgid "function.which.param.length.beyond.limit"
+msgstr ""
+"Die Länge des {{ i }}ten Parameters für die Funktion {{ name }} "
+"überschreitet das Limit"
+
+msgid "handover.type.data"
+msgstr "[Daten]"
+
+msgid "handover.type.entry"
+msgstr "[Formular/Dashboard]"
+
+msgid "handover.type.kms"
+msgstr "[Wissensdatenbank]"
+
+msgid "handover.type.role"
+msgstr "[Kontakte]"
+
+msgid "handover.type.todo"
+msgstr "[Aufgaben]"
+
+msgid "handover.type.workflow"
+msgstr "[Workflow-Genehmiger]"
+
+msgid "handover.work"
+msgstr "Aushändigen"
+
+msgid "kms.docTrend"
+msgstr "Aktualisierungen der Dokumente"
+
+msgid "manage.addAndManageMyData.desc"
+msgstr ""
+"Mitglieder dieser Gruppe können Daten eingeben und selbst eingegebene Daten "
+"verwalten"
+
+msgid "manage.addAndManageMyData.name"
+msgstr "Meine Daten hinzufügen und verwalten"
+
+msgid "manage.addAndViewAllData.desc"
+msgstr "Mitglieder dieser Gruppe können Daten eingeben und alle Daten einsehen"
+
+msgid "manage.addAndViewAllData.name"
+msgstr "Alle Daten hinzufügen und anzeigen"
+
+msgid "manage.manageAllData.desc"
+msgstr ""
+"Mitglieder dieser Gruppe können alle Daten verwalten und Daten eingeben, "
+"aber keine Daten importieren"
+
+msgid "manage.manageAllData.name"
+msgstr "Alle Daten verwalten"
+
+msgid "manage.mergeGroup"
+msgstr "Alle Daten mit Genehmigung"
+
+msgid "manage.onlyAddData.desc"
+msgstr "Mitglieder dieser Gruppe können nur Daten eingeben"
+
+msgid "manage.onlyAddData.name"
+msgstr "Nur senden"
+
+msgid "manage.viewAllData.desc"
+msgstr "Mitglieder dieser Gruppe können alle Daten einsehen"
+
+msgid "manage.viewAllData.name"
+msgstr "Alle Daten anzeigen"
+
+msgid "managerActivity.app.metricsName"
+msgstr "Anzeigen nach App-Aktivitätsdetails"
+
+msgid "managerActivity.app.reportName"
+msgstr "Ansicht nach App-Übersicht"
+
+msgid "managerActivity.appId"
+msgstr "App-ID"
+
+msgid "managerActivity.appName"
+msgstr "App-Name"
+
+msgid "managerActivity.count"
+msgstr "Benutzer (Bearbeiten)"
+
+msgid "managerActivity.fileName"
+msgstr "Administratoraktivität"
+
+msgid "managerActivity.managerId"
+msgstr "Administrator-ID"
+
+msgid "managerActivity.managerName"
+msgstr "Administratorname"
+
+msgid "managerActivity.time"
+msgstr "Datum"
+
+msgid "managerActivity.times"
+msgstr "Zeiten (Bearbeiten)"
+
+msgid "managerActivity.user.metricsName"
+msgstr "Anzeigen nach Admin-Aktivitätsdetails"
+
+msgid "managerActivity.user.reportName"
+msgstr "Ansicht nach Admin-Übersicht"
+
+msgid "math.param.error"
+msgstr "Der Datentyp der mathematischen Operationen sollte Zahl sein"
+
+msgid "member.status.deleted"
+msgstr "Entfernte Mitglieder"
+
+msgid "member.status.dismission"
+msgstr "{{ name }}(inaktiv)"
+
+msgid "member.status.remove"
+msgstr "{{ name }}(entfernt)"
+
+msgid "message.addOrRemoveApp"
+msgstr "App hinzufügen/löschen"
+
+msgid "message.addOrRemoveDeptAndUsers"
+msgstr "Abteilung oder Mitglied hinzufügen/löschen"
+
+msgid "message.addOrRemoveManageGroup"
+msgstr "Admin-Gruppe hinzufügen/löschen"
+
+msgid "message.addOrRemoveManager"
+msgstr "Administrator hinzufügen/löschen"
+
+msgid "message.alertName"
+msgstr "Alarmtitel"
+
+msgid "message.alertSource"
+msgstr "Quelle der Warnung"
+
+msgid "message.anonymousUser"
+msgstr "Anonymer Benutzer"
+
+msgid "message.apiKeyOpLog"
+msgstr "API-Schlüsselprotokoll"
+
+msgid "message.appRename"
+msgstr "App umbenennen"
+
+msgid "message.appUpdate"
+msgstr "App-Änderungen"
+
+msgid "message.bpm_delegation.admin_revoke_content.to_agent"
+msgstr ""
+"Der Systemadministrator oder Ersteller hat die Aufgabendelegierung von {{ "
+"principal }} an Sie während {{ timeRange }} abgebrochen."
+
+msgid "message.bpm_delegation.admin_revoke_content.to_principal"
+msgstr ""
+"Der Systemadministrator oder Ersteller hat Ihre Aufgabendelegation an {{ "
+"agent }} während {{ timeRange }} abgebrochen."
+
+msgid "message.bpm_delegation.admin_revoke_title.to_agent"
+msgstr ""
+"Der Systemadministrator oder Ersteller hat die Aufgabendelegierung von {{ "
+"principal }} an Sie abgebrochen"
+
+msgid "message.bpm_delegation.admin_revoke_title.to_principal"
+msgstr ""
+"Der Systemadministrator oder Ersteller hat Ihre Aufgabendelegierung an {{ "
+"agent }} abgebrochen"
+
+msgid "message.bpm_delegation.description"
+msgstr "Beschreibung"
+
+msgid "message.bpm_delegation.principal"
+msgstr "Delegierender"
+
+msgid "message.bpm_delegation.range"
+msgstr "Umfang"
+
+msgid "message.bpm_delegation.range.all"
+msgstr "Alle Workflows"
+
+msgid "message.bpm_delegation.range.partial"
+msgstr "Teilprozesse"
+
+msgid "message.bpm_delegation.time_range"
+msgstr "Zeit"
+
+msgid "message.bpm_delegation.user_create_content.to_agent"
+msgstr ""
+"{{ principal }} hat Ihnen alle Aufgaben zur Genehmigung während {{ "
+"timeRange }} delegiert."
+
+msgid "message.bpm_delegation.user_create_content_desc.to_agent"
+msgstr ""
+"{{ principal }} hat Ihnen alle Aufgaben innerhalb von {{ timeRange }} zur "
+"Genehmigung delegiert. Beschreibung der Delegation: {{ description }}."
+
+msgid "message.bpm_delegation.user_create_title.to_agent"
+msgstr "{{ principal }} hat seine Aufgaben an Sie delegiert"
+
+msgid "message.bpm_delegation.user_revoke_content.to_agent"
+msgstr ""
+"{{ principal }} hat die Delegation von Aufgaben an Sie während {{ timeRange "
+"}} abgebrochen."
+
+msgid "message.bpm_delegation.user_revoke_title.to_agent"
+msgstr "{{ principal }} hat die Delegation von Aufgaben an Sie abgebrochen"
+
+msgid "message.comment.content"
+msgstr "Kommentarinhalt"
+
+msgid "message.commentator"
+msgstr "Kommentiert von"
+
+msgid "message.corp.import.errCode.19008"
+msgstr "Der Firmenname existiert bereits"
+
+msgid "message.corp.import.errCode.19010"
+msgstr "Es ist nur ein Eigentümer zulässig"
+
+msgid "message.corp.import.errCode.19011"
+msgstr "Der angegebene Eigentümer hat bereits ein anderes Unternehmen/Team erstellt"
+
+msgid "message.corp.import.errCode.19012"
+msgstr "Kein angegebener Eigentümer"
+
+msgid "message.corp.import.errCode.19013"
+msgstr "Die Anzahl der importierten Mitglieder überschreitet {{number}}"
+
+msgid "message.corp.import.errCode.19014"
+msgstr ""
+"Es sind keine importierbaren Partnerfirmen in der Datei vorhanden, bitte "
+"nach der Anpassung erneut importieren"
+
+msgid "message.corp.import.errCode.19020"
+msgstr ""
+"Die Anzahl der importierten Rollen überschreitet {{number}}, bitte nach der "
+"Anpassung erneut importieren"
+
+msgid "message.corp.import.errCode.19029"
+msgstr ""
+"Die Anzahl der importierten Partner überschreitet {{number}}, bitte nach "
+"der Anpassung erneut importieren"
+
+msgid "message.corp.import.errCode.19036"
+msgstr "Der Firmenname sollte nicht mehr als {{ number }} Zeichen haben"
+
+msgid "message.corp.import.errCode.6065"
+msgstr "Im Tag sind maximal {{number}} Zeichen zulässig"
+
+msgid "message.corp.import.errCode.6066"
+msgstr ""
+"Die Anzahl der importierten Tags überschreitet {{number}}, bitte nach der "
+"Anpassung erneut importieren"
+
+msgid "message.corpCoop"
+msgstr "Kunden und Partner"
+
+msgid "message.corpSyncResult"
+msgstr "Mitgliedersynchronisierung"
+
+msgid "message.crm.accountApportionMerge"
+msgstr "{{operator}} hat Ihnen {{account_num}} Kunden zugewiesen"
+
+msgid "message.crm.accountAutoRecycle"
+msgstr "Kunde {{ data_label }} wurde automatisch recycelt"
+
+msgid "message.crm.accountChangeCharger"
+msgstr "{{ operator }} hat den Genehmiger des Kunden {{ data_label }} geändert"
+
+msgid "message.crm.accountChangeChargerMerge"
+msgstr "{{ operator }} hat den/die Eigentümer von {{ account_num }} Kunden geändert"
+
+msgid "message.crm.accountChangeCollaborator"
+msgstr "{{ operator }} hat den Mitarbeiter des Kunden {{ data_label }} geändert"
+
+msgid "message.crm.accountChangeCollaboratorMerge"
+msgstr "{{ operator }} hat den/die Mitarbeiter von {{ account_num }} Kunden geändert"
+
+msgid "message.crm.accountRecycleMerge"
+msgstr "{{ operator }} recycelte {{ account_num }} Kunden"
+
+msgid "message.crm.assignor"
+msgstr "Zedent"
+
+msgid "message.crm.currentCollaborator"
+msgstr "Aktueller Mitarbeiter"
+
+msgid "message.crm.customer"
+msgstr "Kunde"
+
+msgid "message.crm.followPlanComplete"
+msgstr "{{ operator }} hat Ihren Folgeplan \"{{ data_label }}\" abgeschlossen"
+
+msgid "message.crm.followPlanCompleteMerge"
+msgstr ""
+"{{ operator }} hat Ihren/Ihre {{ plan_num }} Folgeplan/Folgepläne "
+"abgeschlossen"
+
+msgid "message.crm.leads"
+msgstr "Leads"
+
+msgid "message.crm.leadsApportionMerge"
+msgstr "{{ operator }} hat Ihnen {{ leads_num }} Lead(s) zugewiesen."
+
+msgid "message.crm.leadsAutoRecycle"
+msgstr "Der Lead \"{{ data_label }}\" wurde automatisch recycelt."
+
+msgid "message.crm.leadsChangeCharger"
+msgstr "{{ operator }} hat den Genehmiger des Leads {{ data_label }} geändert"
+
+msgid "message.crm.leadsChangeChargerMerge"
+msgstr ""
+"{{ operator }} hat den/die Eigentümer von {{ opportunity_num }} Lead(s) "
+"geändert."
+
+msgid "message.crm.leadsChangeCollaborator"
+msgstr "{{ operator }} hat den Mitarbeiter des Leads {{ data_label }} geändert"
+
+msgid "message.crm.leadsChangeCollaboratorMerge"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter von {{ opportunity_num }} Lead(s) "
+"geändert."
+
+msgid "message.crm.leadsRecycleMerge"
+msgstr "{{ operator }} hat {{ leads_num }} Lead(s) recycelt."
+
+msgid "message.crm.newCharger"
+msgstr "Neuer Genehmiger"
+
+msgid "message.crm.newFollowPlan"
+msgstr "{{operator}} hat einen Folgeplan \"{{data_label}}\" für Sie hinzugefügt"
+
+msgid "message.crm.opportunityChangeCharger"
+msgstr ""
+"{{ operator }} hat den Genehmiger der Geschäftsmöglichkeit {{ data_label }} "
+"geändert"
+
+msgid "message.crm.opportunityChangeChargerMerge"
+msgstr ""
+"{{operator}} hat die Eigentümer der "
+"Geschäftsmöglichkeit/Geschäftsmöglichkeiten von {{opportunity_num}} "
+"geändert."
+
+msgid "message.crm.opportunityChangeCollaborator"
+msgstr ""
+"{{ operator }} hat den Mitarbeiter der Geschäftsmöglichkeit geändert {{ "
+"data_label }}"
+
+msgid "message.crm.opportunityChangeCollaboratorMerge"
+msgstr ""
+"{{operator}} hat den/die Mitarbeiter der "
+"Geschäftsmöglichkeit/Geschäftsmöglichkeiten von {{opportunity_num}} "
+"geändert."
+
+msgid "message.crm.opportunityWin"
+msgstr "Die Geschäftsmöglichkeit \"{{ data_label }}\" wurde gewonnen."
+
+msgid "message.crm.rawCharger"
+msgstr "Ehemaliger Genehmiger"
+
+msgid "message.crm.recycler"
+msgstr "Recycler"
+
+msgid "message.cron.custom"
+msgstr "Die Erinnerungszeit ist gekommen"
+
+msgid "message.cron.dataExpires"
+msgstr "Daten überfällig"
+
+msgid "message.cron.dataNotifyLimit"
+msgid_plural "message.cron.dataNotifyLimit"
+msgstr[0] ""
+"Insgesamt {{ count }} Daten haben die Alarmzeit erreicht. Bitte melden Sie "
+"sich an, um sie zu überprüfen."
+msgstr[1] ""
+
+msgid "message.cron.dataNotifyLimitCustomText"
+msgid_plural "message.cron.dataNotifyLimitCustomText"
+msgstr[0] "({{ count }} Stück)"
+msgstr[1] ""
+
+msgid "message.dashName"
+msgstr "Dashboard-Titel"
+
+msgid "message.dataAlert"
+msgstr "Datenwarnung"
+
+msgid "message.dataComment"
+msgstr "Kunden und Partner"
+
+msgid "message.dataCreate"
+msgstr "Es wurden neue Daten übermittelt"
+
+msgid "message.dataLabel"
+msgstr "Datensatztitel"
+
+msgid "message.dataTriggerExecuteFailed"
+msgstr "Fehlgeschlagene Automatisierung"
+
+msgid "message.emptyValue"
+msgstr "Leer"
+
+msgid "message.enterForm"
+msgstr "Zum Formular"
+
+msgid "message.entryName"
+msgstr "Formularname"
+
+msgid "message.error.4402"
+msgstr "Die Aggregatberechnung konnte nicht überprüft werden"
+
+msgid "message.etlExecuteFailed"
+msgstr "Fehlgeschlagene ETL-Aufgabe"
+
+msgid "message.etlSyncFailed"
+msgstr "Datenstrom konnte nicht synchronisiert werden"
+
+msgid "message.flow.adminTransfer"
+msgstr "Eine Aufgabe wird Ihnen vom Super-Admin übertragen"
+
+msgid "message.flow.autoBack"
+msgstr ""
+"Unbearbeitete Arbeitselemente wurden zurückgegeben. Bitte bearbeiten Sie "
+"diese rechtzeitig"
+
+msgid "message.flow.back"
+msgstr "Übermittelte Arbeitselemente wurden zurückgegeben"
+
+msgid "message.flow.batchTransfer"
+msgstr "Neue Aufgaben werden Ihnen vom Super-Admin übertragen"
+
+msgid "message.flow.cc"
+msgstr "Sie werden bei einem neuen gelösten Workflow-Ergebnis in CC gesetzt"
+
+msgid "message.flow.cc.entryName"
+msgstr ""
+"{{ entryName }} Sie sind bei einem neuen gelösten Workflow-Ergebnis in CC "
+"gesetzt"
+
+msgid "message.flow.cc.merge"
+msgid_plural "message.flow.cc.merge"
+msgstr[0] ""
+"Es gibt {{ count }} neue Flow-Verarbeitungsergebnisse, die Ihnen per CC "
+"übermittelt wurden"
+msgstr[1] ""
+
+msgid "message.flow.cc.merge.entryName"
+msgstr ""
+"{{ entryName }} Es gibt {{ count }} neue Flow-Verarbeitungsergebnisse, die "
+"Ihnen per CC übermittelt wurden"
+
+msgid "message.flow.dealtUrgently"
+msgstr "Ein Workflow muss dringend bearbeitet werden"
+
+msgid "message.flow.memberTransfer"
+msgstr "Eine Aufgabe wird Ihnen von {{ operator }} übertragen"
+
+msgid "message.flow.memberTransfer.entryName"
+msgstr "„{{ entryName }}“ Eine Aufgabe wird Ihnen von {{ operator }} übertragen"
+
+msgid "message.flow.promptlyHandleReminders"
+msgstr ""
+"Sie haben eine neue Eilaufgabe. Bitte erledigen Sie diese so schnell wie "
+"möglich."
+
+msgid "message.flow.sign"
+msgstr "Eine Aufgabe wird Ihnen von {{ operator }} übertragen."
+
+msgid "message.flow.signBeforeComplete"
+msgstr ""
+"Der Vorabgenehmiger hat den Knoten verarbeitet. Sie müssen eine neue "
+"Workflow-Aufgabe abschließen."
+
+msgid "message.flow.timeout"
+msgstr "Sie haben eine lange ausstehende Aufgabe. Bitte erledigen Sie diese umgehend"
+
+msgid "message.flow.timeout.entryName"
+msgstr "{{ entryName }} hat unerledigte Aufgaben"
+
+msgid "message.flow.todo"
+msgstr "Sie haben eine neue Aufgabe"
+
+msgid "message.flow.todo.entryName"
+msgstr "{{ entryName }} Sie haben eine neue Aufgabe"
+
+msgid "message.flow.todo.merge"
+msgid_plural "message.flow.todo.merge"
+msgstr[0] "Es gibt {{ count }} neue Aufgaben"
+msgstr[1] ""
+
+msgid "message.flow.todo.merge.entryName"
+msgstr "{{ entryName }} Es gibt {{ count }} neue Aufgaben"
+
+msgid "message.flowData"
+msgstr "Externer Genehmiger/CC-Mitglied"
+
+msgid "message.kms.clickViewDetails"
+msgstr "Klicken Sie auf „Details anzeigen“, um das Dokument anzuzeigen."
+
+msgid "message.kms.denyReason"
+msgstr "Grund für die Ablehnung"
+
+msgid "message.kms.description"
+msgstr "Beschreibung der Wissensdatenbank"
+
+msgid "message.kms.docAnnotationSolved"
+msgstr ""
+"{{ operator }} hat die Kommentare im Dokument \"{{ document }}\" "
+"verarbeitet."
+
+msgid "message.kms.docComment"
+msgstr "{{operator}} hat das Dokument „{{document}}“ kommentiert."
+
+msgid "message.kms.docCreate"
+msgstr "{{operator}} hat ein Dokument „{{document}}“ erstellt"
+
+msgid "message.kms.docEdit"
+msgstr "{{operator}} hat das Dokument „{{document}}“ bearbeitet"
+
+msgid "message.kms.docLike"
+msgstr "{{operator}} hat das Dokument \"{{document}}\" mit „Gefällt mir“ markiert."
+
+msgid "message.kms.documentToBeViewed"
+msgstr "Sie haben ein neues Dokument zum Anzeigen."
+
+msgid "message.kms.managerBecome"
+msgstr ""
+"Sie sind jetzt der Administrator der Wissensdatenbank „{{ space_name }}“. "
+"Beginnen Sie mit der Erstellung von Dokumenten und teilen Sie Ihre Ideen!"
+
+msgid "message.kms.spaceApply"
+msgstr ""
+"{{applicant}} hat sich für die Erstellung einer Wissensdatenbank mit dem "
+"Namen „{{space_name}}“ beworben."
+
+msgid "message.kms.spaceApplyAgree"
+msgstr ""
+"Die Wissensdatenbank wurde erfolgreich erstellt. Sie sind jetzt der "
+"Administrator der neuen Wissensdatenbank \"{{ space_name }}\"."
+
+msgid "message.kms.spaceApplyDeny"
+msgstr ""
+"Die Wissensdatenbank \"{{ space_name }}\" konnte nicht erstellt werden. "
+"Vervollständigen Sie die Wissensdatenbankbeschreibung und fordern Sie die "
+"Anfrage erneut an."
+
+msgid "message.kms.spaceViewNotify"
+msgstr "{{operator}} erinnert Sie daran, das Dokument „{{document}}“ anzuzeigen."
+
+msgid "message.latitude"
+msgstr "Breite"
+
+msgid "message.longitude"
+msgstr "Länge"
+
+msgid "message.member.import.errCode.1005"
+msgstr "E-Mail existiert bereits."
+
+msgid "message.member.import.errCode.1017"
+msgstr "Mitgliedsnummer unterstützt nur Buchstaben, Zahlen, Unterstriche und '.'"
+
+msgid "message.member.import.errCode.1018"
+msgstr "Ungültiges Format der E-Mail-Adresse"
+
+msgid "message.member.import.errCode.1019"
+msgstr "Der Mitgliedsname darf nicht länger als {{ length }} Zeichen sein."
+
+msgid "message.member.import.errCode.1024"
+msgstr "Ungültige Handynummer"
+
+msgid "message.member.import.errCode.1027"
+msgstr "Handynummer existiert bereits"
+
+msgid "message.member.import.errCode.1082"
+msgstr "Die Angabe einer E-Mail-Adresse ist erforderlich"
+
+msgid "message.member.import.errCode.1084"
+msgstr "Mitgliedsnummer ist erforderlich"
+
+msgid "message.member.import.errCode.1085"
+msgstr "Geben Sie den Namen des Mitglieds ein"
+
+msgid "message.member.import.errCode.1087"
+msgstr "Mitgliedsnummer ist bereits vorhanden"
+
+msgid "message.member.import.errCode.1092"
+msgstr "Die Mitgliedsnummer darf nicht mehr als {{ length }} Zeichen umfassen."
+
+msgid "message.member.import.errCode.unknown"
+msgstr "Unbekannter Grund. Bitte versuchen Sie es später erneut"
+
+msgid "message.member_role_rel.import.dept_out_of_range"
+msgstr "Habe keine Berechtigung, das Mitglied zu verwalten."
+
+msgid "message.member_role_rel.import.excel_member_nickname_duplicated"
+msgstr "Doppelter Mitgliedsname für eine Rolle innerhalb der Datei."
+
+msgid "message.member_role_rel.import.member_nickname_duplicated"
+msgstr "Doppelter Mitgliedsname."
+
+msgid "message.member_role_rel.import.member_nickname_required"
+msgstr "Noch kein Mitglied eingetragen"
+
+msgid "message.member_role_rel.import.member_not_found"
+msgstr ""
+"Es können keine Mitglieder importiert werden, die nicht existieren oder "
+"ausgetreten sind."
+
+msgid "message.member_role_rel.import.role_group_name_duplicated"
+msgstr "Doppelter Rollengruppenname."
+
+msgid "message.member_role_rel.import.role_group_name_required"
+msgstr "Geben Sie die Rollengruppe und die Rollennamen ein"
+
+msgid "message.member_role_rel.import.role_group_not_found"
+msgstr ""
+"Mitglieder können nicht in eine nicht vorhandene Rollengruppe importiert "
+"werden."
+
+msgid "message.member_role_rel.import.role_group_source_is_not_internal"
+msgstr "„Synchronisierte Rollengruppen“ können nicht importiert werden."
+
+msgid "message.member_role_rel.import.role_name_duplicated"
+msgstr "Doppelter Rollenname innerhalb einer Rollengruppe."
+
+msgid "message.member_role_rel.import.role_name_required"
+msgstr "Trennen Sie die Rollengruppen- und Rollennamen mit einem Schrägstrich (/)."
+
+msgid "message.member_role_rel.import.role_not_found"
+msgstr "Die Rolle ist nicht in der Rollengruppe enthalten."
+
+msgid "message.member_role_rel.import.role_out_of_range"
+msgstr "Habe keine Berechtigung, die Rolle zu verwalten."
+
+msgid "message.member_role_rel.import.role_source_is_not_internal"
+msgstr "„Synchronisierte Rollen“ können nicht exportiert werden."
+
+msgid "message.member_role_rel.unknown_err"
+msgstr "Unbekannter Fehler. Versuchen Sie es erneut."
+
+msgid "message.modified"
+msgstr "Geändert"
+
+msgid "message.modifier"
+msgstr "Geänderter Benutzer"
+
+msgid "message.notifyTime"
+msgstr "Erinnerungszeit"
+
+msgid "message.remainTime.days"
+msgstr ""
+"Es sind noch Aufgaben offen. Verbleibende Zeit: {{ days }} Tag(e), {{ hours "
+"}} Stunde(n), {{ minutes }} Minute(n). Bitte erledigen Sie diese "
+"rechtzeitig."
+
+msgid "message.remainTime.hours"
+msgstr ""
+"Es sind noch Aufgaben offen. Verbleibende Zeit: nur noch {{ hours }} "
+"Stunde(n), {{ minutes }} Minute(n). Bitte erledigen Sie diese rechtzeitig."
+
+msgid "message.remainTime.lessMinute"
+msgstr ""
+"Sie haben eine ausstehende Aufgabe mit weniger als 1 Minute "
+"Bearbeitungszeit. Bitte erledigen Sie sie rechtzeitig"
+
+msgid "message.remainTime.minutes"
+msgstr ""
+"Sie haben eine ausstehende Aufgabe mit nur noch {{ minutes }} Minuten "
+"Bearbeitungszeit. Bitte erledigen Sie sie rechtzeitig"
+
+msgid "message.system"
+msgstr "System"
+
+msgid "message.systemRobot"
+msgstr "Systemroboter"
+
+msgid "message.title.accountApportion"
+msgstr "Kundenzuweisungsbenachrichtigung"
+
+msgid "message.title.accountChangeCharger"
+msgstr "Kundenbetreuer geändert"
+
+msgid "message.title.accountChangeCollaborator"
+msgstr "Kundenmitarbeiter geändert"
+
+msgid "message.title.accountRecycle"
+msgstr "Recyclingbenachrichtigung für Kunden"
+
+msgid "message.title.contactsChangeCharger"
+msgstr "Kontakt-Handler geändert"
+
+msgid "message.title.contactsChangeCollaborator"
+msgstr "Mitarbeiter der Kontakte geändert"
+
+msgid "message.title.email.analytics_exceed"
+msgstr "{{ _g_productName }} Systemnutzungswarnung"
+
+msgid "message.title.email.corpCoop"
+msgstr "{{ _g_productName }} Kunden- und Partnerbenachrichtigung"
+
+msgid "message.title.email.merged_item_exceed"
+msgstr "{{ _g_productName }} Systemnutzungswarnung"
+
+msgid "message.title.excelImportComplete"
+msgstr "Datenimport abgeschlossen"
+
+msgid "message.title.followPlanComplete"
+msgstr "Ihr Folgeplan wurde von anderen abgeschlossen"
+
+msgid "message.title.leadsApportion"
+msgstr "Lead-Zuweisungsbenachrichtigung"
+
+msgid "message.title.leadsChangeCharger"
+msgstr "Lead Handler geändert"
+
+msgid "message.title.leadsChangeCollaborator"
+msgstr "Leitender Mitarbeiter geändert"
+
+msgid "message.title.leadsRecycle"
+msgstr "Benachrichtigung zum Bleirecycling"
+
+msgid "message.title.newFollowPlan"
+msgstr "Neue Folgeplanzuweisung"
+
+msgid "message.title.opportunityChangeCharger"
+msgstr "BO-Handler geändert"
+
+msgid "message.title.opportunityChangeCollaborator"
+msgstr "BO-Mitarbeiter geändert"
+
+msgid "message.title.opportunityWin"
+msgstr "Gewinnende BO-Erinnerung"
+
+msgid "message.title.pluginExpire"
+msgstr "Das Plugin {{ _g_productName }} läuft bald ab."
+
+msgid "message.viewDash"
+msgstr "Dashboard anzeigen"
+
+msgid "message.viewDataDetails"
+msgstr "Detaillierte Daten anzeigen"
+
+msgid "message.viewForm"
+msgstr "Formular anzeigen"
+
+msgid "not.support.op"
+msgstr "Nicht unterstützter Vergleichsoperator {{ op }}"
+
+msgid "notSupported.ie.description"
+msgstr "Ihr Browser scheint etwas veraltet zu sein."
+
+msgid "notSupported.ie.subtitle"
+msgstr ""
+"Installieren Sie für den normalen Gebrauch die folgenden modernen Browser "
+"oder aktualisieren Sie Ihren Browser."
+
+msgid "op.param.error"
+msgstr "Der Datentyp der Präfixoperationen sollte „Zahl“ sein."
+
+msgid "op.param.number"
+msgstr "Das Operationsfeld des Operators {{op}} sollte eine Zahl sein"
+
+msgid "open_store.space.enterprise"
+msgstr "Internes Plugin"
+
+msgid "open_store.space.store"
+msgstr "Offizielles Plugin"
+
+msgid "page.title.aggregateEdit"
+msgstr "Aggregattabellendesign | {{ _g_productName }}"
+
+msgid "page.title.aiAssistant"
+msgstr "KI-Assistent"
+
+msgid "page.title.baseConfig"
+msgstr "Formulardesign-{{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.corpCoop"
+msgstr "Kunden und Partner | {{ _g_productName }}"
+
+msgid "page.title.corpManagement"
+msgstr "Verwaltung | {{ _g_productName }}"
+
+msgid "page.title.customWorkbench"
+msgstr "Benutzerdefinierter Arbeitsbereich"
+
+msgid "page.title.dashEdit"
+msgstr "Dashboard-Design – {{entryName}} | {{ _g_productName }}"
+
+msgid "page.title.dashLayout"
+msgstr ""
+
+msgid "page.title.dashPreview"
+msgstr "Dashboard-Vorschau | {{ _g_productName }}"
+
+msgid "page.title.dataTrigger"
+msgstr "Automatisierung | {{ _g_productName }}"
+
+msgid "page.title.dataUrl"
+msgstr "Daten anzeigen"
+
+msgid "page.title.dingtalkAuthPc"
+msgstr "Melden Sie sich bei {{ _g_productName }} an"
+
+msgid "page.title.error"
+msgstr "Da ist etwas schiefgelaufen"
+
+msgid "page.title.error.flow"
+msgstr "Workflow-Eingabeaufforderung"
+
+msgid "page.title.error403"
+msgstr "Zugriff verweigert"
+
+msgid "page.title.error404"
+msgstr "Seite nicht gefunden"
+
+msgid "page.title.etlEdit"
+msgstr "Datenstromdesign | {{ _g_productName }}"
+
+msgid "page.title.formDataPage"
+msgstr "Benutzerdefinierte Detailseite | {{ _g_productName }}"
+
+msgid "page.title.formPreview"
+msgstr "Formularvorschau | {{ _g_productName }}"
+
+msgid "page.title.hcSolutionCenter"
+msgstr "Vorlagencenter"
+
+msgid "page.title.imageUpload"
+msgstr "Bild-Upload"
+
+msgid "page.title.larkCpInstallCallback"
+msgstr "Lark erfolgreich gesprungen"
+
+msgid "page.title.larkCpInstallIssue"
+msgstr "Lerchenbindung"
+
+msgid "page.title.login_bind"
+msgstr "Link E-Mail"
+
+msgid "page.title.networkTestView"
+msgstr "Netzwerk-Self-Service-Test | {{ _g_productName }}"
+
+msgid "page.title.notSupported"
+msgstr "Diese Version des Browsers wird nicht mehr unterstützt"
+
+msgid "page.title.oauth"
+msgstr "Autorisierung bestätigen"
+
+msgid "page.title.openApiExplorer"
+msgstr "API-Debug-Konsole | {{ _g_productName }}"
+
+msgid "page.title.openApiParameter"
+msgstr "Parameterbeschreibung | {{ _g_productName }}"
+
+msgid "page.title.openPlatform"
+msgstr "Offene Plattform | {{ _g_productName }}"
+
+msgid "page.title.orderCreate"
+msgstr "Bestellung erstellen | {{ _g_productName }}"
+
+msgid "page.title.orderPay"
+msgstr "Zahlungsanweisung"
+
+msgid "page.title.orderPayFailed"
+msgstr "Zahlung fehlgeschlagen"
+
+msgid "page.title.orderPaySuccess"
+msgstr "Zahlung erfolgreich"
+
+msgid "page.title.passwordForget"
+msgstr "{{ _g_productName }} Passwort vergessen?"
+
+msgid "page.title.passwordReset"
+msgstr "Passwort zurücksetzen"
+
+msgid "page.title.personal"
+msgstr "Persönliche Einstellungen | {{ _g_productName }}"
+
+msgid "page.title.printEdit"
+msgstr "Design-Druckvorlage"
+
+msgid "page.title.signature"
+msgstr "Unterschrift"
+
+msgid "page.title.suiteLoginAccept"
+msgstr "Mit Autorisierung anmelden"
+
+msgid "page.title.support"
+msgstr "Kontaktieren Sie uns | {{ _g_productName }}"
+
+msgid "page.title.tenantVerify"
+msgstr "Identitätsauthentifizierung | {{ _g_productName }}"
+
+msgid "page.title.thirdPartBindViewTitle"
+msgstr "Handynummer/E-Mail verknüpfen"
+
+msgid "page.title.userCancelTitle"
+msgstr "Konto wird geschlossen"
+
+msgid "print.field.currentFlow"
+msgstr "Aktueller Knoten"
+
+msgid "print.filename.barCodeExport"
+msgstr "{{ formName }}_barcode_{{ timestamp }}.pdf"
+
+msgid "print.filename.qrCodeExport"
+msgstr "{{ formName }}_barcode_{{ timestamp }}.pdf"
+
+msgid "print.sys.baseInfo"
+msgstr "Basisinformation"
+
+msgid "print.sys.fileFormat"
+msgstr "{{file name}} Dateigröße: {{size}} Upload-Zeit: {{ uploadTime }}"
+
+msgid "print.sys.name"
+msgstr "Systemdruck"
+
+msgid "print.sys.wxInfo"
+msgstr "WeChat-Details der Person, die dies eingereicht hat"
+
+msgid "print.system_template_name"
+msgstr "Standardvorlage"
+
+msgid "site.message.content.account_apportion"
+msgstr "{{ operator }} hat Ihnen den Kunden {{ data_label }} zugewiesen."
+
+msgid "site.message.content.account_apportion_merge"
+msgstr "{{ operator }} hat Ihnen {{ account_num }} Kunden zugewiesen."
+
+msgid "site.message.content.account_change_charger"
+msgstr ""
+"{{ operator }} hat den Besitzer des Kunden {{ data_label }} geändert. "
+"Vorher: {{ raw_charger }}. Aktuell: {{ new_charger }}."
+
+msgid "site.message.content.account_change_charger_merge"
+msgstr ""
+"{{ operator }} hat die für die {{ account_num }} Kunden zuständige Person "
+"geändert."
+
+msgid "site.message.content.account_change_collaborator"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter des Kunden {{ data_label }} "
+"geändert. Aktueller Mitarbeiter: {{ collaborators }}."
+
+msgid "site.message.content.account_change_collaborator_merge"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter von {{ account_num }} Kunden "
+"geändert."
+
+msgid "site.message.content.account_recycle"
+msgstr "{{ operator }} hat den Kunden \"{{ data_label }}\" recycelt."
+
+msgid "site.message.content.account_recycle_cron"
+msgstr "Der Kunde „{{ data_label }}“ wurde automatisch recycelt."
+
+msgid "site.message.content.account_recycle_merge"
+msgstr "{{ operator }} hat {{ account_num }} Kunden recycelt."
+
+msgid "site.message.content.aggregate_buffer"
+msgstr ""
+"Die Anzahl der aggregierten Tabellen für Ihr Unternehmen/Team \"{{ corpName "
+"}}\" hat das Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu "
+"\"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.aggregation_buffer"
+msgstr ""
+"Die Anzahl der Aggregationen für Ihr Unternehmen/Team \"{{ corpName }}\" "
+"hat das Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu \"Verwaltung > "
+"Plandetails\", um die Nutzungsdetails anzuzeigen und den Plan zu "
+"aktualisieren."
+
+msgid "site.message.content.analytics_exceed"
+msgstr ""
+"Die Anzahl der berechtigten Personen hat das Limit überschritten. Der "
+"Zugriff auf die Datenanalyse ist nun gesperrt. Entziehen Sie einigen "
+"Mitgliedern die Berechtigung zur Datenanalyse im Produktcenter."
+
+msgid "site.message.content.api_key_create"
+msgstr "{{ operator }} hat/haben API-Schlüssel erstellt"
+
+msgid "site.message.content.api_key_disable"
+msgstr "{{ operator }} deaktivierte(r) API-Schlüssel"
+
+msgid "site.message.content.api_key_enable"
+msgstr "{{ operator }} aktivierte(r) API-Schlüssel"
+
+msgid "site.message.content.api_key_remove"
+msgstr "{{ operator }} hat/haben API-Schlüssel gelöscht"
+
+msgid "site.message.content.app_create"
+msgstr "{{ operator }} hat die App {{ appName }} erstellt"
+
+msgid "site.message.content.app_publish_failed.0"
+msgstr ""
+"Leider konnte Ihre App {{ appName }} nicht veröffentlicht werden. Der Grund "
+"ist folgender:"
+
+msgid "site.message.content.app_publish_failed.1"
+msgstr "Grund: {{ reason }}"
+
+msgid "site.message.content.app_publish_success"
+msgstr ""
+"Herzlichen Glückwunsch! Sie haben die App {{ appName }} erfolgreich "
+"veröffentlicht. Sehen Sie sie sich im Vorlagencenter an."
+
+msgid "site.message.content.app_remove"
+msgstr "{{ operator }} hat die App {{ appName }} gelöscht"
+
+msgid "site.message.content.app_rename"
+msgstr ""
+"{{ operator }} hat den App-Namen von {{ oriAppName }} in {{ newAppName }} "
+"geändert"
+
+msgid "site.message.content.app_template_approved"
+msgstr "Vorlage \"{{ templateName }}\" wurde genehmigt"
+
+msgid "site.message.content.app_template_publish"
+msgstr ""
+"{{ operator }} hat die Anwendung \"{{ templateName }}\" freigegeben und "
+"wartet auf Überprüfung"
+
+msgid "site.message.content.app_template_rejected"
+msgstr ""
+"Die Vorlage \"{{ templateName }}\" hat die Prüfung nicht bestanden. Grund: "
+"{{ reason }}"
+
+msgid "site.message.content.automation_trigger_times"
+msgstr ""
+"Ihr Unternehmen/Team \"{{ corpName }}\" hat Automations Pro {{ usage }} Mal "
+"ausgeführt. Das monatliche Limit beträgt im aktuellen Plan {{ limit }}. Bei "
+"Überschreitung des Limits werden Coins verbraucht. Um Störungen Ihres "
+"Geschäftsbetriebs zu vermeiden, stellen Sie sicher, dass Ihr Konto über "
+"genügend Coins verfügt."
+
+msgid "site.message.content.automation_trigger_times_alert"
+msgstr ""
+"Ihr Team \"{{ corpName }}\" hat {{ usage }} Automation Pro-Ausführungen "
+"erreicht. Das jährliche Limit {{ limit }} wird bald erreicht. Nach "
+"Überschreiten des Limits kann Automation Pro nicht mehr ausgeführt werden "
+"oder es werden Cloud Coins benötigt. Gehen Sie bitte zu „Verwaltung – "
+"Plan-Details“, um die Nutzung einzusehen und Cloud Coins aufzuladen."
+
+msgid "site.message.content.automation_trigger_times_notify"
+msgstr ""
+"Ihr Team \"{{ corpName }}\" hat {{ usage }} Automation Pro-Ausführungen "
+"erreicht. Die maximal erlaubte Anzahl pro Jahr beträgt {{ limit }}. Bitte "
+"beachten Sie dies."
+
+msgid "site.message.content.bpa_buffer"
+msgstr ""
+"Die Anzahl der BPAs für Ihr Unternehmen/Team \"{{ corpName }}\" hat das "
+"Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu \"Verwaltung > "
+"Plandetails\", um die Nutzungsdetails anzuzeigen und den Plan zu "
+"aktualisieren."
+
+msgid "site.message.content.buffer_expired"
+msgstr ""
+"Die Systemnutzung für Ihr Unternehmen/Team \"{{ corpName }}\" hat das Limit "
+"überschritten, und das System wurde vorübergehend gesperrt. Gehen Sie zu "
+"\"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.coin_less_than_limit_usage"
+msgstr ""
+"Der Cloud Coin-Kontostand Ihres Teams {{ corpName }} liegt unter {{ limit "
+"}}. Funktionen wie SMS-Verifizierung, OCR-Erkennung und Anhangs-Upload "
+"können beeinträchtigt sein. Um Auswirkungen auf Ihr Unternehmen zu "
+"vermeiden, laden Sie Ihr Konto so schnell wie möglich auf."
+
+msgid "site.message.content.coin_running_out_usage"
+msgstr ""
+"Das Cloud Coin-Guthaben Ihres Teams {{ corpName }} neigt sich demnächst dem "
+"Ende zu. Funktionen wie SMS-Verifizierung, OCR-Erkennung und der Upload von "
+"Anhängen können beeinträchtigt sein. Um Auswirkungen auf Ihr Unternehmen zu "
+"vermeiden, laden Sie Ihr Konto so schnell wie möglich auf."
+
+msgid "site.message.content.comment_mention.0"
+msgstr "{{ sender }} hat Sie im Kommentar {{ dataTitle }} erwähnt."
+
+msgid "site.message.content.comment_mention.0.dataTitle"
+msgstr "Unbenannte Daten"
+
+msgid "site.message.content.comment_mention.1"
+msgstr "Kommentarübersicht: {{ messageComment }}."
+
+msgid "site.message.content.comment_mention_corp_coop.0"
+msgstr ""
+"Mitglieder des Unternehmens {{ corpName }} haben Sie im Kommentar {{ "
+"dataTitle }} erwähnt."
+
+msgid "site.message.content.comment_mention_corp_coop.0.dataTitle"
+msgstr "Unbenannte Daten"
+
+msgid "site.message.content.comment_mention_corp_coop.1"
+msgstr "Kommentarübersicht: {{ messageComment }}."
+
+msgid "site.message.content.contacts_change_charger"
+msgstr ""
+"{{ operator }} hat den Besitzer des Kontakts {{ data_label }} geändert. "
+"Vorheriger: {{ raw_charger }}. Aktueller: {{ new_charger }}."
+
+msgid "site.message.content.contacts_change_charger_merge"
+msgstr ""
+"{{ operator }} hat den/die Eigentümer von {{ contacts_num }} Kontakt(en) "
+"geändert."
+
+msgid "site.message.content.contacts_change_collaborator"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter des Kontakts {{ data_label }} "
+"geändert. Aktuelle(r) Mitarbeiter: {{ collaborators }}."
+
+msgid "site.message.content.contacts_change_collaborator_merge"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter von {{ contacts_num }} Kontakt(en) "
+"geändert."
+
+msgid "site.message.content.corp_coop_docker_buffer"
+msgstr ""
+"Die Zusammenarbeit mit anderen Unternehmen/Teams im Unternehmen ist "
+"fehlgeschlagen. Die Anzahl der Ansprechpartner für Ihr Unternehmen/Team "
+"\"{{ corpName }}\" ist nicht ausreichend."
+
+msgid "site.message.content.corp_coop_host_owner_invitation"
+msgstr ""
+"Das Unternehmen {{ corpName }}, mit dem Sie in Kontakt getreten sind, hat "
+"eine Zusammenarbeit mit Ihnen beantragt. Nach der Zusammenarbeit können "
+"Ihre Kontakte am Geschäft des Unternehmens teilhaben."
+
+msgid "site.message.content.corp_coop_quota_buffer"
+msgstr ""
+"Die Anzahl der verbundenen Unternehmen für Ihr Unternehmen/Team \"{{ "
+"corpName }}\" hat das Limit von \"{{ vipLevel }}\" überschritten. Gehen Sie "
+"zu \"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.corp_coop_quota_exceed"
+msgstr ""
+"Die Verbindung mit anderen Unternehmen konnte nicht hergestellt werden. Das "
+"Enterprise-Verbindungskontingent für Ihr Unternehmen/Team \"{{ corpName "
+"}}\" reicht nicht aus. Kaufen Sie mehr und versuchen Sie es erneut."
+
+msgid "site.message.content.corp_invite"
+msgstr ""
+" Ihr Freund lädt Sie zur Zusammenarbeit über {{ _g_productName }} ein. "
+"Treten Sie seinem/ihrem Team \"{{ corpName }}\" bei. Die Einladung ist 7 "
+"Tage lang gültig."
+
+msgid "site.message.content.corp_sync_failed"
+msgstr ""
+
+msgid "site.message.content.dash_alert"
+msgstr ""
+"Im Dashboard {{ entryName }} der App {{ appName }} haben Daten in {{ "
+"widgetName }} den Datenalarm {{ thresholdName }} ausgelöst."
+
+msgid "site.message.content.dash_alert_first_fail.0"
+msgstr ""
+"Die Erinnerung ist fehlgeschlagen, da die Ausführung des Datenalarms {{ "
+"thresholdName }} fehlgeschlagen ist."
+
+msgid "site.message.content.dash_alert_first_fail.1"
+msgstr "Alarm von {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_ratelimit"
+msgstr ""
+"Die ausgelösten Dashboard-Datenwarnungen haben das Tageslimit von 1.000 "
+"erreicht. Heute werden keine weiteren Warnungen ausgelöst."
+
+msgid "site.message.content.dash_alert_removed.0"
+msgstr ""
+"Da die Alarmbedingung des Datenalarms {{ thresholdName }} ungültig war, "
+"wurde der Datenalarm automatisch deaktiviert."
+
+msgid "site.message.content.dash_alert_removed.1"
+msgstr "Alarm von {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.dash_alert_second_fail.0"
+msgstr ""
+"Der Alarm wurde automatisch deaktiviert, da die Ausführung des Datenalarms "
+"{{ thresholdName }} mehrmals fehlschlug."
+
+msgid "site.message.content.dash_alert_second_fail.1"
+msgstr "Alarm von {{ appName }} > {{ entryName }} > {{ widgetName }}"
+
+msgid "site.message.content.data_buffer"
+msgstr ""
+"Das Gesamtdatenvolumen für Ihr Unternehmen/Team \"{{ corpName }}\" hat das "
+"Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu \"Verwaltung > "
+"Plandetails\", um die Nutzungsdetails anzuzeigen und den Plan zu "
+"aktualisieren."
+
+msgid "site.message.content.data_create_usage"
+msgstr ""
+"Ihr Unternehmen/Team „{{ corpName }}“ hat diesen Monat bereits {{ usage }} "
+"Datensätze verwendet und nähert sich damit dem Limit von 1.000 Datensätzen. "
+"Gehen Sie zu „Verwaltung > Plandetails“, um die Nutzungsdetails anzuzeigen "
+"und den Plan zu aktualisieren."
+
+msgid "site.message.content.data_trigger_execute_failed_count"
+msgstr ""
+"In der App {{ appName }} konnte die Automatisierung {{ triggerName }} {{ "
+"failedCount }} Mal nicht ausgelöst werden. Sehen Sie sich den "
+"Triggerverlauf zeitlich an."
+
+msgid "site.message.content.data_trigger_execute_failed_first"
+msgstr ""
+"Die Automatisierung „{{ triggerName }}“ in der App „{{ appName }}“ konnte "
+"nicht ausgeführt werden. Bitte überprüfen Sie die Protokollzeit des "
+"Triggerverlaufs."
+
+msgid "site.message.content.data_trigger_execute_failed_max"
+msgstr ""
+"In der App {{ appName }} konnte die Automatisierung {{ triggerName }} {{ "
+"failedCount }} Mal nicht ausgelöst werden. Es werden heute keine weiteren "
+"Erinnerungen versendet. Sehen Sie sich den Triggerverlauf rechtzeitig an."
+
+msgid "site.message.content.data_usage"
+msgstr ""
+"Ihr Unternehmen/Team \"{{ corpName }}\" hat insgesamt bereits {{ usage }} "
+"Datensätze verwendet und nähert sich dem Limit von {{ limit }}. Gehen Sie "
+"zu \"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.dept_create"
+msgstr "{{ operator }} hat eine Abteilung mit dem Namen {{ deptName }} hinzugefügt"
+
+msgid "site.message.content.dept_import"
+msgstr "{{ operator }} importierte {{ deptSize }} Abteilung(en)."
+
+msgid "site.message.content.dept_remove"
+msgstr "{{ operator }} hat die Abteilung {{ deptName }} gelöscht."
+
+msgid "site.message.content.docker_modify_bi_direction"
+msgstr ""
+"Das Unternehmen {{ corpName }}, das Verbindungen zu Ihnen hergestellt hat, "
+"hat {{ op }} {{ side }} Kontakt {{ nicknameList }}. Passen Sie relevante "
+"Berechtigungen rechtzeitig an, um die normale Geschäftsentwicklung zu "
+"gewährleisten."
+
+msgid "site.message.content.docker_modify_bi_direction_url"
+msgstr ""
+"Das Unternehmen {{ corpName }}, das Verbindungen zu Ihnen hergestellt hat, "
+"hat {{ op }} {{ side }} Kontakt {{ nicknameList }}. Passen Sie relevante "
+"Berechtigungen rechtzeitig an, um die normale Geschäftsentwicklung zu "
+"gewährleisten."
+
+msgid "site.message.content.docker_modify_single"
+msgstr ""
+"Das Unternehmen {{ corpName }}, das Verbindungen zu Ihnen hergestellt hat, "
+"hat {{ op }} {{ side }} Kontakt {{ nicknameList }}."
+
+msgid "site.message.content.etl_buffer"
+msgstr ""
+"Die Anzahl der Datenströme für Ihr Unternehmen/Team \"{{ corpName }}\" hat "
+"das Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu \"Verwaltung > "
+"Plandetails\", um die Nutzungsdetails anzuzeigen und den Plan zu "
+"aktualisieren."
+
+msgid "site.message.content.etl_execute_failed_limit"
+msgstr ""
+"Der Datenstrom \"{{ etlName }}\" in \"{{ appName }}\" konnte {{ maxCount }} "
+"Mal nicht aktualisiert werden. Das System hat die Aktualisierungsregeln "
+"deaktiviert, und alle Aktualisierungen wurden ausgesetzt. Überprüfen Sie "
+"die Fehlerursachen und nehmen Sie Anpassungen vor, bevor Sie die "
+"Aktualisierungsregeln wieder aktivieren."
+
+msgid "site.message.content.etl_job_execute_failed"
+msgstr ""
+" Der Datenstrom „{{ etlName }}“ in der App „{{ appName }}“ konnte nicht "
+"aktualisiert werden."
+
+msgid "site.message.content.etl_sync_failed"
+msgstr ""
+"Der Datenstrom „{{ etl_name }}“ in der App „{{ app_name }}“ konnte die "
+"Daten nicht mit der Ausgabetabelle synchronisieren."
+
+msgid "site.message.content.excel_export_failed_member_role_rel_exceeded"
+msgstr ""
+"Der Export von „{{ title }}“ ist fehlgeschlagen. Die exportierten "
+"Mitgliedsdaten überschreiten das maximale Limit."
+
+msgid "site.message.content.excel_import_complete"
+msgstr "{{ entryName }} hat erfolgreich {{ imported }} Daten importiert."
+
+msgid "site.message.content.excel_import_complete_with_failure"
+msgstr ""
+"{{ entryName }} hat erfolgreich {{ imported }} Daten importiert, der Import "
+"von {{ failed }} Daten ist jedoch fehlgeschlagen. Der Download-Link für den "
+"Fehlerbericht wird nach 24 Stunden ungültig. Bitte laden Sie ihn so schnell "
+"wie möglich herunter."
+
+msgid "site.message.content.excel_import_update_complete"
+msgstr "\"{{ entryName }}\" hat die {{ updated }} Daten erfolgreich aktualisiert."
+
+msgid "site.message.content.excel_import_update_complete_with_failure"
+msgstr ""
+"{{ entryName }} hat erfolgreich {{ updated }} Daten aktualisiert, die "
+"Aktualisierung von {{ failed }} Daten ist fehlgeschlagen. Der Download-Link "
+"für den Fehlerbericht wird nach 24 Stunden ungültig. Bitte laden Sie ihn so "
+"schnell wie möglich herunter."
+
+msgid "site.message.content.excel_import_upsert_complete"
+msgstr ""
+"{{ entryName }} hat {{ updated }} Daten erfolgreich aktualisiert und {{ "
+"imported }} Daten erfolgreich importiert."
+
+msgid "site.message.content.excel_import_upsert_complete_with_failure"
+msgstr ""
+"{{ entryName }} hat erfolgreich {{ updated }} Daten aktualisiert und {{ "
+"imported }} Daten importiert, der Import von {{ failed }} Daten ist jedoch "
+"fehlgeschlagen. Der Download-Link für den Fehlerbericht wird nach 24 "
+"Stunden ungültig. Bitte laden Sie ihn so schnell wie möglich herunter."
+
+msgid "site.message.content.file_export_complete"
+msgstr ""
+"„{{ title }}“ steht zum Download bereit. Der Download-Link läuft nach 24 "
+"Stunden ab. Laden Sie es so schnell wie möglich herunter."
+
+msgid "site.message.content.file_export_data_limit"
+msgstr ""
+"\"{{ title }}\" Die Exportdatei ist zu groß. Beim Exportieren dürfen die "
+"Daten nicht größer als 16 MB, 100.000 Zeilen und 1.000.000 Raster sein. "
+"Bitte filtern und exportieren Sie erneut."
+
+msgid "site.message.content.file_export_failed"
+msgstr ""
+"Der Export von „{{ title }}“ ist fehlgeschlagen. Versuchen Sie es später "
+"erneut oder kontaktieren Sie uns."
+
+msgid "site.message.content.file_export_limit_failed"
+msgstr ""
+"Export fehlgeschlagen. Die Dateigröße von {widget} ist zu groß. Es können "
+"maximal 1.000 Anhänge exportiert werden, und die komprimierte Datei darf 1 "
+"GB nicht überschreiten. Versuchen Sie, die Anhänge in kleineren Mengen zu "
+"exportieren."
+
+msgid "site.message.content.file_export_memory_failed"
+msgstr ""
+"Export fehlgeschlagen. Zu viele Sortierregeln für die Daten im Formular {{ "
+"title }}. Reduzieren Sie die Sortierregeln oder die zu exportierende "
+"Datenmenge und wiederholen Sie den Export."
+
+msgid "site.message.content.file_stream_export_data_limit"
+msgstr ""
+"Export fehlgeschlagen. Die Dateigröße von {{ title }} ist zu groß. Es "
+"können maximal 1.000.000 verbundene Zellen exportiert werden, und die Daten "
+"dürfen das Excel-Zeilenlimit nicht überschreiten. Filtern Sie die Daten und "
+"exportieren Sie sie erneut."
+
+msgid "site.message.content.flow_cc"
+msgstr ""
+"Wenn weitere Maßnahmen erforderlich sind, überprüfen Sie diese bitte so "
+"schnell wie möglich."
+
+msgid "site.message.content.flow_cc_merge"
+msgstr ""
+"Wenn weitere Maßnahmen erforderlich sind, überprüfen Sie diese bitte so "
+"schnell wie möglich."
+
+msgid "site.message.content.flow_forward"
+msgstr ""
+"{{ operator }} hat den Vorgang übermittelt, bitte verarbeiten Sie ihn "
+"rechtzeitig"
+
+msgid "site.message.content.flow_member_transfer"
+msgstr "Gesendet von {{ flowCreatorName }}, bitte bearbeiten Sie es umgehend."
+
+msgid "site.message.content.flow_timeout"
+msgstr "Gesendet von {{ flowCreatorName }}, bitte bearbeiten Sie es umgehend."
+
+msgid "site.message.content.follow_plan_complete"
+msgstr "{{ operator }} hat Ihren Folgeplan \"{{ data_label }}\" abgeschlossen."
+
+msgid "site.message.content.follow_plan_complete_merge"
+msgstr "{{ operator }} hat {{ plan_num }} Ihrer Folgepläne abgeschlossen."
+
+msgid "site.message.content.form_data_buffer"
+msgstr ""
+"Das Datenvolumen pro Formular für Ihr Unternehmen/Team \"{{ corpName }}\" "
+"hat das Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu \"Verwaltung > "
+"Plandetails\", um die Nutzungsdetails anzuzeigen und den Plan zu "
+"aktualisieren."
+
+msgid "site.message.content.form_data_usage"
+msgstr ""
+"Ihr Unternehmen/Team \"{{ corpName }}\" hat bereits {{ usage }} Datensätze "
+"pro Formular verwendet und nähert sich dem Limit von {{ limit }}. Gehen Sie "
+"zu \"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.guest_corp_accept"
+msgstr ""
+"Das Unternehmen \"{{ corpName }}\" hat Ihre Einladung angenommen. Teilen "
+"Sie die App-/Formularberechtigungen mit der Kontaktperson für die "
+"zukünftige Zusammenarbeit."
+
+msgid "site.message.content.guest_corp_accept_apply_tmp_owner"
+msgstr ""
+"Ihr verbundener Partner „{{ corpName }}“ hat Ihrer Anfrage zur gemeinsamen "
+"Verwaltung der Kontakte zugestimmt."
+
+msgid "site.message.content.guest_corp_disconnect"
+msgstr "Die Verbindung zum Unternehmen \"{{ corpName }}\" wurde getrennt."
+
+msgid "site.message.content.guest_corp_revoke"
+msgstr ""
+"Ihr Verbindungspartner „{{ corpName }}“ hat die Berechtigungen der Kontakte "
+"übernommen."
+
+msgid "site.message.content.guest_corp_uninstall"
+msgstr ""
+"Ihr Verbindungspartner \"{{ corpName }}\" hat seinen Nutzungsmodus "
+"geändert. Ihre Verbindung wurde daher beendet und das Verbindungskontingent "
+"Ihrem Konto wieder gutgeschrieben. Wenden Sie sich an die zuständige "
+"Person, um die Verbindung wiederherzustellen."
+
+msgid "site.message.content.host_corp_apply_tmp_owner"
+msgstr ""
+"Ihr Partner \"{{ corpName }}\" hat die Berechtigung zur Verwaltung der "
+"Kontakte in Ihrem \"{{ _g_productName }}\"-Konto angefordert, um "
+"Geschäftskontakte anzulegen. Übernehmen Sie die Berechtigung für Kontakte "
+"bei Bedarf später selbst."
+
+msgid "site.message.content.host_corp_disconnect"
+msgstr ""
+"Das Unternehmen \"{{ corpName }}\" hat die Zusammenarbeit mit Ihnen "
+"beendet. Passen Sie die entsprechenden Berechtigungen an, um Auswirkungen "
+"auf Ihr Unternehmen zu vermeiden."
+
+msgid "site.message.content.host_corp_uninstall"
+msgstr ""
+"Ihr Verbindungspartner \"{{ corpName }}\" hat seinen Nutzungsmodus "
+"geändert, daher ist Ihre Verbindung beendet. Kontaktieren Sie die "
+"zuständige Person, um die Verbindung wiederherzustellen."
+
+msgid "site.message.content.import_file_complete"
+msgstr ""
+"{{success}} Anhang(e) für \"{{ title }}\" importiert. {{failed}} ist "
+"fehlgeschlagen."
+
+msgid "site.message.content.kms_doc_annotation_solved.0"
+msgstr ""
+"{{ operator }} hat die Kommentare im Dokument \"{{ document }}\" "
+"verarbeitet."
+
+msgid "site.message.content.kms_doc_annotation_solved.1"
+msgstr "Kommentarübersicht: {{ comment }}"
+
+msgid "site.message.content.kms_doc_comment.0"
+msgstr "{{ operator }} hat das Dokument „{{ document }}“ kommentiert."
+
+msgid "site.message.content.kms_doc_comment.1"
+msgstr "Kommentarübersicht: {{ comment }}"
+
+msgid "site.message.content.kms_doc_create"
+msgstr "{{ operator }} hat ein Dokument mit dem Namen „{{ document }}“ erstellt."
+
+msgid "site.message.content.kms_doc_edit"
+msgstr "{{ operator }} hat das Dokument \"{{ document }}\" bearbeitet."
+
+msgid "site.message.content.kms_doc_like"
+msgstr "{{ operator }} hat dem Dokument \"{{ document }}\" gefallen."
+
+msgid "site.message.content.kms_space_apply"
+msgstr ""
+" {{ applicant }} Bewerben Sie sich für die Erstellung einer "
+"Wissensdatenbank {{ space_name }}"
+
+msgid "site.message.content.kms_space_apply_agree"
+msgstr ""
+"Die Wissensdatenbank wurde erfolgreich erstellt. Sie sind jetzt der "
+"Administrator der neuen Wissensdatenbank \"{{ space_name }}\"."
+
+msgid "site.message.content.kms_space_apply_deny.0"
+msgstr ""
+"Die Wissensdatenbank {{ space_name }} konnte nicht erstellt werden. "
+"Verbessern Sie die Beschreibung und versuchen Sie es erneut."
+
+msgid "site.message.content.kms_space_apply_deny.1"
+msgstr "Ablehnungsgrund: {{ deny_reason }}"
+
+msgid "site.message.content.kms_space_manager"
+msgstr ""
+"Sie sind jetzt der Administrator der Wissensdatenbank „{{ space_name }}“. "
+"Beginnen Sie mit der Erstellung von Dokumenten und teilen Sie Ihre Ideen!"
+
+msgid "site.message.content.kms_view_notify.0"
+msgstr ""
+"{{ operator }} hat Sie daran erinnert, das Dokument „{{ document }}“ "
+"anzuzeigen."
+
+msgid "site.message.content.kms_view_notify.1"
+msgstr "Dokumentübersicht: {{ notify_text }}"
+
+msgid "site.message.content.leads_apportion"
+msgstr "{{ operator }} hat Ihnen den Lead \"{{ data_label }}\" zugewiesen."
+
+msgid "site.message.content.leads_apportion_merge"
+msgstr "{{ operator }} hat Ihnen {{ leads_num }} Leads zugewiesen."
+
+msgid "site.message.content.leads_change_charger"
+msgstr ""
+"{{ operator }} hat den Besitzer des Leads \"{{ data_label }}\" geändert. "
+"Vorheriger: \"{{ raw_charger }}\". Aktueller: \"{{ new_charger }}\"."
+
+msgid "site.message.content.leads_change_charger_merge"
+msgstr "{{ operator }} hat die für {{ leads_num }} Leads zuständige Person geändert."
+
+msgid "site.message.content.leads_change_collaborator"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter des Leads \"{{ data_label }}\" "
+"geändert. Aktuelle(r) Mitarbeiter: \"{{ collaborators }}\"."
+
+msgid "site.message.content.leads_change_collaborator_merge"
+msgstr "{{ operator }} hat den Mitarbeiter von {{ leads_num }} Leads geändert."
+
+msgid "site.message.content.leads_recycle"
+msgstr "{{ operator }} hat den Lead \"{{ data_label }}\" recycelt."
+
+msgid "site.message.content.leads_recycle_cron"
+msgstr "Der Lead \"{{ data_label }}\" wurde automatisch recycelt."
+
+msgid "site.message.content.leads_recycle_merge"
+msgstr "{{ operator }} hat {{ leads_num }} Lead(s) recycelt."
+
+msgid "site.message.content.manage_group_add_members"
+msgstr ""
+"{{ operator }} hat {{ members }} zur Administratorgruppe \"{{ manageGroup "
+"}}\" hinzugefügt."
+
+msgid "site.message.content.manage_group_create"
+msgstr ""
+"{{ operator }} hat eine Administratorgruppe mit dem Namen „{{ manageGroup "
+"}}“ hinzugefügt."
+
+msgid "site.message.content.manage_group_remove"
+msgstr ""
+"{{ operator }} hat eine Administratorgruppe mit dem Namen „{{ manageGroup "
+"}}“ gelöscht."
+
+msgid "site.message.content.manage_group_remove_members"
+msgstr ""
+"{{ operator }} hat {{ members }} aus der Administratorgruppe \"{{ "
+"manageGroup }}\" entfernt."
+
+msgid "site.message.content.manager_login"
+msgstr "Der Administrator {{ operator }} hat sich beim System angemeldet."
+
+msgid "site.message.content.member_import"
+msgstr "{{ operator }} hat {{ memberSize }} Mitglied(er) importiert."
+
+msgid "site.message.content.member_invite"
+msgstr "{{ operator }} hat {{ memberList }} eingeladen."
+
+msgid "site.message.content.member_remove"
+msgstr ""
+"{{ operator }} hat die Mitglieder {{ memberList }} als zurückgetreten "
+"festgelegt"
+
+msgid "site.message.content.merged_item_exceed"
+msgstr ""
+"Die Systemnutzung für Ihr Unternehmen/Team \"{{ corpName }}\" hat das Limit "
+"überschritten. Um ohne Unterbrechung fortzufahren, gehen Sie zu "
+"\"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.message_webhook_disable"
+msgstr ""
+"Ihr Nachrichten-Push ist 100 Mal fehlgeschlagen und der Webhook (Nachricht) "
+"wurde automatisch deaktiviert. Bitte überprüfen Sie die Ursache und passen "
+"Sie die Konfiguration unter „Verwaltung – Webhook (Nachricht)“ an."
+
+msgid "site.message.content.message_webhook_failed"
+msgstr ""
+"Der Nachrichten-Push ist fehlgeschlagen. Wenn mehr als 100 Nachrichten "
+"nicht gesendet werden können, wird der Webhook (Nachricht) automatisch "
+"deaktiviert. Bitte prüfen Sie rechtzeitig die Ursache und passen Sie die "
+"Konfiguration unter „Verwaltung – Webhook (Nachricht)“ an."
+
+msgid "site.message.content.message_webhook_failed_times"
+msgstr ""
+"Ihr Nachrichten-Push ist {{ count }} Mal fehlgeschlagen. Wenn mehr als 100 "
+"Nachrichten nicht gesendet werden konnten, wird der Webhook (Nachricht) "
+"automatisch deaktiviert. Bitte überprüfen Sie rechtzeitig die Ursache und "
+"passen Sie die Konfiguration unter „Verwaltung – Webhook (Nachricht)“ an."
+
+msgid "site.message.content.multi_app_trial_expiring"
+msgstr ""
+"Einige Apps, die Ihr Unternehmen/Team \"{{ corpName }}\" kostenlos getestet "
+"hat, laufen bald ab. Nach Ablauf bleiben die Daten erhalten, die Funktionen "
+"sind jedoch eingeschränkt. Aktualisieren Sie Ihren Plan daher rechtzeitig. "
+"Wenn Sie eine Testversion abonniert oder einen Premium-Plan erworben haben, "
+"ignorieren Sie diese Benachrichtigung."
+
+msgid "site.message.content.new_follow_plan"
+msgstr "{{ operator }} hat einen Folgeplan \"{{ data_label }}\" für Sie hinzugefügt."
+
+msgid "site.message.content.oauth_create"
+msgstr "{{ operator }} hat die Autorisierung für \"{{ suite_name }}\" hinzugefügt."
+
+msgid "site.message.content.oauth_delete"
+msgstr "{{ operator }} hat die Autorisierung für \"{{ suite_name }}\" widerrufen."
+
+msgid "site.message.content.opportunity_change_charger"
+msgstr ""
+"{{ operator }} hat den Eigentümer der Geschäftsmöglichkeit \"{{ data_label "
+"}}\" geändert. Vorher: {{ raw_charger }}. Aktuell: {{ new_charger }}."
+
+msgid "site.message.content.opportunity_change_charger_merge"
+msgstr ""
+"{{ operator }} hat den/die Eigentümer der "
+"Geschäftsmöglichkeit/Geschäftsmöglichkeiten von {{ opportunity_num }} "
+"geändert."
+
+msgid "site.message.content.opportunity_change_collaborator"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter der Geschäftsmöglichkeit \"{{ "
+"data_label }}\" geändert. Aktuell: {{ collaborators }}."
+
+msgid "site.message.content.opportunity_change_collaborator_merge"
+msgstr ""
+"{{ operator }} hat den/die Mitarbeiter der "
+"Geschäftsmöglichkeit/Geschäftsmöglichkeiten von {{ opportunity_num }} "
+"geändert."
+
+msgid "site.message.content.opportunity_win"
+msgstr "Die Geschäftsmöglichkeit \"{{ data_label }}\" wurde gewonnen."
+
+msgid "site.message.content.plugin_expire"
+msgstr ""
+"Das Plugin \"{{ pluginName }}\" in Ihrem Unternehmen/Team \"{{ corpName "
+"}}\" läuft am {{ expireTime }} ab und wird nach {{ days }} Tag(en) "
+"deaktiviert. Wenn Sie es verlängern möchten, kontaktieren Sie uns."
+
+msgid "site.message.content.single_app_trial_expiring"
+msgstr ""
+"Die App \"{{ appName }}\", die Ihr Unternehmen/Team \"{{ corpName }}\" "
+"kostenlos getestet hat, läuft in {{ days }} Tag(en) ab. Nach Ablauf bleiben "
+"die Daten erhalten, die Funktionen sind jedoch eingeschränkt. Aktualisieren "
+"Sie Ihren Plan daher rechtzeitig. Wenn Sie bereits eine Testversion "
+"abonniert oder einen Premium-Plan erworben haben, ignorieren Sie diese "
+"Benachrichtigung."
+
+msgid "site.message.content.sms_send_failed"
+msgstr ""
+"Die Cloud-Coins im Konto Ihres Unternehmens/Teams \"{{ corpName }}\" sind "
+"aufgebraucht. Die SMS-Verifizierung ist nicht mehr verfügbar, und einige "
+"Mitglieder konnten keine Daten übermitteln. Um Störungen in Ihrem "
+"Geschäftsbetrieb zu vermeiden, passen Sie das Design an oder laden Sie die "
+"Coins auf. Nach dem Aufladen ist die Funktion nicht mehr eingeschränkt."
+
+msgid "site.message.content.team_invite"
+msgstr ""
+"Ihr Freund {{ nickname }} lädt Sie zur Zusammenarbeit über {{ "
+"_g_productName }} ein. Treten Sie seinem/ihrem Team bei. Die Einladung ist "
+"7 Tage lang gültig."
+
+msgid "site.message.content.team_invite_notify"
+msgstr ""
+"Ihr Freund {{ nickname }} möchte mit Ihnen bei {{ _g_productName }} "
+"zusammenarbeiten. Weitere Informationen finden Sie unter Nachrichten."
+
+msgid "site.message.content.team_invite_success"
+msgstr "Sie sind {{ teamName }} erfolgreich beigetreten"
+
+msgid "site.message.content.trial_usage_exceed"
+msgstr ""
+"Die Systemnutzung Ihres Unternehmens/Teams \"{{ corpName }}\" hat das Limit "
+"des kostenlosen Plans überschritten. Um eine unterbrechungsfreie "
+"Systemnutzung nach der Testphase sicherzustellen, gehen Sie zu \"Verwaltung "
+"> Plandetails\", um die Nutzungsdetails anzuzeigen und den Plan zu "
+"aktualisieren. Die verbleibenden Testtage können für jeden Plan verlängert "
+"werden."
+
+msgid "site.message.content.trigger_buffer"
+msgstr ""
+"Die Anzahl der Automatisierungen für Ihr Unternehmen/Team \"{{ corpName "
+"}}\" hat das Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu "
+"\"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.upload_exceed"
+msgstr ""
+"Die Anzahl der hochgeladenen Anhänge für Ihr Unternehmen/Team \"{{ corpName "
+"}}\" hat das Limit \"{{ vipLevel }}\" überschritten. Gehen Sie zu "
+"\"Verwaltung > Plandetails\", um die Nutzungsdetails anzuzeigen und den "
+"Plan zu aktualisieren."
+
+msgid "site.message.content.upload_usage"
+msgstr ""
+"Die Anzahl der hochgeladenen Anhänge im Konto \"{{ corpName }}\" Ihres "
+"Unternehmens/Teams hat {{ usage }} des Gesamtlimits von {{ limit }} "
+"erreicht. Bei Überschreitung des Limits werden Cloud-Coins verbraucht. "
+"Stellen Sie sicher, dass Ihr Konto über genügend Coins verfügt, um "
+"Störungen Ihres Geschäftsbetriebs zu vermeiden."
+
+msgid "site.message.content.upload_with_coin_usage"
+msgstr ""
+"Die Anzahl der hochgeladenen Anhänge im Konto \"{{ corpName }}\" Ihres "
+"Unternehmens/Teams hat {{ usage }} des Gesamtlimits von {{ limit }} "
+"erreicht. Bei Überschreitung des Limits werden Cloud Coins verbraucht. Sie "
+"verfügen nun über {{ coinBalance }} Coin(s). Um Störungen Ihres "
+"Geschäftsbetriebs zu vermeiden, stellen Sie sicher, dass Ihr Konto über "
+"ausreichend Coins verfügt."
+
+msgid "site.message.content.upload_with_less_coin_usage"
+msgstr ""
+"Die Anzahl der hochgeladenen Anhänge im Konto \"{{ corpName }}\" Ihres "
+"Unternehmens/Teams hat {{ usage }} des Gesamtlimits von {{ limit }} "
+"erreicht. Bei Überschreitung des Limits werden Cloud Coins verbraucht. Sie "
+"verfügen nun über maximal {{ coinBalance }} Coin(s). Um Störungen Ihres "
+"Geschäftsbetriebs zu vermeiden, laden Sie die Coins so schnell wie möglich "
+"wieder auf."
+
+msgid "site.message.content.upload_without_coin_usage"
+msgstr ""
+"Die Anzahl der hochgeladenen Anhänge im Konto \"{{ corpName }}\" Ihres "
+"Unternehmens/Teams hat {{ usage }} des Gesamtlimits von {{ limit }} "
+"erreicht. Bei Überschreitung des Limits werden Cloud-Coins verbraucht. Um "
+"Störungen Ihres Geschäftsbetriebs zu vermeiden, aktivieren Sie in den "
+"Zahlungseinstellungen die Option \"Datei-Uploads, die das Limit "
+"überschreiten, kosten Coins\" und stellen Sie sicher, dass Ihr Konto über "
+"genügend Coins verfügt."
+
+msgid "site.message.content.user_buffer"
+msgstr ""
+"Die Anzahl der Mitglieder in Ihrem Unternehmen/Team \"{{ corpName }}\" hat "
+"das Limit überschritten. Gehen Sie zu \"Verwaltung > Plandetails\", um die "
+"Nutzungsdetails anzuzeigen und den Plan zu aktualisieren."
+
+msgid "site.message.content.webhook_failed_count"
+msgstr ""
+"Die Anzahl der Webhook-Fehler in Ihrem Formular {{ entryName }} hat {{ "
+"count }} erreicht. Bitte überprüfen und korrigieren Sie dies so schnell wie "
+"möglich."
+
+msgid "site.message.content.webhook_failed_disable"
+msgstr ""
+"Die Anzahl der fehlgeschlagenen Webhooks in Ihrem Formular {{ entryName }} "
+"hat {{ count }} erreicht. Der Webhook wurde deaktiviert. Bitte aktivieren "
+"Sie ihn bei Bedarf."
+
+msgid "site.message.content.webhook_failed_first"
+msgstr ""
+"Webhook in Ihrem Formular {{ entryName }} ist fehlgeschlagen. Bitte "
+"überprüfen und korrigieren Sie dies so schnell wie möglich."
+
+msgid "site.message.content.webhook_form_type"
+msgstr ""
+"Aufgrund des Formulartypwechsels überträgt der Webhook in Ihrem Formular "
+"Daten entsprechend dem neuen Formulartyp."
+
+msgid "site.message.link_text.accept_application"
+msgstr "Akzeptieren"
+
+msgid "site.message.link_text.accept_invitation"
+msgstr "Akzeptieren"
+
+msgid "site.message.link_text.download_error_report"
+msgstr "Fehlerbericht herunterladen"
+
+msgid "site.message.link_text.download_now"
+msgstr "Jetzt herunterladen"
+
+msgid "site.message.link_text.view_details"
+msgstr "Details anzeigen"
+
+msgid "site.message.title.dash_alert"
+msgstr "Datenwarnung"
+
+msgid "system.jdy"
+msgstr "{{ _g_productName }}"
+
+msgid "template_center.space.self_build"
+msgstr "Selbstbauvorlagen"
+
+msgid "template_center.space.standard"
+msgstr "Standardvorlagen"
+
+msgid "template_file.contacts_bulk_import_template"
+msgstr "Vorlage für den Massenimport von Kontakten"
+
+msgid "template_file.contacts_corp_coop_import_template"
+msgstr "Vorlage für den Massenimport von Mitarbeitern"
+
+msgid "template_file.contacts_member_role_rel_import_template"
+msgstr "Vorlage für den Rollenimport"
+
+msgid "template_file.direct_user_provisioning_import_template"
+msgstr "Vorlage zur Stapelerstellung für Kontakte"
+
+msgid "template_file.real_name_certification_letter"
+msgstr "{{ _g_productName }} Anwendung zur Identitätsauthentifizierung"
+
+msgid "tenant.verify.files.corp"
+msgstr "Firmenname, relevante Belege usw."
+
+msgid "tenant.verify.files.owner"
+msgstr "Name, Ausweis/andere Dokumente"
+
+msgid "tenant.verify.title.approved"
+msgstr "Die von Ihnen übermittelten Anmeldeinformationen wurden genehmigt"
+
+msgid "tenant.verify.title.declined"
+msgstr "Die von Ihnen übermittelten Anmeldeinformationen wurden abgelehnt"
+
+msgid "tenant.verify.title.has_expired"
+msgstr ""
+"Die Authentifizierung Ihres Unternehmens ist abgelaufen und öffentliche "
+"Links sind nicht mehr zugänglich. Authentifizieren Sie sich so schnell wie "
+"möglich."
+
+msgid "tenant.verify.title.will_expire"
+msgstr ""
+"Die Authentifizierung Ihres Unternehmens läuft bald ab. Um weiterhin "
+"Zugriff auf öffentliche Links zu gewährleisten, authentifizieren Sie sich "
+"so schnell wie möglich."
+
+msgid "tenant.verify.type.corp"
+msgstr "Unternehmen"
+
+msgid "tenant.verify.type.owner"
+msgstr "Persönlich"
+
+msgid "type.not.match"
+msgstr "Falscher Typ"
+
+msgid "ua.dingtalkMobile"
+msgstr "DingTalk Mobile"
+
+msgid "ua.dingtalkPC"
+msgstr "DingTalk PC"
+
+msgid "ua.larkMobile"
+msgstr "Lark Mobile"
+
+msgid "ua.larkPC"
+msgstr "Lark PC"
+
+msgid "ua.mobile"
+msgstr "Mobiles Web"
+
+msgid "ua.pc"
+msgstr "PC-Web"
+
+msgid "ua.wechatMiniProgram"
+msgstr "Mini-Programm"
+
+msgid "ua.wechatMobile"
+msgstr "WeChat Mobile"
+
+msgid "ua.wechatPC"
+msgstr "WeChat PC"
+
+msgid "ua.wxworkMobile"
+msgstr "WeCom Mobile"
+
+msgid "ua.wxworkPC"
+msgstr "WeCom PC"
+
+msgid "user.defaultNickname"
+msgstr "Ohne Titel"
+
+msgid "userActivity.app.metricsName"
+msgstr "Anzeigen nach App-Aktivitätsdetails"
+
+msgid "userActivity.app.reportName"
+msgstr "Ansicht nach App-Übersicht"
+
+msgid "userActivity.appId"
+msgstr "App-ID"
+
+msgid "userActivity.appName"
+msgstr "App"
+
+msgid "userActivity.app_access_count"
+msgstr "Benutzer (Zugriff)"
+
+msgid "userActivity.app_access_times"
+msgstr "Zeiten (Zugang)"
+
+msgid "userActivity.data_create_count"
+msgstr "Benutzer (Daten erstellen)"
+
+msgid "userActivity.data_create_times"
+msgstr "Zeiten (Daten erstellen)"
+
+msgid "userActivity.data_export_count"
+msgstr "Benutzer (Daten exportieren)"
+
+msgid "userActivity.data_export_times"
+msgstr "Zeiten (Daten exportieren)"
+
+msgid "userActivity.data_remove_count"
+msgstr "Benutzer (Daten löschen)"
+
+msgid "userActivity.data_remove_times"
+msgstr "Zeiten (Daten löschen)"
+
+msgid "userActivity.data_update_count"
+msgstr "Benutzer (Daten aktualisieren)"
+
+msgid "userActivity.data_update_times"
+msgstr "Zeiten (Daten aktualisieren)"
+
+msgid "userActivity.entity.metricsName"
+msgstr "Ansicht nach Objekt-Aktivitätsdetails"
+
+msgid "userActivity.entity.reportName"
+msgstr "Ansicht nach Objektübersicht"
+
+msgid "userActivity.entityId"
+msgstr "Objekt-ID"
+
+msgid "userActivity.entityName"
+msgstr "Objekt"
+
+msgid "userActivity.fileName"
+msgstr "Mitgliederaktivität"
+
+msgid "userActivity.login_stats_count"
+msgstr "Benutzer (Anmelden)"
+
+msgid "userActivity.login_stats_times"
+msgstr "Zeiten (Anmelden)"
+
+msgid "userActivity.memberId"
+msgstr "Mitglieds-ID"
+
+msgid "userActivity.nickName"
+msgstr "Mitglied"
+
+msgid "userActivity.time"
+msgstr "Datum"
+
+msgid "userActivity.user.metricsName"
+msgstr "Ansicht nach Mitgliedsaktivitätsdetails"
+
+msgid "userActivity.user.reportName"
+msgstr "Ansicht nach Mitgliederübersicht"
+
+msgid "vip.pack.ent"
+msgstr "Unternehmen"
+
+msgid "vip.pack.free"
+msgstr "Frei"
+
+msgid "vip.pack.lite"
+msgstr "Lite"
+
+msgid "vip.pack.oem"
+msgstr "Maßgeschneidert"
+
+msgid "vip.pack.pro"
+msgstr "Professional"
+
+msgid "vip.pack.self_hosted"
+msgstr "Exklusiv"
+
+msgid "vip.pack.starter"
+msgstr "Anlasser"
+
+msgid "vip.pack.std"
+msgstr "Geschäft"
+
+msgid "vip.pack.trial"
+msgstr "Versuch"
+
+msgid "vip.pack.user"
+msgstr "Nach Benutzerbetrag"
+
+msgid "vip.pack.user_premium"
+msgstr "Prämie"
